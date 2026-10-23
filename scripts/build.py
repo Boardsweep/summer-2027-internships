@@ -120,7 +120,7 @@ def slug(name):
     return name.lower().replace(",", "").replace(" ", "-")
 
 
-def keep(text, limit=26):
+def keep(text, limit=20):
     """Words joined with non-breaking spaces so a name stays on one line;
     long ones may still wrap, so one name can't widen the column for all."""
     return text.replace(" ", "&nbsp;") if len(text) <= limit else text
@@ -132,7 +132,7 @@ def place(where):
     w = re.sub(r"\s*[-,]?\s*(US|USA|United States( of America)?)$", "", str(where or "").strip())
     if not w:
         return "-"
-    parts = [keep(cell(x.strip()), 22) for x in re.split(r"\s*[;|]\s*", w) if x.strip()]
+    parts = [keep(cell(x.strip()), 18) for x in re.split(r"\s*[;|]\s*", w) if x.strip()]
     return "; ".join(parts)
 
 
@@ -154,14 +154,19 @@ def row(r, prev, rich, now):
     # squeezed the role to three or four lines.
     title = cell(r["title"]) + (f" {marks(r)}" if marks(r) else "") + (f"<br><sub>{when}</sub>" if when else "")
     # A word joiner after the dash keeps a range like "$75k–$110k/yr" whole.
+    # A word joiner after the dash keeps a range like "$75k–$110k/yr" whole.
     pay = "-" if r.get("payEst") or not r.get("pay") else cell(r.get("pay")).replace("–", "–&#8288;")
     url = escape(r["url"])
-    go = f'<a href="{url}"><img src="{IMG}apply.png" width="78" height="27" alt="Apply"></a>' if rich else f"[Apply]({url})"
-    return f"| {company} | {title} | {place(r.get('where'))} | {pay} | {go} |"
+    go = f'<a href="{url}"><img src="{IMG}apply.png" width="64" height="25" alt="Apply"></a>' if rich else f"[Apply]({url})"
+    # Four columns: GitHub's README is about 860px wide, and with Location and
+    # Pay apart the Apply column was cut off. Pay rides under the place.
+    where = place(r.get("where"))
+    spot = "-" if where == "-" and pay == "-" else f"{where}<br><sub>{pay}</sub>"
+    return f"| {company} | {title} | {spot} | {go} |"
 
 
-HEAD = ("| Company | Role | Location | Pay | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apply&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |\n"
-        "| --- | --- | --- | --- | --- |")
+HEAD = ("| Company | Role | Where and pay | &nbsp;&nbsp;Apply&nbsp;&nbsp; |\n"
+        "| --- | --- | --- | :---: |")
 IMG = "assets/"
 
 
@@ -188,8 +193,9 @@ def banner_html(meta):
         f'<img src="{IMG}banner-{LEVEL}-light.png" width="100%" alt="Boardsweep: {L["noun"]}"></picture></a>',
         "",
         f'<a href="{utm("/" + L["path"], "cta_email")}"><picture><source media="(prefers-color-scheme: dark)" srcset="{IMG}cta-email-dark.png">'
-        f'<img src="{IMG}cta-email-light.png" height="44" alt="Get this list by email, free"></picture></a>&nbsp;&nbsp;'
-        f'<a href="{utm("/#pricing", "cta_instant")}"><img src="{IMG}cta-instant.png" height="44" alt="Alerts the minute it is posted"></a>',
+        f'<img src="{IMG}cta-email-light.png" height="44" alt="Get the free digest"></picture></a>&nbsp;&nbsp;'
+        f'<a href="{utm("/#pricing", "cta_instant")}"><picture><source media="(prefers-color-scheme: dark)" srcset="{IMG}cta-instant-dark.png">'
+        f'<img src="{IMG}cta-instant-light.png" height="44" alt="Instant alerts, 7 days free"></picture></a>',
         ""]
 
 
