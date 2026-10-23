@@ -18,6 +18,6 @@ jobs:
         run: |
           git config user.name "Boardsweep"
           git config user.email "support@boardsweep.io"
-          git add README.md listings.json assets/stats.svg
+          git add README.md listings.json assets/stats.svg fields
           git diff --cached --quiet || git commit -m "Update the list"
           git push

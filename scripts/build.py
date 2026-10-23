@@ -16,8 +16,8 @@ from html import escape
 API = os.environ.get("BOARDSWEEP_API", "https://hotmail0102713010--boardsweep-api-web.modal.run")
 LEVEL = os.environ.get("LEVEL", "internship")
 SITE = "https://boardsweep.io"
-DAYS = 14            # the README table; listings.json holds every open role
-MAX_ROWS = 650       # keeps the README well under GitHub's render limit
+DAYS = 7             # the README shows this week; fields/<track>.md hold every open role
+PAGE_BYTES = 420_000 # GitHub stops rendering a markdown file not far past this
 TRACKS = [("software", "💻", "Software engineering"), ("aiml", "🤖", "AI, ML and data"), ("quant", "📈", "Quant"),
           ("hardware", "🔧", "Hardware"), ("product", "📱", "Product"), ("design", "🎨", "Design"), ("security", "🛡️", "Security")]
 L = {"internship": dict(path="internships", noun="internships", one="internship", other="New grad roles",
@@ -115,7 +115,64 @@ def stats_svg(meta, lead):
 """
 
 
+def slug(name):
+    return name.lower().replace(",", "").replace(" ", "-")
+
+
+def row(r, prev, rich, now):
+    """One table row. rich: logo and the Apply button; plain rows (older roles
+    on a field page that would otherwise be too big for GitHub) keep a text link."""
+    logo = r.get("logo") or r.get("mark")
+    mark = f'<img src="{logo}" width="20" height="20" align="middle">&nbsp; ' if rich and logo else ""
+    company = "↳" if r["company"] == prev else f'{mark}**{cell(r["company"])}**'
+    title = cell(r["title"]) + (f" {marks(r)}" if marks(r) else "")
+    pay = "" if r.get("payEst") else cell(r.get("pay"))
+    p = ts(r.get("posted") or r.get("found"))
+    age = (now - p).days if p else None
+    when = (f"{age}d" if age else "today") if age is not None else ""
+    lag = lag_minutes(r)
+    if lag is not None:
+        when += f" ⚡{lag}m" if lag else " ⚡<1m"
+    url = escape(r["url"])
+    go = f'<a href="{url}"><img src="{IMG}apply.png" width="78" height="27" alt="Apply"></a>' if rich else f"[Apply]({url})"
+    return f"| {company} | {title} | {cell(r.get('where'))} | {pay} | {when} | {go} |"
+
+
+HEAD = ("| Company | Role | Location | Pay | Posted | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apply&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |\n"
+        "| --- | --- | --- | --- | --- | --- |")
+IMG = "assets/"
+
+
+def table(rows, now, budget):
+    """Rows as a table, rich while it fits the byte budget, then plain."""
+    out, prev, used = [HEAD], None, 0
+    for r in rows:
+        line = row(r, prev, used < budget, now)
+        used += len(line.encode())
+        out.append(line)
+        prev = r["company"]
+    return "\n".join(out)
+
+
+LEGEND = ("<sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Found within minutes of posting &nbsp; "
+          "🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>")
+
+
+def banner_html(meta):
+    return [
+        '<div align="center">',
+        f'<a href="{utm("/", "banner")}"><picture>'
+        f'<source media="(prefers-color-scheme: dark)" srcset="{IMG}banner-{LEVEL}-dark.png">'
+        f'<img src="{IMG}banner-{LEVEL}-light.png" width="100%" alt="Boardsweep: {L["noun"]}"></picture></a>',
+        "",
+        f'<a href="{utm("/" + L["path"], "cta_email")}"><picture><source media="(prefers-color-scheme: dark)" srcset="{IMG}cta-email-dark.png">'
+        f'<img src="{IMG}cta-email-light.png" height="44" alt="Get this list by email, free"></picture></a>&nbsp;&nbsp;'
+        f'<a href="{utm("/#pricing", "cta_instant")}"><img src="{IMG}cta-instant.png" height="44" alt="Alerts the minute it is posted"></a>',
+        ""]
+
+
 def main():
+    global IMG
     rows, meta = fetch_roles()
     if len(rows) < 20:
         sys.exit(f"only {len(rows)} roles returned; leaving the files as they are")
@@ -124,6 +181,7 @@ def main():
     except Exception:
         lead = None
     rows.sort(key=lambda r: r.get("posted") or r.get("found") or "", reverse=True)
+    now = datetime.now(timezone.utc)
 
     with open("listings.json", "w") as f:
         json.dump([{"company": r["company"], "title": r["title"], "location": r.get("where"),
@@ -137,69 +195,113 @@ def main():
     with open("assets/stats.svg", "w") as f:
         f.write(stats_svg(meta, lead))
 
-    cutoff = datetime.now(timezone.utc) - timedelta(days=DAYS)
-    recent = [r for r in rows if (ts(r.get("posted") or r.get("found")) or cutoff) >= cutoff][:MAX_ROWS]
     first = lambda r: (r.get("tracks") or ["software"])[0]
-    groups = [(k, e, n, [r for r in recent if first(r) == k]) for k, e, n in TRACKS]
-    groups = [g for g in groups if g[3]]
-    now = datetime.now(timezone.utc)
+    by_field = [(k, e, n, [r for r in rows if first(r) == k]) for k, e, n in TRACKS]
+    cutoff = now - timedelta(days=DAYS)
+    fresh = lambda r: (ts(r.get("posted") or r.get("found")) or cutoff) >= cutoff
 
-    o = []
+    # ── every open role, one field at a time, split into pages GitHub will render
+    os.makedirs("fields", exist_ok=True)
+    for old in os.listdir("fields"):
+        os.remove(os.path.join("fields", old))
+    IMG = "../assets/"
+    pages = {}
+    for k, e, n, g in by_field:
+        site = utm(f"/{L['path']}/{k}", f"field_{k}")
+        chunks, cur, size = [], [], 0
+        for r in g:
+            line = len(row(r, None, True, now).encode())
+            if cur and size + line > PAGE_BYTES - 30_000:
+                chunks.append(cur)
+                cur, size = [], 0
+            cur.append(r)
+            size += line
+        chunks.append(cur)
+        names = [f"{k}.md"] + [f"{k}-{i}.md" for i in range(2, len(chunks) + 1)]
+        pages[k] = len(names)
+        nav = " · ".join(f"**Page {i}**" if j == i else f"[Page {i}]({names[i - 1]})" for i in range(1, len(names) + 1)
+                         for j in [None]) if len(names) > 1 else ""
+        for i, (name, chunk) in enumerate(zip(names, chunks), 1):
+            nav = " · ".join(f"**{x}**" if x == i else f"[{x}]({names[x - 1]})" for x in range(1, len(names) + 1)) if len(names) > 1 else ""
+            body = ([f"[← Back to the list](../README.md)", "", f"# {e} {n} {L['noun']}", ""])
+            if g:
+                body += [f"All {len(g):,} open {n.lower()} {L['noun']}, newest first, every link the company's own posting. "
+                         f"Filter by city or keyword on [boardsweep.io]({site}), or [get them by email, free]({site}).", ""]
+                if nav:
+                    body += [f"Page {i} of {len(names)}: {nav}", ""]
+                body += [LEGEND, "", table(chunk, now, PAGE_BYTES), ""]
+                if nav:
+                    body += [nav, ""]
+            else:
+                body += [f"> [!NOTE]",
+                         f"> **No open {n.lower()} {L['noun']} right now.** They do open through the season, often without warning. "
+                         f"[Get an email the day one is posted, free]({site}).", ""]
+            body += [f"[← Back to the list](../README.md) · [Get these by email, free]({site})", ""]
+            with open(f"fields/{name}", "w") as f:
+                f.write("\n".join(body))
+    IMG = "assets/"
+
+    # ── README: this week, every field ──────────────────────────────────────
+    o = banner_html(meta)
     a = o.append
-    a('<div align="center">')
-    a(f'<a href="{utm("/", "banner")}"><picture>'
-      f'<source media="(prefers-color-scheme: dark)" srcset="assets/banner-{LEVEL}-dark.png">'
-      f'<img src="assets/banner-{LEVEL}-light.png" width="100%" alt="Boardsweep: {L["noun"]}"></picture></a>')
-    a("")
-    a(f'<a href="{utm("/" + L["path"], "cta_email")}"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cta-email-dark.png">'
-      f'<img src="assets/cta-email-light.png" height="44" alt="Get this list by email, free"></picture></a>&nbsp;&nbsp;'
-      f'<a href="{utm("/#pricing", "cta_instant")}"><img src="assets/cta-instant.png" height="44" alt="Alerts the minute it is posted"></a>')
-    a("")
-    a(f'<img src="assets/stats.svg" width="100%" alt="{meta.get("newToday", 0)} new in the last 24 hours, {meta.get("total", 0)} open">')
+    a(f'<img src="{IMG}stats.svg" width="100%" alt="{meta.get("newToday", 0)} new in the last 24 hours, {meta.get("total", 0)} open">')
     a("</div>")
     a("")
-    a(f"> [!TIP]")
+    a("> [!TIP]")
     a(f"> **This list runs a day behind.** The {meta.get('newToday', 0):,} {L['noun']} we found in the last 24 hours are already in subscribers' inboxes, "
       f"and appear here tomorrow. [Get a free daily email]({utm('/' + L['path'], 'tip_email')}), "
       f"or [get each one the minute the company posts it]({utm('/#pricing', 'tip_instant')}) with the season pass (7 days free).")
     a("")
-    a("### Browse by field")
+    a("<br>")
     a("")
-    a(" · ".join(f"{e} **[{n}](#{n.lower().replace(',', '').replace(' ', '-')})** ({len(g):,})" for k, e, n, g in groups))
+    a("## Browse by field")
     a("")
-    a("<sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Found within minutes of posting &nbsp; "
-      "🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>")
+    a("| Field | Open now | New this week | |")
+    a("| --- | ---: | ---: | --- |")
+    for k, e, n, g in by_field:
+        wk = sum(1 for r in g if fresh(r))
+        site = utm(f"/{L['path']}/{k}", f"browse_{k}")
+        if g:
+            a(f"| {e} **[{n}](fields/{k}.md)** | {len(g):,} | {wk if wk else 'N/A'} | [Email me these, free]({site}) |")
+        else:
+            a(f"| {e} {n} | N/A | N/A | [Tell me when one opens]({site}) |")
     a("")
-    for k, e, n, g in groups:
+    a("<br>")
+    a("")
+    a(LEGEND)
+    a("")
+    budget = PAGE_BYTES - 60_000
+    for k, e, n, g in by_field:
+        week = [r for r in g if fresh(r)]
+        if not week:
+            a("<br>")
+            a("")
+            a(f"## {n}")
+            a("")
+            more = f'<a href="fields/{k}.md">See all {len(g):,} open</a> · ' if g else ""
+            a(f'<sub>N/A: no new {n.lower()} {L["noun"]} this week. {more}<a href="{utm("/" + L["path"] + "/" + k, "empty_" + k)}">Email me when one is posted</a></sub>')
+            a("")
+            continue
+        a("<br>")
+        a("")
         a(f"## {n}")
         a("")
-        a(f'<sub>Want only {n.lower()} {L["noun"]} in your inbox? <a href="{utm("/" + L["path"] + "/" + k, "track_" + k)}">Get them free by email</a></sub>')
+        a(f'<sub>This week\'s {len(week):,} of {len(g):,}. <a href="fields/{k}.md">See all {len(g):,}{" (" + str(pages[k]) + " pages)" if pages[k] > 1 else ""}</a> · '
+          f'<a href="{utm("/" + L["path"] + "/" + k, "track_" + k)}">Get only {n.lower()} {L["noun"]} by email, free</a></sub>')
         a("")
-        a("| Company | Role | Location | Pay | Posted | Apply |")
-        a("| --- | --- | --- | --- | --- | --- |")
-        prev = None
-        for r in g:
-            mark = f'<img src="{r["mark"]}" width="16" height="16" alt=""> ' if r.get("mark") else ""
-            company = "↳" if r["company"] == prev else f'{mark}**{cell(r["company"])}**'
-            prev = r["company"]
-            title = cell(r["title"]) + (f" {marks(r)}" if marks(r) else "")
-            pay = "" if r.get("payEst") else cell(r.get("pay"))
-            p = ts(r.get("posted") or r.get("found"))
-            age = (now - p).days if p else None
-            when = (f"{age}d" if age else "today") if age is not None else ""
-            lag = lag_minutes(r)
-            if lag is not None:
-                when += f" ⚡{lag}m" if lag else " ⚡<1m"
-            a(f'| {company} | {title} | {cell(r.get("where"))} | {pay} | {when} | '
-              f'<a href="{escape(r["url"])}"><img src="assets/apply.png" width="74" height="26" alt="Apply"></a> |')
+        t = table(week, now, max(0, budget))
+        budget -= len(t.encode())
+        a(t)
         a("")
     a("---")
     a("")
     a('<div align="center">')
     a("")
-    a(f"**Missing a role, or a link that's wrong?** [Tell us](../../issues/new/choose): every report helps us read more company boards.")
+    a("**Missing a role, or a link that's wrong?** [Tell us](../../issues/new/choose): every report helps us read more company boards.")
     a("")
-    a(f"Also see: [{L['other']}]({L['other_url']}) · [Every {L['one']} on boardsweep.io]({utm('/' + L['path'], 'footer')})")
+    a("**Ask your AI assistant for roles:** add Boardsweep to Claude, ChatGPT or Claude Code with [our free connector](https://github.com/Boardsweep/mcp).")
+    a("")
+    a(f"Also see: [{L['other']}]({L['other_url']}) · [Every {L['one']}, filterable, on boardsweep.io]({utm('/' + L['path'], 'footer')})")
     a("")
     a(f"<sub>⚡ is measured from the time the company published the posting, where its job board gives one. "
       f"Updated {now:%b %d, %Y at %H:%M} UTC. Not affiliated with any company listed.</sub>")
@@ -208,7 +310,8 @@ def main():
     a("")
     with open("README.md", "w") as f:
         f.write("\n".join(o))
-    print(f"{len(rows)} roles · {len(recent)} in the README · {sum(1 for r in recent if r.get('mark'))} with logos")
+    sizes = {f: os.path.getsize(f) for f in ["README.md"] + [f"fields/{k}.md" for k, *_ in by_field]}
+    print(f"{len(rows)} roles · " + " · ".join(f"{f} {v // 1024}KB" for f, v in sizes.items()))
 
 
 if __name__ == "__main__":
