@@ -120,7 +120,7 @@ def slug(name):
     return name.lower().replace(",", "").replace(" ", "-")
 
 
-def keep(text, limit=20):
+def keep(text, limit=17):
     """Words joined with non-breaking spaces so a name stays on one line;
     long ones may still wrap, so one name can't widen the column for all."""
     return text.replace(" ", "&nbsp;") if len(text) <= limit else text
@@ -132,7 +132,7 @@ def place(where):
     w = re.sub(r"\s*[-,]?\s*(US|USA|United States( of America)?)$", "", str(where or "").strip())
     if not w:
         return "-"
-    parts = [keep(cell(x.strip()), 18) for x in re.split(r"\s*[;|]\s*", w) if x.strip()]
+    parts = [keep(cell(x.strip()), 16) for x in re.split(r"\s*[;|]\s*", w) if x.strip()]
     return "; ".join(parts)
 
 
@@ -144,29 +144,27 @@ def row(r, prev, rich, now):
     # baseline, which sat it visibly low.
     mark = f'<img src="{logo}" width="20" height="20" align="absmiddle">&nbsp; ' if rich and logo else ""
     company = "↳" if r["company"] == prev else f'{mark}**{keep(cell(r["company"]))}**'
+    # The date has its own narrow column; the ⚡ figure sits under it.
     p = ts(r.get("posted") or r.get("found"))
-    age = (now - p).days if p else None
-    when = (f"{age}d ago" if age else "today") if age is not None else ""
+    date = f"{p:%b}&nbsp;{p.day}" if p else "-"
     lag = lag_minutes(r)
     if lag is not None:
-        when += f" · ⚡ found {lag}m after posting" if lag else " · ⚡ found within a minute of posting"
-    # The age rides under the title instead of in its own column: six columns
-    # squeezed the role to three or four lines.
-    title = cell(r["title"]) + (f" {marks(r)}" if marks(r) else "") + (f"<br><sub>{when}</sub>" if when else "")
+        date += f"<br><sub>⚡&nbsp;{lag}m</sub>" if lag else "<br><sub>⚡&nbsp;&lt;1m</sub>"
+    title = cell(r["title"]) + (f" {marks(r)}" if marks(r) else "")
     # A word joiner after the dash keeps a range like "$75k–$110k/yr" whole.
     # A word joiner after the dash keeps a range like "$75k–$110k/yr" whole.
     pay = "-" if r.get("payEst") or not r.get("pay") else cell(r.get("pay")).replace("–", "–&#8288;")
     url = escape(r["url"])
-    go = f'<a href="{url}"><img src="{IMG}apply.png" width="64" height="25" alt="Apply"></a>' if rich else f"[Apply]({url})"
+    go = f'<a href="{url}"><img src="{IMG}apply.png" width="58" height="23" alt="Apply"></a>' if rich else f"[Apply]({url})"
     # Four columns: GitHub's README is about 860px wide, and with Location and
     # Pay apart the Apply column was cut off. Pay rides under the place.
     where = place(r.get("where"))
     spot = "-" if where == "-" and pay == "-" else f"{where}<br><sub>{pay}</sub>"
-    return f"| {company} | {title} | {spot} | {go} |"
+    return f"| {company} | {title} | {spot} | {date} | {go} |"
 
 
-HEAD = ("| Company | Role | Where and pay | &nbsp;&nbsp;Apply&nbsp;&nbsp; |\n"
-        "| --- | --- | --- | :---: |")
+HEAD = ("| Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |\n"
+        "| --- | --- | --- | --- | :---: |")
 IMG = "assets/"
 
 
@@ -181,7 +179,7 @@ def table(rows, now, budget):
     return "\n".join(out)
 
 
-LEGEND = ("<sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Found within minutes of posting &nbsp; "
+LEGEND = ("<sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; "
           "🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>")
 
 
