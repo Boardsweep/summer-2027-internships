@@ -2,7 +2,7 @@
 
 # 💻 Software engineering internships
 
-All 1,855 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
+All 1,858 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
 
 Page 2 of 2: [1](software.md) · **2**
 
@@ -10,6 +10,9 @@ Page 2 of 2: [1](software.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=gmfinancial.com" width="20" height="20" align="absmiddle">&nbsp; **GM&nbsp;Financial** | Software Development Engineer Intern 🛂 | Arlington,&nbsp;TX<br><sub>-</sub> | Sep&nbsp;17 | <a href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260818"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Software Development Engineer Intern 🛂 | Arlington,&nbsp;TX<br><sub>-</sub> | Sep&nbsp;17 | <a href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260795"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Oracle Application Developer Intern | Irving,&nbsp;TX<br><sub>-</sub> | Sep&nbsp;17 | <a href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260804"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=rivian.com" width="20" height="20" align="absmiddle">&nbsp; **Rivian** | Engineering Intern/Co-op - Test and Validation - Charging Products | Torrance,&nbsp;CA<br><sub>$26–&#8288;$45/hr</sub> | Sep&nbsp;17 | <a href="https://careers.rivian.com/jobs/33725?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=keysight.com" width="20" height="20" align="absmiddle">&nbsp; **Keysight Technologies** | Software Engineer Intern 🛂 | Santa&nbsp;Rosa,&nbsp;CA<br><sub>-</sub> | Sep&nbsp;17 | <a href="https://jobs.keysight.com/jobs/54329?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=rocketlabusa.com" width="20" height="20" align="absmiddle">&nbsp; **Rocket&nbsp;Lab** | Systems Engineer Intern | Pasadena,&nbsp;CA<br><sub>-</sub> | Sep&nbsp;17 | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7990138003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

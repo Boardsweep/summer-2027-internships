@@ -2,7 +2,7 @@
 
 # 💻 Software engineering internships
 
-All 1,855 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
+All 1,858 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
 
 Page 1 of 2: **1** · [2](software-2.md)
 
@@ -10,6 +10,9 @@ Page 1 of 2: **1** · [2](software-2.md)
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=disney.com" width="20" height="20" align="absmiddle">&nbsp; **Disney** | WPVI- TV (6abc) Technology Intern, Spring 2027 ✨ | Philadelphia,&nbsp;PA<br><sub>$23/hr</sub> | Oct&nbsp;22 | <a href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Philadelphia-PA-USA/WPVI--TV--6abc--Technology-Intern--Spring-2027_10158631-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | WPVI- TV (6abc) Technology Intern, Spring 2027 ✨ | Philadelphia,&nbsp;PA<br><sub>$23/hr</sub> | Oct&nbsp;22 | <a href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Philadelphia-PA-USA/WPVI--TV--6abc--Technology-Intern--Spring-2027_10158631"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=aptiv.com" width="20" height="20" align="absmiddle">&nbsp; **Aptiv** | Software Development Intern | Troy,&nbsp;MI<br><sub>-</sub> | Oct&nbsp;22 | <a href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Software-Development-Intern_J000704861"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=rtx.com" width="20" height="20" align="absmiddle">&nbsp; **RTX** | Systems Administrator Co-Op (Spring/Summer 2027) ✨ 🛂 | Cambridge,&nbsp;MA<br><sub>-</sub> | Oct&nbsp;22 | <a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Systems-Administrator-Co-Op--Spring-Summer-2027-_01882888"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=stifel.com" width="20" height="20" align="absmiddle">&nbsp; **Stifel** | Information Systems Intern Summer 2027 ✨ | -<br><sub>$20/hr</sub> | Oct&nbsp;21 | <a href="https://careers-stifel.icims.com/jobs/9969/information-systems-intern--summer-2027/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Technology Product Development Developer Intern Summer 2027 ✨ | - | Oct&nbsp;21 | <a href="https://careers-stifel.icims.com/jobs/9967/technology-product-development-developer-intern--summer-2027/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -940,9 +943,6 @@ Page 1 of 2: **1** · [2](software-2.md)
 | <img src="https://boardsweep.io/api/logo?domain=lennox.com" width="20" height="20" align="absmiddle">&nbsp; **Lennox International** | Full-Stack Software Engineering Intern | Richardson,&nbsp;TX<br><sub>-</sub> | Sep&nbsp;17 | <a href="https://uscareers-lennox.icims.com/jobs/54888/job?mobile=true&amp;needsRedirect=false"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=newellbrands.com" width="20" height="20" align="absmiddle">&nbsp; **Newell&nbsp;Brands** | Sales AI &amp; Analytics Developer Intern | Huntersville,&nbsp;NC<br><sub>-</sub> | Sep&nbsp;17 | <a href="https://jobs.newellbrands.com/job/Huntersville-2027-Newell-Brands-Intern-Sales-AI-&amp;-Analytics-Developer-Intern-Nort/1431281200/?ats=successfactors"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=honeywell.com" width="20" height="20" align="absmiddle">&nbsp; **Honeywell** | Software Engineer Co-op 🛂 | Pittsford,&nbsp;NY<br><sub>$20–&#8288;$45/hr</sub> | Sep&nbsp;17 | <a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158088"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=gmfinancial.com" width="20" height="20" align="absmiddle">&nbsp; **GM&nbsp;Financial** | Software Development Engineer Intern 🛂 | Arlington,&nbsp;TX<br><sub>-</sub> | Sep&nbsp;17 | <a href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260818"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Software Development Engineer Intern 🛂 | Arlington,&nbsp;TX<br><sub>-</sub> | Sep&nbsp;17 | <a href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260795"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Oracle Application Developer Intern | Irving,&nbsp;TX<br><sub>-</sub> | Sep&nbsp;17 | <a href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260804"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 **1** · [2](software-2.md)
 
