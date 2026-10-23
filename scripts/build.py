@@ -7,6 +7,7 @@ behind the alerts, every link the employer's own posting). Run on a schedule by
 """
 import json
 import os
+import re
 import sys
 import time
 import urllib.request
@@ -119,27 +120,48 @@ def slug(name):
     return name.lower().replace(",", "").replace(" ", "-")
 
 
+def keep(text, limit=26):
+    """Words joined with non-breaking spaces so a name stays on one line;
+    long ones may still wrap, so one name can't widen the column for all."""
+    return text.replace(" ", "&nbsp;") if len(text) <= limit else text
+
+
+def place(where):
+    """'San Francisco, CA - US' -> 'San Francisco, CA'; '-' when unknown.
+    Each place stays whole; several places may wrap between them."""
+    w = re.sub(r"\s*[-,]?\s*(US|USA|United States( of America)?)$", "", str(where or "").strip())
+    if not w:
+        return "-"
+    parts = [keep(cell(x.strip()), 22) for x in re.split(r"\s*[;|]\s*", w) if x.strip()]
+    return "; ".join(parts)
+
+
 def row(r, prev, rich, now):
     """One table row. rich: logo and the Apply button; plain rows (older roles
     on a field page that would otherwise be too big for GitHub) keep a text link."""
     logo = r.get("logo") or r.get("mark")
-    mark = f'<img src="{logo}" width="20" height="20" align="middle">&nbsp; ' if rich and logo else ""
-    company = "↳" if r["company"] == prev else f'{mark}**{cell(r["company"])}**'
-    title = cell(r["title"]) + (f" {marks(r)}" if marks(r) else "")
-    pay = "" if r.get("payEst") else cell(r.get("pay"))
+    # absmiddle centres the logo on the name's text; "middle" centres it on the
+    # baseline, which sat it visibly low.
+    mark = f'<img src="{logo}" width="20" height="20" align="absmiddle">&nbsp; ' if rich and logo else ""
+    company = "↳" if r["company"] == prev else f'{mark}**{keep(cell(r["company"]))}**'
     p = ts(r.get("posted") or r.get("found"))
     age = (now - p).days if p else None
-    when = (f"{age}d" if age else "today") if age is not None else ""
+    when = (f"{age}d ago" if age else "today") if age is not None else ""
     lag = lag_minutes(r)
     if lag is not None:
-        when += f" ⚡{lag}m" if lag else " ⚡<1m"
+        when += f" · ⚡ found {lag}m after posting" if lag else " · ⚡ found within a minute of posting"
+    # The age rides under the title instead of in its own column: six columns
+    # squeezed the role to three or four lines.
+    title = cell(r["title"]) + (f" {marks(r)}" if marks(r) else "") + (f"<br><sub>{when}</sub>" if when else "")
+    # A word joiner after the dash keeps a range like "$75k–$110k/yr" whole.
+    pay = "-" if r.get("payEst") or not r.get("pay") else cell(r.get("pay")).replace("–", "–&#8288;")
     url = escape(r["url"])
     go = f'<a href="{url}"><img src="{IMG}apply.png" width="78" height="27" alt="Apply"></a>' if rich else f"[Apply]({url})"
-    return f"| {company} | {title} | {cell(r.get('where'))} | {pay} | {when} | {go} |"
+    return f"| {company} | {title} | {place(r.get('where'))} | {pay} | {go} |"
 
 
-HEAD = ("| Company | Role | Location | Pay | Posted | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apply&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |\n"
-        "| --- | --- | --- | --- | --- | --- |")
+HEAD = ("| Company | Role | Location | Pay | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apply&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |\n"
+        "| --- | --- | --- | --- | --- |")
 IMG = "assets/"
 
 
