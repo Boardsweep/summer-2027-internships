@@ -1,0 +1,16 @@
+name: Something is wrong
+description: A link is broken, a role is closed, or the details are wrong
+labels: [fix]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Which role? (paste its link or name)
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What's wrong?
+    validations:
+      required: true

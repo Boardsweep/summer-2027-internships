@@ -1,0 +1,18 @@
+name: A role is missing
+description: Tell us about an internship or new grad role that isn't on the list
+labels: [missing role]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Link to the posting (the company's own careers page if you can)
+    validations:
+      required: true
+  - type: input
+    id: company
+    attributes:
+      label: Company
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else?
