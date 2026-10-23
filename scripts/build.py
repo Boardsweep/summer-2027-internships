@@ -175,7 +175,7 @@ def main():
         a("")
         a(f'<sub>Want only {n.lower()} {L["noun"]} in your inbox? <a href="{utm("/" + L["path"] + "/" + k, "track_" + k)}">Get them free by email</a></sub>')
         a("")
-        a("| Company | Role | Location | Pay | Posted | |")
+        a("| Company | Role | Location | Pay | Posted | Apply |")
         a("| --- | --- | --- | --- | --- | --- |")
         prev = None
         for r in g:
@@ -191,7 +191,7 @@ def main():
             if lag is not None:
                 when += f" ⚡{lag}m" if lag else " ⚡<1m"
             a(f'| {company} | {title} | {cell(r.get("where"))} | {pay} | {when} | '
-              f'<a href="{escape(r["url"])}"><img src="assets/apply.png" width="74" alt="Apply"></a> |')
+              f'<a href="{escape(r["url"])}"><img src="assets/apply.png" width="74" height="26" alt="Apply"></a> |')
         a("")
     a("---")
     a("")
