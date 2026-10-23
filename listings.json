@@ -1,5 +1,136 @@
 [
  {
+  "company": "Fidelity Investments",
+  "title": "Quantitative Development & Data Science Internship",
+  "location": "2 Locations",
+  "pay": null,
+  "tracks": [
+   "quant",
+   "aiml"
+  ],
+  "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Development---Data-Science-Internship_2134404",
+  "date_posted": "2026-10-22T16:51:03.847000+00:00",
+  "date_found": "2026-09-21T20:04:51.021000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "CACI",
+  "title": "Embedded Software Engineering Co-op - Spring 2027",
+  "location": "Danbury, CT",
+  "pay": null,
+  "tracks": [
+   "hardware",
+   "software"
+  ],
+  "url": "https://caci.wd1.myworkdayjobs.com/External/job/Danbury-CT-US/Embedded-Software-Engineering-Co-op---Spring-2027_331368",
+  "date_posted": "2026-10-22T14:57:42.773000+00:00",
+  "date_found": "2026-09-01T00:00:00+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Oshkosh Corporation",
+  "title": "Digital Technology Intern",
+  "location": "Spartanburg, SC",
+  "pay": "$18–$37/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Spartanburg-South-Carolina-United-States/Digital-Technology-Intern_R51072",
+  "date_posted": "2026-10-22T12:46:08.127000+00:00",
+  "date_found": "2026-10-22T12:59:31.945000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Oshkosh Corporation",
+  "title": "Digital Manufacturing Intern",
+  "location": "Spartanburg, SC",
+  "pay": "$18–$37/hr",
+  "tracks": [
+   "software",
+   "aiml"
+  ],
+  "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Spartanburg-South-Carolina-United-States/Digital-Manufacturing-Intern_R51065",
+  "date_posted": "2026-10-22T12:46:08.127000+00:00",
+  "date_found": "2026-10-22T12:59:31.945000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Applied Materials",
+  "title": "Internship Program Manager - B4",
+  "location": "Santa Clara, CA",
+  "pay": "$133,500–$183,500/yr",
+  "tracks": [
+   "product"
+  ],
+  "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Internship-Program-Manager---B4_R2631565",
+  "date_posted": "2026-10-22T12:41:47.602000+00:00",
+  "date_found": "2026-10-22T12:59:31.945000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Western & Southern Financial Group",
+  "title": "Enterprise Architecture Information Technology Intern (Full Year 2027)",
+  "location": "",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://careers-westernsouthern.icims.com/jobs/25347/enterprise-architecture-information-technology-intern-%28full-year-2027%29/job",
+  "date_posted": null,
+  "date_found": "2026-10-22T12:04:46.296000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Uline",
+  "title": "Systems Administrator Internship - Summer 2027",
+  "location": "5 Locations",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Systems-Administrator-Internship---Summer-2027_R268536",
+  "date_posted": "2026-10-22T08:47:49.585000+00:00",
+  "date_found": "2026-10-22T08:57:40.917000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Uline",
+  "title": "Database Administrator Internship - Summer 2027",
+  "location": "5 Locations",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Database-Administrator-Internship---Summer-2027_R268538",
+  "date_posted": "2026-10-22T08:47:49.585000+00:00",
+  "date_found": "2026-10-22T08:57:40.917000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Disney",
   "title": "WPVI- TV (6abc) Technology Intern, Spring 2027",
   "location": "Philadelphia, PA",
@@ -138,6 +269,70 @@
   "url": "https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254",
   "date_posted": "2026-10-22T01:14:54.485000+00:00",
   "date_found": "2026-10-22T01:59:52.431000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Uline",
+  "title": "Software Development Internship - Summer 2027",
+  "location": "5 Locations",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R268537",
+  "date_posted": "2026-10-22T00:00:00+00:00",
+  "date_found": "2026-10-22T08:57:40.917000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "ABB",
+  "title": "R&D Software Engineer Intern",
+  "location": "Greenville, SC",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Greenville-South-Carolina-United-States-of-America/R-D-Software-Engineer_JR00050035",
+  "date_posted": "2026-10-22T00:00:00+00:00",
+  "date_found": "2026-10-22T00:00:00+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "FedEx Freight",
+  "title": "Media & Web Development Intern - Marketing",
+  "location": "United States",
+  "pay": "$20–$40/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Media---Web-Development--Marketing-_RC5600",
+  "date_posted": "2026-10-22T00:00:00+00:00",
+  "date_found": "2026-10-22T00:00:00+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Brookhaven Lab",
+  "title": "Data Engineering Student Assistant Intern",
+  "location": "Brookhaven, NY",
+  "pay": "$17–$31.25/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Data-Engineering-Student-Assistant_JR102753",
+  "date_posted": "2026-10-22T00:00:00+00:00",
+  "date_found": "2026-10-22T00:00:00+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -14734,54 +14929,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Boeing",
-  "title": "Analytics Business Operations Intern (Government Services)",
-  "location": "2 Locations",
-  "pay": "$23.50–$27/hr",
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/CAN---Richmond-Canada/Analytics-Business-Operations-Intern--Government-Services-_JR2026526163",
-  "date_posted": "2026-10-15T13:03:02.957000+00:00",
-  "date_found": "2026-10-15T13:04:18.886000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Western & Southern Financial Group",
-  "title": "Software Quality Assurance Data Integration Testing Intern (Full Year 2027)",
-  "location": "",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://careers-westernsouthern.icims.com/jobs/25006/software-quality-assurance-data-integration-testing-intern-%28full-year-2027%29/job",
-  "date_posted": null,
-  "date_found": "2026-10-15T12:59:16.714000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "CACI",
-  "title": "Software Test Engineer Intern - Spring 2027",
-  "location": "Remote",
-  "pay": "$39,900–$79,900/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Software-Test-Engineer-Intern---Spring-2027_333422",
-  "date_posted": "2026-10-15T12:52:26.069000+00:00",
-  "date_found": "2026-10-15T12:59:16.714000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Leidos",
   "title": "Performance Enablement AI/ML Intern",
   "location": "6314 Remote/Teleworker US",
@@ -14809,23 +14956,6 @@
   "date_posted": "2026-10-15T09:04:24+00:00",
   "date_found": "2026-10-15T09:04:24+00:00",
   "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Keysight Technologies",
-  "title": "Photonics EDA internship",
-  "location": "Gent, West Vlaanderen",
-  "pay": null,
-  "tracks": [
-   "software",
-   "hardware"
-  ],
-  "url": "https://jobs.keysight.com/jobs/54658",
-  "date_posted": "2026-10-15T07:13:43+00:00",
-  "date_found": "2026-10-15T07:16:02.775000+00:00",
-  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -15403,22 +15533,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Texas Instruments",
-  "title": "Sales Engineering Intern (Bellevue, WA)",
-  "location": "Bellevue, WA",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017947",
-  "date_posted": "2026-10-15T00:00:00+00:00",
-  "date_found": "2026-10-15T09:07:15.382000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "LSEG",
   "title": "Quant Analyst Intern",
   "location": "Boston, MA",
@@ -15801,6 +15915,22 @@
   "url": "https://job-boards.greenhouse.io/figureai/jobs/4722086006",
   "date_posted": "2026-10-14T19:54:00+00:00",
   "date_found": "2026-10-14T19:55:39.019000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "International Rescue Committee",
+  "title": "Development Data and Research Intern (  Spring2027)",
+  "location": "Silver Spring, MD USA",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://theirc.wd1.myworkdayjobs.com/External_Careers/job/Silver-Spring-MD-USA/Development-Data-and-Research-Intern----Spring2027-_JR00005497",
+  "date_posted": "2026-10-14T19:52:01.787000+00:00",
+  "date_found": "2026-10-14T20:05:06.019000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -18472,6 +18602,22 @@
   "date_posted": "2026-10-13T00:00:00+00:00",
   "date_found": "2026-10-13T14:02:18.438000+00:00",
   "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Amazon",
+  "title": "ASIC Engineer Intern, Summer 2027",
+  "location": "Sunnyvale, CA",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://www.amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027",
+  "date_posted": "2026-10-13T00:00:00+00:00",
+  "date_found": "2026-10-13T02:31:26.473000+00:00",
+  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -21776,6 +21922,38 @@
   "advanced_degree": false
  },
  {
+  "company": "General Motors",
+  "title": "2027 Summer Intern, Fleet Reliability & Test Engineering, ASD",
+  "location": "Milford, MI",
+  "pay": "$8,100–$8,700/mo",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Fleet-Reliability---Test-Engineering--ASD_JR-202622071",
+  "date_posted": "2026-10-08T16:42:50.920000+00:00",
+  "date_found": "2026-10-08T16:56:09.997000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Renesas Electronics",
+  "title": "Memory Server System Testing Intern",
+  "location": "San Jose",
+  "pay": "$31.25–$41.50/hr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000154490303",
+  "date_posted": "2026-10-08T16:39:30.247000+00:00",
+  "date_found": "2026-10-08T16:56:09.997000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Roblox",
   "title": "[2027] Data Scientist - PhD Intern",
   "location": "San Mateo, CA",
@@ -22180,6 +22358,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Amazon",
+  "title": "Systems Development Engineer Intern, (US) 2027",
+  "location": "Bellevue, WA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://www.amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027",
+  "date_posted": "2026-10-08T00:00:00+00:00",
+  "date_found": "2026-10-08T20:22:31.585000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Nissan",
   "title": "AI Agent Architect - Summer 2027 - Farmington Hills, MI",
   "location": "Farmington Hills, Michigan - United States o",
@@ -22192,6 +22386,23 @@
   "date_posted": "2026-10-08T00:00:00+00:00",
   "date_found": "2026-10-08T17:54:34.283000+00:00",
   "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Amazon",
+  "title": "Embedded Firmware Co-op, Amazon Robotics - Spring 2027",
+  "location": "North Reading, MA",
+  "pay": null,
+  "tracks": [
+   "software",
+   "hardware"
+  ],
+  "url": "https://www.amazon.jobs/en/jobs/10573570/embedded-firmware-co-op-amazon-robotics-spring-2027",
+  "date_posted": "2026-10-08T00:00:00+00:00",
+  "date_found": "2026-10-08T17:31:44.968000+00:00",
+  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -27935,6 +28146,39 @@
   "advanced_degree": false
  },
  {
+  "company": "Amazon",
+  "title": "Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)",
+  "location": "Seattle, WA",
+  "pay": null,
+  "tracks": [
+   "software",
+   "hardware"
+  ],
+  "url": "https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa",
+  "date_posted": "2026-10-02T00:00:00+00:00",
+  "date_found": "2026-10-02T16:01:42.050000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "General Motors",
+  "title": "2027 Summer Intern - Systems/Calibration Engineer, ADAS Drive",
+  "location": "Milford, MI",
+  "pay": "$8,100–$8,700/mo",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Systems-Calibration-Engineer--ADAS-Drive_JR-202621623",
+  "date_posted": "2026-10-02T00:00:00+00:00",
+  "date_found": "2026-10-02T15:52:45.232000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Vertiv",
   "title": "Design Engineering Intern (Summer 2027)",
   "location": "Delaware, OH",
@@ -28801,22 +29045,6 @@
   "date_posted": "2026-10-01T14:23:53+00:00",
   "date_found": "2026-10-01T14:50:23.809000+00:00",
   "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Old Mission Capital",
-  "title": "Quantitative Trader - 2027 Micro-Internship Program (January Start)",
-  "location": "Chicago, IL",
-  "pay": "$2,500/wk",
-  "tracks": [
-   "quant"
-  ],
-  "url": "https://www.oldmissioncapital.com/careers/?gh_jid=8002345003",
-  "date_posted": "2026-10-01T14:06:48+00:00",
-  "date_found": "2026-10-01T14:10:34.727000+00:00",
-  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -30710,6 +30938,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Amazon",
+  "title": "Software Development Engineer Intern, AWS Database - 2027 (US)",
+  "location": "Seattle, WA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us",
+  "date_posted": "2026-09-30T00:00:00+00:00",
+  "date_found": "2026-09-30T17:01:59.558000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "L3Harris",
   "title": "Intern, Software Engineer (Salt Lake City, UT)",
   "location": "Salt Lake City, UT, US, 84116",
@@ -32537,6 +32781,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Citadel",
+  "title": "Sector Data Scientist Intern",
+  "location": "NYC",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/",
+  "date_posted": "2026-09-28T03:36:16+00:00",
+  "date_found": "2026-08-10T22:34:23+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Marvell",
   "title": "Architecture Intern, MS - Summer 2027",
   "location": "Burlington, VT",
@@ -32569,6 +32829,38 @@
   "advanced_degree": false
  },
  {
+  "company": "Itron",
+  "title": "Intern - Data Science, Distributed Intelligence",
+  "location": "2 Locations",
+  "pay": "$15.87–$44.23/hr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2",
+  "date_posted": "2026-09-28T00:00:00+00:00",
+  "date_found": "2026-09-28T23:47:06.542000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Itron",
+  "title": "Intern - Data Science, Distributed Intelligence",
+  "location": "2 Locations",
+  "pay": "$15.87–$44.23/hr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942",
+  "date_posted": "2026-09-28T00:00:00+00:00",
+  "date_found": "2026-09-28T23:47:06.542000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "POET",
   "title": "Data Engineering Intern",
   "location": "Sioux Falls, SD",
@@ -32595,6 +32887,22 @@
   "url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10625",
   "date_posted": "2026-09-28T00:00:00+00:00",
   "date_found": "2026-09-28T15:48:21.709000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "General Motors",
+  "title": "Data Governance Engineer Intern",
+  "location": "Warren, MI",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Data-Governance-Engineer--Early-Careers_JR-202620794",
+  "date_posted": "2026-09-28T00:00:00+00:00",
+  "date_found": "2026-09-28T00:00:00+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -33941,6 +34249,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Meta",
+  "title": "Research Scientist Intern, AI Alignment",
+  "location": "2 locations",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://www.metacareers.com/profile/job_details/1782902493113620",
+  "date_posted": null,
+  "date_found": "2026-09-24T20:55:12.069000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Micron Technology",
   "title": "Intern - ASIC Validation",
   "location": "Minneapolis, MN",
@@ -34516,6 +34840,22 @@
   "date_found": "2026-09-24T23:48:06.748000+00:00",
   "top_company": false,
   "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
+  "location": "Redmond, WA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa",
+  "date_posted": "2026-09-24T00:00:00+00:00",
+  "date_found": "2026-09-24T22:46:36.843000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -35427,6 +35767,22 @@
   "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
+ },
+ {
+  "company": "Amazon",
+  "title": "2027 Data Science Internship United States Phd Or Masters Student",
+  "location": "",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://amazon.jobs/en/jobs/10556927/2027-data-science-internship-united-states-phd-or-masters-student",
+  "date_posted": "2026-09-23T00:36:57+00:00",
+  "date_found": "2026-09-23T00:36:57+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": true
  },
  {
   "company": "Rippling",
@@ -36763,6 +37119,23 @@
   "date_posted": "2026-09-22T00:43:35+00:00",
   "date_found": "2026-09-22T01:10:09.929000+00:00",
   "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Northrop Grumman",
+  "title": "2027 Cyber Software Engineer Intern - Tampa FL",
+  "location": "United States-Florida-Tampa",
+  "pay": null,
+  "tracks": [
+   "software",
+   "security"
+  ],
+  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530",
+  "date_posted": "2026-09-22T00:00:00+00:00",
+  "date_found": "2026-09-22T18:08:58.397000+00:00",
+  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -44627,6 +45000,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Quantinuum",
+  "title": "Software Engineering Intern",
+  "location": "Broomfield, CO",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.eu.lever.co/quantinuum/782bea0b-1959-48cc-8872-1305aece51bf/apply",
+  "date_posted": "2026-09-11T22:16:12+00:00",
+  "date_found": "2026-09-11T22:16:12+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Emerson Electric",
   "title": "Hardware Design Engineer Intern",
   "location": "Round Rock, TX",
@@ -47112,6 +47501,22 @@
   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148575999",
   "date_posted": null,
   "date_found": "2026-09-09T22:11:10+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Smiths Detection Group",
+  "title": "Technical Service Engineer",
+  "location": "Montville, NJ",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000148560989",
+  "date_posted": "2026-09-09T22:07:33+00:00",
+  "date_found": "2026-09-09T22:07:33+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -53630,6 +54035,22 @@
   "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342550",
   "date_posted": null,
   "date_found": "2026-09-01T09:40:13+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Textron",
+  "title": "Autonomy Engineer Intern - Air Systems",
+  "location": "Cockeysville, MD",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342925",
+  "date_posted": "2026-09-01T09:40:05+00:00",
+  "date_found": "2026-09-01T09:40:05+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -63375,6 +63796,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Lawrence Livermore National Laboratory",
+  "title": "Explainable AI Intern - Postdoctoral Researcher",
+  "location": "Livermore, CA",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://jobs.smartrecruiters.com/LLNL/3743990014567496",
+  "date_posted": "2026-08-12T22:04:04+00:00",
+  "date_found": "2026-08-12T22:04:04+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Foundation Robotics",
   "title": "Electrical Engineer Intern",
   "location": "SF",
@@ -64362,6 +64799,22 @@
   "date_posted": null,
   "date_found": "2026-08-10T14:19:45+00:00",
   "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Vertiv",
+  "title": "Test Engineer Intern",
+  "location": "Delaware, OH",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279024",
+  "date_posted": "2026-08-10T14:09:43+00:00",
+  "date_found": "2026-08-10T14:09:43+00:00",
+  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -65743,6 +66196,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Tacit",
+  "title": "RF Hardware Intern (Fall 2026)",
+  "location": "San Francisco",
+  "pay": "$40–$60/hr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.ashbyhq.com/tacit/d001e2d9-90af-4d0b-bc97-fd6fa149ad19",
+  "date_posted": "2026-08-04T23:58:08.940000+00:00",
+  "date_found": "2026-10-02T11:50:18.576618+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "American Express",
   "title": "Product Development Intern - US Consumer Services",
   "location": "NYC",
@@ -66907,6 +67376,22 @@
   "date_found": "2026-08-03T06:24:21+00:00",
   "top_company": true,
   "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "JPMorgan Chase",
+  "title": "Data & AI Intern - Analyst",
+  "location": "8 locations",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869",
+  "date_posted": null,
+  "date_found": "2026-08-03T06:24:19+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -68447,6 +68932,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Appian",
+  "title": "Software Engineer Intern",
+  "location": "Mclean, VA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://job-boards.greenhouse.io/appian/jobs/8041237",
+  "date_posted": null,
+  "date_found": "2026-07-23T22:35:49+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Anthelion Capital",
   "title": "Quant Developer / Quant Research Intern",
   "location": "NYC",
@@ -68523,6 +69024,22 @@
   "date_found": "2026-07-23T06:13:19+00:00",
   "top_company": false,
   "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "SPHERIX GLOBAL INSIGHTS US",
+  "title": "Market Research Insights Intern",
+  "location": "Exton, PA",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://spherixglobalinsights.applytojob.com/apply/tXLqnpK9I3/Market-Research-Insights-Internship",
+  "date_posted": "2026-07-23T06:13:10+00:00",
+  "date_found": "2026-07-23T06:13:10+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -69231,22 +69748,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Old Mission Capital",
-  "title": "Software Engineer Intern",
-  "location": "Chicago, IL",
-  "pay": "$150k–$200k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796180003",
-  "date_posted": null,
-  "date_found": "2026-07-15T22:36:41+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Jane Street",
   "title": "Linux Engineer",
   "location": "NYC",
@@ -69609,22 +70110,6 @@
   "url": "https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614",
   "date_posted": null,
   "date_found": "2026-07-13T22:09:47+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Akuna Capital",
-  "title": "Software Engineer Intern - Python",
-  "location": "Chicago, IL",
-  "pay": "$145k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
-  "date_posted": null,
-  "date_found": "2026-07-13T22:09:41+00:00",
   "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -70015,6 +70500,22 @@
   "advanced_degree": false
  },
  {
+  "company": "AMEND Consulting",
+  "title": "Quality Assurance Analyst Co-op Intern",
+  "location": "Cincinnati, OH",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://job-boards.greenhouse.io/amendconsulting/jobs/4113831009",
+  "date_posted": "2026-07-08T14:14:55+00:00",
+  "date_found": "2026-07-08T14:14:55+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Jane Street",
   "title": "Trading Desk Operations Engineer",
   "location": "NYC",
@@ -70042,6 +70543,22 @@
   "date_posted": null,
   "date_found": "2026-07-07T22:11:01+00:00",
   "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Citadel",
+  "title": "Quantitative Trader: Equity Quantitative Research Intern",
+  "location": "NYC",
+  "pay": null,
+  "tracks": [
+   "quant"
+  ],
+  "url": "https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/",
+  "date_posted": null,
+  "date_found": "2026-07-07T22:09:40+00:00",
+  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -70223,6 +70740,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Lawrence Livermore National Laboratory",
+  "title": "Machine Learning Postdoctoral Researcher Intern",
+  "location": "Livermore, CA",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://jobs.smartrecruiters.com/LLNL/3743990012255026",
+  "date_posted": "2026-07-06T09:02:24+00:00",
+  "date_found": "2026-07-06T09:02:24+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Citadel Securities",
   "title": "FPGA Engineer Intern",
   "location": "2 locations",
@@ -70265,6 +70798,22 @@
   "url": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/",
   "date_posted": null,
   "date_found": "2026-07-06T06:09:57+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Citadel",
+  "title": "Quantitative Research Analyst Intern",
+  "location": "3 locations",
+  "pay": null,
+  "tracks": [
+   "quant"
+  ],
+  "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/",
+  "date_posted": null,
+  "date_found": "2026-07-06T06:09:05+00:00",
   "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -70895,22 +71444,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Palantir",
-  "title": "Forward Deployed Software Engineer, Internship - Intel",
-  "location": "Washington, D.C.",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89",
-  "date_posted": "2026-07-01T19:22:25.074000+00:00",
-  "date_found": "2026-07-01T19:22:25.074000+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "IMC Trading",
   "title": "Quantitative Research Intern",
   "location": "Chicago, IL",
@@ -70969,6 +71502,38 @@
   "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823923101",
   "date_posted": "2026-07-01T17:11:12+00:00",
   "date_found": "2026-07-01T22:28:48+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Citadel",
+  "title": "Quantitative Researcher – PhD Intern",
+  "location": "4 locations",
+  "pay": null,
+  "tracks": [
+   "quant"
+  ],
+  "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/",
+  "date_posted": null,
+  "date_found": "2026-07-01T09:08:42+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Citadel",
+  "title": "Quantitative Research Engineer Intern",
+  "location": "4 locations",
+  "pay": null,
+  "tracks": [
+   "quant"
+  ],
+  "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us/",
+  "date_posted": null,
+  "date_found": "2026-07-01T07:00:06+00:00",
   "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -71519,6 +72084,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Copart",
+  "title": "Database Engineer Intern",
+  "location": "Dallas, TX",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636",
+  "date_posted": null,
+  "date_found": "2026-06-24T22:07:04+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Delta Air Lines",
   "title": "Intern, Innovation - AI Engineering",
   "location": "Atlanta, GA",
@@ -71856,22 +72437,6 @@
  },
  {
   "company": "Palantir",
-  "title": "Forward Deployed Software Engineer Intern - Defense Tech",
-  "location": "Washington, DC",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b/apply",
-  "date_posted": null,
-  "date_found": "2026-06-16T19:37:41+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Palantir",
   "title": "Forward Deployed Software Engineer Intern - US Government",
   "location": "Washington, DC",
   "pay": null,
@@ -71968,6 +72533,22 @@
  },
  {
   "company": "TikTok",
+  "title": "AI Agent Development Project Intern",
+  "location": "Seattle, WA",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://lifeattiktok.com/search/7540063663148747026",
+  "date_posted": "2026-06-15T06:12:29+00:00",
+  "date_found": "2026-06-15T06:12:29+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "TikTok",
   "title": "Product Management Project Intern - TikTok Shop-Operations",
   "location": "LA",
   "pay": "$23.75/hr",
@@ -71976,6 +72557,22 @@
   ],
   "url": "https://lifeattiktok.com/search/7584522934515714357",
   "date_posted": null,
+  "date_found": "2026-06-15T06:12:27+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "TikTok",
+  "title": "Product Management Project Intern",
+  "location": "Seattle, WA",
+  "pay": null,
+  "tracks": [
+   "product"
+  ],
+  "url": "https://lifeattiktok.com/search/7583141608302987525",
+  "date_posted": "2026-06-15T06:12:27+00:00",
   "date_found": "2026-06-15T06:12:27+00:00",
   "top_company": true,
   "no_sponsorship": false,
@@ -72009,6 +72606,22 @@
   "url": "https://lifeattiktok.com/search/7530513185797359880",
   "date_posted": null,
   "date_found": "2026-06-15T06:12:25+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "TikTok",
+  "title": "Platform Campaign Project Intern - TikTok Shop - Operations",
+  "location": "Seattle, WA",
+  "pay": null,
+  "tracks": [
+   "product"
+  ],
+  "url": "https://lifeattiktok.com/search/7592014594232142085",
+  "date_posted": "2026-06-15T06:12:11+00:00",
+  "date_found": "2026-06-15T06:12:11+00:00",
   "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -72123,6 +72736,22 @@
   "date_found": "2026-06-13T14:30:47+00:00",
   "top_company": false,
   "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Pennsylvania State University",
+  "title": "Research Assistant Intern",
+  "location": "State College, PA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistants_REQ_0000074801-1",
+  "date_posted": "2026-06-13T14:30:29+00:00",
+  "date_found": "2026-06-13T14:30:29+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -73328,6 +73957,22 @@
  },
  {
   "company": "Apple",
+  "title": "Hardware PhD Intern",
+  "location": "United States",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.apple.com/en-us/details/200664421",
+  "date_posted": "2026-05-22T06:07:34+00:00",
+  "date_found": "2026-05-22T06:07:34+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Apple",
   "title": "Machine Learning and Artificial Intelligence Intern",
   "location": "United States",
   "pay": null,
@@ -73839,6 +74484,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Everstream Analytics",
+  "title": "Intelligence Solutions Intern",
+  "location": "Remote in USA",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://everstream.ai/careers/jobs/?gh_jid=5991766004",
+  "date_posted": "2026-05-08T22:15:10+00:00",
+  "date_found": "2026-05-08T22:15:10+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Cole Engineering Services",
   "title": "AI Intern",
   "location": "Hanover, MD",
@@ -74249,6 +74910,22 @@
   "url": "https://careers-sig.icims.com/jobs/10819/job?mobile=true&needsRedirect=false",
   "date_posted": null,
   "date_found": "2026-04-21T22:04:52+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "TikTok",
+  "title": "Software Engineer Project Intern - Recommendation Infrastructure",
+  "location": "San Jose, CA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://lifeattiktok.com/search/7629500062003218741",
+  "date_posted": "2026-04-20T09:12:09+00:00",
+  "date_found": "2026-04-20T09:12:09+00:00",
   "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
