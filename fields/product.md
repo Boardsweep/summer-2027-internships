@@ -2,12 +2,14 @@
 
 # 📱 Product internships
 
-All 255 open product internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_product), or [get them by email, free](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_product).
+All 257 open product internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_product), or [get them by email, free](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_product).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=amazon.com" width="20" height="20" align="absmiddle">&nbsp; **Amazon** | Technical Product Manager Intern 🔥 | 2&nbsp;locations<br><sub>-</sub> | Oct&nbsp;23 | <a href="https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Product Manager Intern - ALA 🔥 | Seattle,&nbsp;WA<br><sub>-</sub> | Oct&nbsp;23 | <a href="https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=regalrexnord.com" width="20" height="20" align="absmiddle">&nbsp; **Regal&nbsp;Rexnord** | Program/Project Management Summer Intern ✨ | Downers Grove, IL<br><sub>$19–&#8288;$27.50/hr</sub> | Oct&nbsp;22 | <a href="https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Downers-Grove-Illinois-United-States/Business-Sales-Development-Summer-Intern_R26_05264-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=palantir.com" width="20" height="20" align="absmiddle">&nbsp; **Palantir** | Deployment Strategist, Internship - Warp Speed 🔥 ✨ | New&nbsp;York,&nbsp;NY<br><sub>-</sub> | Oct&nbsp;22<br><sub>⚡&nbsp;2m</sub> | <a href="https://jobs.lever.co/palantir/69ab7e24-8f5d-426e-84f7-6d3b2d4a7efd"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=patreon.com" width="20" height="20" align="absmiddle">&nbsp; **Patreon** | Product Manager Intern - Summer 2027 | New&nbsp;York<br><sub>$50/hr</sub> | Oct&nbsp;22<br><sub>⚡&nbsp;59m</sub> | <a href="https://jobs.ashbyhq.com/patreon/ace576d6-f480-43b8-a529-549fefb2046d"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

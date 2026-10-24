@@ -2,7 +2,7 @@
 
 # 🔧 Hardware internships
 
-All 939 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
+All 942 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
 
 Page 1 of 2: **1** · [2](hardware-2.md)
 
@@ -10,6 +10,9 @@ Page 1 of 2: **1** · [2](hardware-2.md)
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=amazon.com" width="20" height="20" align="absmiddle">&nbsp; **Amazon** | Cloud Hardware Development Engineer Intern 🔥 | 2&nbsp;locations<br><sub>-</sub> | Oct&nbsp;23 | <a href="https://amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | ASIC Engineer Intern 🔥 | 3&nbsp;locations<br><sub>-</sub> | Oct&nbsp;23 | <a href="https://amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | ASIC Engineer Early Career Intern 🔥 | 3&nbsp;locations<br><sub>-</sub> | Oct&nbsp;23 | <a href="https://amazon.jobs/en/jobs/10558918/asic-engineer-i-annapurna-labs-early-career-2027"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=ursamajor.com" width="20" height="20" align="absmiddle">&nbsp; **Ursa&nbsp;Major** | 2027 Summer Systems Engineering Intern 🛂 | Berthoud,&nbsp;CO<br><sub>$30/hr</sub> | Oct&nbsp;22<br><sub>⚡&nbsp;5m</sub> | <a href="https://ursamajor.com/careers/?gh_jid=4746900005"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=asteralabs.com" width="20" height="20" align="absmiddle">&nbsp; **Astera&nbsp;Labs** | Signal Integrity Solutions Architect Intern | San&nbsp;Jose,&nbsp;CA<br><sub>$35–&#8288;$55/hr</sub> | Oct&nbsp;22<br><sub>⚡&nbsp;37m</sub> | <a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4746899005"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Mechanical Solutions Architect Intern ✨ | San&nbsp;Jose,&nbsp;CA<br><sub>$35–&#8288;$55/hr</sub> | Oct&nbsp;22<br><sub>⚡&nbsp;39m</sub> | <a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4746898005"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -939,9 +942,6 @@ Page 1 of 2: **1** · [2](hardware-2.md)
 | <img src="https://boardsweep.io/api/logo?domain=geaerospace.com" width="20" height="20" align="absmiddle">&nbsp; **GE&nbsp;Aerospace** | Engines Engineering Intern/Co-op - Computer or Software Engineering 🛂 | 2&nbsp;locations<br><sub>$20/hr</sub> | Mar&nbsp;3 | <a href="https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Spring-2027_R5029619"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=alertus.com" width="20" height="20" align="absmiddle">&nbsp; **Alertus Technologies** | Technical Product Specialist | Baltimore,&nbsp;MD<br><sub>$45k–&#8288;$65k/yr</sub> | Feb&nbsp;23 | <a href="https://jobs.lever.co/alertus/fa66c3bc-1410-441b-ad01-73b2df83bbd7/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=bio-techne.com" width="20" height="20" align="absmiddle">&nbsp; **Bio-Techne** | Hardware Engineering Intern | San&nbsp;Jose,&nbsp;CA<br><sub>$19.20–&#8288;$26.40/hr</sub> | Feb&nbsp;19 | <a href="https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/San-Jose-CA/Hardware-Engineering-Intern_JR101533"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=neuralink.com" width="20" height="20" align="absmiddle">&nbsp; **Neuralink** | Analog and Mixed-Signal IC Design Engineer Intern 🔥 | South&nbsp;SF<br><sub>$35/hr</sub> | Feb&nbsp;18 | <a href="https://boards.greenhouse.io/neuralink/jobs/7565469003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=etched.com" width="20" height="20" align="absmiddle">&nbsp; **Etched** | Chipsim Intern 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>-</sub> | Feb&nbsp;7 | <a href="https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8/application"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Firmware Intern - Firmware 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>-</sub> | Feb&nbsp;7 | <a href="https://jobs.ashbyhq.com/Etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc/application"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 **1** · [2](hardware-2.md)
 
