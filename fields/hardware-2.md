@@ -2,7 +2,7 @@
 
 # 🔧 Hardware internships
 
-All 975 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
+All 974 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
 
 Page 2 of 2: [1](hardware.md) · **2**
 
@@ -10,7 +10,6 @@ Page 2 of 2: [1](hardware.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=northropgrumman.com" width="20" height="20" align="absmiddle">&nbsp; **Northrop&nbsp;Grumman** | Software Engineer/ Software Engineer SkillBridge Intern 🛂 | Oklahoma City, OK<br><sub>$75,100–&#8288;$112,700/yr</sub> | Jul&nbsp;4 | <a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/SkillBridge-Principal-Software-Engineer--Software-Engineer_R10235154"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=anl.gov" width="20" height="20" align="absmiddle">&nbsp; **Argonne National Laboratory** | Postdoctoral Appointee Intern - Bioimaging | Lemont,&nbsp;IL<br><sub>$72,879–&#8288;$121,465/yr</sub> | Jul&nbsp;4 | <a href="https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Bioimaging_422720"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=x.company" width="20" height="20" align="absmiddle">&nbsp; **X&nbsp;Development** | PhD Residency Intern - Physical ML &amp; Hardware-in-the-Loop - Future of Compute | Mountain View, CA<br><sub>$109k–&#8288;$157k/yr</sub> | Jul&nbsp;2 | <a href="https://x.company/careers/8616839002?gh_jid=8616839002"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=geappliances.com" width="20" height="20" align="absmiddle">&nbsp; **GE&nbsp;Appliances** | Electrical Engineer Co-op 🛂 | Louisville,&nbsp;KY<br><sub>-</sub> | Jun&nbsp;27 | <a href="https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Electrical-Engineering-Co-op-Spring-2027_REQ-24834"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
