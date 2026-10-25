@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,486 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,484 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 2 of 2: [1](aiml.md) · **2**
 
@@ -10,8 +10,6 @@ Page 2 of 2: [1](aiml.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=ercot.com" width="20" height="20" align="absmiddle">&nbsp; **ERCOT** | IT Intern - Enterprise Data &amp; AI Administration | 2&nbsp;locations<br><sub>-</sub> | Sep&nbsp;8 | <a href="https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Intern---IT--Enterprise-Data---AI-Administration_R2478"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=boozallen.com" width="20" height="20" align="absmiddle">&nbsp; **Booz Allen Hamilton** | Applied AI Intern 🛂 | Washington,&nbsp;DC<br><sub>$69,400–&#8288;$158k/yr</sub> | Sep&nbsp;8 | <a href="https://bah.wd1.myworkdayjobs.com/Confidential/job/Washington-DC/University--Applied-AI-Intern_R0248853"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=dickssportinggoods.com" width="20" height="20" align="absmiddle">&nbsp; **Dick&#x27;s Sporting Goods** | Retail Analytics Intern - Corporate Internship | Pittsburgh,&nbsp;PA<br><sub>-</sub> | Sep&nbsp;8 | <a href="https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Retail-Analytics---Summer-2027-Corporate-Internship_202608785-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=countryfinancial.com" width="20" height="20" align="absmiddle">&nbsp; **COUNTRY&nbsp;Financial** | Consumer Insights Intern | Bloomington,&nbsp;IL<br><sub>-</sub> | Sep&nbsp;8 | <a href="https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Consumer-Insights-Intern_R26_0000001030"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=boozallen.com" width="20" height="20" align="absmiddle">&nbsp; **Booz Allen Hamilton** | Applied AI Software Development Intern 🛂 | Mclean,&nbsp;VA<br><sub>$55,200–&#8288;$126k/yr</sub> | Sep&nbsp;8 | <a href="https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Applied-AI-Software-Development-Intern_R0248854"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

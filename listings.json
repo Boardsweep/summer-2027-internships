@@ -16029,22 +16029,6 @@
   "advanced_degree": false
  },
  {
-  "company": "First Citizens Bank",
-  "title": "2027 Summer Intern - Procurement Data & Analytics Intern (Raleigh, NC)",
-  "location": "Raleigh, NC",
-  "pay": null,
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://firstcitizens.jibeapply.com/jobs/35828",
-  "date_posted": "2026-10-17T17:03:43+00:00",
-  "date_found": "2026-10-17T17:06:50.036000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "HCSC",
   "title": "Early Careers - Finance Application Developer Intern",
   "location": "2 Locations",
@@ -16481,22 +16465,6 @@
   "url": "https://jobs.ashbyhq.com/assorthealth/3d8a2c74-8d0c-40be-9624-afc3678654ee",
   "date_posted": "2026-10-16T21:09:45.720000+00:00",
   "date_found": "2026-10-16T23:57:27.615000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Rivian",
-  "title": "Engineering Intern - Technical Program Management (Spring 2027 Co-op)",
-  "location": "Palo Alto, CA",
-  "pay": "$45–$51/hr",
-  "tracks": [
-   "product"
-  ],
-  "url": "https://careers.rivian.com/careers-home/jobs/34505",
-  "date_posted": "2026-10-16T19:29:00+00:00",
-  "date_found": "2026-10-17T16:50:04.333063+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -26697,22 +26665,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Waymo",
-  "title": "2027 Summer Intern, BS, Software Engineer, Model Eval",
-  "location": "Mountain View, CA",
-  "pay": "$60/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://careers.withwaymo.com/jobs?gh_jid=8257660",
-  "date_posted": "2026-10-06T20:59:12+00:00",
-  "date_found": "2026-10-06T21:01:34.265000+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Leidos",
   "title": "Software Engineer Intern",
   "location": "Arlington, VA",
@@ -36187,22 +36139,6 @@
   ],
   "url": "https://careers.withwaymo.com/jobs?gh_jid=8231711",
   "date_posted": "2026-09-25T20:33:28+00:00",
-  "date_found": "2026-09-25T23:47:36.821000+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Waymo",
-  "title": "Software Engineer Intern - Driver Refinement Foundations",
-  "location": "Mountain View, CA",
-  "pay": "$60/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://careers.withwaymo.com/jobs?gh_jid=8224900",
-  "date_posted": "2026-09-25T20:20:21+00:00",
   "date_found": "2026-09-25T23:47:36.821000+00:00",
   "top_company": true,
   "no_sponsorship": false,
@@ -47572,38 +47508,6 @@
  },
  {
   "company": "Veeam",
-  "title": "Engineering Intern",
-  "location": "California",
-  "pay": "$40–$50/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4951792101",
-  "date_posted": null,
-  "date_found": "2026-09-11T22:25:05+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Veeam",
-  "title": "Data Analytics & Programs Intern",
-  "location": "Georgia",
-  "pay": "$20–$25/hr",
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955300101",
-  "date_posted": null,
-  "date_found": "2026-09-11T22:25:04+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Veeam",
   "title": "AI & Automation Engineering Intern - Summer 2027",
   "location": "Georgia",
   "pay": "$20–$25/hr",
@@ -47960,22 +47864,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Lyft",
-  "title": "Data Analyst Intern",
-  "location": "NYC",
-  "pay": "$45–$47/hr",
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002",
-  "date_posted": "2026-09-11T19:20:57+00:00",
-  "date_found": "2026-09-11T22:08:24+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "National Laboratory of the Rockies",
   "title": "Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis",
   "location": "2 Locations",
@@ -48050,6 +47938,38 @@
   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955482101",
   "date_posted": "2026-09-11T15:46:23+00:00",
   "date_found": "2026-09-11T22:25:10+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Veeam",
+  "title": "Engineering Intern",
+  "location": "California",
+  "pay": "$40–$50/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4951792101",
+  "date_posted": "2026-09-11T15:39:59+00:00",
+  "date_found": "2026-09-11T22:25:05+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Veeam",
+  "title": "Data Analytics & Programs Intern",
+  "location": "Georgia",
+  "pay": "$20–$25/hr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955300101",
+  "date_posted": "2026-09-11T15:37:43+00:00",
+  "date_found": "2026-09-11T22:25:04+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
