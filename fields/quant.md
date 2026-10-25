@@ -2,12 +2,14 @@
 
 # 📈 Quant internships
 
-All 202 open quant internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_quant), or [get them by email, free](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_quant).
+All 204 open quant internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_quant), or [get them by email, free](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_quant).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=ice.com" width="20" height="20" align="absmiddle">&nbsp; **Intercontinental Exchange** | Summer Internship Program 2027 Financial Engineering Intern ✨ | - | Oct&nbsp;23 | <a href="https://careers-ice.icims.com/jobs/14059/summer-internship-program-2027---financial-engineering-intern/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Summer Internship Program 2027 Quantitative Financial Analytics Intern ✨ | - | Oct&nbsp;23 | <a href="https://careers-ice.icims.com/jobs/14055/summer-internship-program-2027---quantitative-financial-analytics-intern/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=wellington.com" width="20" height="20" align="absmiddle">&nbsp; **Wellington Management** | Solutions Co Op ✨ | Boston,&nbsp;MA<br><sub>$19–&#8288;$35/hr</sub> | Oct&nbsp;23 | <a href="https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Solutions-Co-Op_R94833"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=mangroup.com" width="20" height="20" align="absmiddle">&nbsp; **Man&nbsp;Group** | Systematic Quant Intern | 2&nbsp;locations<br><sub>$35–&#8288;$45/hr</sub> | Oct&nbsp;22<br><sub>⚡&nbsp;34m</sub> | <a href="https://job-boards.eu.greenhouse.io/mangroup/jobs/5012806101"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=firstcitizens.com" width="20" height="20" align="absmiddle">&nbsp; **First Citizens Bank** | 2027 Summer Intern – Quantitative Analyst (Raleigh, NC) ✨ | Raleigh,&nbsp;NC<br><sub>-</sub> | Oct&nbsp;22 | <a href="https://firstcitizens.jibeapply.com/jobs/36154"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
