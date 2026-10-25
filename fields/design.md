@@ -2,12 +2,13 @@
 
 # 🎨 Design internships
 
-All 69 open design internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design), or [get them by email, free](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design).
+All 70 open design internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design), or [get them by email, free](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=stanleyblackanddecker.com" width="20" height="20" align="absmiddle">&nbsp; **Stanley Black &amp; Decker** | UX/UI Design Intern - Summer 2027 ✨ | Valley&nbsp;City,&nbsp;OH<br><sub>$38,600–&#8288;$62,200/yr</sub> | Oct&nbsp;24 | <a href="https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/UX-UI-Design-Intern---Summer-2027_REQ-1000052835"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=fnbo.com" width="20" height="20" align="absmiddle">&nbsp; **FNBO** | Summer 2027 - Web Content &amp; UX Design Intern ✨ | Omaha&nbsp;-&nbsp;FN&nbsp;Tower<br><sub>-</sub> | Oct&nbsp;23 | <a href="https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Summer-2027---Web-Content---UX-Design-Intern_R-20261894"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=ice.com" width="20" height="20" align="absmiddle">&nbsp; **Intercontinental Exchange** | Summer Internship Program 2027 Enterprise UX Intern ✨ | - | Oct&nbsp;23 | <a href="https://careers-ice.icims.com/jobs/14058/summer-internship-program-2027---enterprise-ux-intern/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=ameren.com" width="20" height="20" align="absmiddle">&nbsp; **Ameren** | Student Workplace Design Spring Co-Op ✨ | St.&nbsp;Louis,&nbsp;MO<br><sub>$21–&#8288;$30/hr</sub> | Oct&nbsp;23 | <a href="https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Student-Workplace-Design-Spring-Co-Op_033788-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
