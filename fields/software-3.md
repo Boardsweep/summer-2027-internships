@@ -2,7 +2,7 @@
 
 # 💻 Software engineering internships
 
-All 1,929 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
+All 1,931 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
 
 Page 3 of 3: [1](software.md) · [2](software-2.md) · **3**
 
@@ -10,6 +10,8 @@ Page 3 of 3: [1](software.md) · [2](software-2.md) · **3**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=northropgrumman.com" width="20" height="20" align="absmiddle">&nbsp; **Northrop&nbsp;Grumman** | Software Engineer - Cloudworks - Skillbridge 🛂 | Wright-Patterson Afb, OH<br><sub>$79,300–&#8288;$118,900/yr</sub> | Feb&nbsp;17 | <a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Software-Engineer---CLOUDworks--SkillBridge-_R10211395"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=mercor.com" width="20" height="20" align="absmiddle">&nbsp; **Mercor** | Software Engineer Intern | SF<br><sub>-</sub> | Feb&nbsp;13 | <a href="https://jobs.ashbyhq.com/mercor/de3025e5-10ca-4d55-b688-eff0e647ac8d/application"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=bytedance.com" width="20" height="20" align="absmiddle">&nbsp; **ByteDance** | Software Engineer Intern - AI Infrastructure 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$60/hr</sub> | Feb&nbsp;13 | <a href="https://jobs.bytedance.com/en/position/7595756835349973253/detail"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=exalabs.ai" width="20" height="20" align="absmiddle">&nbsp; **Exa&nbsp;Labs** | Software Engineer Intern | SF<br><sub>$100k–&#8288;$200k/yr</sub> | Feb&nbsp;10 | <a href="https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16/application"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=auctor.com" width="20" height="20" align="absmiddle">&nbsp; **Auctor** | Software Engineering Intern | NYC<br><sub>-</sub> | Feb&nbsp;5 | <a href="https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607/application"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

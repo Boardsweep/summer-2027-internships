@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,501 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,503 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 2 of 2: [1](aiml.md) · **2**
 
@@ -10,6 +10,8 @@ Page 2 of 2: [1](aiml.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=coinbase.com" width="20" height="20" align="absmiddle">&nbsp; **Coinbase** | Data Science Intern - Strategy, Execution, &amp; Analytics - Platform 🔥 | SF<br><sub>$50/hr</sub> | Sep&nbsp;8 | <a href="https://boards.greenhouse.io/embed/job_app?token=8175462"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=dominionenergy.com" width="20" height="20" align="absmiddle">&nbsp; **Dominion&nbsp;Energy** | Electrical Engineer Intern - Operations Analytics | Glen&nbsp;Allen,&nbsp;VA<br><sub>$23–&#8288;$29/hr</sub> | Sep&nbsp;8 | <a href="https://careers.dominionenergy.com/job/GLEN-ALLEN-Intern-ET-Operations-Analytics-VA-23060/1427633000/?ats=successfactors"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=allencontrolsystems.com" width="20" height="20" align="absmiddle">&nbsp; **Allen Control Systems** | Computer Vision Intern - Machine Learning | Austin,&nbsp;TX<br><sub>-</sub> | Sep&nbsp;8 | <a href="https://jobs.ashbyhq.com/allen-control-systems/a7831fef-7125-4c03-b828-5f0472989037/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=boeing.com" width="20" height="20" align="absmiddle">&nbsp; **Boeing** | Artificial Intelligence Software Engineer Intern - Graduate Researcher Program 🛂 | Tukwila,&nbsp;WA<br><sub>$90k/yr</sub> | Sep&nbsp;8 | <a href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=nvidia.com" width="20" height="20" align="absmiddle">&nbsp; **NVIDIA** | Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026 🔥 🎓 | US, CA, Santa Clara<br><sub>-</sub> | Sep&nbsp;8 | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,501 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,503 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 1 of 2: **1** · [2](aiml-2.md)
 
@@ -10,6 +10,8 @@ Page 1 of 2: **1** · [2](aiml-2.md)
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=astrazeneca.com" width="20" height="20" align="absmiddle">&nbsp; **AstraZeneca** | Preclinical Mathematical Modeling Internship ✨ | US - Cambridge Kendall Sq -, MA<br><sub>$37/hr</sub> | Oct&nbsp;24 | <a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/Preclinical-Mathematical-Modeling-Internship_R-262630"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Preclinical Mathematical Modeling Internship ✨ | US - Cambridge Kendall Sq -, MA<br><sub>$37/hr</sub> | Oct&nbsp;24 | <a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/Preclinical-Mathematical-Modeling-Internship_R-262629"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=meta.com" width="20" height="20" align="absmiddle">&nbsp; **Meta** | Research Scientist Intern, Policy Learning for Robotics (PhD) 🔥 🎓 | Redmond,&nbsp;WA<br><sub>-</sub> | Oct&nbsp;23 | <a href="https://www.metacareers.com/jobs/2554989011673624"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Research Scientist Intern, Dexterous Manipulation and Contact-Rich Control (PhD) 🔥 🎓 | Redmond,&nbsp;WA<br><sub>-</sub> | Oct&nbsp;23 | <a href="https://www.metacareers.com/jobs/2053489871986285"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=navyfederal.org" width="20" height="20" align="absmiddle">&nbsp; **Navy&nbsp;Federal** | Data Analytics Intern | 2&nbsp;locations<br><sub>-</sub> | Oct&nbsp;23 | <a href="https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/33208"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -935,8 +937,6 @@ Page 1 of 2: **1** · [2](aiml-2.md)
 | <img src="https://boardsweep.io/api/logo?domain=coinbase.com" width="20" height="20" align="absmiddle">&nbsp; **Coinbase** | Machine Learning Engineer Intern 🔥 | SF<br><sub>$60/hr</sub> | Sep&nbsp;8 | <a href="https://boards.greenhouse.io/embed/job_app?token=8175441"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=vertiv.com" width="20" height="20" align="absmiddle">&nbsp; **Vertiv** | Data and Analytics Intern - Summer 2027 | Westerville,&nbsp;OH<br><sub>-</sub> | Sep&nbsp;8 | <a href="https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280588"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=hoffmanconstructionco.com" width="20" height="20" align="absmiddle">&nbsp; **Hoffman Construction** | Data Analyst Intern | Amarillo,&nbsp;TX<br><sub>$25.13–&#8288;$31.50/hr</sub> | Sep&nbsp;8 | <a href="https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1521"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=coinbase.com" width="20" height="20" align="absmiddle">&nbsp; **Coinbase** | Data Science Intern - Strategy, Execution, &amp; Analytics - Platform 🔥 | SF<br><sub>$50/hr</sub> | Sep&nbsp;8 | <a href="https://boards.greenhouse.io/embed/job_app?token=8175462"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=dominionenergy.com" width="20" height="20" align="absmiddle">&nbsp; **Dominion&nbsp;Energy** | Electrical Engineer Intern - Operations Analytics | Glen&nbsp;Allen,&nbsp;VA<br><sub>$23–&#8288;$29/hr</sub> | Sep&nbsp;8 | <a href="https://careers.dominionenergy.com/job/GLEN-ALLEN-Intern-ET-Operations-Analytics-VA-23060/1427633000/?ats=successfactors"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 **1** · [2](aiml-2.md)
 
