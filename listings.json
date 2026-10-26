@@ -1,5 +1,21 @@
 [
  {
+  "company": "Mayo Clinic",
+  "title": "Undergraduate Intern Neurology AI",
+  "location": "",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "http://jobs.mayoclinic.org/job/rochester/undergraduate-intern-neurology-ai/33647/102349589504",
+  "date_posted": "2026-10-25T18:49:03+00:00",
+  "date_found": "2026-10-25T18:50:06.789327+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Dell Technologies",
   "title": "Services Data Science Graduate Intern",
   "location": "TX",
@@ -398,6 +414,22 @@
   "date_found": "2026-10-23T21:28:28.309000+00:00",
   "top_company": true,
   "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "scout-ai",
+  "title": "AI Engineer Intern - Fury Team (Summer 2027)",
+  "location": "Sunnyvale, CA",
+  "pay": "$45–$65/hr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99",
+  "date_posted": "2026-10-23T21:21:33.568000+00:00",
+  "date_found": "2026-10-25T18:50:06.789327+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -1128,6 +1160,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Rivian",
+  "title": "Technical Program Management Intern - Field Service Programs & Applied Intelligence (Spring 2027 Co-op)",
+  "location": "San Jose, CA",
+  "pay": "$24–$51/hr",
+  "tracks": [
+   "product"
+  ],
+  "url": "https://careers.rivian.com/careers-home/jobs/34674?lang=en-us",
+  "date_posted": "2026-10-23T18:20:00+00:00",
+  "date_found": "2026-10-25T18:50:06.789327+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Meta",
   "title": "Research Scientist Intern, AI Core Machine Learning (PhD)",
   "location": "2 locations",
@@ -1612,6 +1660,56 @@
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": true
+ },
+ {
+  "company": "DocuSign",
+  "title": "Software Developer Intern",
+  "location": "San Francisco, CA",
+  "pay": "$39–$51/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "http://careers.docusign.com/careers-home/jobs/30571?lang=en-us",
+  "date_posted": "2026-10-23T16:15:00+00:00",
+  "date_found": "2026-10-25T18:50:06.789327+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "DocuSign",
+  "title": "Agentic AI Engineer Intern",
+  "location": "San Francisco, CA",
+  "pay": "$34–$44/hr",
+  "tracks": [
+   "aiml",
+   "software"
+  ],
+  "url": "http://careers.docusign.com/careers-home/jobs/30587?lang=en-us",
+  "date_posted": "2026-10-23T16:15:00+00:00",
+  "date_found": "2026-10-25T18:50:06.789327+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "DocuSign",
+  "title": "AI Platform Engineer Intern",
+  "location": "San Francisco, CA",
+  "pay": "$39–$51/hr",
+  "tracks": [
+   "aiml",
+   "software"
+  ],
+  "url": "http://careers.docusign.com/careers-home/jobs/30578?lang=en-us",
+  "date_posted": "2026-10-23T16:14:00+00:00",
+  "date_found": "2026-10-25T18:50:06.789327+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
  },
  {
   "company": "Microsoft",
@@ -30657,23 +30755,6 @@
   "advanced_degree": true
  },
  {
-  "company": "Pinterest",
-  "title": "UX Quantitative Research Intern (USA)  *Remote",
-  "location": "Remote",
-  "pay": "$11,000/mo",
-  "tracks": [
-   "design",
-   "aiml"
-  ],
-  "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140217",
-  "date_posted": "2026-10-01T17:00:52+00:00",
-  "date_found": "2026-10-01T17:04:20.836000+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Varda Space Industries",
   "title": "Aerodynamics & Analysis Engineering Internship - Summer 2027",
   "location": "El Segundo, CA",
@@ -42194,13 +42275,13 @@
  },
  {
   "company": "Nanopath",
-  "title": "Software Development Co-op",
+  "title": "Software Development Co-op (Jan '27 Start)",
   "location": "Cambridge, MA",
   "pay": null,
   "tracks": [
    "software"
   ],
-  "url": "https://job-boards.greenhouse.io/nanopathinc/jobs/4732881005",
+  "url": "https://nanopath.com/careers?gh_jid=4732881005",
   "date_posted": null,
   "date_found": "2026-09-16T22:39:38+00:00",
   "top_company": false,
@@ -47819,22 +47900,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Schonfeld",
-  "title": "2027 Platform Engineering Intern",
-  "location": "New York, NY",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171699",
-  "date_posted": "2026-09-10T16:09:58+00:00",
-  "date_found": "2026-09-10T16:09:58+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Zipline",
   "title": "Data Analytics Intern - Spring 2027",
   "location": "South SF",
@@ -52096,22 +52161,6 @@
   "date_found": "2026-09-01T00:00:00+00:00",
   "top_company": false,
   "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Schonfeld",
-  "title": "2027 Cybersecurity Operations Intern",
-  "location": "New York, NY",
-  "pay": null,
-  "tracks": [
-   "security"
-  ],
-  "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171696",
-  "date_posted": "2026-09-04T16:42:38+00:00",
-  "date_found": "2026-09-04T16:42:38+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -62330,22 +62379,6 @@
   "url": "https://www.zipline.com/open-roles?gh_jid=7907191003",
   "date_posted": "2026-08-20T18:47:04+00:00",
   "date_found": "2026-08-20T22:31:12+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Zipline",
-  "title": "Maintenance Tool Engineering Intern (Spring 2027)",
-  "location": "Esparto, CA",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://www.zipline.com/open-roles/7909945003?gh_jid=7909945003",
-  "date_posted": "2026-08-20T18:45:09+00:00",
-  "date_found": "2026-08-20T18:45:09+00:00",
   "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,

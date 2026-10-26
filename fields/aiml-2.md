@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,452 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,456 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 2 of 2: [1](aiml.md) · **2**
 
@@ -10,6 +10,9 @@ Page 2 of 2: [1](aiml.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=ingredion.com" width="20" height="20" align="absmiddle">&nbsp; **Ingredion** | AI &amp; Data Scientist Intern | Westchester,&nbsp;IL<br><sub>$22–&#8288;$34/hr</sub> | Sep&nbsp;4 | <a href="https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/AI---Data-Scientist-Intern_Req-40220"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=cna.com" width="20" height="20" align="absmiddle">&nbsp; **CNA&nbsp;Insurance** | Data Engineering Intern 🛂 | Chicago,&nbsp;IL<br><sub>$35k–&#8288;$65k/yr</sub> | Sep&nbsp;4 | <a href="https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Data-Engineering-_R-8129"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=stryker.com" width="20" height="20" align="absmiddle">&nbsp; **Stryker** | Data Analyst Intern | Cary,&nbsp;IL<br><sub>$20/hr</sub> | Sep&nbsp;4 | <a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cary-Illinois/Customer-One-Intern--Data-Analyst----Cary--IL_R572734"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=hy-vee.com" width="20" height="20" align="absmiddle">&nbsp; **Hy-Vee** | Data Analytics Intern | West Des Moines, IA<br><sub>-</sub> | Sep&nbsp;4 | <a href="https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Data-Analytics-Intern---Summer-2027_R250146"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=nationwide.com" width="20" height="20" align="absmiddle">&nbsp; **Nationwide** | Feature Engineer Intern - Enterprise Analytics Office | Columbus,&nbsp;OH<br><sub>$23–&#8288;$50/hr</sub> | Sep&nbsp;4 | <a href="https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Feature-Engineer-Internship_100233"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=skydio.com" width="20" height="20" align="absmiddle">&nbsp; **Skydio** | Autonomy Engineer Intern - Computer Vision / Deep Learning - Summer 2027 | San&nbsp;Mateo,&nbsp;CA<br><sub>$47/hr</sub> | Sep&nbsp;3 | <a href="https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
