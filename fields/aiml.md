@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,483 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,485 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 1 of 2: **1** · [2](aiml-2.md)
 
@@ -10,6 +10,8 @@ Page 1 of 2: **1** · [2](aiml-2.md)
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=dell.com" width="20" height="20" align="absmiddle">&nbsp; **Dell&nbsp;Technologies** | Services Data Science Graduate Intern | TX<br><sub>$52.28–&#8288;$56.25/hr</sub> | Oct&nbsp;25 | <a href="https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301413"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Services Analytics Graduate Intern 🎓 | TX<br><sub>$52.28–&#8288;$56.25/hr</sub> | Oct&nbsp;25 | <a href="https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301412"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=astrazeneca.com" width="20" height="20" align="absmiddle">&nbsp; **AstraZeneca** | Preclinical Mathematical Modeling Internship ✨ | US - Cambridge Kendall Sq -, MA<br><sub>$37/hr</sub> | Oct&nbsp;24 | <a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/Preclinical-Mathematical-Modeling-Internship_R-262630"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Preclinical Mathematical Modeling Internship ✨ | US - Cambridge Kendall Sq -, MA<br><sub>$37/hr</sub> | Oct&nbsp;24 | <a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/Preclinical-Mathematical-Modeling-Internship_R-262629"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=meta.com" width="20" height="20" align="absmiddle">&nbsp; **Meta** | Research Scientist Intern, Policy Learning for Robotics (PhD) 🔥 🎓 | Redmond,&nbsp;WA<br><sub>-</sub> | Oct&nbsp;23 | <a href="https://www.metacareers.com/jobs/2554989011673624"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -933,8 +935,6 @@ Page 1 of 2: **1** · [2](aiml-2.md)
 | <img src="https://boardsweep.io/api/logo?domain=capitalone.com" width="20" height="20" align="absmiddle">&nbsp; **Capital&nbsp;One** | AI Engineer Intern 🔥 | 3&nbsp;locations<br><sub>$147k/yr</sub> | Sep&nbsp;8 | <a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=rwbaird.com" width="20" height="20" align="absmiddle">&nbsp; **Baird** | IT AI &amp; Automation Intern | Milwaukee,&nbsp;WI<br><sub>-</sub> | Sep&nbsp;8 | <a href="https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Operations-Automation---AI--Year-Round-_R2026986-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=ercot.com" width="20" height="20" align="absmiddle">&nbsp; **ERCOT** | IT Intern - Enterprise Data &amp; AI Administration | 2&nbsp;locations<br><sub>-</sub> | Sep&nbsp;8 | <a href="https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Intern---IT--Enterprise-Data---AI-Administration_R2478"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=boozallen.com" width="20" height="20" align="absmiddle">&nbsp; **Booz Allen Hamilton** | Applied AI Intern 🛂 | Washington,&nbsp;DC<br><sub>$69,400–&#8288;$158k/yr</sub> | Sep&nbsp;8 | <a href="https://bah.wd1.myworkdayjobs.com/Confidential/job/Washington-DC/University--Applied-AI-Intern_R0248853"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=dickssportinggoods.com" width="20" height="20" align="absmiddle">&nbsp; **Dick&#x27;s Sporting Goods** | Retail Analytics Intern - Corporate Internship | Pittsburgh,&nbsp;PA<br><sub>-</sub> | Sep&nbsp;8 | <a href="https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Retail-Analytics---Summer-2027-Corporate-Internship_202608785-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 **1** · [2](aiml-2.md)
 

@@ -2,7 +2,7 @@
 
 # 🔧 Hardware internships
 
-All 974 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
+All 971 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
 
 Page 2 of 2: [1](hardware.md) · **2**
 
@@ -10,9 +10,6 @@ Page 2 of 2: [1](hardware.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=x.company" width="20" height="20" align="absmiddle">&nbsp; **X&nbsp;Development** | PhD Residency Intern - Physical ML &amp; Hardware-in-the-Loop - Future of Compute | Mountain View, CA<br><sub>$109k–&#8288;$157k/yr</sub> | Jul&nbsp;2 | <a href="https://x.company/careers/8616839002?gh_jid=8616839002"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=geappliances.com" width="20" height="20" align="absmiddle">&nbsp; **GE&nbsp;Appliances** | Electrical Engineer Co-op 🛂 | Louisville,&nbsp;KY<br><sub>-</sub> | Jun&nbsp;27 | <a href="https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Electrical-Engineering-Co-op-Spring-2027_REQ-24834"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=psiquantum.com" width="20" height="20" align="absmiddle">&nbsp; **PsiQuantum** | System Architecture Intern | 4&nbsp;locations<br><sub>$27.50/hr</sub> | Jun&nbsp;23 | <a href="https://www.psiquantum.com/apply?gh_jid=7695577003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=psu.edu" width="20" height="20" align="absmiddle">&nbsp; **Pennsylvania State University** | Research Engineering Intern - Strategic Systems Operations Division - Applied Research Laboratory 🛂 | 2&nbsp;locations<br><sub>-</sub> | Jun&nbsp;20 | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000076869"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=anduril.com" width="20" height="20" align="absmiddle">&nbsp; **Anduril** | Electrical Engineer Intern 🔥 🛂 | 9&nbsp;locations<br><sub>$30–&#8288;$45/hr</sub> | Jun&nbsp;11 | <a href="https://boards.greenhouse.io/andurilindustries/jobs/5148101007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=bytedance.com" width="20" height="20" align="absmiddle">&nbsp; **ByteDance** | Intelligent Sensing Intern - Global Frontier Tech Recruitment Program 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$75/hr</sub> | Jun&nbsp;4 | <a href="https://jobs.bytedance.com/en/position/7629210458173556997/detail"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

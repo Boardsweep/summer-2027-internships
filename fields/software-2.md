@@ -2,7 +2,7 @@
 
 # 💻 Software engineering internships
 
-All 1,906 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
+All 1,904 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
 
 Page 2 of 2: [1](software.md) · **2**
 
@@ -10,8 +10,6 @@ Page 2 of 2: [1](software.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=rivian.com" width="20" height="20" align="absmiddle">&nbsp; **Rivian** | Software Engineer Co-op Intern - Enterprise Applications | Plymouth,&nbsp;MI<br><sub>$25–&#8288;$40/hr</sub> | Sep&nbsp;22 | <a href="https://careers.rivian.com/jobs/33804?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=tylertech.com" width="20" height="20" align="absmiddle">&nbsp; **Tyler Technologies** | Software Development Intern - Summer 2027 | 3&nbsp;locations<br><sub>-</sub> | Sep&nbsp;22 | <a href="https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&amp;nl=1&amp;fr=false"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=rivian.com" width="20" height="20" align="absmiddle">&nbsp; **Rivian** | Software Engineer Intern Co-op - Product Lifecycle Management | Palo&nbsp;Alto,&nbsp;CA<br><sub>$33–&#8288;$51/hr</sub> | Sep&nbsp;22 | <a href="https://careers.rivian.com/jobs/33746?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Software Engineer Co-op Intern - Product Development Portal | Palo&nbsp;Alto,&nbsp;CA<br><sub>$33–&#8288;$51/hr</sub> | Sep&nbsp;22 | <a href="https://careers.rivian.com/jobs/33745?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Software Engineer Intern Co-op - Design Automation | Palo&nbsp;Alto,&nbsp;CA<br><sub>$33–&#8288;$51/hr</sub> | Sep&nbsp;22 | <a href="https://careers.rivian.com/jobs/33748?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

@@ -1,5 +1,37 @@
 [
  {
+  "company": "Dell Technologies",
+  "title": "Services Data Science Graduate Intern",
+  "location": "TX",
+  "pay": "$52.28–$56.25/hr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301413",
+  "date_posted": "2026-10-25T00:00:00+00:00",
+  "date_found": "2026-10-25T07:03:40.993000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Dell Technologies",
+  "title": "Services Analytics Graduate Intern",
+  "location": "TX",
+  "pay": "$52.28–$56.25/hr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301412",
+  "date_posted": "2026-10-25T00:00:00+00:00",
+  "date_found": "2026-10-25T07:03:40.993000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": true
+ },
+ {
   "company": "Stanley Black & Decker",
   "title": "UX/UI Design Intern - Summer 2027",
   "location": "Valley City, OH",
@@ -15635,87 +15667,6 @@
   "date_found": "2026-10-18T07:04:02.103000+00:00",
   "top_company": false,
   "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Qorvo",
-  "title": "BAW Research & Development Intern",
-  "location": "Apopka, FL, US, 32703",
-  "pay": "$31–$42/hr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://careers.qorvo.com/job/Apopka-BAW-Research-&-Development-Intern-FL-32703/1421983700/",
-  "date_posted": "2026-10-18T07:00:00+00:00",
-  "date_found": "2026-10-18T07:04:02.103000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": true
- },
- {
-  "company": "Qorvo",
-  "title": "BAW Research & Development Intern",
-  "location": "Apopka, FL, US, 32703",
-  "pay": "$31–$42/hr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://careers.qorvo.com/job/Apopka-BAW-Research-&-Development-Intern-FL-32703/1421983200/",
-  "date_posted": "2026-10-18T07:00:00+00:00",
-  "date_found": "2026-10-18T07:04:02.103000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": true
- },
- {
-  "company": "Qorvo",
-  "title": "Application Engineering Intern",
-  "location": "Apopka, FL, US, 32703",
-  "pay": "$31–$42/hr",
-  "tracks": [
-   "software",
-   "hardware"
-  ],
-  "url": "https://careers.qorvo.com/job/Apopka-Application-Engineering-Intern-FL-32703/1421984100/",
-  "date_posted": "2026-10-18T07:00:00+00:00",
-  "date_found": "2026-10-18T07:04:02.103000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Qorvo",
-  "title": "Filter Design Engineering Intern",
-  "location": "Apopka, FL, US, 32703",
-  "pay": "$31–$42/hr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://careers.qorvo.com/job/Apopka-Filter-Design-Engineering-Intern-FL-32703/1421953600/",
-  "date_posted": "2026-10-18T07:00:00+00:00",
-  "date_found": "2026-10-18T07:04:02.103000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Qorvo",
-  "title": "Supplier Quality Engineering Intern",
-  "location": "Richardson, TX, US, 75081",
-  "pay": "$31–$42/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://careers.qorvo.com/job/Richardson-Supplier-Quality-Engineering-Intern-TX-75081/1421985400/",
-  "date_posted": "2026-10-18T07:00:00+00:00",
-  "date_found": "2026-10-18T07:04:02.103000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
