@@ -257,40 +257,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Simbe Robotics",
-  "title": "Computer Vision / Applied AI Intern — Summer 2027",
-  "location": "San Francisco Bay Area",
-  "pay": "$48/hr",
-  "tracks": [
-   "aiml",
-   "hardware"
-  ],
-  "url": "https://jobs.lever.co/SimbeRobotics/d8e862ca-212d-4a88-af74-de400b0c6bf8",
-  "date_posted": "2026-10-23T22:11:10+00:00",
-  "date_found": "2026-10-23T16:04:41.241000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Simbe Robotics",
-  "title": "Robot Software Engineer Intern — Spring & Summer 2027",
-  "location": "San Francisco Bay Area",
-  "pay": "$48/hr",
-  "tracks": [
-   "software",
-   "hardware"
-  ],
-  "url": "https://jobs.lever.co/SimbeRobotics/d91f42b9-50b8-4b5f-8daf-00281d7dd61c",
-  "date_posted": "2026-10-23T22:11:06+00:00",
-  "date_found": "2026-10-23T16:04:41.241000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Amperesand",
   "title": "AI/ML Engineering Intern",
   "location": "Sunnyvale, CA",
@@ -15996,22 +15962,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Eulerity",
-  "title": "AI Intern - Office of CEO & Head of Product",
-  "location": "New York, NY",
-  "pay": "$18–$20/hr",
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://job-boards.greenhouse.io/eulerity/jobs/4722871006",
-  "date_posted": "2026-10-17T20:08:01+00:00",
-  "date_found": "2026-10-17T20:56:33.889000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "HCSC",
   "title": "Early Careers - Finance Data & Analytics Developer Intern",
   "location": "2 Locations",
@@ -18886,6 +18836,23 @@
   "advanced_degree": false
  },
  {
+  "company": "Simbe Robotics",
+  "title": "Computer Vision / Applied AI Intern — Summer 2027",
+  "location": "San Francisco Bay Area",
+  "pay": "$48/hr",
+  "tracks": [
+   "aiml",
+   "hardware"
+  ],
+  "url": "https://jobs.lever.co/SimbeRobotics/d8e862ca-212d-4a88-af74-de400b0c6bf8",
+  "date_posted": "2026-10-14T03:06:18.033000+00:00",
+  "date_found": "2026-10-23T16:04:41.241000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "TikTok",
   "title": "Machine Learning Engineer Intern - E-Commerce User Growth",
   "location": "Seattle, WA",
@@ -19981,6 +19948,23 @@
   "url": "https://www.acadian-asset.com/careers/open-positions?gh_jid=4720681006",
   "date_posted": "2026-10-13T22:05:19+00:00",
   "date_found": "2026-10-13T23:04:59.771000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Simbe Robotics",
+  "title": "Robot Software Engineer Intern — Spring & Summer 2027",
+  "location": "San Francisco Bay Area",
+  "pay": "$48/hr",
+  "tracks": [
+   "software",
+   "hardware"
+  ],
+  "url": "https://jobs.lever.co/SimbeRobotics/d91f42b9-50b8-4b5f-8daf-00281d7dd61c",
+  "date_posted": "2026-10-13T21:58:34.615000+00:00",
+  "date_found": "2026-10-23T16:04:41.241000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -40001,23 +39985,6 @@
   "date_posted": null,
   "date_found": "2026-09-21T23:05:42.281000+00:00",
   "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Waymo",
-  "title": "2027 Summer Intern, BS/MS, Embedded, Software Engineer",
-  "location": "Mountain View, CA",
-  "pay": "$60/hr",
-  "tracks": [
-   "hardware",
-   "software"
-  ],
-  "url": "https://careers.withwaymo.com/jobs?gh_jid=8221198",
-  "date_posted": null,
-  "date_found": "2026-09-21T23:05:42.281000+00:00",
-  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
