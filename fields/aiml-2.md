@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,434 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,437 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 2 of 2: [1](aiml.md) · **2**
 
@@ -10,6 +10,9 @@ Page 2 of 2: [1](aiml.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=winsupplyinc.com" width="20" height="20" align="absmiddle">&nbsp; **Winsupply** | Data Analyst Intern | Moraine,&nbsp;OH<br><sub>-</sub> | Sep&nbsp;3 | <a href="https://jobs.smartrecruiters.com/Winsupply1/3743990015046116"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=drivetime.com" width="20" height="20" align="absmiddle">&nbsp; **DriveTime** | Data Science Intern - Summer 2027 | 2&nbsp;locations<br><sub>-</sub> | Sep&nbsp;3 | <a href="https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Science-Intern--Summer-2027-_R16301"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=jhuapl.edu" width="20" height="20" align="absmiddle">&nbsp; **Johns Hopkins Applied Physics Laboratory** | Acoustic Algorithm Development Engineer Intern | Laurel,&nbsp;MD<br><sub>$22.60/hr</sub> | Sep&nbsp;3 | <a href="https://careers.jhuapl.edu/jobs/59784?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=tesla.com" width="20" height="20" align="absmiddle">&nbsp; **Tesla** | Software Engineer Intern - AI Tooling 🔥 | Palo&nbsp;Alto,&nbsp;CA<br><sub>-</sub> | Sep&nbsp;3 | <a href="https://www.tesla.com/careers/search/job/282291"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=tiktok.com" width="20" height="20" align="absmiddle">&nbsp; **TikTok** | AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem 🔥 🛂 | San&nbsp;Jose,&nbsp;CA<br><sub>$35–&#8288;$55/hr</sub> | Sep&nbsp;3 | <a href="https://lifeattiktok.com/search/7677493272788683013"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=benjaminmoore.com" width="20" height="20" align="absmiddle">&nbsp; **Benjamin&nbsp;Moore** | Business Insights Intern | Montvale,&nbsp;NJ<br><sub>$20–&#8288;$22/hr</sub> | Sep&nbsp;3 | <a href="https://careers-benjaminmoore.icims.com/jobs/2488/job?mobile=true&amp;needsRedirect=false"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
