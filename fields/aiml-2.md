@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,456 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,458 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 2 of 2: [1](aiml.md) · **2**
 
@@ -10,6 +10,8 @@ Page 2 of 2: [1](aiml.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=ragleinc.com" width="20" height="20" align="absmiddle">&nbsp; **Ragle** | Data Analytics Intern | North Richland Hills, TX<br><sub>$27.50/hr</sub> | Sep&nbsp;4 | <a href="https://ragleinc.applytojob.com/apply/H0xLKtFZlq/Data-Analytics-Intern-Summer-2027"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=boozallen.com" width="20" height="20" align="absmiddle">&nbsp; **Booz Allen Hamilton** | Data Scientist Intern - University 🛂 | Annapolis Junction, MD<br><sub>$61,900–&#8288;$141k/yr</sub> | Sep&nbsp;4 | <a href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Data-Scientist-Intern---Annapolis-Junction--MD_R0248408"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=ingredion.com" width="20" height="20" align="absmiddle">&nbsp; **Ingredion** | AI &amp; Data Scientist Intern | Westchester,&nbsp;IL<br><sub>$22–&#8288;$34/hr</sub> | Sep&nbsp;4 | <a href="https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/AI---Data-Scientist-Intern_Req-40220"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=cna.com" width="20" height="20" align="absmiddle">&nbsp; **CNA&nbsp;Insurance** | Data Engineering Intern 🛂 | Chicago,&nbsp;IL<br><sub>$35k–&#8288;$65k/yr</sub> | Sep&nbsp;4 | <a href="https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Data-Engineering-_R-8129"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=stryker.com" width="20" height="20" align="absmiddle">&nbsp; **Stryker** | Data Analyst Intern | Cary,&nbsp;IL<br><sub>$20/hr</sub> | Sep&nbsp;4 | <a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cary-Illinois/Customer-One-Intern--Data-Analyst----Cary--IL_R572734"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

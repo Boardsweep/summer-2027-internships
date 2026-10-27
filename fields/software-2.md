@@ -2,7 +2,7 @@
 
 # 💻 Software engineering internships
 
-All 1,855 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
+All 1,859 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
 
 Page 2 of 2: [1](software.md) · **2**
 
@@ -10,6 +10,10 @@ Page 2 of 2: [1](software.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=assuredguaranty.com" width="20" height="20" align="absmiddle">&nbsp; **Assured&nbsp;Guaranty** | Product Software Developer - Front-End | NYC<br><sub>$30–&#8288;$32/hr</sub> | Sep&nbsp;21 | <a href="https://boards.greenhouse.io/assuredguaranty/jobs/8827460002"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=qumulo.com" width="20" height="20" align="absmiddle">&nbsp; **Qumulo** | Software Development Engineer (Seattle) - Internship 2027 🛂 | Seattle<br><sub>$100k/yr</sub> | Sep&nbsp;21 | <a href="https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=eaton.com" width="20" height="20" align="absmiddle">&nbsp; **Eaton** | Software Engineering Intern - Research &amp; Development Engineering | Caledonia,&nbsp;WI<br><sub>$22.15–&#8288;$37.50/hr</sub> | Sep&nbsp;21 | <a href="https://eaton.eightfold.ai/careers/job/687239256127"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=macys.com" width="20" height="20" align="absmiddle">&nbsp; **Macy&#x27;s** | Summer Internship - Technology | Johns&nbsp;Creek,&nbsp;GA<br><sub>-</sub> | Sep&nbsp;21 | <a href="https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92293"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=waymo.com" width="20" height="20" align="absmiddle">&nbsp; **Waymo** | Software Engineer Intern - MS/PhD - Simulation 🔥 🎓 | Mountain View, CA<br><sub>$70/hr</sub> | Sep&nbsp;21 | <a href="https://careers.withwaymo.com/jobs?gh_jid=8221851"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=cadence.com" width="20" height="20" align="absmiddle">&nbsp; **Cadence Design Systems** | Graduate Student Intern - Software Engineering 🔥 | AUSTIN<br><sub>-</sub> | Sep&nbsp;21 | <a href="https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56405-2"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Graduate Student Intern - Software Engineering 🔥 | AUSTIN<br><sub>-</sub> | Sep&nbsp;21 | <a href="https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56405-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

@@ -2,7 +2,7 @@
 
 # 🔧 Hardware internships
 
-All 952 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
+All 954 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
 
 Page 2 of 2: [1](hardware.md) · **2**
 
@@ -10,6 +10,9 @@ Page 2 of 2: [1](hardware.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=figure.ai" width="20" height="20" align="absmiddle">&nbsp; **Figure** | Electrical Engineer Intern | San&nbsp;Jose,&nbsp;CA<br><sub>$40–&#8288;$45/hr</sub> | Apr&nbsp;27 | <a href="https://job-boards.greenhouse.io/figureai/jobs/4676467006"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=psu.edu" width="20" height="20" align="absmiddle">&nbsp; **Pennsylvania State University** | Embedded Systems and Hardware Co-Op 🛂 | Horsham,&nbsp;PA<br><sub>-</sub> | Apr&nbsp;18 | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Electronic Systems and Hardware Co-Op 🛂 | Horsham,&nbsp;PA<br><sub>-</sub> | Apr&nbsp;18 | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Electronic-Systems-and-Hardware-Co-Op_REQ_0000066567-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=neuralink.com" width="20" height="20" align="absmiddle">&nbsp; **Neuralink** | Electrical Engineer Intern - Implant Embedded Systems 🔥 | 2&nbsp;locations<br><sub>$35/hr</sub> | Apr&nbsp;16 | <a href="https://boards.greenhouse.io/neuralink/jobs/7702527003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=zoox.com" width="20" height="20" align="absmiddle">&nbsp; **Zoox** | Student Worker Intern - Firmware Engineer - Firmware Thermal/Body 🔥 | San&nbsp;Mateo,&nbsp;CA<br><sub>-</sub> | Apr&nbsp;15 | <a href="https://jobs.lever.co/zoox/07f0834f-06ec-44c7-a24b-3efa08589d38/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=shield.ai" width="20" height="20" align="absmiddle">&nbsp; **Shield&nbsp;AI** | Electrical Engineering Spring Co-op (January 2027) (R4475) 🔥 | Dallas,&nbsp;TX<br><sub>-</sub> | Apr&nbsp;15<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://jobs.lever.co/shieldai/87d982f2-8b2b-4c73-9a19-71e461c7b724"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
