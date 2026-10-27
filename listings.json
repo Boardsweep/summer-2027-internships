@@ -1,5 +1,53 @@
 [
  {
+  "company": "Teledyne",
+  "title": "College Intern - Technical",
+  "location": "US - Woodridge, IL",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Woodridge-IL/College-Intern---Technical_REQ36728",
+  "date_posted": "2026-10-26T05:43:32.563000+00:00",
+  "date_found": "2026-10-26T06:00:11.952000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Hewlett Packard Enterprise",
+  "title": "AI/ML Developer Intern",
+  "location": "San Jose, CA",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California/AI-ML-Developer-Intern_1217413",
+  "date_posted": "2026-10-26T01:43:25.588000+00:00",
+  "date_found": "2026-10-26T01:56:56.465000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Man Group",
+  "title": "Systematic Fast Trading Intern",
+  "location": "New York",
+  "pay": "$50–$60/hr",
+  "tracks": [
+   "quant"
+  ],
+  "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/5012801101",
+  "date_posted": "2026-10-26T01:18:38+00:00",
+  "date_found": "2026-10-26T01:56:56.465000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Airbus",
   "title": "Society of Women Engineers Conference Summer Internship - Engineering 2027",
   "location": "Mobile Area, AL",
@@ -6114,7 +6162,7 @@
  },
  {
   "company": "Brookhaven Lab",
-  "title": "Data Engineering Student Assistant Intern",
+  "title": "Data Engineering Student Assistant",
   "location": "Brookhaven, NY",
   "pay": "$17–$31.25/hr",
   "tracks": [
@@ -15025,22 +15073,6 @@
   "date_found": "2026-10-19T07:40:13.918000+00:00",
   "top_company": true,
   "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Johnson & Johnson",
-  "title": "Digital & Deployment Co-op Summer 2027",
-  "location": "Cincinnati, OH",
-  "pay": "$23.50–$52.50/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Digital---Deployment-Co-op-Summer-2027_R-103631",
-  "date_posted": "2026-10-19T05:44:28.178000+00:00",
-  "date_found": "2026-10-19T05:58:38.255000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -51960,22 +51992,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Schonfeld",
-  "title": "Data Science Intern",
-  "location": "NYC",
-  "pay": null,
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171692",
-  "date_posted": null,
-  "date_found": "2026-09-04T22:46:06+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "ENFOS",
   "title": "Software Engineer Intern - Summer 2027",
   "location": "Durham, NC",
@@ -52325,6 +52341,22 @@
   "date_found": "2026-09-01T00:00:00+00:00",
   "top_company": false,
   "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Schonfeld",
+  "title": "Data Science Intern",
+  "location": "NYC",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171692",
+  "date_posted": "2026-09-04T16:42:57+00:00",
+  "date_found": "2026-09-04T22:46:06+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },

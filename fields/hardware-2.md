@@ -2,7 +2,7 @@
 
 # 🔧 Hardware internships
 
-All 954 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
+All 955 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
 
 Page 2 of 2: [1](hardware.md) · **2**
 
@@ -10,6 +10,7 @@ Page 2 of 2: [1](hardware.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=heronpower.com" width="20" height="20" align="absmiddle">&nbsp; **Heron&nbsp;Power** | Hardware Test Engineering Intern | Santa&nbsp;Cruz,&nbsp;CA<br><sub>-</sub> | May&nbsp;11<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="http://jobs.ashbyhq.com/heron-power/7c3f30a6-f806-4bf5-a94c-cb4dece20cb2/application"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=figure.ai" width="20" height="20" align="absmiddle">&nbsp; **Figure** | Electrical Engineer Intern | San&nbsp;Jose,&nbsp;CA<br><sub>$40–&#8288;$45/hr</sub> | Apr&nbsp;27 | <a href="https://job-boards.greenhouse.io/figureai/jobs/4676467006"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=psu.edu" width="20" height="20" align="absmiddle">&nbsp; **Pennsylvania State University** | Embedded Systems and Hardware Co-Op 🛂 | Horsham,&nbsp;PA<br><sub>-</sub> | Apr&nbsp;18 | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Electronic Systems and Hardware Co-Op 🛂 | Horsham,&nbsp;PA<br><sub>-</sub> | Apr&nbsp;18 | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Electronic-Systems-and-Hardware-Co-Op_REQ_0000066567-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

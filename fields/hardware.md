@@ -2,7 +2,7 @@
 
 # 🔧 Hardware internships
 
-All 954 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
+All 955 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
 
 Page 1 of 2: **1** · [2](hardware-2.md)
 
@@ -10,6 +10,7 @@ Page 1 of 2: **1** · [2](hardware-2.md)
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=teledyne.com" width="20" height="20" align="absmiddle">&nbsp; **Teledyne** | College Intern - Technical 🛂 | US - Woodridge, IL<br><sub>-</sub> | Oct&nbsp;26 | <a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Woodridge-IL/College-Intern---Technical_REQ36728"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=airbus.com" width="20" height="20" align="absmiddle">&nbsp; **Airbus** | Society of Women Engineers Conference Summer Internship - Engineering 2027 ✨ | Mobile&nbsp;Area,&nbsp;AL<br><sub>-</sub> | Oct&nbsp;26 | <a href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Society-of-Women-Engineers-Conference-Summer-Internship---Engineering-2027_JR10436173"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Society of Women Engineers Conference Summer Internship - Engineering 2027 ✨ | Wichita,&nbsp;KS<br><sub>-</sub> | Oct&nbsp;26 | <a href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Society-of-Women-Engineers-Conference-Summer-Internship---Engineering-2027_JR10433021"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=aecom.com" width="20" height="20" align="absmiddle">&nbsp; **AECOM** | Structural Engineering Intern - Hiring Event with AECOM - Arlington, VA ✨ | Virginia&nbsp;Beach<br><sub>-</sub> | Oct&nbsp;24 | <a href="https://jobs.smartrecruiters.com/AECOM2/744000157611929"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -941,7 +942,6 @@ Page 1 of 2: **1** · [2](hardware-2.md)
 | <img src="https://boardsweep.io/api/logo?domain=basepowercompany.com" width="20" height="20" align="absmiddle">&nbsp; **Base&nbsp;Power** | Hardware Engineer Intern | Austin,&nbsp;TX<br><sub>-</sub> | May&nbsp;21 | <a href="https://jobs.ashbyhq.com/base-power/f22cee0e-55d9-42cd-806e-1c1fc7217770/application"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=nissan-global.com" width="20" height="20" align="absmiddle">&nbsp; **Nissan** | Autonomous Driving Applications Research Intern | Santa&nbsp;Clara,&nbsp;CA<br><sub>-</sub> | May&nbsp;21 | <a href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Autonomous-Driving-Applications-Research-Intern_R00209383"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=etched.com" width="20" height="20" align="absmiddle">&nbsp; **Etched** | PD Intern 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>-</sub> | May&nbsp;19 | <a href="https://jobs.ashbyhq.com/Etched/bd8c5768-7efa-4a18-9e56-485ccaf4ec77/application"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=heronpower.com" width="20" height="20" align="absmiddle">&nbsp; **Heron&nbsp;Power** | Hardware Test Engineering Intern | Santa&nbsp;Cruz,&nbsp;CA<br><sub>-</sub> | May&nbsp;11<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="http://jobs.ashbyhq.com/heron-power/7c3f30a6-f806-4bf5-a94c-cb4dece20cb2/application"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 **1** · [2](hardware-2.md)
 
