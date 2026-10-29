@@ -2,7 +2,7 @@
 
 # 🔧 Hardware internships
 
-All 950 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
+All 955 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
 
 Page 2 of 2: [1](hardware.md) · **2**
 
@@ -10,6 +10,9 @@ Page 2 of 2: [1](hardware.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=geaerospace.com" width="20" height="20" align="absmiddle">&nbsp; **GE&nbsp;Aerospace** | Engines Engineering Intern/Co-op - Computer or Software Engineering 🛂 | 2&nbsp;locations<br><sub>$20/hr</sub> | Mar&nbsp;3 | <a href="https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Spring-2027_R5029619"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=bio-techne.com" width="20" height="20" align="absmiddle">&nbsp; **Bio-Techne** | Hardware Engineering Intern | San&nbsp;Jose,&nbsp;CA<br><sub>$19.20–&#8288;$26.40/hr</sub> | Feb&nbsp;19 | <a href="https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/San-Jose-CA/Hardware-Engineering-Intern_JR101533"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=neuralink.com" width="20" height="20" align="absmiddle">&nbsp; **Neuralink** | Analog and Mixed-Signal IC Design Engineer Intern 🔥 | South&nbsp;SF<br><sub>$35/hr</sub> | Feb&nbsp;18 | <a href="https://boards.greenhouse.io/neuralink/jobs/7565469003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=etched.com" width="20" height="20" align="absmiddle">&nbsp; **Etched** | Chipsim Intern 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>-</sub> | Feb&nbsp;7 | <a href="https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8/application"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Firmware Intern - Firmware 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>-</sub> | Feb&nbsp;7 | <a href="https://jobs.ashbyhq.com/Etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc/application"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Electrical Platform Intern 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>-</sub> | Feb&nbsp;7<br><sub>⚡&nbsp;39m</sub> | <a href="https://jobs.ashbyhq.com/Etched/904ddf46-55fc-4a8f-8b49-f32cfe88116a/application"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
