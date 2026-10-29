@@ -1,5 +1,152 @@
 [
  {
+  "company": "CAMS",
+  "title": "Application Performance Monitoring Predictive Analytics Engineer Intern",
+  "location": "Houston, TX",
+  "pay": "$20–$25/hr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://jobs.lever.co/camstex/b4aac4f1-7f7e-4851-948b-bb61a30bc4d9/apply",
+  "date_posted": "2026-10-28T06:04:14+00:00",
+  "date_found": "2026-10-28T06:04:14+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Intel",
+  "title": "AI Software Engineer Intern",
+  "location": "3 Locations",
+  "pay": null,
+  "tracks": [
+   "software",
+   "aiml"
+  ],
+  "url": "https://intel.wd1.myworkdayjobs.com/external/job/PRC-Shanghai/AI-Software-Engineer-Intern_JR0288692",
+  "date_posted": "2026-10-28T04:44:28.667000+00:00",
+  "date_found": "2026-10-28T04:59:00.087000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Wabtec",
+  "title": "Wabtec Spring 2027 Software Engineering Co-Op (10-Week)",
+  "location": "Schenectady",
+  "pay": "$19–$33/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.smartrecruiters.com/Wabtec/3743990016452226",
+  "date_posted": "2026-10-28T03:21:34+00:00",
+  "date_found": "2026-10-28T04:00:47.360000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Aurora Operations",
+  "title": "Lidar Systems Intern",
+  "location": "Mountain View, CA",
+  "pay": "$52/hr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.ashbyhq.com/aurora-operations-inc/ce5ad079-0588-402a-aa0e-b5efe0ba28f1",
+  "date_posted": null,
+  "date_found": "2026-10-28T02:00:48.309000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Hewlett Packard Enterprise",
+  "title": "Sales Cyber Security Intern",
+  "location": "Westford, MA",
+  "pay": null,
+  "tracks": [
+   "security"
+  ],
+  "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Westford-Massachusetts-United-States-of-America/Sales-Cyber-Security-Intern_1214044",
+  "date_posted": "2026-10-28T01:44:27.646000+00:00",
+  "date_found": "2026-10-28T02:00:48.309000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Perspective Therapeutics",
+  "title": "AI Innovation Intern",
+  "location": "Seattle, WA",
+  "pay": "$21.30–$24/hr",
+  "tracks": [
+   "aiml",
+   "software"
+  ],
+  "url": "https://perspectivetherapeutics.applytojob.com/apply/W9dIXxB2Qe/AI-Innovation-Intern",
+  "date_posted": "2026-10-28T01:27:48+00:00",
+  "date_found": "2026-10-28T01:27:48+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "FUTO",
+  "title": "Software Engineer Intern",
+  "location": "Austin, TX",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.lever.co/futo-org/7dd9877a-9009-408d-aa50-623cd5153f70/apply",
+  "date_posted": "2026-10-28T01:16:34+00:00",
+  "date_found": "2026-10-28T02:00:48.309000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "F7d8749a 72d6 407c Bf98 292ea630c73a",
+  "title": "June 2027 Co-op - Reliability Engineering #5953",
+  "location": "Seattle, WA",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/0eb4a172-b6b9-4bda-85e5-fe566b342c0e",
+  "date_posted": "2026-10-28T01:14:11.165000+00:00",
+  "date_found": "2026-10-28T06:58:07.359000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "GrayMatter Robotics",
+  "title": "Robotics Engineering Intern: Systems & Applications - IMMEDIATE START",
+  "location": "Los Angeles - HQ",
+  "pay": "$30–$40/hr",
+  "tracks": [
+   "software",
+   "hardware"
+  ],
+  "url": "https://jobs.ashbyhq.com/graymatter-robotics/1cdbf03d-438b-46f8-808e-76fb6cfd4320",
+  "date_posted": "2026-10-28T00:45:19.141000+00:00",
+  "date_found": "2026-10-28T02:00:48.309000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Samsung Semiconductor",
   "title": "Intern, Thermal Modeling & Simulation Engineer (AI Memory / HBM)",
   "location": "San Jose, CA",
@@ -114,6 +261,38 @@
   "advanced_degree": false
  },
  {
+  "company": "VSP Vision",
+  "title": "Internship, Software Engineer",
+  "location": "Remote US",
+  "pay": "$26.50–$32.50/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068",
+  "date_posted": "2026-10-28T00:00:00+00:00",
+  "date_found": "2026-10-28T06:58:07.359000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "VSP Vision",
+  "title": "Internship, Technology Innovation",
+  "location": "Remote US",
+  "pay": "$24.50–$30.50/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Technology-Innovation_R-10020",
+  "date_posted": "2026-10-28T00:00:00+00:00",
+  "date_found": "2026-10-28T04:59:00.087000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Mercor",
   "title": "Research Engineer, Intern – Benchmarking",
   "location": "San Francisco",
@@ -142,6 +321,22 @@
   "url": "https://jobs.ashbyhq.com/mercor/049bd532-6fb7-4ae6-85a1-788dd31a14ca",
   "date_posted": "2026-10-27T23:21:20.365000+00:00",
   "date_found": "2026-10-28T00:24:29.407000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Perspective Therapeutics",
+  "title": "AI Innovation Intern",
+  "location": "Seattle, WA",
+  "pay": "$21.30–$24/hr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://perspectivetherapeutics.applytojob.com/apply/W9dIXxB2Qe",
+  "date_posted": "2026-10-27T23:18:37+00:00",
+  "date_found": "2026-10-28T02:58:38.962000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -2332,6 +2527,22 @@
   "date_found": "2026-10-27T13:02:27.428000+00:00",
   "top_company": true,
   "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Resurgent Industries",
+  "title": "Electrical Engineer (Entry-Level / Intern)",
+  "location": "Austin",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.ashbyhq.com/resurgent-industries/5c198a8e-a24b-4ecf-8a30-806e45a44706",
+  "date_posted": "2026-10-27T12:54:11.183000+00:00",
+  "date_found": "2026-10-28T02:58:38.962000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -5148,6 +5359,22 @@
   "advanced_degree": true
  },
  {
+  "company": "F7d8749a 72d6 407c Bf98 292ea630c73a",
+  "title": "Electrical Engineering Co-op - January 2027",
+  "location": "Dallas, TX",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/7c6f4d6d-fac0-4d71-9d4e-7581db11dc33",
+  "date_posted": "2026-10-26T18:54:29.344000+00:00",
+  "date_found": "2026-10-28T06:58:07.359000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Meta",
   "title": "Technical Program Manager Intern, Reality Labs — 2027",
   "location": "Menlo Park, CA",
@@ -6305,6 +6532,22 @@
   "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/5012802101",
   "date_posted": "2026-10-26T00:26:53+00:00",
   "date_found": "2026-10-26T01:00:44.814000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "F7d8749a 72d6 407c Bf98 292ea630c73a",
+  "title": "Summer 2027 - Software Engineer Intern",
+  "location": "San Diego, CA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/db04c516-d21a-449c-8bfd-1cf830eafb5a",
+  "date_posted": "2026-10-26T00:00:00+00:00",
+  "date_found": "2026-10-28T06:58:07.359000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -12631,6 +12874,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Zus Health",
+  "title": "Platform Software Engineering Co-op",
+  "location": "Boston, MA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.ashbyhq.com/zus-health/ec0f1de8-c589-4637-b3f8-4a87dd06882a/application?embed=true",
+  "date_posted": "2026-10-22T00:00:00+00:00",
+  "date_found": "2026-10-28T02:00:48.309000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "NVIDIA",
   "title": "NVIDIA 2027 Internships: Systems Software Engineering",
   "location": "Santa Clara, CA",
@@ -15402,135 +15661,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Caterpillar",
-  "title": "Secure Technology Apprentice (Cybersecurity Apprenticeship)",
-  "location": "2 Locations",
-  "pay": "$28.70–$43.10/hr",
-  "tracks": [
-   "security"
-  ],
-  "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/East-Peoria-Illinois/Secure-Technology-Apprentice--Cybersecurity-Apprenticeship-_R0000396195",
-  "date_posted": "2026-10-21T06:42:04.136000+00:00",
-  "date_found": "2026-10-21T06:57:18.736000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Smith+Nephew",
-  "title": "Intern Electrical Engineering",
-  "location": "Andover, MA",
-  "pay": "$27–$32/hr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Electrical-Engineering_R92957",
-  "date_posted": "2026-10-21T05:46:54.958000+00:00",
-  "date_found": "2026-10-21T05:57:36.024000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Smith+Nephew",
-  "title": "Co-Op Electrical Engineering",
-  "location": "Andover, MA",
-  "pay": "$27–$32/hr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Co-Op-Electrical-Engineering_R92956-1",
-  "date_posted": "2026-10-21T05:46:54.958000+00:00",
-  "date_found": "2026-10-21T05:57:36.024000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Smith+Nephew",
-  "title": "Intern Systems Engineering",
-  "location": "Andover, MA",
-  "pay": "$27–$32/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Systems-Engineering_R92955-1",
-  "date_posted": "2026-10-21T05:46:54.958000+00:00",
-  "date_found": "2026-10-21T05:57:36.024000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Smith+Nephew",
-  "title": "Co-Op Systems Engineering",
-  "location": "Andover, MA",
-  "pay": "$27–$32/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Co-Op-Systems-Engineering_R92954",
-  "date_posted": "2026-10-21T04:49:26.298000+00:00",
-  "date_found": "2026-10-21T05:03:54.115000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Smith+Nephew",
-  "title": "Intern Embedded Software Engineering",
-  "location": "Andover, MA",
-  "pay": "$27–$32/hr",
-  "tracks": [
-   "software",
-   "hardware"
-  ],
-  "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952",
-  "date_posted": "2026-10-21T04:49:26.298000+00:00",
-  "date_found": "2026-10-21T05:03:54.115000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "RTX",
-  "title": "Systems Engineer Co-Op – Algorithms (Spring/Summer 2027) - Onsite",
-  "location": "Cedar Rapids, IA",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Systems-Engineer-Co-Op---Algorithms--Spring-Summer-2027----Onsite_01881510",
-  "date_posted": "2026-10-21T03:51:06.403000+00:00",
-  "date_found": "2026-10-21T03:52:00.161000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "RTX",
-  "title": "Co-op: Systems Engineering Co-op (Summer-Fall 2027) - Onsite",
-  "location": "Cedar Rapids, IA",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Co-op--Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01873973",
-  "date_posted": "2026-10-21T02:33:08.325000+00:00",
-  "date_found": "2026-10-21T02:34:08.847000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Rhoda AI",
   "title": "Software Engineer Intern, Inference",
   "location": "Mountain View",
@@ -16220,23 +16350,6 @@
   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053",
   "date_posted": "2026-10-21T00:00:00+00:00",
   "date_found": "2026-10-21T14:01:48.663000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Smith+Nephew",
-  "title": "Intern Agentic AI Software Engineering",
-  "location": "Andover, MA",
-  "pay": "$27–$32/hr",
-  "tracks": [
-   "software",
-   "aiml"
-  ],
-  "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953",
-  "date_posted": "2026-10-21T00:00:00+00:00",
-  "date_found": "2026-10-21T05:03:54.115000+00:00",
   "top_company": false,
   "no_sponsorship": true,
   "citizenship_required": false,
@@ -17009,6 +17122,40 @@
   "advanced_degree": false
  },
  {
+  "company": "DriveWealth",
+  "title": "AI Consulting Associate Program – AI Engineer Intern",
+  "location": "Chicago, IL",
+  "pay": "$35–$40/hr",
+  "tracks": [
+   "aiml",
+   "software"
+  ],
+  "url": "https://jobs.ashbyhq.com/drivewealth/a214dd6c-e3ac-481e-8308-bf74c2032b8a/application?embed=true",
+  "date_posted": "2026-10-20T00:00:00+00:00",
+  "date_found": "2026-10-28T02:58:38.962000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "DriveWealth",
+  "title": "AI Consulting Associate Program Product Owner Intern",
+  "location": "Chicago, IL",
+  "pay": "$35–$40/hr",
+  "tracks": [
+   "aiml",
+   "software"
+  ],
+  "url": "https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87/application?embed=true",
+  "date_posted": "2026-10-20T00:00:00+00:00",
+  "date_found": "2026-10-28T02:58:38.962000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "NVIDIA",
   "title": "Systems Software Intern, Aerial PHY- Summer 2027",
   "location": "Santa Clara, CA",
@@ -17074,23 +17221,6 @@
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
- },
- {
-  "company": "NVIDIA",
-  "title": "Applied Research Intern, Integrated Sensing and Communications (ISAC)-NVIDIA Aerial - Summer 2027",
-  "location": "Santa Clara, CA",
-  "pay": null,
-  "tracks": [
-   "aiml",
-   "hardware"
-  ],
-  "url": "https://nvidia.eightfold.ai/careers/job/893398185388",
-  "date_posted": "2026-10-20T00:00:00+00:00",
-  "date_found": "2026-10-21T06:07:30.819000+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": true
  },
  {
   "company": "Hewlett Packard Enterprise",
@@ -46252,6 +46382,22 @@
   "date_found": "2026-09-15T00:00:00+00:00",
   "top_company": false,
   "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Etched",
+  "title": "Core Engineering Intern",
+  "location": "San Jose, CA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.ashbyhq.com/Etched/494546ec-de37-46a2-b450-692c23b7b0c8/application?embed=true",
+  "date_posted": null,
+  "date_found": "2026-09-15T10:05:28+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
