@@ -2,12 +2,13 @@
 
 # 🎨 Design internships
 
-All 52 open design internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design), or [get them by email, free](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design).
+All 53 open design internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design), or [get them by email, free](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=uline.com" width="20" height="20" align="absmiddle">&nbsp; **Uline** | UX Internship - Summer 2027 ✨ | 5&nbsp;Locations<br><sub>-</sub> | Oct&nbsp;29 | <a href="https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/UX-Internship---Summer-2027_R268775"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=sharkninja.com" width="20" height="20" align="absmiddle">&nbsp; **SharkNinja** | Spring 2027: Product Design Engineering Co-op, Advanced Development (January to June) ✨ | Needham,&nbsp;MA<br><sub>$27–&#8288;$36/hr</sub> | Oct&nbsp;28<br><sub>⚡&nbsp;55m</sub> | <a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720191006"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=sonos.com" width="20" height="20" align="absmiddle">&nbsp; **Sonos** | User Experience Intern ✨ 🛂 | Seattle,&nbsp;WA<br><sub>-</sub> | Oct&nbsp;28 | <a href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/User-Experience-Intern_R2883-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=centene.com" width="20" height="20" align="absmiddle">&nbsp; **Centene** | Digital Design Operations Intern (Master&#x27;s - Summer 2027) ✨ 🎓 | Remote-MO<br><sub>$21–&#8288;$30/hr</sub> | Oct&nbsp;28 | <a href="https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Digital-Design-Operations-Intern--Master-s---Summer-2027-_1667736"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
