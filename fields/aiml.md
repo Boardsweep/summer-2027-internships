@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,504 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,505 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 1 of 2: **1** · [2](aiml-2.md)
 
@@ -10,6 +10,7 @@ Page 1 of 2: **1** · [2](aiml-2.md)
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=bostonscientific.com" width="20" height="20" align="absmiddle">&nbsp; **Boston&nbsp;Scientific** | AI Solutions Engineering Intern 🛂 | Arden&nbsp;Hills,&nbsp;MN<br><sub>$43,368/yr</sub> | Oct&nbsp;29 | <a href="https://bostonscientific.eightfold.ai/careers/job/563602813547675"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=meta.com" width="20" height="20" align="absmiddle">&nbsp; **Meta** | ML Innovation for Products, PhD Research Intern 🔥 ✨ 🎓 | 2&nbsp;locations<br><sub>-</sub> | Oct&nbsp;29 | <a href="https://www.metacareers.com/jobs/1060093353751700"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=microsoft.com" width="20" height="20" align="absmiddle">&nbsp; **Microsoft** | Research Intern - Machine Learning and Optimization 🔥 | Redmond,&nbsp;WA<br><sub>-</sub> | Oct&nbsp;28 | <a href="https://apply.careers.microsoft.com/careers/job/1970393557049981"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=merck.com" width="20" height="20" align="absmiddle">&nbsp; **Merck** | Future Talent Program Co-op - Global Supplier Management Group Business Ops | 2&nbsp;locations<br><sub>$39,908–&#8288;$111,111/yr</sub> | Oct&nbsp;28 | <a href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Global-Supplier-Management-Group-Business-Ops---Co-op_R415029"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -934,7 +935,6 @@ Page 1 of 2: **1** · [2](aiml-2.md)
 | <img src="https://boardsweep.io/api/logo?domain=bedrockrobotics.com" width="20" height="20" align="absmiddle">&nbsp; **Bedrock&nbsp;Robotics** | Onboard Infrastructure Engineer Intern - ML Inference | SF<br><sub>-</sub> | Sep&nbsp;10 | <a href="https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Behavior Machine Learning Engineer Intern - World Models | SF<br><sub>-</sub> | Sep&nbsp;10 | <a href="https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=vaynermedia.com" width="20" height="20" align="absmiddle">&nbsp; **VaynerMedia** | Data Analytics Resident | NYC<br><sub>$20/hr</sub> | Sep&nbsp;10<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://vaynermedia.com/careers?gh_jid=8126062"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=tesla.com" width="20" height="20" align="absmiddle">&nbsp; **Tesla** | Data Engineer Intern - Fleet Data - Self-Driving 🔥 | Palo&nbsp;Alto,&nbsp;CA<br><sub>-</sub> | Sep&nbsp;10 | <a href="https://www.tesla.com/careers/search/job/281612"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 **1** · [2](aiml-2.md)
 

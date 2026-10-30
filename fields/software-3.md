@@ -1,0 +1,24 @@
+[← Back to the list](../README.md)
+
+# 💻 Software engineering internships
+
+All 1,912 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
+
+Page 3 of 3: [1](software.md) · [2](software-2.md) · **3**
+
+<sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
+
+| Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
+| --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=neuralink.com" width="20" height="20" align="absmiddle">&nbsp; **Neuralink** | Software Engineer Intern, BCI Applications 🔥 | 2&nbsp;locations<br><sub>-</sub> | May&nbsp;30 | <a href="https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Software Engineer Intern, Implant 🔥 | 2&nbsp;locations<br><sub>-</sub> | May&nbsp;8<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://boards.greenhouse.io/neuralink/jobs/6569018003?gh_jid=6569018003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Software Engineer Intern, Robotics 🔥 | 2&nbsp;locations<br><sub>-</sub> | Jan&nbsp;14 | <a href="https://boards.greenhouse.io/neuralink/jobs/5469305003?gh_jid=5469305003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Software Engineer Intern - Internal Apps 🔥 | 2&nbsp;locations<br><sub>$35/hr</sub> | Dec&nbsp;13 | <a href="https://boards.greenhouse.io/neuralink/jobs/6083322003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Embedded Software Engineer Intern, Implant Embedded Systems 🔥 | 2&nbsp;locations<br><sub>$35/hr</sub> | Nov&nbsp;27 | <a href="https://boards.greenhouse.io/neuralink/jobs/6283663003?gh_jid=6283663003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=palantir.com" width="20" height="20" align="absmiddle">&nbsp; **Palantir** | Software Engineer Intern 🔥 | Denver,&nbsp;CO<br><sub>-</sub> | Aug&nbsp;29 | <a href="https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Software Engineer Intern - Defense Tech 🔥 | NYC<br><sub>-</sub> | Aug&nbsp;5 | <a href="https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=neuralink.com" width="20" height="20" align="absmiddle">&nbsp; **Neuralink** | Software Engineer Intern, Infrastructure 🔥 | South San Francisco, CA<br><sub>-</sub> | Jun&nbsp;13 | <a href="https://boards.greenhouse.io/neuralink/jobs/5469298003?gh_jid=5469298003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+
+[1](software.md) · [2](software-2.md) · **3**
+
+[← Back to the list](../README.md) · [Get these by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software)

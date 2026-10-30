@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,504 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,505 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 2 of 2: [1](aiml.md) · **2**
 
@@ -10,6 +10,7 @@ Page 2 of 2: [1](aiml.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=tesla.com" width="20" height="20" align="absmiddle">&nbsp; **Tesla** | Data Engineer Intern - Fleet Data - Self-Driving 🔥 | Palo&nbsp;Alto,&nbsp;CA<br><sub>-</sub> | Sep&nbsp;10 | <a href="https://www.tesla.com/careers/search/job/281612"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=epiroc.com" width="20" height="20" align="absmiddle">&nbsp; **Epiroc** | Data Analyst Intern - Digital Solutions Division | Broomfield,&nbsp;CO<br><sub>-</sub> | Sep&nbsp;10 | <a href="https://www.careerprofile.epiroc.com/job/Broomfield-Intern-Data-Analyst-CO-80020/1435969833/?ats=successfactors"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=scor.com" width="20" height="20" align="absmiddle">&nbsp; **SCOR** | Data Science Intern | Charlotte,&nbsp;NC<br><sub>$22–&#8288;$24/hr</sub> | Sep&nbsp;10 | <a href="https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5393"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=zipline.com" width="20" height="20" align="absmiddle">&nbsp; **Zipline** | Data Analytics Intern - Spring 2027 🔥 | South&nbsp;SF<br><sub>-</sub> | Sep&nbsp;10 | <a href="https://www.zipline.com/open-roles/7990420003?gh_jid=7990420003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

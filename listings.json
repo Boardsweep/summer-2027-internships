@@ -1,5 +1,121 @@
 [
  {
+  "company": "Boston Scientific",
+  "title": "R&D Leads Sustaining Engineer Intern",
+  "location": "Arden Hills, MN",
+  "pay": "$43,368/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://bostonscientific.eightfold.ai/careers/job/563602813547676",
+  "date_posted": "2026-10-29T05:00:00+00:00",
+  "date_found": "2026-10-29T05:07:12.341000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Boston Scientific",
+  "title": "AI Solutions Engineering Intern",
+  "location": "Arden Hills, MN",
+  "pay": "$43,368/yr",
+  "tracks": [
+   "aiml",
+   "software"
+  ],
+  "url": "https://bostonscientific.eightfold.ai/careers/job/563602813547675",
+  "date_posted": "2026-10-29T05:00:00+00:00",
+  "date_found": "2026-10-29T05:07:12.341000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Boston Scientific",
+  "title": "Software & Systems Testing Engineering Intern",
+  "location": "Arden Hills, MN",
+  "pay": "$43,368/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://bostonscientific.eightfold.ai/careers/job/563602813862694",
+  "date_posted": "2026-10-29T04:16:58+00:00",
+  "date_found": "2026-10-29T04:28:45.424000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "F7d8749a 72d6 407c Bf98 292ea630c73a",
+  "title": "Summer 2027 - Product Support Engineering Intern #6470 & #6442",
+  "location": "Dallas, TX",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/d0dbdf00-64c2-465d-8a34-55ee9df428c0",
+  "date_posted": null,
+  "date_found": "2026-10-29T03:53:18.314123+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "USAFacts",
+  "title": "AI & Software Engineering Intern",
+  "location": "Bellevue, WA",
+  "pay": "$38/hr",
+  "tracks": [
+   "software",
+   "aiml"
+  ],
+  "url": "https://job-boards.greenhouse.io/usafacts/jobs/4472154009",
+  "date_posted": "2026-10-29T02:56:10+00:00",
+  "date_found": "2026-10-29T03:58:17.954000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Hewlett Packard Enterprise",
+  "title": "Software Product Security Intern - HP IQ",
+  "location": "San Francisco, CA",
+  "pay": "$40–$50/hr",
+  "tracks": [
+   "software",
+   "security"
+  ],
+  "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Product-Security-Intern---HP-IQ_UNI4810-1",
+  "date_posted": "2026-10-29T01:59:10.123000+00:00",
+  "date_found": "2026-10-29T02:04:24.785000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Hewlett Packard Enterprise",
+  "title": "Software Product Security Intern - HP IQ",
+  "location": "San Francisco, CA",
+  "pay": "$40–$50/hr",
+  "tracks": [
+   "software",
+   "security"
+  ],
+  "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Product-Security-Intern---HP-IQ_UNI4810-2",
+  "date_posted": "2026-10-29T01:59:05.782000+00:00",
+  "date_found": "2026-10-29T02:04:24.785000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "ChampionX",
   "title": "Reliability Engineering Co-Op",
   "location": "Sugar Land, TX",
@@ -391,7 +507,7 @@
  {
   "company": "Axiom Space",
   "title": "Electrical Engineering Intern (Summer 2027)",
-  "location": "",
+  "location": "Houston, TX",
   "pay": null,
   "tracks": [
    "hardware"
@@ -2313,6 +2429,134 @@
   "date_found": "2026-10-28T00:24:29.407000+00:00",
   "top_company": false,
   "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Hewlett Packard Enterprise",
+  "title": "Software Engineering Intern - HP IQ",
+  "location": "San Francisco, CA",
+  "pay": "$40–$50/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1",
+  "date_posted": "2026-10-28T00:00:00+00:00",
+  "date_found": "2026-10-29T02:04:24.785000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Hewlett Packard Enterprise",
+  "title": "Software Systems Intern - HP IQ",
+  "location": "San Francisco, CA",
+  "pay": "$40–$50/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801",
+  "date_posted": "2026-10-28T00:00:00+00:00",
+  "date_found": "2026-10-29T02:04:24.785000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Hewlett Packard Enterprise",
+  "title": "Software Systems Intern - HP IQ",
+  "location": "San Francisco, CA",
+  "pay": "$40–$50/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801-1",
+  "date_posted": "2026-10-28T00:00:00+00:00",
+  "date_found": "2026-10-29T02:04:24.785000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Hewlett Packard Enterprise",
+  "title": "Software Engineering Intern - HP IQ",
+  "location": "San Francisco, CA",
+  "pay": "$40–$50/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806",
+  "date_posted": "2026-10-28T00:00:00+00:00",
+  "date_found": "2026-10-29T02:04:24.785000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Hewlett Packard Enterprise",
+  "title": "Software Engineering Intern, Connectivity - HP IQ",
+  "location": "San Francisco, CA",
+  "pay": "$40–$50/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812",
+  "date_posted": "2026-10-28T00:00:00+00:00",
+  "date_found": "2026-10-29T02:04:24.785000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Hewlett Packard Enterprise",
+  "title": "Software Engineering Intern, Connectivity - HP IQ",
+  "location": "San Francisco, CA",
+  "pay": "$40–$50/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812-1",
+  "date_posted": "2026-10-28T00:00:00+00:00",
+  "date_found": "2026-10-29T02:04:24.785000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Hewlett Packard Enterprise",
+  "title": "Software Quality Assurance Intern",
+  "location": "San Francisco, CA",
+  "pay": "$40–$50/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1",
+  "date_posted": "2026-10-28T00:00:00+00:00",
+  "date_found": "2026-10-29T02:04:24.785000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Hewlett Packard Enterprise",
+  "title": "Software Quality Assurance Intern",
+  "location": "San Francisco, CA",
+  "pay": "$40–$50/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802",
+  "date_posted": "2026-10-28T00:00:00+00:00",
+  "date_found": "2026-10-29T02:04:24.785000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -15499,38 +15743,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Disney",
-  "title": "WPVI- TV (6abc) Technology Intern, Spring 2027",
-  "location": "Philadelphia, PA",
-  "pay": "$23/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Philadelphia-PA-USA/WPVI--TV--6abc--Technology-Intern--Spring-2027_10158631-1",
-  "date_posted": "2026-10-22T05:42:43.364000+00:00",
-  "date_found": "2026-10-22T06:00:03.717000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Disney",
-  "title": "WPVI- TV (6abc) Technology Intern, Spring 2027",
-  "location": "Philadelphia, PA",
-  "pay": "$23/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Philadelphia-PA-USA/WPVI--TV--6abc--Technology-Intern--Spring-2027_10158631",
-  "date_posted": "2026-10-22T05:42:40.972000+00:00",
-  "date_found": "2026-10-22T06:00:03.717000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Aptiv",
   "title": "Software Development Intern",
   "location": "Troy, MI - USA",
@@ -15542,54 +15754,6 @@
   "date_posted": "2026-10-22T04:40:39.567000+00:00",
   "date_found": "2026-10-22T04:57:44.945000+00:00",
   "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "RTX",
-  "title": "Systems Administrator Co-Op (Spring/Summer 2027)",
-  "location": "Cambridge, MA",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Systems-Administrator-Co-Op--Spring-Summer-2027-_01882888",
-  "date_posted": "2026-10-22T03:33:08.315000+00:00",
-  "date_found": "2026-10-22T03:34:26.546000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Powerdesigninc",
-  "title": "Electrical Trainee",
-  "location": "3 Locations",
-  "pay": "$34–$55/hr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://powerdesigninc.wd5.myworkdayjobs.com/PDI/job/CA-San-Francisco-Metro-Area/Electrical-Trainee_R12780-1",
-  "date_posted": "2026-10-22T01:50:31.203000+00:00",
-  "date_found": "2026-10-22T01:59:52.431000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Tesla",
-  "title": "Internship - Electrical Engineer - Embedded Systems & Test Engineering - Supply Chain - Winter/Spring 2027",
-  "location": "2 locations",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://www.tesla.com/careers/search/job/287407",
-  "date_posted": "2026-10-22T01:47:07+00:00",
-  "date_found": "2026-10-22T02:57:17.265000+00:00",
-  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
