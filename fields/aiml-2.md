@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,513 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,515 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 2 of 2: [1](aiml.md) · **2**
 
@@ -10,6 +10,8 @@ Page 2 of 2: [1](aiml.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=amgen.com" width="20" height="20" align="absmiddle">&nbsp; **Amgen** | Undergrad Intern – Digital Product – Technology, AI &amp; Data (Summer 2027) | United States - Remote<br><sub>$28.87/hr</sub> | Sep&nbsp;11 | <a href="https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Undergrad Intern – Machine Learning Engineer – Technology, AI &amp; Data (Summer 2027) | United States - Remote<br><sub>$28.87/hr</sub> | Sep&nbsp;11 | <a href="https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=rwbaird.com" width="20" height="20" align="absmiddle">&nbsp; **Baird** | IT Data &amp; Analytics Intern | 2&nbsp;locations<br><sub>-</sub> | Sep&nbsp;11 | <a href="https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Data---Analytics--Year-Round-_R20261012-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=amgen.com" width="20" height="20" align="absmiddle">&nbsp; **Amgen** | Grad Intern – Software Engineer – Technology, AI &amp; Data (Summer 2027) | United States - Remote<br><sub>$35.34–&#8288;$41.20/hr</sub> | Sep&nbsp;11 | <a href="https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Undergrad Intern – Software Engineer – Technology, AI &amp; Data (Summer 2027) | United States - Remote<br><sub>$28.87/hr</sub> | Sep&nbsp;11 | <a href="https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

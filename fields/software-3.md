@@ -2,7 +2,7 @@
 
 # 💻 Software engineering internships
 
-All 1,929 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
+All 1,927 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
 
 Page 3 of 3: [1](software.md) · [2](software-2.md) · **3**
 
@@ -10,8 +10,6 @@ Page 3 of 3: [1](software.md) · [2](software-2.md) · **3**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=multiplylabs.com" width="20" height="20" align="absmiddle">&nbsp; **Multiply&nbsp;Labs** | Software Intern | San Francisco, CA<br><sub>-</sub> | Feb&nbsp;24 | <a href="https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Robotics Software Intern | San Francisco, CA<br><sub>-</sub> | Feb&nbsp;24 | <a href="https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=northropgrumman.com" width="20" height="20" align="absmiddle">&nbsp; **Northrop&nbsp;Grumman** | Software Engineer - Cloudworks - Skillbridge 🛂 | Wright-Patterson Afb, OH<br><sub>$79,300–&#8288;$118,900/yr</sub> | Feb&nbsp;17 | <a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Software-Engineer---CLOUDworks--SkillBridge-_R10211395"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=mercor.com" width="20" height="20" align="absmiddle">&nbsp; **Mercor** | Software Engineer Intern | SF<br><sub>-</sub> | Feb&nbsp;13 | <a href="https://jobs.ashbyhq.com/mercor/de3025e5-10ca-4d55-b688-eff0e647ac8d/application"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=bytedance.com" width="20" height="20" align="absmiddle">&nbsp; **ByteDance** | Software Engineer Intern - AI Infrastructure 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$60/hr</sub> | Feb&nbsp;13 | <a href="https://jobs.bytedance.com/en/position/7595756835349973253/detail"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

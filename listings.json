@@ -1,5 +1,85 @@
 [
  {
+  "company": "Johnson & Johnson",
+  "title": "R&D Co-Op",
+  "location": "Irving, TX",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Irving-Texas-United-States-of-America/R-D-Co-Op_R-098370",
+  "date_posted": "2026-10-30T06:44:40.128000+00:00",
+  "date_found": "2026-10-30T06:59:32.033000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Applied Materials",
+  "title": "2027 Spring Process Engineer Co-op - Doctorate (Gloucester, MA)",
+  "location": "Gloucester, MA",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2632516",
+  "date_posted": "2026-10-30T04:40:48.118000+00:00",
+  "date_found": "2026-10-30T04:57:50.571000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": true
+ },
+ {
+  "company": "Stratolaunch",
+  "title": "Manufacturing (Electrical) Engineering Intern Summer 2027",
+  "location": "Mojave, CA",
+  "pay": "$38/hr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5467832008",
+  "date_posted": "2026-10-30T04:30:38+00:00",
+  "date_found": "2026-10-30T06:59:32.033000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Commonwealth of Massachusetts",
+  "title": "HR Business Intelligence Co-op",
+  "location": "Boston, MA",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260006KL",
+  "date_posted": "2026-10-30T01:47:21+00:00",
+  "date_found": "2026-10-30T01:47:21+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Waymo",
+  "title": "2027 Summer Intern, MS/PhD, Weather Perception",
+  "location": "San Francisco, CA",
+  "pay": "$70/hr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://careers.withwaymo.com/jobs?gh_jid=8335511",
+  "date_posted": "2026-10-30T01:21:40+00:00",
+  "date_found": "2026-10-30T01:25:49.106000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": true
+ },
+ {
   "company": "ASML",
   "title": "Internship - Mechatronics Engineer",
   "location": "Wilton, CT",
@@ -26,6 +106,22 @@
   "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003",
   "date_posted": "2026-10-30T00:39:54+00:00",
   "date_found": "2026-10-30T00:58:29.939000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Loft Orbital",
+  "title": "Summer 2027 Internship - Thermal & Manufacturing Engineering",
+  "location": "Golden, CO",
+  "pay": "$30/hr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.lever.co/loftorbital/03f948ff-0767-4bb0-a13b-345321d63d71",
+  "date_posted": "2026-10-30T00:33:01+00:00",
+  "date_found": "2026-10-30T04:57:50.571000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -1476,6 +1572,22 @@
   "date_posted": "2026-10-29T15:41:37+00:00",
   "date_found": "2026-10-29T16:54:03.393181+00:00",
   "top_company": true,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Stratolaunch",
+  "title": "Security Intern- Summer 2027",
+  "location": "Mojave, CA",
+  "pay": "$20/hr",
+  "tracks": [
+   "security"
+  ],
+  "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5466978008",
+  "date_posted": "2026-10-29T15:32:51+00:00",
+  "date_found": "2026-10-30T06:59:32.033000+00:00",
+  "top_company": false,
   "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
@@ -15412,22 +15524,6 @@
   "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Co-op----United-States_2029701",
   "date_posted": "2026-10-23T12:53:32.637000+00:00",
   "date_found": "2026-10-23T13:01:05.535000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "C.H. Robinson",
-  "title": "Cyber Security Internship 2027",
-  "location": "Eden Prairie, MN United States of America",
-  "pay": "$15–$30/hr",
-  "tracks": [
-   "security"
-  ],
-  "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322",
-  "date_posted": "2026-10-23T06:51:02.739433+00:00",
-  "date_found": "2026-10-23T06:50:27.623389+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -34529,38 +34625,6 @@
   "date_posted": "2026-10-02T17:31:47+00:00",
   "date_found": "2026-10-02T21:50:12.610083+00:00",
   "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Harvey",
-  "title": "Software Engineering Intern (Summer 2027)",
-  "location": "New York",
-  "pay": "$62–$72/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d",
-  "date_posted": "2026-10-02T17:00:56.168000+00:00",
-  "date_found": "2026-10-02T17:03:42.543000+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Harvey",
-  "title": "Software Engineering Intern (Summer 2027)",
-  "location": "San Francisco",
-  "pay": "$62–$72/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jobs.ashbyhq.com/harvey/3a34578d-d42e-45bb-ac5c-0c3357e8cbb7",
-  "date_posted": "2026-10-02T17:00:52.813000+00:00",
-  "date_found": "2026-10-02T17:03:42.543000+00:00",
-  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
