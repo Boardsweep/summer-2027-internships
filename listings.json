@@ -1,5 +1,21 @@
 [
  {
+  "company": "Applied Materials",
+  "title": "2027 Spring Electrical Engineer Co-op (Billerica, MA)",
+  "location": "Billerica, MA",
+  "pay": "$31–$41/hr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Electrical-Engineer-Co-op--Billerica--MA-_R2631535-1",
+  "date_posted": "2026-10-31T17:40:45.565000+00:00",
+  "date_found": "2026-10-31T17:58:05.623000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Micron Technology",
   "title": "Equipment Engineer Intern - VMEC",
   "location": "Manassas, VA -  Fab 6",
@@ -18053,23 +18069,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Ursa Major",
-  "title": "2027 Summer Embedded Flight Software Intern",
-  "location": "Longmont, CO",
-  "pay": "$30/hr",
-  "tracks": [
-   "software",
-   "hardware"
-  ],
-  "url": "https://ursamajor.com/careers/?gh_jid=4746825005",
-  "date_posted": "2026-10-22T21:09:58+00:00",
-  "date_found": "2026-10-22T21:13:37.182000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Sony",
   "title": "Research Intern – Self-evolving Multimodal Foundation Models",
   "location": "Remote - Virginia",
@@ -21753,22 +21752,6 @@
   "advanced_degree": true
  },
  {
-  "company": "Ursa Major",
-  "title": "2027 Summer Avionics Electrical Engineer Intern",
-  "location": "Berthoud, CO",
-  "pay": "$30/hr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://ursamajor.com/careers/?gh_jid=4745125005",
-  "date_posted": "2026-10-19T17:54:50+00:00",
-  "date_found": "2026-10-19T17:58:31.586000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Meta",
   "title": "Research Scientist Intern, Multimodal LLM and Speech-to-Speech Translation (PhD)",
   "location": "Redmond, WA",
@@ -21784,23 +21767,6 @@
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": true
- },
- {
-  "company": "Ursa Major",
-  "title": "2027 Summer Test Engineering Internship",
-  "location": "Berthoud, CO",
-  "pay": "$30/hr",
-  "tracks": [
-   "hardware",
-   "software"
-  ],
-  "url": "https://ursamajor.com/careers/?gh_jid=4745111005",
-  "date_posted": "2026-10-19T17:43:41+00:00",
-  "date_found": "2026-10-19T17:46:32.039000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
  },
  {
   "company": "Meta",
@@ -22869,23 +22835,6 @@
   "date_found": "2026-10-17T00:00:00+00:00",
   "top_company": false,
   "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Snowflake",
-  "title": "Product Marketing, AI-Powered Data Engineering Intern (Spring 2027)",
-  "location": "Menlo Park, CA",
-  "pay": null,
-  "tracks": [
-   "aiml",
-   "software"
-  ],
-  "url": "https://jobs.ashbyhq.com/snowflake/45f2aa43-731d-4bab-a02b-9ef979f2c86e",
-  "date_posted": null,
-  "date_found": "2026-10-16T22:51:50.194082+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -63639,22 +63588,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Epic Games",
-  "title": "Gameplay Programmer Intern",
-  "location": "Cary, NC",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://epicgames.com/careers/jobs/6152263004?gh_jid=6152263004",
-  "date_posted": null,
-  "date_found": "2026-08-26T00:18:57+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Johnson & Johnson",
   "title": "Data Science Co-op - Spring 2027",
   "location": "Cincinnati, OH",
@@ -74074,22 +74007,6 @@
  },
  {
   "company": "Akuna Capital",
-  "title": "Software Engineer Intern - C++",
-  "location": "Chicago, IL",
-  "pay": "$145k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847",
-  "date_posted": null,
-  "date_found": "2026-07-13T22:10:17+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Akuna Capital",
   "title": "Quantitative Development & Strategy Intern",
   "location": "Chicago, IL",
   "pay": "$145k/yr",
@@ -74099,38 +74016,6 @@
   "url": "https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481",
   "date_posted": null,
   "date_found": "2026-07-13T22:09:53+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Akuna Capital",
-  "title": "Software Engineer Intern - C# .NET Desktop",
-  "location": "Chicago, IL",
-  "pay": "$145k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886",
-  "date_posted": null,
-  "date_found": "2026-07-13T22:09:52+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Akuna Capital",
-  "title": "Software Engineer Intern - Full Stack Web",
-  "location": "Chicago, IL",
-  "pay": "$145k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893",
-  "date_posted": null,
-  "date_found": "2026-07-13T22:09:47+00:00",
   "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,

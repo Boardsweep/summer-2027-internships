@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,524 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,523 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 2 of 2: [1](aiml.md) · **2**
 
@@ -10,7 +10,6 @@ Page 2 of 2: [1](aiml.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=perpay.com" width="20" height="20" align="absmiddle">&nbsp; **Perpay** | Data Engineering Intern | Philadelphia,&nbsp;PA<br><sub>-</sub> | Sep&nbsp;11 | <a href="https://job-boards.greenhouse.io/perpay/jobs/4076965007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=veeam.com" width="20" height="20" align="absmiddle">&nbsp; **Veeam** | AI &amp; Automation Engineering Intern - Summer 2027 | Georgia<br><sub>$20–&#8288;$25/hr</sub> | Sep&nbsp;11 | <a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955296101"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=lyft.com" width="20" height="20" align="absmiddle">&nbsp; **Lyft** | Data Science Intern - Algorithms 🔥 | SF<br><sub>$58–&#8288;$62/hr</sub> | Sep&nbsp;11 | <a href="https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=garmin.com" width="20" height="20" align="absmiddle">&nbsp; **Garmin** | Data Scientist Intern | Olathe,&nbsp;KS<br><sub>-</sub> | Sep&nbsp;11 | <a href="https://careers.garmin.com/jobs/19926?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

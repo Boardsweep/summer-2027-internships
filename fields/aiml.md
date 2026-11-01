@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,524 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,523 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 1 of 2: **1** · [2](aiml-2.md)
 
@@ -397,7 +397,6 @@ Page 1 of 2: **1** · [2](aiml-2.md)
 | ↳ | Sales Data Analyst Intern 🛂 | Hillsboro,&nbsp;OR<br><sub>$31–&#8288;$42/hr</sub> | Oct&nbsp;18 | <a href="https://careers.qorvo.com/job/Hillsboro-Sales-Data-Analyst-Intern-OR-97124/1421951500/?ats=successfactors"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Data Engineering Intern 🛂 | Salem,&nbsp;OR<br><sub>$31–&#8288;$42/hr</sub> | Oct&nbsp;17 | <a href="https://careers.qorvo.com/job/Salem-Data-Engineering-Intern-OR-97302/1431485300/?ats=successfactors"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=ascension.org" width="20" height="20" align="absmiddle">&nbsp; **Ascension** | Managed Care Analytics Intern | St.&nbsp;Louis,&nbsp;MO<br><sub>-</sub> | Oct&nbsp;17 | <a href="https://jobs.ascension.org/us/en/job/15636"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=snowflake.com" width="20" height="20" align="absmiddle">&nbsp; **Snowflake** | Product Marketing, AI-Powered Data Engineering Intern (Spring 2027) 🔥 | Menlo&nbsp;Park,&nbsp;CA<br><sub>-</sub> | Oct&nbsp;16 | <a href="https://jobs.ashbyhq.com/snowflake/45f2aa43-731d-4bab-a02b-9ef979f2c86e"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=centurylink.com" width="20" height="20" align="absmiddle">&nbsp; **CenturyLink** | Data Internship - Analytics &amp; Decision Science | Remote&nbsp;in<br><sub>$26–&#8288;$46/hr</sub> | Oct&nbsp;16 | <a href="https://internaljobs.centurylink.com/job/Remote-Data,-Analytics-&amp;-Decision-Science-Summer-2027-Internship-Pathway/1440961600/?ats=successfactors"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=lineaenergy.com" width="20" height="20" align="absmiddle">&nbsp; **Linea&nbsp;Energy** | GIS Intern | Austin,&nbsp;TX<br><sub>-</sub> | Oct&nbsp;16 | <a href="https://ats.rippling.com/linea-energy/jobs/1247c5f0-eedf-4f15-9f81-065445d89d01"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=quera.com" width="20" height="20" align="absmiddle">&nbsp; **QuEra&nbsp;Computing** | QPU Build Co-Op – Optics &amp; Data Analysis | Boston,&nbsp;MA<br><sub>-</sub> | Oct&nbsp;16<br><sub>⚡&nbsp;36m</sub> | <a href="https://job-boards.greenhouse.io/queracomputinginc/jobs/5455950008"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -939,6 +938,7 @@ Page 1 of 2: **1** · [2](aiml-2.md)
 | <img src="https://boardsweep.io/api/logo?domain=newsbreak.com" width="20" height="20" align="absmiddle">&nbsp; **NewsBreak** | Nearby AI Internship Program - Engineering Track | Mountain View, CA<br><sub>$30–&#8288;$70/hr</sub> | Sep&nbsp;11 | <a href="https://job-boards.greenhouse.io/newsbreak/jobs/4712896006"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=tesla.com" width="20" height="20" align="absmiddle">&nbsp; **Tesla** | Data Engineer Intern - Fleet Analytics 🔥 | Palo&nbsp;Alto,&nbsp;CA<br><sub>-</sub> | Sep&nbsp;11 | <a href="https://www.tesla.com/careers/search/job/283138"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=perpay.com" width="20" height="20" align="absmiddle">&nbsp; **Perpay** | Data Science Intern | Philadelphia,&nbsp;PA<br><sub>-</sub> | Sep&nbsp;11 | <a href="https://job-boards.greenhouse.io/perpay/jobs/4076978007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Data Engineering Intern | Philadelphia,&nbsp;PA<br><sub>-</sub> | Sep&nbsp;11 | <a href="https://job-boards.greenhouse.io/perpay/jobs/4076965007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 **1** · [2](aiml-2.md)
 
