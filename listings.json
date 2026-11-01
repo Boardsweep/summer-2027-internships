@@ -1,5 +1,165 @@
 [
  {
+  "company": "Sierra",
+  "title": "Research Intern",
+  "location": "San Francisco, CA",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://jobs.ashbyhq.com/Sierra/ef896ee9-e903-4a1f-84c2-537373cb9081",
+  "date_posted": "2026-10-31T04:30:38.046000+00:00",
+  "date_found": "2026-10-31T04:34:23.390000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Trane Technologies",
+  "title": "Energy Engineering Co-op",
+  "location": "Grand Rapids, MI",
+  "pay": "$24/hr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/Grand-Rapids-Michigan/Energy-Engineering-Co-op_JR-18917",
+  "date_posted": "2026-10-31T03:50:02.460000+00:00",
+  "date_found": "2026-10-31T03:57:46.370000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Tevora",
+  "title": "Cybersecurity Internship Summer 2027 - Threat",
+  "location": "Irvine, CA",
+  "pay": "$27/hr",
+  "tracks": [
+   "security"
+  ],
+  "url": "https://jobs.lever.co/tevora/5acd8859-ba7f-4996-9503-13a231376758",
+  "date_posted": "2026-10-31T02:26:52.192000+00:00",
+  "date_found": "2026-10-31T02:58:02.719000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Tevora",
+  "title": "Cybersecurity Internship Summer 2027 - Solutions",
+  "location": "Irvine, CA",
+  "pay": "$27/hr",
+  "tracks": [
+   "security"
+  ],
+  "url": "https://jobs.lever.co/tevora/facb1a9a-67b3-42ca-90f1-65d934d9b68d",
+  "date_posted": "2026-10-31T02:25:58.894000+00:00",
+  "date_found": "2026-10-31T02:58:02.719000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Tevora",
+  "title": "Cybersecurity Internship Summer 2027 - Systems and Organizations Controls (SOC)",
+  "location": "Irvine, CA",
+  "pay": "$27/hr",
+  "tracks": [
+   "security"
+  ],
+  "url": "https://jobs.lever.co/tevora/4e3b7ae3-cb18-4c76-815c-0014e3c7598c",
+  "date_posted": "2026-10-31T02:22:15.907000+00:00",
+  "date_found": "2026-10-31T02:58:02.719000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Tevora",
+  "title": "Cybersecurity Internship Summer 2027 - Payments",
+  "location": "Fairfax, VA",
+  "pay": "$27/hr",
+  "tracks": [
+   "security"
+  ],
+  "url": "https://jobs.lever.co/tevora/7b1010a9-9379-459a-89f8-222af2fe7721",
+  "date_posted": "2026-10-31T02:21:30.978000+00:00",
+  "date_found": "2026-10-31T02:58:02.719000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Tevora",
+  "title": "Cybersecurity Internship Summer 2027 - International Organization for Standardization (ISO)",
+  "location": "Irvine, CA",
+  "pay": "$27/hr",
+  "tracks": [
+   "security"
+  ],
+  "url": "https://jobs.lever.co/tevora/648630ae-0dce-4b80-af2b-911c2c8f159c",
+  "date_posted": "2026-10-31T02:20:42.059000+00:00",
+  "date_found": "2026-10-31T02:58:02.719000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Tevora",
+  "title": "Cybersecurity Internship Summer 2027 - Healthcare",
+  "location": "Irvine, CA",
+  "pay": "$27/hr",
+  "tracks": [
+   "security"
+  ],
+  "url": "https://jobs.lever.co/tevora/a18eeda5-4b39-4e8f-b3b3-e4d80e3601b0",
+  "date_posted": "2026-10-31T02:18:34.098000+00:00",
+  "date_found": "2026-10-31T02:50:44.554065+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Tevora",
+  "title": "Cybersecurity Internship Summer2027 - Federal",
+  "location": "Fairfax, VA",
+  "pay": "$27/hr",
+  "tracks": [
+   "security"
+  ],
+  "url": "https://jobs.lever.co/tevora/2ad5ba33-3c2a-4e51-a5ab-e5632adb0e0d",
+  "date_posted": "2026-10-31T02:17:44.032000+00:00",
+  "date_found": "2026-10-31T02:58:02.719000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Tevora",
+  "title": "Cybersecurity Internship Summer 2027 - Enterprise Risk Management",
+  "location": "Irvine, CA",
+  "pay": "$27/hr",
+  "tracks": [
+   "security"
+  ],
+  "url": "https://jobs.lever.co/tevora/fb3b174b-07ac-410d-9c44-53c70793635c",
+  "date_posted": "2026-10-31T02:16:08.494000+00:00",
+  "date_found": "2026-10-31T02:58:02.719000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Signify",
   "title": "Electrical Engineering Intern, Cooper Lighting Solutions - February to May 2027",
   "location": "Peachtree City",
@@ -10,6 +170,22 @@
   "url": "https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Peachtree-City/Electrical-Engineering-Intern--Cooper-Lighting-Solutions---February-to-May-2027_366772",
   "date_posted": "2026-10-31T00:52:07.853299+00:00",
   "date_found": "2026-10-31T00:50:47.133876+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Fireworkhq",
+  "title": "Data Engineer Intern",
+  "location": "San Mateo, CA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09",
+  "date_posted": "2026-10-31T00:08:05.504000+00:00",
+  "date_found": "2026-10-31T02:58:02.719000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -158,6 +334,22 @@
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": true
+ },
+ {
+  "company": "Andreessen Horowitz",
+  "title": "Research Intern - Frontier",
+  "location": "NYC",
+  "pay": "$4,500/wk",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://a16z.com/about/jobs/?gh_jid=8046730003",
+  "date_posted": "2026-10-30T23:04:24+00:00",
+  "date_found": "2026-10-31T02:58:02.719000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
  },
  {
   "company": "Microsoft",
@@ -726,6 +918,22 @@
   "advanced_degree": false
  },
  {
+  "company": "FedEx",
+  "title": "Intern - Data Science",
+  "location": "Memphis, TN",
+  "pay": "$25/hr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "http://careers.fedex.com/intern-data-science/job/P25-392650-1",
+  "date_posted": "2026-10-30T19:03:24.601042+00:00",
+  "date_found": "2026-10-31T01:50:05.946578+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "The New York Times",
   "title": "Backend Engineering Intern, Wirecutter",
   "location": "New York, NY",
@@ -738,6 +946,22 @@
   "date_found": "2026-10-30T20:00:07.443000+00:00",
   "top_company": false,
   "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "FedEx",
+  "title": "Intern - Data Science",
+  "location": "Collierville, TN",
+  "pay": "$25/hr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "http://careers.fedex.com/intern-data-science/job/P25-392649-1",
+  "date_posted": "2026-10-30T19:01:24.607971+00:00",
+  "date_found": "2026-10-31T01:50:05.946578+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -11445,6 +11669,23 @@
   "advanced_degree": false
  },
  {
+  "company": "The Design Rules Company",
+  "title": "Co-op Intern",
+  "location": "NYC",
+  "pay": null,
+  "tracks": [
+   "software",
+   "hardware"
+  ],
+  "url": "https://jobs.ashbyhq.com/designrulesco/fef04176-c32b-4bff-ad91-a128d5efd2b1/application?embed=true",
+  "date_posted": "2026-10-27T00:00:00+00:00",
+  "date_found": "2026-10-31T01:57:40.071000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Salesforce",
   "title": "Summer 2027 Intern - Forward Deployed Engineer – Global Public Sector",
   "location": "Arkansas - Remote",
@@ -14226,6 +14467,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Morph Labs",
+  "title": "Electrical Engineer Intern",
+  "location": "NYC",
+  "pay": "$8,000/mo",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://job-boards.greenhouse.io/morph/jobs/4467369009",
+  "date_posted": "2026-10-26T15:55:36+00:00",
+  "date_found": "2026-10-31T06:50:06.502000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Excel Sports Management",
   "title": "Spring 2027 - Intern, Social Media Graphic Design",
   "location": "New York, NY",
@@ -15896,86 +16153,6 @@
   "url": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/UX-UI-Design-Intern---Summer-2027_REQ-1000052835",
   "date_posted": "2026-10-24T12:46:18.717000+00:00",
   "date_found": "2026-10-24T12:56:44.627000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "AECOM",
-  "title": "Structural Engineering Intern - Hiring Event with AECOM - Arlington, VA",
-  "location": "Virginia Beach",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://jobs.smartrecruiters.com/AECOM2/744000157611929",
-  "date_posted": "2026-10-24T03:32:27.548000+00:00",
-  "date_found": "2026-10-24T03:57:03.153000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "AECOM",
-  "title": "Structural Engineering Intern - Hiring Event with AECOM - Arlington, VA",
-  "location": "Hunt Valley",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://jobs.smartrecruiters.com/AECOM2/744000157611879",
-  "date_posted": "2026-10-24T03:28:44.187000+00:00",
-  "date_found": "2026-10-24T03:57:03.153000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "AECOM",
-  "title": "Electrical Engineering Intern (B+P) - Hiring Event with AECOM - Arlington, VA",
-  "location": "Arlington",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://jobs.smartrecruiters.com/AECOM2/744000157611769",
-  "date_posted": "2026-10-24T03:23:36.032000+00:00",
-  "date_found": "2026-10-24T03:57:03.153000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "AstraZeneca",
-  "title": "Preclinical Mathematical Modeling Internship",
-  "location": "US - Cambridge Kendall Sq -, MA",
-  "pay": "$37/hr",
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/Preclinical-Mathematical-Modeling-Internship_R-262630",
-  "date_posted": "2026-10-24T01:50:24.834000+00:00",
-  "date_found": "2026-10-24T01:57:05.258000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Johnson & Johnson",
-  "title": "Laboratory Digital Twin Intern",
-  "location": "Spring House, PA",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Laboratory-Digital-Twin-Intern_R-103046",
-  "date_posted": "2026-10-24T01:44:21.633000+00:00",
-  "date_found": "2026-10-24T01:57:05.258000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -18745,6 +18922,22 @@
   "date_posted": "2026-10-21T21:53:20+00:00",
   "date_found": "2026-10-21T22:04:24.072000+00:00",
   "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Morph Labs",
+  "title": "Research Intern",
+  "location": "NYC",
+  "pay": "$10,000/mo",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://job-boards.greenhouse.io/morph/jobs/4463089009",
+  "date_posted": "2026-10-21T20:21:24+00:00",
+  "date_found": "2026-10-31T06:50:06.502000+00:00",
+  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false

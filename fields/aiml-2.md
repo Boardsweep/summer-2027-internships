@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,539 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,543 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 2 of 2: [1](aiml.md) · **2**
 
@@ -10,6 +10,9 @@ Page 2 of 2: [1](aiml.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=ensemblehp.com" width="20" height="20" align="absmiddle">&nbsp; **Ensemble Health Partners** | Data Scientist Intern | Remote&nbsp;in<br><sub>$25/hr</sub> | Sep&nbsp;13 | <a href="https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=afterquery.com" width="20" height="20" align="absmiddle">&nbsp; **AfterQuery** | AI/ML Research Intern | SF<br><sub>-</sub> | Sep&nbsp;12 | <a href="https://jobs.ashbyhq.com/AfterQuery/00cd591f-6894-4259-83b6-36c999351dde/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=constellationenergy.com" width="20" height="20" align="absmiddle">&nbsp; **Constellation Energy** | IT Data Engineering Intern 🛂 | Baltimore,&nbsp;MD<br><sub>-</sub> | Sep&nbsp;12 | <a href="https://jobs.constellationenergy.com/jobs/138716?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=megazone.com" width="20" height="20" align="absmiddle">&nbsp; **MegazoneCloud** | Data Engineer Co-op 🛂 | Rochester,&nbsp;NY<br><sub>-</sub> | Sep&nbsp;11 | <a href="https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=businessolver.com" width="20" height="20" align="absmiddle">&nbsp; **Businessolver** | Business Intelligence Intern - Innovation &amp; Data Science | -<br><sub>$23/hr</sub> | Sep&nbsp;11 | <a href="https://job-boards.greenhouse.io/businessolverinvitationonly/jobs/8189738"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=newsbreak.com" width="20" height="20" align="absmiddle">&nbsp; **NewsBreak** | Nearby AI Internship Program - Engineering Track | Mountain View, CA<br><sub>$30–&#8288;$70/hr</sub> | Sep&nbsp;11 | <a href="https://job-boards.greenhouse.io/newsbreak/jobs/4712896006"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
