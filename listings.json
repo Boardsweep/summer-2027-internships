@@ -1,5 +1,55 @@
 [
  {
+  "company": "Federal Reserve System",
+  "title": "Undergraduate Intern – Technology Focus",
+  "location": "Minneapolis, MN",
+  "pay": "$23/hr",
+  "tracks": [
+   "software",
+   "aiml",
+   "security"
+  ],
+  "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Minneapolis-MN/Undergraduate-Intern---Technology-Focus_R-0000033975-1",
+  "date_posted": "2026-11-01T18:45:54.779000+00:00",
+  "date_found": "2026-11-01T18:57:12.274000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Federal Reserve System",
+  "title": "Undergraduate Intern – Business Analysis Focus",
+  "location": "Minneapolis, MN",
+  "pay": "$23/hr",
+  "tracks": [
+   "product"
+  ],
+  "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Minneapolis-MN/Undergraduate-Intern---Business-Analysis-Focus_R-0000033976",
+  "date_posted": "2026-11-01T18:45:54.779000+00:00",
+  "date_found": "2026-11-01T18:57:12.274000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "TRG",
+  "title": "Full Stack Application Developer Intern",
+  "location": "Dallas, TX",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://secure7.saashr.com/ta/6203759.careers?ShowJob=638057422&lang=en-US",
+  "date_posted": "2026-11-01T15:05:18+00:00",
+  "date_found": "2026-11-01T15:05:18+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Applied Materials",
   "title": "2027 Spring Process Engineer Co-op (Billerica, MA)",
   "location": "Billerica, MA",
@@ -16221,22 +16271,6 @@
   "advanced_degree": true
  },
  {
-  "company": "Mayo Clinic",
-  "title": "Undergraduate Intern Neurology AI",
-  "location": "",
-  "pay": null,
-  "tracks": [
-   "aiml"
-  ],
-  "url": "http://jobs.mayoclinic.org/job/rochester/undergraduate-intern-neurology-ai/33647/102349589504",
-  "date_posted": "2026-10-25T18:49:03+00:00",
-  "date_found": "2026-10-25T18:50:06.789327+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Skydio",
   "title": "PhD Autonomy Engineer Intern - Deep Learning / Computer Vision, 2027",
   "location": "San Mateo, CA",
@@ -16951,22 +16985,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Rivian",
-  "title": "Technical Program Management Intern - Field Service Programs & Applied Intelligence (Spring 2027 Co-op)",
-  "location": "San Jose, CA",
-  "pay": "$24–$51/hr",
-  "tracks": [
-   "product"
-  ],
-  "url": "https://careers.rivian.com/careers-home/jobs/34674?lang=en-us",
-  "date_posted": "2026-10-23T18:20:00+00:00",
-  "date_found": "2026-10-25T18:50:06.789327+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Meta",
   "title": "Research Scientist Intern, AI Core Machine Learning (PhD)",
   "location": "2 locations",
@@ -17176,56 +17194,6 @@
   "date_found": "2026-10-23T17:00:33.953000+00:00",
   "top_company": false,
   "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "DocuSign",
-  "title": "Software Developer Intern",
-  "location": "San Francisco, CA",
-  "pay": "$39–$51/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "http://careers.docusign.com/careers-home/jobs/30571?lang=en-us",
-  "date_posted": "2026-10-23T16:15:00+00:00",
-  "date_found": "2026-10-25T18:50:06.789327+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "DocuSign",
-  "title": "Agentic AI Engineer Intern",
-  "location": "San Francisco, CA",
-  "pay": "$34–$44/hr",
-  "tracks": [
-   "aiml",
-   "software"
-  ],
-  "url": "http://careers.docusign.com/careers-home/jobs/30587?lang=en-us",
-  "date_posted": "2026-10-23T16:15:00+00:00",
-  "date_found": "2026-10-25T18:50:06.789327+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "DocuSign",
-  "title": "AI Platform Engineer Intern",
-  "location": "San Francisco, CA",
-  "pay": "$39–$51/hr",
-  "tracks": [
-   "aiml",
-   "software"
-  ],
-  "url": "http://careers.docusign.com/careers-home/jobs/30578?lang=en-us",
-  "date_posted": "2026-10-23T16:14:00+00:00",
-  "date_found": "2026-10-25T18:50:06.789327+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -44340,22 +44308,6 @@
   "date_posted": null,
   "date_found": "2026-09-21T20:04:51.021000+00:00",
   "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Geneva Trading",
-  "title": "C++ Developer (Intern)",
-  "location": "Chicago Office",
-  "pay": "$40–$45/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5242063007",
-  "date_posted": null,
-  "date_found": "2026-09-21T20:04:51.021000+00:00",
-  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
