@@ -1,6 +1,70 @@
 [
  {
   "company": "Applied Materials",
+  "title": "2027 Spring Process Engineer Co-op (Billerica, MA)",
+  "location": "Billerica, MA",
+  "pay": "$31–$41/hr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Process-Engineer-Co-op--Billerica--MA-_R2631536",
+  "date_posted": "2026-10-31T20:40:41.835000+00:00",
+  "date_found": "2026-10-31T20:57:35.718000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Applied Materials",
+  "title": "2027 Summer Process Engineer Intern - BS or MS (Gloucester, MA)",
+  "location": "Gloucester, MA",
+  "pay": "$31–$41/hr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Process-Engineer-Intern---BS-or-MS--Gloucester--MA-_R2632317",
+  "date_posted": "2026-10-31T20:40:41.835000+00:00",
+  "date_found": "2026-10-31T20:57:35.718000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Applied Materials",
+  "title": "2027 Spring Manufacturing Engineer Co-op (Billerica, MA)",
+  "location": "Billerica, MA",
+  "pay": "$31–$41/hr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Manufacturing-Engineer-Co-op--Billerica--MA-_R2631532",
+  "date_posted": "2026-10-31T20:40:41.835000+00:00",
+  "date_found": "2026-10-31T20:57:35.718000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Micron Technology",
+  "title": "Intern - Process Integration – Advanced Packaging",
+  "location": "Boise, ID - Main Site",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Integration---Advanced-Packaging_JR115378",
+  "date_posted": "2026-10-31T19:15:17.278000+00:00",
+  "date_found": "2026-10-31T19:16:13.687000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Applied Materials",
   "title": "2027 Spring Electrical Engineer Co-op (Billerica, MA)",
   "location": "Billerica, MA",
   "pay": "$31–$41/hr",
@@ -21783,22 +21847,6 @@
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": true
- },
- {
-  "company": "Ursa Major",
-  "title": "2027 Summer Design Engineering Intern",
-  "location": "Berthoud, CO",
-  "pay": "$30/hr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://ursamajor.com/careers/?gh_jid=4745101005",
-  "date_posted": "2026-10-19T17:27:55+00:00",
-  "date_found": "2026-10-19T17:31:32.941000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
  },
  {
   "company": "Inversion",
@@ -63039,22 +63087,6 @@
   "date_posted": null,
   "date_found": "2026-08-27T14:33:10+00:00",
   "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Zipline",
-  "title": "Embedded Systems Intern - Summer 2027",
-  "location": "South SF",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://www.zipline.com/open-roles?gh_jid=7978843003",
-  "date_posted": null,
-  "date_found": "2026-08-27T03:11:34+00:00",
-  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
