@@ -1,5 +1,85 @@
 [
  {
+  "company": "American Express",
+  "title": "Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Phoenix, AZ",
+  "location": "Phoenix, AZ",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012392",
+  "date_posted": "2026-11-02T00:00:00+00:00",
+  "date_found": "2026-08-17T22:51:43+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "American Express",
+  "title": "Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Phoenix, AZ",
+  "location": "Phoenix, AZ",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375",
+  "date_posted": "2026-11-02T00:00:00+00:00",
+  "date_found": "2026-08-17T22:51:42+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "KnowBe4",
+  "title": "Software Engineer Summer Internship",
+  "location": "Clearwater, FL",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8919280002",
+  "date_posted": "2026-11-01T19:25:01+00:00",
+  "date_found": "2026-11-01T19:58:52.371000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "KnowBe4",
+  "title": "Multimedia Designer Summer Internship (Hybrid)",
+  "location": "Clearwater, FL",
+  "pay": null,
+  "tracks": [
+   "design"
+  ],
+  "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8919260002",
+  "date_posted": "2026-11-01T19:19:11+00:00",
+  "date_found": "2026-11-01T19:58:52.371000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "KnowBe4",
+  "title": "Associate Product Manager Summer Internship (Hybrid)",
+  "location": "Clearwater, FL",
+  "pay": null,
+  "tracks": [
+   "product"
+  ],
+  "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8919274002",
+  "date_posted": "2026-11-01T19:16:43+00:00",
+  "date_found": "2026-11-01T19:58:52.371000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Federal Reserve System",
   "title": "Undergraduate Intern – Technology Focus",
   "location": "Minneapolis, MN",
@@ -15289,54 +15369,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Airbus",
-  "title": "Society of Women Engineers Conference Summer Internship - Engineering 2027",
-  "location": "Mobile Area, AL",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Society-of-Women-Engineers-Conference-Summer-Internship---Engineering-2027_JR10436173",
-  "date_posted": "2026-10-26T00:40:27.709000+00:00",
-  "date_found": "2026-10-26T01:00:44.814000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Airbus",
-  "title": "Society of Women Engineers Conference Summer Internship - Engineering 2027",
-  "location": "Wichita, KS",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Society-of-Women-Engineers-Conference-Summer-Internship---Engineering-2027_JR10433021",
-  "date_posted": "2026-10-26T00:40:27.709000+00:00",
-  "date_found": "2026-10-26T01:00:44.814000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Man Group",
-  "title": "Solutions Intern",
-  "location": "New York",
-  "pay": "$25–$30/hr",
-  "tracks": [
-   "quant"
-  ],
-  "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/5012802101",
-  "date_posted": "2026-10-26T00:26:53+00:00",
-  "date_found": "2026-10-26T01:00:44.814000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "F7d8749a 72d6 407c Bf98 292ea630c73a",
   "title": "Summer 2027 - Software Engineer Intern",
   "location": "San Diego, CA",
@@ -16156,22 +16188,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Pennsylvania State University",
-  "title": "Part-Time Research Assistant Intern",
-  "location": "State College, PA",
-  "pay": "$15/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant_REQ_0000083768-2",
-  "date_posted": "2026-10-26T00:00:00+00:00",
-  "date_found": "2026-10-26T00:00:00+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Arizona State University",
   "title": "Student Assistant Intern - Data Science",
   "location": "Scottsdale, AZ",
@@ -16758,22 +16774,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Intercontinental Exchange",
-  "title": "Summer Internship Program 2027 - Software Engineering Intern",
-  "location": "New York, NY",
-  "pay": "$30/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://careers.ice.com/jobs/14105?lang=en-us",
-  "date_posted": "2026-10-23T20:09:00+00:00",
-  "date_found": "2026-10-25T19:50:08.714580+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Trace Labs",
   "title": "Robotics Engineering Intern — Hardware & Software",
   "location": "NYC",
@@ -16871,22 +16871,6 @@
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": true
- },
- {
-  "company": "FedEx",
-  "title": "Intern - Information Technology (Product Owner – Summer 2027)",
-  "location": "Memphis, TN",
-  "pay": "$25/hr",
-  "tracks": [
-   "product"
-  ],
-  "url": "http://careers.fedex.com/intern-information-technology-product-owner-summer-2027/job/P25-390565-1",
-  "date_posted": "2026-10-23T19:31:11.750439+00:00",
-  "date_found": "2026-10-25T19:50:08.714580+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
  },
  {
   "company": "ID.me",
@@ -18065,22 +18049,6 @@
   "date_found": "2026-10-29T16:03:33.640000+00:00",
   "top_company": false,
   "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Ursa Major",
-  "title": "2027 Summer Software Development Intern",
-  "location": "Berthoud, CO",
-  "pay": "$30/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://ursamajor.com/careers/?gh_jid=4746827005",
-  "date_posted": "2026-10-22T21:12:28+00:00",
-  "date_found": "2026-10-22T21:13:37.182000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -20560,57 +20528,6 @@
   "date_posted": "2026-10-20T01:44:50.289000+00:00",
   "date_found": "2026-10-20T02:00:57.517000+00:00",
   "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "DriveWealth",
-  "title": "AI Consulting Associate Program – AI Engineer Intern",
-  "location": "Chicago, IL",
-  "pay": "$35–$40/hr",
-  "tracks": [
-   "aiml",
-   "software"
-  ],
-  "url": "https://jobs.ashbyhq.com/drivewealth/a214dd6c-e3ac-481e-8308-bf74c2032b8a/application?embed=true",
-  "date_posted": "2026-10-20T00:00:00+00:00",
-  "date_found": "2026-10-28T02:58:38.962000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "DriveWealth",
-  "title": "AI Consulting Associate Program Product Owner Intern",
-  "location": "Chicago, IL",
-  "pay": "$35–$40/hr",
-  "tracks": [
-   "aiml",
-   "software"
-  ],
-  "url": "https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87/application?embed=true",
-  "date_posted": "2026-10-20T00:00:00+00:00",
-  "date_found": "2026-10-28T02:58:38.962000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "NVIDIA",
-  "title": "Systems Software Intern, Aerial PHY- Summer 2027",
-  "location": "Santa Clara, CA",
-  "pay": null,
-  "tracks": [
-   "software",
-   "hardware"
-  ],
-  "url": "https://jobs.nvidia.com/careers/job/893397883732?domain=nvidia.com&hl=en",
-  "date_posted": "2026-10-20T00:00:00+00:00",
-  "date_found": "2026-10-27T21:50:06.798529+00:00",
-  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -65516,38 +65433,6 @@
  },
  {
   "company": "American Express",
-  "title": "AI Engineer Intern - Enterprise Technology Services",
-  "location": "Phoenix, AZ",
-  "pay": null,
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012392",
-  "date_posted": null,
-  "date_found": "2026-08-17T22:51:43+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "American Express",
-  "title": "AI Engineer Intern - Enterprise Technology Services",
-  "location": "Phoenix, AZ",
-  "pay": null,
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375",
-  "date_posted": null,
-  "date_found": "2026-08-17T22:51:42+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "American Express",
   "title": "Software Engineer Intern - Enterprise Technology Services",
   "location": "Phoenix, AZ",
   "pay": null,
@@ -67755,22 +67640,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Varda Space",
-  "title": "Flight Software Intern - Spring 2027",
-  "location": "El Segundo, CA",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824815003",
-  "date_posted": null,
-  "date_found": "2026-08-07T22:07:47+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "The Nuclear Company",
   "title": "Software Engineering Intern - Product - Platform",
   "location": "Washington, DC",
@@ -67877,6 +67746,22 @@
   "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824814003",
   "date_posted": "2026-08-07T16:47:25+00:00",
   "date_found": "2026-08-07T16:47:25+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Varda Space",
+  "title": "Flight Software Intern - Spring 2027",
+  "location": "El Segundo, CA",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824815003",
+  "date_posted": "2026-08-07T16:46:38+00:00",
+  "date_found": "2026-08-07T22:07:47+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,

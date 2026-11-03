@@ -2,12 +2,13 @@
 
 # 🎨 Design internships
 
-All 62 open design internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design), or [get them by email, free](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design).
+All 63 open design internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design), or [get them by email, free](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=knowbe4.com" width="20" height="20" align="absmiddle">&nbsp; **KnowBe4** | Multimedia Designer Summer Internship (Hybrid) ✨ | Clearwater,&nbsp;FL<br><sub>-</sub> | Nov&nbsp;1<br><sub>⚡&nbsp;40m</sub> | <a href="https://job-boards.greenhouse.io/knowbe4/jobs/8919260002"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=nytimes.com" width="20" height="20" align="absmiddle">&nbsp; **The New York Times** | Product Design Intern ✨ | New&nbsp;York,&nbsp;NY<br><sub>$40/hr</sub> | Oct&nbsp;30<br><sub>⚡&nbsp;45m</sub> | <a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748241005"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=obsidian.net" width="20" height="20" align="absmiddle">&nbsp; **Obsidian** | Concept Artist - 2027 Summer Internship ✨ | Irvine,&nbsp;CA<br><sub>$22–&#8288;$30/hr</sub> | Oct&nbsp;30 | <a href="https://obsidian.applytojob.com/apply/h63LTBaAKj"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | VFX Artist - 2027 Summer Internship ✨ | Irvine,&nbsp;CA<br><sub>$22–&#8288;$30/hr</sub> | Oct&nbsp;30 | <a href="https://obsidian.applytojob.com/apply/gNl408lONk"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
