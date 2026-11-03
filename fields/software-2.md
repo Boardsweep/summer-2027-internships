@@ -2,7 +2,7 @@
 
 # 💻 Software engineering internships
 
-All 1,896 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
+All 1,898 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
 
 Page 2 of 2: [1](software.md) · **2**
 
@@ -10,6 +10,8 @@ Page 2 of 2: [1](software.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=gdit.com" width="20" height="20" align="absmiddle">&nbsp; **GDIT** | GDIT Summer Internship Program – Summer 2027 AI/ML Software Development and Engineering Internship | Bossier&nbsp;City,&nbsp;LA<br><sub>-</sub> | Sep&nbsp;26 | <a href="https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=flintco.com" width="20" height="20" align="absmiddle">&nbsp; **Flint** | Engineering Intern - Summer 2027 🛂 | SF<br><sub>-</sub> | Sep&nbsp;26<br><sub>⚡&nbsp;29m</sub> | <a href="https://jobs.ashbyhq.com/flint/39f9e665-7037-4dff-b77a-ff7039df2bfc/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=microsoft.com" width="20" height="20" align="absmiddle">&nbsp; **Microsoft** | Research Intern - Data Systems 🔥 | United States, Washington, Redmond<br><sub>-</sub> | Sep&nbsp;26 | <a href="https://apply.careers.microsoft.com/careers/job/1970393557008574"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=tesla.com" width="20" height="20" align="absmiddle">&nbsp; **Tesla** | Mobile Application Software Engineer Intern - Energy Engineering 🔥 | Palo&nbsp;Alto,&nbsp;CA<br><sub>-</sub> | Sep&nbsp;26 | <a href="https://www.tesla.com/careers/search/job/284776"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=kinaxis.com" width="20" height="20" align="absmiddle">&nbsp; **Kinaxis** | Intern Developer, Back End Technologies | - | Sep&nbsp;25 | <a href="https://careers-kinaxis.icims.com/jobs/35372/intern-developer%2c-back-end-technologies/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

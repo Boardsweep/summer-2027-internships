@@ -2,12 +2,13 @@
 
 # 🔧 Hardware internships
 
-All 924 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
+All 925 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=tranetechnologies.com" width="20" height="20" align="absmiddle">&nbsp; **Trane Technologies** | Applied Compression Aero Intern ✨ | La&nbsp;Crosse,&nbsp;WI<br><sub>$25.50/hr</sub> | Nov&nbsp;2 | <a href="https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/La-Crosse-Wisconsin/Applied-Compression-Aero-Intern_JR-18650"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=appliedmaterials.com" width="20" height="20" align="absmiddle">&nbsp; **Applied&nbsp;Materials** | 2027 Spring Process Engineer Co-op (Billerica, MA) ✨ | Billerica,&nbsp;MA<br><sub>$31–&#8288;$41/hr</sub> | Oct&nbsp;31 | <a href="https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Process-Engineer-Co-op--Billerica--MA-_R2631536"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | 2027 Summer Process Engineer Intern - BS or MS (Gloucester, MA) ✨ | Gloucester,&nbsp;MA<br><sub>$31–&#8288;$41/hr</sub> | Oct&nbsp;31 | <a href="https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Process-Engineer-Intern---BS-or-MS--Gloucester--MA-_R2632317"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | 2027 Spring Manufacturing Engineer Co-op (Billerica, MA) ✨ | Billerica,&nbsp;MA<br><sub>$31–&#8288;$41/hr</sub> | Oct&nbsp;31 | <a href="https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Manufacturing-Engineer-Co-op--Billerica--MA-_R2631532"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

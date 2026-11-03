@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,479 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,481 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 2 of 2: [1](aiml.md) · **2**
 
@@ -10,7 +10,8 @@ Page 2 of 2: [1](aiml.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=bedrockrobotics.com" width="20" height="20" align="absmiddle">&nbsp; **Bedrock&nbsp;Robotics** | Behavior Machine Learning Engineer Intern - World Models | SF<br><sub>-</sub> | Sep&nbsp;10 | <a href="https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=bedrockrobotics.com" width="20" height="20" align="absmiddle">&nbsp; **Bedrock&nbsp;Robotics** | Onboard Infrastructure Engineer Intern - ML Inference | SF<br><sub>-</sub> | Sep&nbsp;10 | <a href="https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Behavior Machine Learning Engineer Intern - World Models | SF<br><sub>-</sub> | Sep&nbsp;10 | <a href="https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=vaynermedia.com" width="20" height="20" align="absmiddle">&nbsp; **VaynerMedia** | Data Analytics Resident | NYC<br><sub>$20/hr</sub> | Sep&nbsp;10<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://vaynermedia.com/careers?gh_jid=8126062"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=scor.com" width="20" height="20" align="absmiddle">&nbsp; **SCOR** | Data Science Intern | Charlotte,&nbsp;NC<br><sub>$22–&#8288;$24/hr</sub> | Sep&nbsp;10 | <a href="https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5393"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=zipline.com" width="20" height="20" align="absmiddle">&nbsp; **Zipline** | Data Analytics Intern - Spring 2027 🔥 | South&nbsp;SF<br><sub>-</sub> | Sep&nbsp;10 | <a href="https://www.zipline.com/open-roles/7990420003?gh_jid=7990420003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -557,7 +558,8 @@ Page 2 of 2: [1](aiml.md) · **2**
 | <img src="https://boardsweep.io/api/logo?domain=dexmate.ai" width="20" height="20" align="absmiddle">&nbsp; **Dexmate** | Research Intern | Fremont,&nbsp;CA<br><sub>-</sub> | Mar&nbsp;2 | <a href="https://jobs.ashbyhq.com/dexmate/9361af41-d1e4-4b27-be37-683685bf48dc/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=point72.com" width="20" height="20" align="absmiddle">&nbsp; **Point72** | Machine Learning Researcher - Intern 🔥 | New&nbsp;York<br><sub>-</sub> | Aug&nbsp;15<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=databricks.com" width="20" height="20" align="absmiddle">&nbsp; **Databricks** | PhD GenAI Research Scientist Intern 🔥 🎓 | San Francisco, CA<br><sub>$54–&#8288;$60/hr</sub> | Nov&nbsp;7 | <a href="https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Data Science Intern (2027 Start) 🔥 | 2&nbsp;locations<br><sub>$54–&#8288;$60/hr</sub> | Aug&nbsp;17 | <a href="https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=perpay.com" width="20" height="20" align="absmiddle">&nbsp; **Perpay** | Data Science Intern | Philadelphia,&nbsp;PA<br><sub>-</sub> | Sep&nbsp;12 | <a href="https://job-boards.greenhouse.io/perpay/jobs/4076978007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=databricks.com" width="20" height="20" align="absmiddle">&nbsp; **Databricks** | Data Science Intern (2027 Start) 🔥 | 2&nbsp;locations<br><sub>$54–&#8288;$60/hr</sub> | Aug&nbsp;17 | <a href="https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 [1](aiml.md) · **2**
 

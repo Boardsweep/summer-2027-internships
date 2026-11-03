@@ -1,5 +1,86 @@
 [
  {
+  "company": "Roku",
+  "title": "SW Engineer Intern, AI Engineering",
+  "location": "San Jose, CA",
+  "pay": null,
+  "tracks": [
+   "software",
+   "aiml"
+  ],
+  "url": "https://www.weareroku.com/jobs/8258241?gh_jid=8258241",
+  "date_posted": "2026-11-02T06:36:03+00:00",
+  "date_found": "2026-11-02T07:04:47.198000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "GE Aerospace",
+  "title": "Artificial Intelligence Intern",
+  "location": "Remote",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042291-1",
+  "date_posted": "2026-11-02T04:42:52.939000+00:00",
+  "date_found": "2026-11-02T04:57:27.081000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Microsoft",
+  "title": "Explore Program Engineering Internship Opportunities: First-Year Students, Redmond",
+  "location": "Redmond, WA",
+  "pay": "$25.96–$47.77/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556925823",
+  "date_posted": "2026-11-02T03:44:11+00:00",
+  "date_found": "2026-11-02T03:58:45.891000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Trane Technologies",
+  "title": "Applied Compression Aero Intern",
+  "location": "La Crosse, WI",
+  "pay": "$25.50/hr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/La-Crosse-Wisconsin/Applied-Compression-Aero-Intern_JR-18650",
+  "date_posted": "2026-11-02T01:50:13.541000+00:00",
+  "date_found": "2026-11-02T01:57:53.621000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "GE Aerospace",
+  "title": "Artificial Intelligence Intern",
+  "location": "Remote",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042294-1",
+  "date_posted": "2026-11-02T00:00:00+00:00",
+  "date_found": "2026-11-02T04:57:27.081000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "American Express",
   "title": "Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Phoenix, AZ",
   "location": "Phoenix, AZ",
@@ -50377,22 +50458,6 @@
  },
  {
   "company": "Perpay",
-  "title": "Data Science Intern",
-  "location": "Philadelphia, PA",
-  "pay": null,
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://job-boards.greenhouse.io/perpay/jobs/4076978007",
-  "date_posted": null,
-  "date_found": "2026-09-11T22:27:29+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Perpay",
   "title": "Data Engineering Intern",
   "location": "Philadelphia, PA",
   "pay": null,
@@ -78669,6 +78734,22 @@
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": true
+ },
+ {
+  "company": "Perpay",
+  "title": "Data Science Intern",
+  "location": "Philadelphia, PA",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://job-boards.greenhouse.io/perpay/jobs/4076978007",
+  "date_posted": "2023-09-12T13:27:18+00:00",
+  "date_found": "2026-09-11T22:27:29+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
  },
  {
   "company": "Databricks",
