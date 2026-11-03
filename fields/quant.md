@@ -2,12 +2,13 @@
 
 # 📈 Quant internships
 
-All 167 open quant internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_quant), or [get them by email, free](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_quant).
+All 168 open quant internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_quant), or [get them by email, free](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_quant).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=llnl.gov" width="20" height="20" align="absmiddle">&nbsp; **Lawrence Livermore National Laboratory** | Livermore Center for Quantum Science (LCQS) Undergraduate Internship - Summer 2027 ✨ | Livermore<br><sub>$23.26–&#8288;$31.60/hr</sub> | Nov&nbsp;2 | <a href="https://jobs.smartrecruiters.com/LLNL/3743990016558476"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=firstcitizens.com" width="20" height="20" align="absmiddle">&nbsp; **First Citizens Bank** | 2027 Summer Intern - Quantitative Modeling (Raleigh, NC) | Raleigh,&nbsp;NC<br><sub>-</sub> | Oct&nbsp;30 | <a href="https://firstcitizens.jibeapply.com/jobs/36317"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=fidelity.com" width="20" height="20" align="absmiddle">&nbsp; **Fidelity Investments** | Quantitative Research Intern- Equity Quantitative Research Team | Boston,&nbsp;MA<br><sub>-</sub> | Oct&nbsp;29 | <a href="https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Equity-Quantitative-Research-Team_2135122"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Quantitative Research Intern- Fixed Income Team | 2&nbsp;Locations<br><sub>-</sub> | Oct&nbsp;29 | <a href="https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Fixed-Income-Team_2135109"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
