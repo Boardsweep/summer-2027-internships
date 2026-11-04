@@ -1,5 +1,134 @@
 [
  {
+  "company": "ASML",
+  "title": "Co-op - Test and Measurement Facility Engineer (Internship)",
+  "location": "Wilton, CT",
+  "pay": "$18–$48/hr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Co-op---Test-and-Measurement-Facility-Engineer--Internship-_J-00356415",
+  "date_posted": "2026-11-03T05:40:48.423000+00:00",
+  "date_found": "2026-11-03T06:00:03.003000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "ASML",
+  "title": "CoOp - Electrical Engineer (Internship)",
+  "location": "Wilton, CT",
+  "pay": "$18–$48/hr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/CoOp---Electrical-Engineer--Internship-_J-00356208",
+  "date_posted": "2026-11-03T04:41:09.866000+00:00",
+  "date_found": "2026-11-03T05:05:14.420000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "PNC Financial Services",
+  "title": "Product Innovation Undergraduate Intern",
+  "location": "2 Locations",
+  "pay": null,
+  "tracks": [
+   "product"
+  ],
+  "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Product-Innovation-Undergraduate-Intern_R230925-1",
+  "date_posted": "2026-11-03T01:51:08.010607+00:00",
+  "date_found": "2026-11-03T01:50:21.636777+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "HNTB",
+  "title": "Co-op Engineer: Electrical and Traction Power - Spring 2027",
+  "location": "Chelmsford, MA",
+  "pay": "$25.28–$37.92/hr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Chelmsford-MA-Lexington/Co-op-Engineer--Electrical-and-Traction-Power---Spring-2027_R-32290",
+  "date_posted": "2026-11-03T01:46:47.871000+00:00",
+  "date_found": "2026-11-03T02:06:11.077000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "HNTB",
+  "title": "Co-op Engineer: Electrical and Traction Power - Spring 2027",
+  "location": "Chelmsford, MA",
+  "pay": "$25.28–$37.92/hr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Chelmsford-MA-Lexington/Co-op-Engineer--Electrical-and-Traction-Power---Spring-2027_R-32290-1",
+  "date_posted": "2026-11-03T01:46:45.140000+00:00",
+  "date_found": "2026-11-03T02:06:11.077000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Man Group",
+  "title": "Systematic Quant Intern - PhD",
+  "location": "Massachusetts",
+  "pay": "$55–$65/hr",
+  "tracks": [
+   "quant",
+   "software"
+  ],
+  "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/5012811101",
+  "date_posted": "2026-11-03T01:32:17+00:00",
+  "date_found": "2026-11-03T02:06:11.077000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": true
+ },
+ {
+  "company": "Figure",
+  "title": "Integration & Test - Mechanical Engineering Intern [Winter 2027]",
+  "location": "San Jose, CA",
+  "pay": "$40–$45/hr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://job-boards.greenhouse.io/figureai/jobs/4726631006",
+  "date_posted": "2026-11-03T01:32:05+00:00",
+  "date_found": "2026-11-03T01:34:33.436000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "GenMD",
+  "title": "Member of Technical Staff Intern, Applied AI",
+  "location": "Palo Alto",
+  "pay": "$45–$60/hr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://jobs.ashbyhq.com/genmd/47c4fc76-f21f-402b-9d5c-45bafe30aa2c",
+  "date_posted": "2026-11-03T01:21:05.468000+00:00",
+  "date_found": "2026-11-03T02:06:11.077000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Micron Technology",
   "title": "Intern - System Engineer, HBM",
   "location": "Boise, ID - Main Site",
@@ -92,6 +221,119 @@
   "url": "https://job-boards.greenhouse.io/acluinternships/jobs/8927658002",
   "date_posted": "2026-11-03T00:02:10+00:00",
   "date_found": "2026-11-03T01:03:07.402000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Sonos",
+  "title": "Data Engineering Intern (Seattle)",
+  "location": "Seattle, WA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Data-Engineering-Intern--Seattle-_R2897-1",
+  "date_posted": "2026-11-03T00:00:00+00:00",
+  "date_found": "2026-11-03T02:58:02.714000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "PACCAR",
+  "title": "2027 Summer Internship: Software Developer",
+  "location": "Denton, TX, US, 76205-7864",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/",
+  "date_posted": "2026-11-03T00:00:00+00:00",
+  "date_found": "2026-11-03T02:55:49.317000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "onsemi",
+  "title": "Summer 2027 - Device Characterization Intern",
+  "location": "San Jose, CA",
+  "pay": "$33.35/hr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506292",
+  "date_posted": "2026-11-03T00:00:00+00:00",
+  "date_found": "2026-11-03T02:25:16.225000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "PACCAR",
+  "title": "2027 Summer Internship: Design Engineer- Autonomous Vehicle Platform",
+  "location": "Denton, TX, US, 76205-7864",
+  "pay": null,
+  "tracks": [
+   "software",
+   "hardware"
+  ],
+  "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Design-Engineer-Autonomous-Vehicle-Platform-TX-76205-7864/1453611233/",
+  "date_posted": "2026-11-03T00:00:00+00:00",
+  "date_found": "2026-11-03T02:22:29.066000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "PACCAR",
+  "title": "2027 Summer Internship: Design Engineer - Powertrain - Aftertreatment Development (SG 15)",
+  "location": "Denton, TX, US, 76205-7864",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Design-Engineer-Powertrain-Aftertreatment-Development-%28SG-15%29-TX-76205-7864/1453612433/",
+  "date_posted": "2026-11-03T00:00:00+00:00",
+  "date_found": "2026-11-03T02:22:29.066000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "PACCAR",
+  "title": "2027 Summer Internship: Design Engineer- Cab & Sleepers Structures and Interiors",
+  "location": "Denton, TX, US, 76205-7864",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Design-Engineer-Cab-&-Sleepers-Structures-and-Interiors-TX-76205-7864/1453612133/",
+  "date_posted": "2026-11-03T00:00:00+00:00",
+  "date_found": "2026-11-03T02:22:29.066000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "PACCAR",
+  "title": "2027 Summer Internship: Design Engineer- Chassis Development",
+  "location": "Denton, TX, US, 76205-7864",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Design-Engineer-Chassis-Development-TX-76205-7864/1453611433/",
+  "date_posted": "2026-11-03T00:00:00+00:00",
+  "date_found": "2026-11-03T02:01:51.162000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -2067,6 +2309,103 @@
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
+ },
+ {
+  "company": "BNP Paribas",
+  "title": "2028 - Summer Analyst Internship - Global Markets, Sales & Trading",
+  "location": "New York City, NY",
+  "pay": "$110k/yr",
+  "tracks": [
+   "quant"
+  ],
+  "url": "https://bwelcome.hr.bnpparibas/en_US/externalcareers/JobDetails?jobId=114295",
+  "date_posted": "2026-11-02T00:00:00+00:00",
+  "date_found": "2026-11-03T05:50:05.014394+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "BNP Paribas",
+  "title": "2028 - Summer Analyst Internship - Global Markets, Equity Research",
+  "location": "New York City, NY",
+  "pay": "$110k/yr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://bwelcome.hr.bnpparibas/en_US/externalcareers/JobDetails?jobId=114296",
+  "date_posted": "2026-11-02T00:00:00+00:00",
+  "date_found": "2026-11-03T05:50:05.014394+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "NVIDIA",
+  "title": "AI Compiler and Kernel Intern – Summer 2027",
+  "location": "US, TX, Austin",
+  "pay": null,
+  "tracks": [
+   "software",
+   "aiml"
+  ],
+  "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1",
+  "date_posted": "2026-11-02T00:00:00+00:00",
+  "date_found": "2026-11-03T02:58:48.057000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Signet Jewelers",
+  "title": "Data Analytics Intern",
+  "location": "Akron, OH",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84318-1",
+  "date_posted": "2026-11-02T00:00:00+00:00",
+  "date_found": "2026-11-03T02:58:02.714000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Signet Jewelers",
+  "title": "Data Analytics Intern",
+  "location": "Akron, OH",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84317",
+  "date_posted": "2026-11-02T00:00:00+00:00",
+  "date_found": "2026-11-03T02:58:02.714000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Technical Product Marketing MBA Intern, AI Infrastructure - Summer 2027",
+  "location": "Santa Clara, CA",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://nvidia.eightfold.ai/careers/job/893398510317",
+  "date_posted": "2026-11-02T00:00:00+00:00",
+  "date_found": "2026-11-03T01:46:48.352000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": true
  },
  {
   "company": "Resideo",
@@ -14688,102 +15027,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Visa",
-  "title": "Consulting & Analytics Intern - Summer 2027",
-  "location": "US - Atlanta, GA",
-  "pay": "$29–$33/hr",
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Atlanta-GA/Consulting---Analytics-Intern---Summer-2027_REF089900W",
-  "date_posted": "2026-10-27T04:56:31.521000+00:00",
-  "date_found": "2026-10-27T04:59:49.965000+00:00",
-  "top_company": true,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Visa",
-  "title": "Consulting & Analytics Intern - Summer 2027",
-  "location": "US - Atlanta, GA",
-  "pay": "$29–$33/hr",
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Atlanta-GA/Consulting---Analytics-Intern---Summer-2027_REF089900W-2",
-  "date_posted": "2026-10-27T04:50:36.395000+00:00",
-  "date_found": "2026-10-27T04:59:49.965000+00:00",
-  "top_company": true,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Amazon",
-  "title": "Technical Program Manager Intern 2027",
-  "location": "",
-  "pay": null,
-  "tracks": [
-   "product"
-  ],
-  "url": "https://www.amazon.jobs/en-gb/jobs/10589099/technical-program-manager-intern-2027",
-  "date_posted": "2026-10-27T03:51:20+00:00",
-  "date_found": "2026-10-27T04:50:05.912895+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "RTX",
-  "title": "Technical Intern Summer 2027 - Onsite",
-  "location": "Middletown, RI",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-RI-MIDDLETOWN-201--127-John-Clarke-Rd--BBN-MIDDLETOWN-Ste-3/Technical-Intern-Summer-2027---Onsite_01882365",
-  "date_posted": "2026-10-27T03:43:40.520000+00:00",
-  "date_found": "2026-10-27T03:59:26.571000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Applied Materials",
-  "title": "2027 Summer Ion Source Development Intern (Gloucester, MA)",
-  "location": "Gloucester, MA",
-  "pay": "$31–$50/hr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Ion-Source-Development-Intern--Gloucester--MA-_R2630795",
-  "date_posted": "2026-10-27T03:40:51.275000+00:00",
-  "date_found": "2026-10-27T03:59:26.571000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Applied Materials",
-  "title": "2027 Computational Beamline / Plasma Scientist Summer Intern - MS or PhD (Gloucester, MA)",
-  "location": "Gloucester, MA",
-  "pay": "$41–$50/hr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Computational-Beamline---Plasma-Scientist-Summer-Intern---MS-or-PhD--Gloucester--MA-_R2630818",
-  "date_posted": "2026-10-27T03:40:51.275000+00:00",
-  "date_found": "2026-10-27T03:59:26.571000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": true
- },
- {
   "company": "HP IQ",
   "title": "Electrical Engineering Intern, Hardware (Summer 2027)",
   "location": "San Francisco, CA",
@@ -14812,54 +15055,6 @@
   "date_found": "2026-10-27T03:59:26.571000+00:00",
   "top_company": false,
   "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "HP IQ",
-  "title": "Engineering Intern, Wireless Automation and Test (Summer 2027)",
-  "location": "San Francisco, CA",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114741004",
-  "date_posted": "2026-10-27T03:21:56+00:00",
-  "date_found": "2026-10-27T03:59:26.571000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Impulse Space",
-  "title": "Assembly, Integration, and Test (AI&T) Engineering Intern (Summer 2027)",
-  "location": "Redondo Beach, CA",
-  "pay": "$30/hr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://impulsespace.pinpointhq.com/en/postings/59b09673-de5e-4ffc-a976-8ebdb3bb8d56",
-  "date_posted": null,
-  "date_found": "2026-10-27T01:50:26.492481+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Highmark Health",
-  "title": "Summer 2027 Cyber Risk Management Analyst Undergraduate Intern",
-  "location": "Camp Hill PA, 17011, Center Street Building ",
-  "pay": null,
-  "tracks": [
-   "security"
-  ],
-  "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Camp-Hill-PA-17011-Center-Street-Building-1B/Summer-2027-Cyber-Risk-Management-Analyst-Undergraduate-Intern_J286841",
-  "date_posted": "2026-10-27T01:43:40.334000+00:00",
-  "date_found": "2026-10-27T01:58:01.191000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -15979,22 +16174,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Amazon",
-  "title": "Field Engineer Intern, Fielding Engineering",
-  "location": "SGP",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://www.amazon.jobs/en/jobs/10589523/field-engineer-intern-fielding-engineering",
-  "date_posted": "2026-10-27T00:00:00+00:00",
-  "date_found": "2026-10-27T01:58:01.191000+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Boston Dynamics",
   "title": "Electrical Engineer Co-op",
   "location": "Waltham, MA",
@@ -16337,22 +16516,6 @@
   "advanced_degree": true
  },
  {
-  "company": "AtriCure",
-  "title": "IT Security Analyst Co-op",
-  "location": "Mason, OH",
-  "pay": null,
-  "tracks": [
-   "security"
-  ],
-  "url": "https://job-boards.greenhouse.io/atricure/jobs/4468040009",
-  "date_posted": "2026-10-26T21:07:20+00:00",
-  "date_found": "2026-10-27T06:50:24.702842+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Toyota Research Institute",
   "title": "Robotics Intern, Post-Training and Continual Learning",
   "location": "Los Altos, CA",
@@ -16576,22 +16739,6 @@
   "date_posted": null,
   "date_found": "2026-10-26T18:08:05.322000+00:00",
   "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Applied Materials",
-  "title": "2027 Summer Electrical Engineering Intern - BS or MS (Gloucester, MA)",
-  "location": "Gloucester, MA",
-  "pay": "$31–$41/hr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineering-Intern---BS-or-MS--Gloucester--MA-_R2630812",
-  "date_posted": "2026-10-26T17:51:37.642723+00:00",
-  "date_found": "2026-10-27T03:59:26.571000+00:00",
-  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -77924,6 +78071,22 @@
   "date_posted": null,
   "date_found": "2026-02-03T23:16:37+00:00",
   "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Pattern",
+  "title": "RevOps Data Analyst",
+  "location": "Lehi, UT",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://jobs.lever.co/pattern/84c10630-d414-4ad6-a195-05b0691fa97a",
+  "date_posted": "2026-01-30T13:21:22.254000+00:00",
+  "date_found": "2026-10-27T01:50:26.492481+00:00",
+  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
