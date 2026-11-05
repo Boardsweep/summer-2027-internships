@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,509 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,511 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 2 of 2: [1](aiml.md) · **2**
 
@@ -10,6 +10,9 @@ Page 2 of 2: [1](aiml.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=flagshippioneering.com" width="20" height="20" align="absmiddle">&nbsp; **Flagship Pioneering** | AI Automation Engineering Co-op | Cambridge,&nbsp;MA<br><sub>$25–&#8288;$35/hr</sub> | Sep&nbsp;14 | <a href="https://job-boards.greenhouse.io/fspco-op012325/jobs/8796996002"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=google.com" width="20" height="20" align="absmiddle">&nbsp; **Google** | Data Scientist Research Intern - PhD 🔥 | 31&nbsp;locations<br><sub>$118k–&#8288;$157k/yr</sub> | Sep&nbsp;14 | <a href="https://www.google.com/about/careers/applications/jobs/results/89965613241246406"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=waymo.com" width="20" height="20" align="absmiddle">&nbsp; **Waymo** | Human Behavior Analytics Intern - Safety Research 🔥 | Mountain View, CA<br><sub>$85/hr</sub> | Sep&nbsp;14 | <a href="https://careers.withwaymo.com/jobs?gh_jid=8197899"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=constellationenergy.com" width="20" height="20" align="absmiddle">&nbsp; **Constellation Energy** | PMO/Data Analyst Intern 🛂 | Chicago,&nbsp;IL<br><sub>-</sub> | Sep&nbsp;14 | <a href="https://jobs.constellationenergy.com/jobs/138735?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=figma.com" width="20" height="20" align="absmiddle">&nbsp; **Figma** | Data Science Intern 🔥 | 2&nbsp;locations<br><sub>$46/hr</sub> | Sep&nbsp;14 | <a href="https://boards.greenhouse.io/figma/jobs/6178857004"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=tiktok.com" width="20" height="20" align="absmiddle">&nbsp; **TikTok** | Client Solutions Manager Intern - GBS-LATAM 🔥 | Miami,&nbsp;FL<br><sub>-</sub> | Sep&nbsp;14 | <a href="https://lifeattiktok.com/search/7684612598114240821"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
