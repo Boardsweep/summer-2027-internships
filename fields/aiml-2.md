@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,555 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,553 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 2 of 2: [1](aiml.md) · **2**
 
@@ -10,10 +10,7 @@ Page 2 of 2: [1](aiml.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=afterquery.com" width="20" height="20" align="absmiddle">&nbsp; **AfterQuery** | Research Scholar Intern | SF<br><sub>-</sub> | Sep&nbsp;15<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://jobs.ashbyhq.com/AfterQuery/68053d93-6d15-4b4a-8a04-65aa5646feb2/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Research Fellow | SF<br><sub>-</sub> | Sep&nbsp;15<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://jobs.ashbyhq.com/AfterQuery/b1794d2c-fdbf-4165-a244-9e3ccc9cc800/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=nyiso.com" width="20" height="20" align="absmiddle">&nbsp; **New&nbsp;York&nbsp;ISO** | Energy Market Research and Engineering Intern | Rensselaer,&nbsp;NY<br><sub>-</sub> | Sep&nbsp;15<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://job-boards.greenhouse.io/nyisointernships/jobs/5236688007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | ICAP Market Operations Co-op | Rensselaer,&nbsp;NY<br><sub>-</sub> | Sep&nbsp;15<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://job-boards.greenhouse.io/nyisocoops/jobs/5236014007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=nyiso.com" width="20" height="20" align="absmiddle">&nbsp; **New&nbsp;York&nbsp;ISO** | ICAP Market Operations Co-op | Rensselaer,&nbsp;NY<br><sub>-</sub> | Sep&nbsp;15<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://job-boards.greenhouse.io/nyisocoops/jobs/5236014007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=hfsinclair.com" width="20" height="20" align="absmiddle">&nbsp; **HF&nbsp;Sinclair** | IT Data Analytics Intern | Dallas,&nbsp;TX<br><sub>-</sub> | Sep&nbsp;15 | <a href="https://careers.hfsinclair.com/job/Dallas-IT-Data-Analytics-Intern-TX-75219/1430072400/?ats=successfactors"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Business Analytics Intern | Dallas,&nbsp;TX<br><sub>-</sub> | Sep&nbsp;15 | <a href="https://careers.hfsinclair.com/job/Dallas-Branded-Fuels-Business-Analytics-Intern-TX-75219/1430072700/?ats=successfactors"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Engineering Analytics Intern | Dallas,&nbsp;TX<br><sub>-</sub> | Sep&nbsp;15 | <a href="https://careers.hfsinclair.com/job/Dallas-Engineering-Analytics-Intern-TX-75219/1430068300/?ats=successfactors"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
