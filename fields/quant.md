@@ -2,7 +2,7 @@
 
 # 📈 Quant internships
 
-All 207 open quant internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_quant), or [get them by email, free](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_quant).
+All 206 open quant internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_quant), or [get them by email, free](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_quant).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
@@ -194,7 +194,6 @@ All 207 open quant internships, newest first, every link the company's own posti
 | ↳ | Quantitative Systematic Trading Intern - PhD 🔥 | 2&nbsp;locations<br><sub>-</sub> | Jun&nbsp;29 | <a href="https://careers-sig.icims.com/jobs/10822/job?mobile=true&amp;needsRedirect=false"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Quantitative Systematic Trading Intern 🔥 | 2&nbsp;locations<br><sub>-</sub> | Jun&nbsp;29 | <a href="https://careers-sig.icims.com/jobs/10824/job?mobile=true&amp;needsRedirect=false"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Quantitative Research Intern 🔥 | 2&nbsp;locations<br><sub>-</sub> | Jun&nbsp;29 | <a href="https://careers-sig.icims.com/jobs/10820/job?mobile=true&amp;needsRedirect=false"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=virtu.com" width="20" height="20" align="absmiddle">&nbsp; **Virtu&nbsp;Financial** | Quantitative Research Intern - Quant Research - Undergrad 🔥 | NYC<br><sub>$5,000–&#8288;$5,800/wk</sub> | Jun&nbsp;26 | <a href="https://job-boards.greenhouse.io/virtu/jobs/8142539002"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=voloridge.com" width="20" height="20" align="absmiddle">&nbsp; **Voloridge** | Quantitative Research Intern | Jupiter,&nbsp;FL<br><sub>-</sub> | Jun&nbsp;11 | <a href="https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Quantitative Developer Intern | Jupiter,&nbsp;FL<br><sub>-</sub> | Jun&nbsp;11 | <a href="https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=walleyecapital.com" width="20" height="20" align="absmiddle">&nbsp; **Walleye&nbsp;Capital** | Equity Volatility Quant Researcher Intern | Miami,&nbsp;FL<br><sub>$20,000/mo</sub> | Jun&nbsp;10 | <a href="https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
