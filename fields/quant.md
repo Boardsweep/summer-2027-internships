@@ -2,12 +2,13 @@
 
 # 📈 Quant internships
 
-All 193 open quant internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_quant), or [get them by email, free](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_quant).
+All 194 open quant internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_quant), or [get them by email, free](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_quant).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=imc.com" width="20" height="20" align="absmiddle">&nbsp; **IMC&nbsp;Trading** | Research Analyst Intern - Summer 2027 🔥 | Chicago<br><sub>$165k/yr</sub> | Nov&nbsp;4<br><sub>⚡&nbsp;4m</sub> | <a href="https://job-boards.eu.greenhouse.io/imc/jobs/4823946101"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=americancentury.com" width="20" height="20" align="absmiddle">&nbsp; **American Century Investments** | Quantitative Research Intern ✨ 🛂 | 2&nbsp;Locations<br><sub>$30/hr</sub> | Nov&nbsp;4 | <a href="https://americancentury.wd5.myworkdayjobs.com/americancenturyinvestments1/job/Kansas-City-Missouri/Quantitative-Research-Intern_R0005728-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=galaxy.com" width="20" height="20" align="absmiddle">&nbsp; **Galaxy&nbsp;Digital** | 2027 Sales and Trading Internships - NYC ✨ | New&nbsp;York<br><sub>$55/hr</sub> | Nov&nbsp;3 | <a href="https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6242350004"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=rbc.com" width="20" height="20" align="absmiddle">&nbsp; **Royal Bank of Canada** | 2028 Capital Markets, Global Markets Sales &amp; Trading Analyst ✨ | New&nbsp;York,&nbsp;NY<br><sub>-</sub> | Nov&nbsp;3 | <a href="https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/New-York-New-York-United-States-of-America/XMLNAME-2028-Capital-Markets--Global-Markets-Sales---Trading-Analyst_R-0000191890-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
