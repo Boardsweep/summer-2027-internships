@@ -2,7 +2,7 @@
 
 # 🔧 Hardware internships
 
-All 968 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
+All 966 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
 
 Page 2 of 2: [1](hardware.md) · **2**
 
@@ -10,11 +10,9 @@ Page 2 of 2: [1](hardware.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=apple.com" width="20" height="20" align="absmiddle">&nbsp; **Apple** | Hardware Technologies Engineering Intern 🔥 | - | May&nbsp;22 | <a href="https://jobs.apple.com/en-us/details/200664383"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Hardware PhD Intern 🔥 | - | May&nbsp;22 | <a href="https://jobs.apple.com/en-us/details/200664421"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=apple.com" width="20" height="20" align="absmiddle">&nbsp; **Apple** | Hardware PhD Intern 🔥 | - | May&nbsp;22 | <a href="https://jobs.apple.com/en-us/details/200664421"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=basepowercompany.com" width="20" height="20" align="absmiddle">&nbsp; **Base&nbsp;Power** | Hardware Engineer Intern | Austin,&nbsp;TX<br><sub>-</sub> | May&nbsp;21 | <a href="https://jobs.ashbyhq.com/base-power/f22cee0e-55d9-42cd-806e-1c1fc7217770/application"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=nissan-global.com" width="20" height="20" align="absmiddle">&nbsp; **Nissan** | Autonomous Driving Applications Research Intern | Santa&nbsp;Clara,&nbsp;CA<br><sub>-</sub> | May&nbsp;21 | <a href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Autonomous-Driving-Applications-Research-Intern_R00209383"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=etched.com" width="20" height="20" align="absmiddle">&nbsp; **Etched** | PD Intern 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>-</sub> | May&nbsp;19 | <a href="https://jobs.ashbyhq.com/Etched/bd8c5768-7efa-4a18-9e56-485ccaf4ec77/application"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=heronpower.com" width="20" height="20" align="absmiddle">&nbsp; **Heron&nbsp;Power** | Hardware Test Engineering Intern | Santa&nbsp;Cruz,&nbsp;CA<br><sub>-</sub> | May&nbsp;11<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="http://jobs.ashbyhq.com/heron-power/7c3f30a6-f806-4bf5-a94c-cb4dece20cb2/application"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=figure.ai" width="20" height="20" align="absmiddle">&nbsp; **Figure** | Electrical Engineer Intern | San&nbsp;Jose,&nbsp;CA<br><sub>$40–&#8288;$45/hr</sub> | Apr&nbsp;27 | <a href="https://job-boards.greenhouse.io/figureai/jobs/4676467006"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=psu.edu" width="20" height="20" align="absmiddle">&nbsp; **Pennsylvania State University** | Embedded Systems and Hardware Co-Op 🛂 | Horsham,&nbsp;PA<br><sub>-</sub> | Apr&nbsp;18 | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
