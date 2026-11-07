@@ -1,5 +1,181 @@
 [
  {
+  "company": "ASM",
+  "title": "Intern, Product Intelligence Engineering (AI/ML)",
+  "location": "US > Arizona > Phoenix",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://www.asm.com/open-vacancies/?gh_jid=5029228101",
+  "date_posted": "2026-11-06T04:17:49+00:00",
+  "date_found": "2026-11-06T04:26:22.185000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "ASM",
+  "title": "Intern, Electrical Engineering",
+  "location": "US > Arizona > Phoenix",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://www.asm.com/open-vacancies/?gh_jid=5029220101",
+  "date_posted": "2026-11-06T04:02:46+00:00",
+  "date_found": "2026-11-06T04:04:29.077000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "ASM",
+  "title": "Intern, Process Engineering",
+  "location": "US > Arizona > Phoenix",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://www.asm.com/open-vacancies/?gh_jid=5029209101",
+  "date_posted": "2026-11-06T03:44:30+00:00",
+  "date_found": "2026-11-06T03:49:18.132000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Astranis",
+  "title": "Network Planning Sales Engineer Intern (Winter 2027)",
+  "location": "San Francisco, CA",
+  "pay": "$29/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://job-boards.greenhouse.io/astranis/jobs/4704276006",
+  "date_posted": null,
+  "date_found": "2026-11-06T01:53:30.213732+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Astranis",
+  "title": "Supplier Quality Engineer Intern (Winter 2027)",
+  "location": "San Francisco",
+  "pay": "$29/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://job-boards.greenhouse.io/astranis/jobs/4715989006",
+  "date_posted": null,
+  "date_found": "2026-11-06T01:53:30.213732+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Astranis",
+  "title": "Environmental Test Engineer Intern (Winter 2027)",
+  "location": "San Francisco",
+  "pay": "$29/hr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://job-boards.greenhouse.io/astranis/jobs/4705652006",
+  "date_posted": null,
+  "date_found": "2026-11-06T01:53:30.213732+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Astranis",
+  "title": "Harness Design Engineer Intern (Summer 2027)",
+  "location": "San Francisco",
+  "pay": "$29/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://job-boards.greenhouse.io/astranis/jobs/4704779006",
+  "date_posted": null,
+  "date_found": "2026-11-06T01:53:30.213732+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Astranis",
+  "title": "Harness Design Engineer Intern (Winter 2027)",
+  "location": "San Francisco",
+  "pay": "$29/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://job-boards.greenhouse.io/astranis/jobs/4704778006",
+  "date_posted": null,
+  "date_found": "2026-11-06T01:53:30.213732+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Astranis",
+  "title": "CAD Engineer Intern (Spring 2027)",
+  "location": "San Francisco",
+  "pay": "$29/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://job-boards.greenhouse.io/astranis/jobs/4704740006",
+  "date_posted": null,
+  "date_found": "2026-11-06T01:53:30.213732+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Astranis",
+  "title": "CAD Engineer Intern (Winter 2027)",
+  "location": "San Francisco",
+  "pay": "$29/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://job-boards.greenhouse.io/astranis/jobs/4704748006",
+  "date_posted": null,
+  "date_found": "2026-11-06T01:53:30.213732+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Etched",
+  "title": "Infrastructure Engineering & Projects Intern",
+  "location": "San Jose",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.ashbyhq.com/Etched/1a92048c-60e0-445b-a84e-8f008f1cf47b",
+  "date_posted": "2026-11-06T01:31:57.607000+00:00",
+  "date_found": "2026-11-06T01:34:15.093000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "RTX",
   "title": "Enterprise Services Engineering Co-Op (Spring/Summer 2027)",
   "location": "East Hartford, CT",
@@ -11546,22 +11722,6 @@
   "advanced_degree": true
  },
  {
-  "company": "Zoox",
-  "title": "Software Engineer Intern, Software Systems [Summer 2027]",
-  "location": "Foster City, CA",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20",
-  "date_posted": "2026-10-30T23:06:05.895000+00:00",
-  "date_found": "2026-11-05T23:43:28.432000+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Emcorgroup",
   "title": "Low Voltage Integration Technician Apprentice",
   "location": "",
@@ -13277,38 +13437,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Johnson & Johnson",
-  "title": "R&D Co-Op",
-  "location": "Irving, TX",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Irving-Texas-United-States-of-America/R-D-Co-Op_R-098370",
-  "date_posted": "2026-10-30T06:44:40.128000+00:00",
-  "date_found": "2026-10-30T06:59:32.033000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Applied Materials",
-  "title": "2027 Spring Process Engineer Co-op - Doctorate (Gloucester, MA)",
-  "location": "Gloucester, MA",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2632516",
-  "date_posted": "2026-10-30T04:40:48.118000+00:00",
-  "date_found": "2026-10-30T04:57:50.571000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": true
- },
- {
   "company": "Stratolaunch",
   "title": "Manufacturing (Electrical) Engineering Intern Summer 2027",
   "location": "Mojave, CA",
@@ -13357,17 +13485,17 @@
   "advanced_degree": true
  },
  {
-  "company": "Loft Orbital",
-  "title": "Summer 2027 Internship - Thermal & Manufacturing Engineering",
-  "location": "Golden, CO",
-  "pay": "$30/hr",
+  "company": "Zoox",
+  "title": "Software Engineer Intern, Software Systems [Summer 2027]",
+  "location": "Foster City, CA",
+  "pay": null,
   "tracks": [
-   "hardware"
+   "software"
   ],
-  "url": "https://jobs.lever.co/loftorbital/03f948ff-0767-4bb0-a13b-345321d63d71",
-  "date_posted": "2026-10-30T00:33:01+00:00",
-  "date_found": "2026-10-30T04:57:50.571000+00:00",
-  "top_company": false,
+  "url": "https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20",
+  "date_posted": "2026-10-30T00:00:00+00:00",
+  "date_found": "2026-11-05T23:43:28.432000+00:00",
+  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false

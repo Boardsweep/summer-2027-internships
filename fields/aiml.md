@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,559 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,560 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 1 of 2: **1** · [2](aiml-2.md)
 
@@ -10,6 +10,7 @@ Page 1 of 2: **1** · [2](aiml-2.md)
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=asm.com" width="20" height="20" align="absmiddle">&nbsp; **ASM** | Intern, Product Intelligence Engineering (AI/ML) | US &gt; Arizona &gt; Phoenix<br><sub>-</sub> | Nov&nbsp;6<br><sub>⚡&nbsp;9m</sub> | <a href="https://www.asm.com/open-vacancies/?gh_jid=5029228101"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=vertexpharmaceuticals.com" width="20" height="20" align="absmiddle">&nbsp; **Vertex Pharmaceuticals** | Spring 2027 Co-Op, Structural Biology &amp; Biophysics ✨ 🛂 | Boston,&nbsp;MA<br><sub>$20–&#8288;$35/hr</sub> | Nov&nbsp;5 | <a href="https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-2027-Co-Op--Structural-Biology---Biophysics_REQ-31300-2"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=statefarm.com" width="20" height="20" align="absmiddle">&nbsp; **State&nbsp;Farm** | Summer 2027 Intern-P&amp;C Actuarial &amp; Underwriting Modeling - Data Scientist ✨ 🎓 | Bloomington,&nbsp;IL<br><sub>$30/hr</sub> | Nov&nbsp;5 | <a href="https://jobs.statefarm.com/jobs/46227"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | P&amp;C Actuarial &amp; Underwriting Modeling Intern - Data Scientist | 4&nbsp;locations<br><sub>$30/hr</sub> | Nov&nbsp;5 | <a href="https://jobs.statefarm.com/jobs/46227?icims=1&amp;lang=en-us"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -940,7 +941,6 @@ Page 1 of 2: **1** · [2](aiml-2.md)
 | ↳ | AI/ML Engineer Intern | Wilmington,&nbsp;MA<br><sub>$22–&#8288;$41/hr</sub> | Sep&nbsp;16 | <a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=soundexchange.com" width="20" height="20" align="absmiddle">&nbsp; **SoundExchange** | Operations Intern - Royalty Processing &amp; Business Intelligence | Washington,&nbsp;DC<br><sub>-</sub> | Sep&nbsp;16<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://job-boards.greenhouse.io/sxinternships/jobs/5231079007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=waymo.com" width="20" height="20" align="absmiddle">&nbsp; **Waymo** | Machine Learning Intern - Computer Vision 🔥 | Mountain View, CA<br><sub>$85/hr</sub> | Sep&nbsp;16 | <a href="https://careers.withwaymo.com/jobs?gh_jid=8202025"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=geckorobotics.com" width="20" height="20" align="absmiddle">&nbsp; **Gecko&nbsp;Robotics** | AI/Machine Learning Engineer Intern | NYC<br><sub>-</sub> | Sep&nbsp;16 | <a href="https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 **1** · [2](aiml-2.md)
 
