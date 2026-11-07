@@ -2,7 +2,7 @@
 
 # 🔧 Hardware internships
 
-All 978 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
+All 980 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
 
 Page 2 of 2: [1](hardware.md) · **2**
 
@@ -10,6 +10,8 @@ Page 2 of 2: [1](hardware.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=peakenergy.com" width="20" height="20" align="absmiddle">&nbsp; **Peak&nbsp;Energy** | Test Engineer Intern | Burlingame,&nbsp;CA<br><sub>$35/hr</sub> | Jul&nbsp;10<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://peakenergy.com/get-in-touch/careers/jobs?job_id=5178781007&amp;gh_jid=5178781007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=droydrobotics.com" width="20" height="20" align="absmiddle">&nbsp; **Droyd&nbsp;Robotics** | Software Engineer Intern | SF<br><sub>-</sub> | Jul&nbsp;4 | <a href="https://jobs.ashbyhq.com/droyd/8d46ed05-1b38-4c68-938e-f10b4c7d4694/application"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=psu.edu" width="20" height="20" align="absmiddle">&nbsp; **Pennsylvania State University** | Engineering Support Intern | State College, PA<br><sub>-</sub> | Jul&nbsp;4 | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Engineering-Technologist-Intern_REQ_0000077694-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=motorolasolutions.com" width="20" height="20" align="absmiddle">&nbsp; **Motorola Solutions** | Embedded Software Intern 🛂 | Irvine,&nbsp;CA<br><sub>$28.60–&#8288;$33.80/hr</sub> | Jul&nbsp;4 | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R62372"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=anl.gov" width="20" height="20" align="absmiddle">&nbsp; **Argonne National Laboratory** | Postdoctoral Appointee Intern - Bioimaging | Lemont,&nbsp;IL<br><sub>$72,879–&#8288;$121,465/yr</sub> | Jul&nbsp;4 | <a href="https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Bioimaging_422720"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
