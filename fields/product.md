@@ -2,12 +2,13 @@
 
 # 📱 Product internships
 
-All 298 open product internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_product), or [get them by email, free](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_product).
+All 299 open product internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_product), or [get them by email, free](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_product).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=tiktok.com" width="20" height="20" align="absmiddle">&nbsp; **TikTok** | GEO Content Product Manager Intern 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$35/hr</sub> | Nov&nbsp;7 | <a href="https://lifeattiktok.com/search/7696000178264361269"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=zoox.com" width="20" height="20" align="absmiddle">&nbsp; **Zoox** | Program Manager, Infrastructure Operations Intern [Summer 2027] 🔥 | Foster&nbsp;City,&nbsp;CA<br><sub>-</sub> | Nov&nbsp;6<br><sub>⚡&nbsp;5m</sub> | <a href="https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=docusign.com" width="20" height="20" align="absmiddle">&nbsp; **DocuSign** | Product Manager Intern 🛂 | SF<br><sub>-</sub> | Nov&nbsp;6 | <a href="https://careers.docusign.com/jobs/30625?icims=1&amp;lang=en-us"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=gf.com" width="20" height="20" align="absmiddle">&nbsp; **GlobalFoundries** | Program Management Intern, Silicon Photonics (Summer 2027) ✨ | Malta,&nbsp;NY<br><sub>$20–&#8288;$40/hr</sub> | Nov&nbsp;6 | <a href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Program-Management-Intern--Silicon-Photonics--Summer-2027-_JR-2605132"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

@@ -1,5 +1,37 @@
 [
  {
+  "company": "Subsense",
+  "title": "Electrical Engineer",
+  "location": "Mountain View, CA",
+  "pay": "$90k–$110k/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.lever.co/subsense/5d721ba5-6aa5-4a62-8ae2-c938c836d7a1/apply",
+  "date_posted": "2026-11-07T02:16:18+00:00",
+  "date_found": "2026-11-07T03:03:47.413000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "TikTok",
+  "title": "GEO Content Product Manager Intern",
+  "location": "San Jose, CA",
+  "pay": "$35/hr",
+  "tracks": [
+   "product"
+  ],
+  "url": "https://lifeattiktok.com/search/7696000178264361269",
+  "date_posted": "2026-11-07T02:15:14+00:00",
+  "date_found": "2026-11-07T03:03:47.413000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "KLA",
   "title": "Mechanical Engineer Intern",
   "location": "Milpitas, CA",
@@ -43,6 +75,22 @@
   "date_posted": "2026-11-07T01:05:31+00:00",
   "date_found": "2026-11-07T01:07:28.127000+00:00",
   "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Zoox",
+  "title": "AI Workflows & Safety Decision Making Intern [2027]",
+  "location": "Foster City, CA",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
+  "date_posted": "2026-11-07T00:27:55.431000+00:00",
+  "date_found": "2026-11-07T01:55:17.615000+00:00",
+  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -1794,6 +1842,22 @@
   "advanced_degree": false
  },
  {
+  "company": "TikTok",
+  "title": "Data Operations Intern (SoundOn) - 2027 Start",
+  "location": "Los Angeles, CA",
+  "pay": "$23.75/hr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://lifeattiktok.com/search/7704912455690504453",
+  "date_posted": "2026-11-06T04:35:26+00:00",
+  "date_found": "2026-11-07T01:52:16.101000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Match Group",
   "title": "Data Scientist Intern",
   "location": "San Francisco, CA",
@@ -2125,6 +2189,22 @@
   "url": "https://jobs.ashbyhq.com/rhoda-ai/df2aa2a4-ca56-4fa6-b106-89a7fc6a9bb4",
   "date_posted": "2026-11-06T00:02:13.796000+00:00",
   "date_found": "2026-11-06T01:00:52.631000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "DataRobot",
+  "title": "Software Design Engineer Intern",
+  "location": "Boston",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "http://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Software-Design-Engineer-Intern_R-102764",
+  "date_posted": "2026-11-06T00:00:00+00:00",
+  "date_found": "2026-11-07T02:50:09.624541+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -14098,150 +14178,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Trane Technologies",
-  "title": "Energy Engineering Co-op",
-  "location": "Grand Rapids, MI",
-  "pay": "$24/hr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/Grand-Rapids-Michigan/Energy-Engineering-Co-op_JR-18917",
-  "date_posted": "2026-10-31T03:50:02.460000+00:00",
-  "date_found": "2026-10-31T03:57:46.370000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Tevora",
-  "title": "Cybersecurity Internship Summer 2027 - Threat",
-  "location": "Irvine, CA",
-  "pay": "$27/hr",
-  "tracks": [
-   "security"
-  ],
-  "url": "https://jobs.lever.co/tevora/5acd8859-ba7f-4996-9503-13a231376758",
-  "date_posted": "2026-10-31T02:26:52.192000+00:00",
-  "date_found": "2026-10-31T02:58:02.719000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Tevora",
-  "title": "Cybersecurity Internship Summer 2027 - Solutions",
-  "location": "Irvine, CA",
-  "pay": "$27/hr",
-  "tracks": [
-   "security"
-  ],
-  "url": "https://jobs.lever.co/tevora/facb1a9a-67b3-42ca-90f1-65d934d9b68d",
-  "date_posted": "2026-10-31T02:25:58.894000+00:00",
-  "date_found": "2026-10-31T02:58:02.719000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Tevora",
-  "title": "Cybersecurity Internship Summer 2027 - Systems and Organizations Controls (SOC)",
-  "location": "Irvine, CA",
-  "pay": "$27/hr",
-  "tracks": [
-   "security"
-  ],
-  "url": "https://jobs.lever.co/tevora/4e3b7ae3-cb18-4c76-815c-0014e3c7598c",
-  "date_posted": "2026-10-31T02:22:15.907000+00:00",
-  "date_found": "2026-10-31T02:58:02.719000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Tevora",
-  "title": "Cybersecurity Internship Summer 2027 - Payments",
-  "location": "Fairfax, VA",
-  "pay": "$27/hr",
-  "tracks": [
-   "security"
-  ],
-  "url": "https://jobs.lever.co/tevora/7b1010a9-9379-459a-89f8-222af2fe7721",
-  "date_posted": "2026-10-31T02:21:30.978000+00:00",
-  "date_found": "2026-10-31T02:58:02.719000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Tevora",
-  "title": "Cybersecurity Internship Summer 2027 - International Organization for Standardization (ISO)",
-  "location": "Irvine, CA",
-  "pay": "$27/hr",
-  "tracks": [
-   "security"
-  ],
-  "url": "https://jobs.lever.co/tevora/648630ae-0dce-4b80-af2b-911c2c8f159c",
-  "date_posted": "2026-10-31T02:20:42.059000+00:00",
-  "date_found": "2026-10-31T02:58:02.719000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Tevora",
-  "title": "Cybersecurity Internship Summer 2027 - Healthcare",
-  "location": "Irvine, CA",
-  "pay": "$27/hr",
-  "tracks": [
-   "security"
-  ],
-  "url": "https://jobs.lever.co/tevora/a18eeda5-4b39-4e8f-b3b3-e4d80e3601b0",
-  "date_posted": "2026-10-31T02:18:34.098000+00:00",
-  "date_found": "2026-10-31T02:50:44.554065+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Tevora",
-  "title": "Cybersecurity Internship Summer2027 - Federal",
-  "location": "Fairfax, VA",
-  "pay": "$27/hr",
-  "tracks": [
-   "security"
-  ],
-  "url": "https://jobs.lever.co/tevora/2ad5ba33-3c2a-4e51-a5ab-e5632adb0e0d",
-  "date_posted": "2026-10-31T02:17:44.032000+00:00",
-  "date_found": "2026-10-31T02:58:02.719000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Tevora",
-  "title": "Cybersecurity Internship Summer 2027 - Enterprise Risk Management",
-  "location": "Irvine, CA",
-  "pay": "$27/hr",
-  "tracks": [
-   "security"
-  ],
-  "url": "https://jobs.lever.co/tevora/fb3b174b-07ac-410d-9c44-53c70793635c",
-  "date_posted": "2026-10-31T02:16:08.494000+00:00",
-  "date_found": "2026-10-31T02:58:02.719000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Genentech",
   "title": "2027 Summer Intern - Systems & Hardware Development",
   "location": "Tucson",
@@ -14629,22 +14565,6 @@
   "advanced_degree": false
  },
  {
-  "company": "FedEx",
-  "title": "Intern - Data Science",
-  "location": "Memphis, TN",
-  "pay": "$25/hr",
-  "tracks": [
-   "aiml"
-  ],
-  "url": "http://careers.fedex.com/intern-data-science/job/P25-392650-1",
-  "date_posted": "2026-10-30T19:03:24.601042+00:00",
-  "date_found": "2026-10-31T01:50:05.946578+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "The New York Times",
   "title": "Backend Engineering Intern, Wirecutter",
   "location": "New York, NY",
@@ -14657,22 +14577,6 @@
   "date_found": "2026-10-30T20:00:07.443000+00:00",
   "top_company": false,
   "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "FedEx",
-  "title": "Intern - Data Science",
-  "location": "Collierville, TN",
-  "pay": "$25/hr",
-  "tracks": [
-   "aiml"
-  ],
-  "url": "http://careers.fedex.com/intern-data-science/job/P25-392649-1",
-  "date_posted": "2026-10-30T19:01:24.607971+00:00",
-  "date_found": "2026-10-31T01:50:05.946578+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -23900,6 +23804,22 @@
   "date_posted": "2026-10-21T21:53:20+00:00",
   "date_found": "2026-10-21T22:04:24.072000+00:00",
   "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Morph Labs",
+  "title": "Research Intern",
+  "location": "NYC",
+  "pay": "$10,000/mo",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://job-boards.greenhouse.io/morph/jobs/4463089009",
+  "date_posted": "2026-10-21T20:21:24+00:00",
+  "date_found": "2026-10-31T06:50:06.502000+00:00",
+  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -33716,6 +33636,22 @@
   "date_posted": "2026-10-09T07:00:00+00:00",
   "date_found": "2026-09-10T14:16:16+00:00",
   "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Intel",
+  "title": "Software Engineer Intern",
+  "location": "5 locations",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834",
+  "date_posted": "2026-10-09T04:51:20.246121+00:00",
+  "date_found": "2026-09-02T00:00:00+00:00",
+  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -61886,22 +61822,6 @@
   "date_posted": null,
   "date_found": "2026-09-02T00:00:00+00:00",
   "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Intel",
-  "title": "Software Engineer Intern",
-  "location": "5 locations",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834",
-  "date_posted": null,
-  "date_found": "2026-09-02T00:00:00+00:00",
-  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false

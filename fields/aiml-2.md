@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,575 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,576 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 2 of 2: [1](aiml.md) · **2**
 
@@ -10,6 +10,7 @@ Page 2 of 2: [1](aiml.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=visa.com" width="20" height="20" align="absmiddle">&nbsp; **Visa** | Staff Research Scientist, Intern - PhD Agentic AI 🔥 | Austin,&nbsp;TX<br><sub>$56–&#8288;$63/hr</sub> | Sep&nbsp;17 | <a href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Staff-Research-Scientist--Intern---PhD-Agentic-AI_REF088582W-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=directsupply.com" width="20" height="20" align="absmiddle">&nbsp; **Direct&nbsp;Supply** | AI Engineer Intern | Milwaukee,&nbsp;WI<br><sub>-</sub> | Sep&nbsp;17 | <a href="https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/AI-Engineer-Intern_REQ-2026-2553"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=wattswater.com" width="20" height="20" align="absmiddle">&nbsp; **Watts&nbsp;Water** | Product Marketing Data Analyst Intern 🛂 | North Andover, MA<br><sub>$21–&#8288;$23/hr</sub> | Sep&nbsp;17 | <a href="https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Product-Data-Analyst--Marketing-Intern_10017538"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=insperity.com" width="20" height="20" align="absmiddle">&nbsp; **Insperity** | Rotational AI Intern | Houston,&nbsp;TX<br><sub>-</sub> | Sep&nbsp;17 | <a href="https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-AI-Intern_JR103294"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
