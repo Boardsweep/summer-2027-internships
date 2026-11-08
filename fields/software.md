@@ -2,7 +2,7 @@
 
 # 💻 Software engineering internships
 
-All 1,962 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
+All 1,964 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
 
 Page 1 of 3: **1** · [2](software-2.md) · [3](software-3.md)
 
@@ -10,6 +10,9 @@ Page 1 of 3: **1** · [2](software-2.md) · [3](software-3.md)
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=shure.com" width="20" height="20" align="absmiddle">&nbsp; **Shure** | Cloud Devops Engineer Intern ✨ 🛂 | -<br><sub>$23–&#8288;$43/hr</sub> | Nov&nbsp;7 | <a href="https://careersus-shure.icims.com/jobs/4975/cloud-devops-engineer-intern/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Corporate Quality Engineering Intern ✨ 🛂 | -<br><sub>$23–&#8288;$43/hr</sub> | Nov&nbsp;7 | <a href="https://careersus-shure.icims.com/jobs/4978/corporate-quality-engineering-intern/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=sas.com" width="20" height="20" align="absmiddle">&nbsp; **SAS** | Summer 2027 Technical Support Intern ✨ | -<br><sub>$15–&#8288;$30/hr</sub> | Nov&nbsp;7 | <a href="https://careers-sas.icims.com/jobs/46696/summer-2027---technical-support-intern/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=epeconsulting.com" width="20" height="20" align="absmiddle">&nbsp; **Electric Power Engineers** | Power Systems Engineer Intern Co Op ✨ | - | Nov&nbsp;7 | <a href="https://careers-epeconsulting.icims.com/jobs/2433/power-systems-engineer-intern---co-op/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=category.xyz" width="20" height="20" align="absmiddle">&nbsp; **Category&nbsp;Labs** | Research Intern, Summer 2027 | NYC<br><sub>$4,500/wk</sub> | Nov&nbsp;7<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://jobs.ashbyhq.com/category-labs/248a6400-c18e-4627-9c8c-1b1054869075"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=tesla.com" width="20" height="20" align="absmiddle">&nbsp; **Tesla** | Software Engineer Intern - SI Reinforcement Learning 🔥 | Palo&nbsp;Alto,&nbsp;CA<br><sub>-</sub> | Nov&nbsp;6 | <a href="https://www.tesla.com/careers/search/job/289240"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -936,9 +939,6 @@ Page 1 of 3: **1** · [2](software-2.md) · [3](software-3.md)
 | <img src="https://boardsweep.io/api/logo?domain=tesla.com" width="20" height="20" align="absmiddle">&nbsp; **Tesla** | Data Engineer Intern - Data Engineer - Applications Engineering 🔥 | Fremont,&nbsp;CA<br><sub>-</sub> | Oct&nbsp;1 | <a href="https://www.tesla.com/careers/search/job/285179"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Commercial UI Software Engineer Intern 🔥 | Palo&nbsp;Alto,&nbsp;CA<br><sub>-</sub> | Oct&nbsp;1 | <a href="https://www.tesla.com/careers/search/job/285202"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=rivian.com" width="20" height="20" align="absmiddle">&nbsp; **Rivian** | Software Engineer Intern Co-op - Applied AI | Palo&nbsp;Alto,&nbsp;CA<br><sub>$33–&#8288;$51/hr</sub> | Oct&nbsp;1 | <a href="https://careers.rivian.com/jobs/33984?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=tesla.com" width="20" height="20" align="absmiddle">&nbsp; **Tesla** | Data Engineer Intern - Data Engineering &amp; Business Intelligence 🔥 | Fremont,&nbsp;CA<br><sub>-</sub> | Oct&nbsp;1 | <a href="https://www.tesla.com/careers/search/job/285291"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=mindex.com" width="20" height="20" align="absmiddle">&nbsp; **Mindex** | Software Engineer Co-Op - On-site | Rochester,&nbsp;NY<br><sub>-</sub> | Oct&nbsp;1 | <a href="https://apply.workable.com/mindex/j/84B10DB922/"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=njm.com" width="20" height="20" align="absmiddle">&nbsp; **NJM Insurance Group** | IT Data Administration Intern | Trenton,&nbsp;NJ<br><sub>$21–&#8288;$25/hr</sub> | Oct&nbsp;1 | <a href="https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/IT-Data-Administration-Intern_R2008309"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 **1** · [2](software-2.md) · [3](software-3.md)
 

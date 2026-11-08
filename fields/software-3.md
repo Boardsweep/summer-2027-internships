@@ -2,7 +2,7 @@
 
 # 💻 Software engineering internships
 
-All 1,962 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
+All 1,964 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
 
 Page 3 of 3: [1](software.md) · [2](software-2.md) · **3**
 
@@ -10,6 +10,8 @@ Page 3 of 3: [1](software.md) · [2](software-2.md) · **3**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=tencent.com" width="20" height="20" align="absmiddle">&nbsp; **Tencent** | Game Research &amp; Development Intern - Engine Research | LA<br><sub>$28.27–&#8288;$60/hr</sub> | Apr&nbsp;23 | <a href="https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-California-Los-Angeles/Game-Research---Development-Intern--Engine-Research_R107344"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Game Research &amp; Development Intern - Engine Research | Bellevue,&nbsp;WA<br><sub>$28.27–&#8288;$60/hr</sub> | Apr&nbsp;23 | <a href="https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=fortinet.com" width="20" height="20" align="absmiddle">&nbsp; **Fortinet** | AI Intern | Sunnyvale,&nbsp;CA<br><sub>$40–&#8288;$60/hr</sub> | Apr&nbsp;21 | <a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22741"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=tiktok.com" width="20" height="20" align="absmiddle">&nbsp; **TikTok** | Software Engineer Project Intern - Recommendation Infrastructure 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>-</sub> | Apr&nbsp;20 | <a href="https://lifeattiktok.com/search/7629500062003218741"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=uark.edu" width="20" height="20" align="absmiddle">&nbsp; **University of Arkansas** | Graduate Research Assistant Intern | Little&nbsp;Rock,&nbsp;AR<br><sub>-</sub> | Apr&nbsp;18 | <a href="https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Developer-_R0053891"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

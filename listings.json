@@ -1,5 +1,69 @@
 [
  {
+  "company": "Shure",
+  "title": "Electrical Engineering Intern (RF Circuitry)",
+  "location": "",
+  "pay": "$23–$43/hr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://careersus-shure.icims.com/jobs/4984/electrical-engineering-intern-%28rf-circuitry%29/job",
+  "date_posted": null,
+  "date_found": "2026-11-07T15:59:22.400000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Shure",
+  "title": "Cloud Devops Engineer Intern",
+  "location": "",
+  "pay": "$23–$43/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://careersus-shure.icims.com/jobs/4975/cloud-devops-engineer-intern/job",
+  "date_posted": null,
+  "date_found": "2026-11-07T15:59:22.400000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Shure",
+  "title": "Corporate Quality Engineering Intern",
+  "location": "",
+  "pay": "$23–$43/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://careersus-shure.icims.com/jobs/4978/corporate-quality-engineering-intern/job",
+  "date_posted": null,
+  "date_found": "2026-11-07T15:59:22.400000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "SAS",
+  "title": "Summer 2027 Technical Support Intern",
+  "location": "",
+  "pay": "$15–$30/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://careers-sas.icims.com/jobs/46696/summer-2027---technical-support-intern/job",
+  "date_posted": null,
+  "date_found": "2026-11-07T13:59:39.048000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Prime Controls",
   "title": "Engineering Intern Summer 2027",
   "location": "",
@@ -14178,22 +14242,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Applied Materials",
-  "title": "2027 Spring Electrical Engineer Co-op (Billerica, MA)",
-  "location": "Billerica, MA",
-  "pay": "$31–$41/hr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Electrical-Engineer-Co-op--Billerica--MA-_R2631535-1",
-  "date_posted": "2026-10-31T17:40:45.565000+00:00",
-  "date_found": "2026-10-31T17:58:05.623000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Sierra",
   "title": "Research Intern",
   "location": "San Francisco, CA",
@@ -15173,22 +15221,6 @@
   "date_posted": "2026-10-30T00:00:00+00:00",
   "date_found": "2026-10-30T19:00:21.956000+00:00",
   "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Snowflake",
-  "title": "Product Management Intern (Summer 2027)",
-  "location": "Menlo Park, CA",
-  "pay": "$60–$70/hr",
-  "tracks": [
-   "product"
-  ],
-  "url": "https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf",
-  "date_posted": "2026-10-30T00:00:00+00:00",
-  "date_found": "2026-10-30T16:55:51.626000+00:00",
-  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -42708,22 +42740,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Apex Companies",
-  "title": "Engineering Intern",
-  "location": "Fort Myers, FL",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5435361008",
-  "date_posted": "2026-09-29T18:14:09+00:00",
-  "date_found": "2026-09-29T19:50:47.896000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "EA",
   "title": "AI Engineer Intern",
   "location": "",
@@ -50662,23 +50678,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Waymo",
-  "title": "Quantitative Software Engineer Intern",
-  "location": "2 locations",
-  "pay": "$85/hr",
-  "tracks": [
-   "quant",
-   "software"
-  ],
-  "url": "https://careers.withwaymo.com/jobs?gh_jid=8197554",
-  "date_posted": null,
-  "date_found": "2026-09-16T22:37:43+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "EQT Corporation",
   "title": "Data Engineering Intern - Completions Services",
   "location": "Canonsburg, PA",
@@ -50995,6 +50994,23 @@
   "date_posted": "2026-09-16T20:42:04+00:00",
   "date_found": "2026-09-16T20:42:04+00:00",
   "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Waymo",
+  "title": "Quantitative Software Engineer Intern",
+  "location": "2 locations",
+  "pay": "$85/hr",
+  "tracks": [
+   "quant",
+   "software"
+  ],
+  "url": "https://careers.withwaymo.com/jobs?gh_jid=8197554",
+  "date_posted": "2026-09-16T20:08:32+00:00",
+  "date_found": "2026-09-16T22:37:43+00:00",
+  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
