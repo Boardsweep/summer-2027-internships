@@ -2,7 +2,7 @@
 
 # 🔧 Hardware internships
 
-All 974 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
+All 972 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
 
 Page 2 of 2: [1](hardware.md) · **2**
 
@@ -10,8 +10,6 @@ Page 2 of 2: [1](hardware.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=anduril.com" width="20" height="20" align="absmiddle">&nbsp; **Anduril** | Electrical Engineer Intern 🔥 🛂 | 9&nbsp;locations<br><sub>$30–&#8288;$45/hr</sub> | Jun&nbsp;11 | <a href="https://boards.greenhouse.io/andurilindustries/jobs/5148101007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=bytedance.com" width="20" height="20" align="absmiddle">&nbsp; **ByteDance** | Intelligent Sensing Intern - Global Frontier Tech Recruitment Program 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$75/hr</sub> | Jun&nbsp;4 | <a href="https://jobs.bytedance.com/en/position/7629210458173556997/detail"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=psiquantum.com" width="20" height="20" align="absmiddle">&nbsp; **PsiQuantum** | Optical Packaging and Characterization Engineer Intern | Milpitas,&nbsp;CA<br><sub>$27.50/hr</sub> | Jun&nbsp;2 | <a href="https://www.psiquantum.com/apply?gh_jid=7761881003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=basepowercompany.com" width="20" height="20" align="absmiddle">&nbsp; **Base&nbsp;Power** | Firmware Engineer Intern | Austin,&nbsp;TX<br><sub>-</sub> | May&nbsp;27 | <a href="https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=apple.com" width="20" height="20" align="absmiddle">&nbsp; **Apple** | Undergrad Engineering Intern 🔥 | - | May&nbsp;22 | <a href="https://jobs.apple.com/en-us/details/200663968"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
