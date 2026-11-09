@@ -2,7 +2,7 @@
 
 # 💻 Software engineering internships
 
-All 1,936 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
+All 1,935 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
 
 Page 3 of 3: [1](software.md) · [2](software-2.md) · **3**
 
@@ -10,7 +10,6 @@ Page 3 of 3: [1](software.md) · [2](software-2.md) · **3**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=psu.edu" width="20" height="20" align="absmiddle">&nbsp; **PennState University** | Research and Development Engineering Intern 🛂 | State College, PA<br><sub>-</sub> | Mar&nbsp;3 | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=cadence.com" width="20" height="20" align="absmiddle">&nbsp; **Cadence Design Systems** | Software Intern 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$31.63–&#8288;$58.75/hr</sub> | Feb&nbsp;27 | <a href="https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Intern_R53282"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=multiplylabs.com" width="20" height="20" align="absmiddle">&nbsp; **Multiply&nbsp;Labs** | Software Intern | San Francisco, CA<br><sub>-</sub> | Feb&nbsp;24 | <a href="https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Robotics Software Intern | San Francisco, CA<br><sub>-</sub> | Feb&nbsp;24 | <a href="https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

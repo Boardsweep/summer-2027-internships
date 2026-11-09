@@ -1,5 +1,21 @@
 [
  {
+  "company": "F7d8749a 72d6 407c Bf98 292ea630c73a",
+  "title": "June 2027 Co-0p - Electrical Engineering Intern",
+  "location": "Dallas, TX",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.ashbyhq.com/shield/e7d4bfb2-db9c-47ae-a5d0-8c9ce6a702d0",
+  "date_posted": "2026-11-09T16:49:20.912000+00:00",
+  "date_found": "2026-10-28T14:53:39.597943+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Shure",
   "title": "Electrical Engineering Intern (RF Circuitry)",
   "location": "",
@@ -317,22 +333,6 @@
   "date_posted": "2026-11-06T23:24:30+00:00",
   "date_found": "2026-11-06T23:28:43.467000+00:00",
   "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Zoox",
-  "title": "Data Science Intern [Summer 2027]",
-  "location": "Foster City, CA",
-  "pay": null,
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97",
-  "date_posted": "2026-11-06T23:14:17.184000+00:00",
-  "date_found": "2026-11-06T23:34:34.469000+00:00",
-  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -2479,6 +2479,22 @@
   "url": "http://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659-1",
   "date_posted": "2026-11-06T00:00:00+00:00",
   "date_found": "2026-11-07T00:50:12.101761+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Zoox",
+  "title": "Data Science Intern [Summer 2027]",
+  "location": "Foster City, CA",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97",
+  "date_posted": "2026-11-06T00:00:00+00:00",
+  "date_found": "2026-11-06T23:34:34.469000+00:00",
   "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -5491,7 +5507,7 @@
   "tracks": [
    "software"
   ],
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a28e047a-ee12-452c-883b-ecd995d1b6b2",
+  "url": "https://jobs.ashbyhq.com/shield/a28e047a-ee12-452c-883b-ecd995d1b6b2",
   "date_posted": "2026-11-05T00:00:00+00:00",
   "date_found": "2026-11-05T17:53:36.186865+00:00",
   "top_company": false,
@@ -14064,40 +14080,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Federal Reserve System",
-  "title": "Undergraduate Intern – Technology Focus",
-  "location": "Minneapolis, MN",
-  "pay": "$23/hr",
-  "tracks": [
-   "software",
-   "aiml",
-   "security"
-  ],
-  "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Minneapolis-MN/Undergraduate-Intern---Technology-Focus_R-0000033975-1",
-  "date_posted": "2026-11-01T18:45:54.779000+00:00",
-  "date_found": "2026-11-01T18:57:12.274000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Federal Reserve System",
-  "title": "Undergraduate Intern – Business Analysis Focus",
-  "location": "Minneapolis, MN",
-  "pay": "$23/hr",
-  "tracks": [
-   "product"
-  ],
-  "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Minneapolis-MN/Undergraduate-Intern---Business-Analysis-Focus_R-0000033976",
-  "date_posted": "2026-11-01T18:45:54.779000+00:00",
-  "date_found": "2026-11-01T18:57:12.274000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "TRG",
   "title": "Full Stack Application Developer Intern",
   "location": "Dallas, TX",
@@ -14221,22 +14203,6 @@
   "date_posted": "2026-10-30T23:04:24+00:00",
   "date_found": "2026-10-31T02:58:02.719000+00:00",
   "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Zoox",
-  "title": "Software Engineer Intern, Software Platforms & Product [Summer 2027]",
-  "location": "Foster City, CA",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520",
-  "date_posted": "2026-10-30T22:54:57.859000+00:00",
-  "date_found": "2026-11-05T23:43:28.432000+00:00",
-  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -14822,6 +14788,22 @@
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": true
+ },
+ {
+  "company": "Zoox",
+  "title": "Software Engineer Intern, Software Platforms & Product [Summer 2027]",
+  "location": "Foster City, CA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520",
+  "date_posted": "2026-10-30T00:00:00+00:00",
+  "date_found": "2026-11-05T23:43:28.432000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
  },
  {
   "company": "Zoox",
@@ -16504,22 +16486,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Schonfeld",
-  "title": "2027 Enterprise AI Intern",
-  "location": "New York, NY",
-  "pay": "$100k–$110k/yr",
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171694",
-  "date_posted": "2026-10-28T19:13:14+00:00",
-  "date_found": "2026-10-28T19:16:50.077000+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Virtu Financial",
   "title": "2027 Internship - Frontend Engineer (UI)",
   "location": "New York",
@@ -16668,29 +16634,13 @@
  },
  {
   "company": "F7d8749a 72d6 407c Bf98 292ea630c73a",
-  "title": "Summer 2027 - Electrical Engineering Co-op (June 2027)",
-  "location": "Dallas, TX",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/e7d4bfb2-db9c-47ae-a5d0-8c9ce6a702d0",
-  "date_posted": null,
-  "date_found": "2026-10-28T14:53:39.597943+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "F7d8749a 72d6 407c Bf98 292ea630c73a",
   "title": "Summer 2027 - Electrical Engineering Intern",
   "location": "Dallas, TX",
   "pay": null,
   "tracks": [
    "hardware"
   ],
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/c546e532-4378-41d3-8ef3-4861cc3427e6",
+  "url": "https://jobs.ashbyhq.com/shield/c546e532-4378-41d3-8ef3-4861cc3427e6",
   "date_posted": null,
   "date_found": "2026-10-28T14:53:39.597943+00:00",
   "top_company": false,
@@ -46235,13 +46185,13 @@
  },
  {
   "company": "Shield AI",
-  "title": "Software Engineer Intern",
+  "title": "Software Engineer Intern - Summer 2027",
   "location": "San Diego, CA",
-  "pay": null,
+  "pay": "$25–$75/hr",
   "tracks": [
    "software"
   ],
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/661d7ac4-51df-454d-82c8-2a0d94852036/application?embed=true",
+  "url": "https://jobs.ashbyhq.com/shield/661d7ac4-51df-454d-82c8-2a0d94852036",
   "date_posted": "2026-09-23T00:00:00+00:00",
   "date_found": "2026-09-23T00:00:00+00:00",
   "top_company": true,
@@ -58830,22 +58780,6 @@
  },
  {
   "company": "The Exploration Company",
-  "title": "Engineering Intern - Software",
-  "location": "LA",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jobs.ashbyhq.com/the-exploration-company/86270058-8eec-4692-b49d-97ce59fd54ac/application?embed=true",
-  "date_posted": null,
-  "date_found": "2026-09-03T23:11:37+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "The Exploration Company",
   "title": "Software Intern - Software",
   "location": "LA",
   "pay": null,
@@ -58956,6 +58890,22 @@
   "date_found": "2026-09-03T22:04:27+00:00",
   "top_company": true,
   "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "The Exploration Company",
+  "title": "Engineering Intern - Software",
+  "location": "LA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.ashbyhq.com/the-exploration-company/86270058-8eec-4692-b49d-97ce59fd54ac/application?embed=true",
+  "date_posted": "2026-09-03T19:50:53.474000+00:00",
+  "date_found": "2026-09-03T23:11:37+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },

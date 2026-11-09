@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,539 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,538 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 2 of 2: [1](aiml.md) · **2**
 
@@ -10,7 +10,6 @@ Page 2 of 2: [1](aiml.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=llnl.gov" width="20" height="20" align="absmiddle">&nbsp; **Lawrence Livermore National Laboratory** | Data Science Undergraduate Student Intern - Summer 2027 | Livermore,&nbsp;CA<br><sub>$23.26–&#8288;$31.62/hr</sub> | Sep&nbsp;16 | <a href="https://jobs.smartrecruiters.com/LLNL/3743990015289136"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=draftkings.com" width="20" height="20" align="absmiddle">&nbsp; **DraftKings** | Analytics Intern - Summer 2027 | Boston,&nbsp;MA<br><sub>-</sub> | Sep&nbsp;16 | <a href="https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Analyst-Intern--Summer-2027-_JR15148"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=oshkoshcorp.com" width="20" height="20" align="absmiddle">&nbsp; **Oshkosh** | Supply Chain Intern - Data Analytics &amp; AI | Hagerstown,&nbsp;MD<br><sub>$18–&#8288;$37/hr</sub> | Sep&nbsp;16 | <a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Supply-Chain-Intern---Data-Analytics---AI_R49953-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=chartermfg.com" width="20" height="20" align="absmiddle">&nbsp; **Charter Manufacturing** | Automation &amp; Analytics Intern | Milwaukee,&nbsp;WI<br><sub>-</sub> | Sep&nbsp;16 | <a href="https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Wire---Menomonee-Valley---Milwaukee-WI/Automation---Analytics-Intern--Year-Round-_R08112"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
