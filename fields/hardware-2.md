@@ -2,7 +2,7 @@
 
 # 🔧 Hardware internships
 
-All 960 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
+All 956 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
 
 Page 2 of 2: [1](hardware.md) · **2**
 
@@ -10,10 +10,6 @@ Page 2 of 2: [1](hardware.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=shield.ai" width="20" height="20" align="absmiddle">&nbsp; **Shield&nbsp;AI** | Electrical Engineering Spring Co-op (January 2027) (R4475) 🔥 | Dallas,&nbsp;TX<br><sub>-</sub> | Apr&nbsp;15<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://jobs.lever.co/shieldai/87d982f2-8b2b-4c73-9a19-71e461c7b724"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=etched.com" width="20" height="20" align="absmiddle">&nbsp; **Etched** | DFT Intern 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>-</sub> | Apr&nbsp;13 | <a href="https://jobs.ashbyhq.com/Etched/5f1f5739-3b58-467c-b351-ff183c94d96d/application"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=solopulseco.com" width="20" height="20" align="absmiddle">&nbsp; **SoloPulse** | Systems Engineering Intern | Norcross,&nbsp;GA<br><sub>-</sub> | Apr&nbsp;2 | <a href="https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=neuralink.com" width="20" height="20" align="absmiddle">&nbsp; **Neuralink** | Manufacturing Intern, Surgery &amp; Robot Hardware 🔥 | South San Francisco, CA<br><sub>-</sub> | Mar&nbsp;20<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://boards.greenhouse.io/neuralink/jobs/7666761003?gh_jid=7666761003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=microchip.com" width="20" height="20" align="absmiddle">&nbsp; **Microchip Technology** | Intern Technician - Electronics | Carlisle,&nbsp;PA<br><sub>$17–&#8288;$22/hr</sub> | Mar&nbsp;11 | <a href="https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/PA---Mount-Holly-Springs/Intern-Technician--Electronics-_R847-26"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=bio-techne.com" width="20" height="20" align="absmiddle">&nbsp; **Bio-Techne** | Hardware Engineering Intern | San&nbsp;Jose,&nbsp;CA<br><sub>$19.20–&#8288;$26.40/hr</sub> | Feb&nbsp;19 | <a href="https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/San-Jose-CA/Hardware-Engineering-Intern_JR101533"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=neuralink.com" width="20" height="20" align="absmiddle">&nbsp; **Neuralink** | Analog and Mixed-Signal IC Design Engineer Intern 🔥 | South&nbsp;SF<br><sub>$35/hr</sub> | Feb&nbsp;18 | <a href="https://boards.greenhouse.io/neuralink/jobs/7565469003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
