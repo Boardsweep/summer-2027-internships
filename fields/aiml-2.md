@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,526 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,533 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 2 of 2: [1](aiml.md) · **2**
 
@@ -10,6 +10,12 @@ Page 2 of 2: [1](aiml.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=chartermfg.com" width="20" height="20" align="absmiddle">&nbsp; **Charter Manufacturing** | Automation &amp; Analytics Intern | Milwaukee,&nbsp;WI<br><sub>-</sub> | Sep&nbsp;16 | <a href="https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Wire---Menomonee-Valley---Milwaukee-WI/Automation---Analytics-Intern--Year-Round-_R08112"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=draftkings.com" width="20" height="20" align="absmiddle">&nbsp; **DraftKings** | Analytics Intern - Summer 2027 | Boston,&nbsp;MA<br><sub>-</sub> | Sep&nbsp;16 | <a href="https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Analyst-Intern--Summer-2027-_JR15147"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| **Louisiana&nbsp;Blue** | Healthcare Data Science Intern - Spring 2027 | Baton&nbsp;Rouge,&nbsp;LA<br><sub>-</sub> | Sep&nbsp;16 | <a href="https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Healthcare-Data-Science-Intern--Spring-2027-_R12151"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=apexanalytix.com" width="20" height="20" align="absmiddle">&nbsp; **APEX&nbsp;Analytix** | Data Science Intern | Greensboro,&nbsp;NC<br><sub>-</sub> | Sep&nbsp;15 | <a href="https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Data Engineering Intern - Summer 2027 | Greensboro,&nbsp;NC<br><sub>-</sub> | Sep&nbsp;15 | <a href="https://ats.rippling.com/apexanalytix-careers/jobs/52353bce-cb36-423f-ae0a-f2057ef3b5d9"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Data Analyst Intern - Summer 2027 | Greensboro,&nbsp;NC<br><sub>-</sub> | Sep&nbsp;15 | <a href="https://ats.rippling.com/apexanalytix-careers/jobs/e275fd70-45a3-4a64-8688-cace8a3f87ef"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=afterquery.com" width="20" height="20" align="absmiddle">&nbsp; **AfterQuery** | Research Scholar Intern | SF<br><sub>-</sub> | Sep&nbsp;15<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://jobs.ashbyhq.com/AfterQuery/68053d93-6d15-4b4a-8a04-65aa5646feb2/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Research Fellow | SF<br><sub>-</sub> | Sep&nbsp;15<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://jobs.ashbyhq.com/AfterQuery/b1794d2c-fdbf-4165-a244-9e3ccc9cc800/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=nyiso.com" width="20" height="20" align="absmiddle">&nbsp; **New&nbsp;York&nbsp;ISO** | Energy Market Research and Engineering Intern | Rensselaer,&nbsp;NY<br><sub>-</sub> | Sep&nbsp;15<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://job-boards.greenhouse.io/nyisointernships/jobs/5236688007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
