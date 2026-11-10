@@ -2,7 +2,7 @@
 
 # 💻 Software engineering internships
 
-All 1,935 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
+All 1,936 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
 
 Page 2 of 3: [1](software.md) · **2** · [3](software-3.md)
 
@@ -10,7 +10,8 @@ Page 2 of 3: [1](software.md) · **2** · [3](software-3.md)
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=tesla.com" width="20" height="20" align="absmiddle">&nbsp; **Tesla** | Embedded Software Developer Intern - Vehicle Suspension 🔥 | Palo&nbsp;Alto,&nbsp;CA<br><sub>-</sub> | Sep&nbsp;30 | <a href="https://www.tesla.com/careers/search/job/285153"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=tesla.com" width="20" height="20" align="absmiddle">&nbsp; **Tesla** | Software Developer Intern - Integration Tools 🔥 | Palo&nbsp;Alto,&nbsp;CA<br><sub>-</sub> | Sep&nbsp;30 | <a href="https://www.tesla.com/careers/search/job/284924"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Embedded Software Developer Intern - Vehicle Suspension 🔥 | Palo&nbsp;Alto,&nbsp;CA<br><sub>-</sub> | Sep&nbsp;30 | <a href="https://www.tesla.com/careers/search/job/285153"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=muonspace.com" width="20" height="20" align="absmiddle">&nbsp; **Muon&nbsp;Space** | GNC Software Engineering Intern (Summer 2027) | Mountain View, CA<br><sub>$40/hr</sub> | Sep&nbsp;30 | <a href="https://job-boards.greenhouse.io/muonspace/jobs/5252680007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=aerovironment.com" width="20" height="20" align="absmiddle">&nbsp; **AeroVironment** | Titan-SV Software Engineer Intern 🛂 | Leesburg,&nbsp;VA<br><sub>-</sub> | Sep&nbsp;30 | <a href="https://avav.wd1.myworkdayjobs.com/avav/job/Leesburg-VA/Titan-SV-Software-Engineer-Intern_8901"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=rtx.com" width="20" height="20" align="absmiddle">&nbsp; **RTX** | Summer 2027 Embedded Software Engineering Intern (Onsite) 🛂 | East Hartford, CT<br><sub>-</sub> | Sep&nbsp;30 | <a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Summer-2027-Embedded-Software-Engineering-Intern--Onsite-_01878014"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -991,7 +992,6 @@ Page 2 of 3: [1](software.md) · **2** · [3](software-3.md)
 | <img src="https://boardsweep.io/api/logo?domain=smithsdetection.com" width="20" height="20" align="absmiddle">&nbsp; **Smiths&nbsp;Detection** | Software Engineering Intern (Cyber focus) 🛂 🇺🇸 | Edgewood,&nbsp;MD<br><sub>$15–&#8288;$35/hr</sub> | Mar&nbsp;12 | <a href="https://jobs.smartrecruiters.com/SmithsGroup2/a22945f0-59b6-4c3f-87f1-43c05b535677"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=mizuhogroup.com" width="20" height="20" align="absmiddle">&nbsp; **Mizuho&nbsp;Securities** | Commercial Lending Technology Intern | NYC<br><sub>$35/hr</sub> | Mar&nbsp;11 | <a href="https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/NYC-1285/XMLNAME-2026-Commercial-Lending-Technology-Summer-Internship_R6688"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=palantir.com" width="20" height="20" align="absmiddle">&nbsp; **Palantir** | Forward Deployed Software Engineer Intern 🔥 | NYC<br><sub>-</sub> | Mar&nbsp;10 | <a href="https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=psu.edu" width="20" height="20" align="absmiddle">&nbsp; **PennState University** | Research and Development Engineering Intern 🛂 | State College, PA<br><sub>-</sub> | Mar&nbsp;3 | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 [1](software.md) · **2** · [3](software-3.md)
 

@@ -14032,54 +14032,6 @@
   "advanced_degree": false
  },
  {
-  "company": "KnowBe4",
-  "title": "Software Engineer Summer Internship",
-  "location": "Clearwater, FL",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8919280002",
-  "date_posted": "2026-11-01T19:25:01+00:00",
-  "date_found": "2026-11-01T19:58:52.371000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "KnowBe4",
-  "title": "Multimedia Designer Summer Internship (Hybrid)",
-  "location": "Clearwater, FL",
-  "pay": null,
-  "tracks": [
-   "design"
-  ],
-  "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8919260002",
-  "date_posted": "2026-11-01T19:19:11+00:00",
-  "date_found": "2026-11-01T19:58:52.371000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "KnowBe4",
-  "title": "Associate Product Manager Summer Internship (Hybrid)",
-  "location": "Clearwater, FL",
-  "pay": null,
-  "tracks": [
-   "product"
-  ],
-  "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8919274002",
-  "date_posted": "2026-11-01T19:16:43+00:00",
-  "date_found": "2026-11-01T19:58:52.371000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "TRG",
   "title": "Full Stack Application Developer Intern",
   "location": "Dallas, TX",
@@ -14738,22 +14690,6 @@
   "date_found": "2026-10-30T10:58:27.299000+00:00",
   "top_company": false,
   "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Stratolaunch",
-  "title": "Manufacturing (Electrical) Engineering Intern Summer 2027",
-  "location": "Mojave, CA",
-  "pay": "$38/hr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5467832008",
-  "date_posted": "2026-10-30T04:30:38+00:00",
-  "date_found": "2026-10-30T06:59:32.033000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -15550,23 +15486,6 @@
   "advanced_degree": true
  },
  {
-  "company": "Rendezvous Robotics",
-  "title": "Manufacturing and Test Engineering Intern (Summer 2027)",
-  "location": "Golden, CO",
-  "pay": null,
-  "tracks": [
-   "hardware",
-   "software"
-  ],
-  "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408588009",
-  "date_posted": "2026-10-29T17:01:19+00:00",
-  "date_found": "2026-10-29T18:00:29.088000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Walmart",
   "title": "R-2690844 (USA) Corporate Intern:  Market Strategy Data Science Intern",
   "location": "Always AR Bentonville Home Office",
@@ -15658,22 +15577,6 @@
   "date_posted": "2026-10-29T15:41:37+00:00",
   "date_found": "2026-10-29T16:54:03.393181+00:00",
   "top_company": true,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Stratolaunch",
-  "title": "Security Intern- Summer 2027",
-  "location": "Mojave, CA",
-  "pay": "$20/hr",
-  "tracks": [
-   "security"
-  ],
-  "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5466978008",
-  "date_posted": "2026-10-29T15:32:51+00:00",
-  "date_found": "2026-10-30T06:59:32.033000+00:00",
-  "top_company": false,
   "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
@@ -30314,22 +30217,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Muon Space",
-  "title": "Test Engineering Intern (Summer 2027)",
-  "location": "San Jose, CA",
-  "pay": "$40/hr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://job-boards.greenhouse.io/muonspace/jobs/5256288007",
-  "date_posted": "2026-10-13T17:54:37+00:00",
-  "date_found": "2026-10-13T18:04:27.278000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "NVIDIA",
   "title": "Product Management MBA Intern, Data Center GPU - Summer 2027",
   "location": "US, CA, Santa Clara",
@@ -38537,6 +38424,38 @@
   "advanced_degree": false
  },
  {
+  "company": "Harvey",
+  "title": "Software Engineering Intern (Summer 2027)",
+  "location": "New York",
+  "pay": "$62–$72/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d",
+  "date_posted": "2026-10-02T17:00:56.168000+00:00",
+  "date_found": "2026-10-02T17:03:42.543000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Harvey",
+  "title": "Software Engineering Intern (Summer 2027)",
+  "location": "San Francisco",
+  "pay": "$62–$72/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.ashbyhq.com/harvey/3a34578d-d42e-45bb-ac5c-0c3357e8cbb7",
+  "date_posted": "2026-10-02T17:00:52.813000+00:00",
+  "date_found": "2026-10-02T17:03:42.543000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Bedrock Robotics",
   "title": "2027 Internship Behavior ML Engineer, Diffusion Policies",
   "location": "San Francisco, CA",
@@ -41244,22 +41163,6 @@
   "url": "https://job-boards.greenhouse.io/muonspace/jobs/5252680007",
   "date_posted": "2026-09-30T00:47:29+00:00",
   "date_found": "2026-09-30T01:49:43.650000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Muon Space",
-  "title": "GNC Hardware Engineering Intern (Summer 2027)",
-  "location": "Mountain View, CA",
-  "pay": "$40/hr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://job-boards.greenhouse.io/muonspace/jobs/5252677007",
-  "date_posted": "2026-09-30T00:44:50+00:00",
-  "date_found": "2026-09-30T00:47:45.670000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -61348,22 +61251,6 @@
   "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411921008",
   "date_posted": "2026-09-01T05:08:38+00:00",
   "date_found": "2026-09-01T05:08:38+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "K2 Space",
-  "title": "RF Engineering Intern – Summer 2027",
-  "location": "Los Angeles, CA",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411919008",
-  "date_posted": "2026-09-01T05:04:44+00:00",
-  "date_found": "2026-09-01T05:04:44+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
