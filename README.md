@@ -3,7 +3,7 @@
 
 <a href="https://boardsweep.io/internships?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=cta_email"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cta-email-dark.png"><img src="assets/cta-email-light.png" height="44" alt="Get the free digest"></picture></a>&nbsp;&nbsp;<a href="https://boardsweep.io/#pricing?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=cta_instant"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cta-instant-dark.png"><img src="assets/cta-instant-light.png" height="44" alt="Instant alerts, 7 days free"></picture></a>
 
-<img src="assets/stats.svg" width="100%" alt="200 new in the last 24 hours, 5094 open">
+<img src="assets/stats.svg" width="100%" alt="200 new in the last 24 hours, 5121 open">
 </div>
 
 > [!TIP]
@@ -15,13 +15,13 @@
 
 | Field | Open now | New this week | |
 | --- | ---: | ---: | --- |
-| 💻 **[Software engineering](fields/software.md)** | 1,954 | 251 | [Email me these, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_software) |
-| 🤖 **[AI, ML and data](fields/aiml.md)** | 1,554 | 177 | [Email me these, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_aiml) |
-| 📈 **[Quant](fields/quant.md)** | 193 | 7 | [Email me these, free](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_quant) |
-| 🔧 **[Hardware](fields/hardware.md)** | 959 | 173 | [Email me these, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_hardware) |
-| 📱 **[Product](fields/product.md)** | 299 | 44 | [Email me these, free](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_product) |
+| 💻 **[Software engineering](fields/software.md)** | 1,963 | 250 | [Email me these, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_software) |
+| 🤖 **[AI, ML and data](fields/aiml.md)** | 1,570 | 178 | [Email me these, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_aiml) |
+| 📈 **[Quant](fields/quant.md)** | 194 | 7 | [Email me these, free](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_quant) |
+| 🔧 **[Hardware](fields/hardware.md)** | 959 | 176 | [Email me these, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_hardware) |
+| 📱 **[Product](fields/product.md)** | 302 | 43 | [Email me these, free](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_product) |
 | 🎨 **[Design](fields/design.md)** | 44 | 23 | [Email me these, free](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_design) |
-| 🛡️ **[Security](fields/security.md)** | 54 | 27 | [Email me these, free](https://boardsweep.io/internships/security?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_security) |
+| 🛡️ **[Security](fields/security.md)** | 53 | 27 | [Email me these, free](https://boardsweep.io/internships/security?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_security) |
 
 <br>
 
@@ -31,10 +31,12 @@
 
 ## Software engineering
 
-<sub>This week's 251 of 1,954. <a href="fields/software.md">See all 1,954 (3 pages)</a> · <a href="https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=track_software">Get only software engineering internships by email, free</a></sub>
+<sub>This week's 250 of 1,963. <a href="fields/software.md">See all 1,963 (3 pages)</a> · <a href="https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=track_software">Get only software engineering internships by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=gdmissionsystems.com" width="20" height="20" align="absmiddle">&nbsp; **General Dynamics Mission Systems** | Systems And Software Development Intern 🛂 | - | Nov&nbsp;10 | <a href="https://careers-gdms.icims.com/jobs/76099/systems-and-software-development-intern/job"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=tesla.com" width="20" height="20" align="absmiddle">&nbsp; **Tesla** | Mobile Application Developer Intern 🔥 | Palo&nbsp;Alto,&nbsp;CA<br><sub>-</sub> | Nov&nbsp;10 | <a href="https://www.tesla.com/careers/search/job/289480"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=rambus.com" width="20" height="20" align="absmiddle">&nbsp; **Rambus** | Intern ✨ | -<br><sub>$25.80–&#8288;$47.80/hr</sub> | Nov&nbsp;10 | <a href="https://careers-rambus.icims.com/jobs/23132/intern/job"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=hpe.com" width="20" height="20" align="absmiddle">&nbsp; **Hewlett Packard Enterprise** | Strategic Sourcing AI &amp; Automation Intern ✨ | Spring,&nbsp;TX<br><sub>-</sub> | Nov&nbsp;10 | <a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Strategic-Sourcing-AI---Automation-Intern_1213039"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=regent.edu" width="20" height="20" align="absmiddle">&nbsp; **Regent** | Modeling &amp; Simulation Intern (Summer) ✨ | North Kingstown, RI<br><sub>-</sub> | Nov&nbsp;10<br><sub>⚡&nbsp;15m</sub> | <a href="https://jobs.ashbyhq.com/REGENT/bca4be90-229d-49c4-8424-44a15dd72b1c"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -158,7 +160,6 @@
 | <img src="https://boardsweep.io/api/logo?domain=tiktok.com" width="20" height="20" align="absmiddle">&nbsp; **TikTok** | Software Engineer - Intern (TikTok BRIC) - 2027 Start (PhD) 🔥 🎓 | San&nbsp;Jose,&nbsp;CA<br><sub>$60/hr</sub> | Nov&nbsp;6 | <a href="https://lifeattiktok.com/search/7705012688944810245"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Research Engineer Intern (TikTok Generalized Arch) - 2027 Start (PhD) 🔥 🎓 | San&nbsp;Jose,&nbsp;CA<br><sub>$60/hr</sub> | Nov&nbsp;6 | <a href="https://lifeattiktok.com/search/7704981006856145205"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | **Match&nbsp;Group** | Backend Engineer Intern | Palo&nbsp;Alto,&nbsp;CA<br><sub>$47/hr</sub> | Nov&nbsp;6 | <a href="https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Android Engineer Intern | Los&nbsp;Angeles,&nbsp;CA<br><sub>$47/hr</sub> | Nov&nbsp;6 | <a href="https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=astranis.com" width="20" height="20" align="absmiddle">&nbsp; **Astranis** | Network Planning Sales Engineer Intern (Winter 2027) 🛂 | San Francisco, CA<br><sub>$29/hr</sub> | Nov&nbsp;6 | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704276006"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Supplier Quality Engineer Intern (Winter 2027) 🛂 | San&nbsp;Francisco<br><sub>$29/hr</sub> | Nov&nbsp;6 | <a href="https://job-boards.greenhouse.io/astranis/jobs/4715989006"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Harness Design Engineer Intern (Summer 2027) 🛂 | San&nbsp;Francisco<br><sub>$29/hr</sub> | Nov&nbsp;6 | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704779006"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -186,7 +187,8 @@
 | <img src="https://boardsweep.io/api/logo?domain=amazon.com" width="20" height="20" align="absmiddle">&nbsp; **Amazon** | 2027 Quantum Applied Science Internship, Quantum Technologies team 🔥 ✨ | Pasadena,&nbsp;CA<br><sub>-</sub> | Nov&nbsp;6 | <a href="https://www.amazon.jobs/en/jobs/10598841/2027-quantum-applied-science-internship-quantum-technologies-team"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=t-mobile.com" width="20" height="20" align="absmiddle">&nbsp; **T-Mobile** | Software Engineer Intern | Overland Park, KS<br><sub>$27–&#8288;$50/hr</sub> | Nov&nbsp;6 | <a href="https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380739"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=psu.edu" width="20" height="20" align="absmiddle">&nbsp; **Pennsylvania State University** | Research Assistant Intern - Large Language Models and AI for Data Analysis | State College, PA<br><sub>-</sub> | Nov&nbsp;6 | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant-Positions---LLMs-and-AI-for-Data-Analysis--Spring-2027-_REQ_0000084012-1"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| **Match&nbsp;Group** | iOS Engineer Intern | Los&nbsp;Angeles,&nbsp;CA<br><sub>$47/hr</sub> | Nov&nbsp;6 | <a href="https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| **Match&nbsp;Group** | Android Engineer Intern | Los&nbsp;Angeles,&nbsp;CA<br><sub>$47/hr</sub> | Nov&nbsp;6 | <a href="https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | iOS Engineer Intern | Los&nbsp;Angeles,&nbsp;CA<br><sub>$47/hr</sub> | Nov&nbsp;6 | <a href="https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=caci.com" width="20" height="20" align="absmiddle">&nbsp; **CACI** | Software Engineering Co-op - Spring 2027 | King of Prussia, PA<br><sub>$43,900–&#8288;$87,900/yr</sub> | Nov&nbsp;6 | <a href="https://caci.wd1.myworkdayjobs.com/External/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=psu.edu" width="20" height="20" align="absmiddle">&nbsp; **Pennsylvania State University** | Autonomous Processing Research &amp; Development Intern 🛂 | State College, PA<br><sub>-</sub> | Nov&nbsp;6 | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Autonomous-Processing-Research---Development-Internship_REQ_0000084114-1"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=rockwellautomation.com" width="20" height="20" align="absmiddle">&nbsp; **Rockwell Automation** | Intern, Engineering (Independent Cart Technology) ✨ 🛂 | 2&nbsp;Locations<br><sub>$22–&#8288;$40/hr</sub> | Nov&nbsp;5 | <a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Chelmsford-Massachusetts-United-States/Intern--Engineering--Independent-Cart-Technology-_R26-8684"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -283,15 +285,12 @@
 | <img src="https://boardsweep.io/api/logo?domain=carpentertechnology.com" width="20" height="20" align="absmiddle">&nbsp; **Carpenter Technology** | Process Engineering Intern ✨ 🛂 | Reading,&nbsp;PA<br><sub>$21–&#8288;$25/hr</sub> | Nov&nbsp;4 | <a href="https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/Process-Engineering-Intern_26978"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Reliability Engineering Intern ✨ 🛂 | Reading,&nbsp;PA<br><sub>$21–&#8288;$25/hr</sub> | Nov&nbsp;4 | <a href="https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/Reliability-Engineering-Intern_26976"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=abbvie.com" width="20" height="20" align="absmiddle">&nbsp; **AbbVie** | 2027 Drug Substance Engineering Intern (PhD) ✨ 🎓 | North&nbsp;Chicago<br><sub>-</sub> | Nov&nbsp;4 | <a href="https://jobs.smartrecruiters.com/AbbVie/3743990016617146"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=stvinc.com" width="20" height="20" align="absmiddle">&nbsp; **Stvinc** | Information Technology Intern - Summer 2027 ✨ 🛂 | Newark,&nbsp;NJ<br><sub>$52,526–&#8288;$59,689/yr</sub> | Nov&nbsp;4 | <a href="https://stvinc.wd5.myworkdayjobs.com/stv/job/Newark-New-Jersey/Information-Technology-Intern---Summer-2027_JR6208"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=northropgrumman.com" width="20" height="20" align="absmiddle">&nbsp; **Northrop&nbsp;Grumman** | 2027 DevOps Software Engineering Intern - Roy UT ✨ 🛂 | United States-Utah-Roy<br><sub>$23–&#8288;$29/hr</sub> | Nov&nbsp;4 | <a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-DevOps-Software-Engineering-Intern---Roy-UT_R10259178"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | 2027 Cybersecurity Software Engineering Intern - Roy UT ✨ 🛂 | United States-Utah-Clearfield<br><sub>$23–&#8288;$29/hr</sub> | Nov&nbsp;4 | <a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Cybersecurity-Software-Engineering-Intern---Roy-UT_R10259177"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 <br>
 
 ## AI, ML and data
 
-<sub>This week's 177 of 1,554. <a href="fields/aiml.md">See all 1,554 (2 pages)</a> · <a href="https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=track_aiml">Get only ai, ml and data internships by email, free</a></sub>
+<sub>This week's 178 of 1,570. <a href="fields/aiml.md">See all 1,570 (2 pages)</a> · <a href="https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=track_aiml">Get only ai, ml and data internships by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
@@ -335,6 +334,7 @@
 | ↳ | AI Engineering Design Intern for Facility Design | Jacksonville,&nbsp;FL<br><sub>-</sub> | Nov&nbsp;9 | <a href="https://careers.haskell.com/jobs/7415?icims=1&amp;lang=en-us"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=sanofi.com" width="20" height="20" align="absmiddle">&nbsp; **Sanofi** | 2027 Summer Intern Biostatistics Interactive Benchmarking Platform  Cambridge MA ✨ | Cambridge,&nbsp;MA<br><sub>$45–&#8288;$57/hr</sub> | Nov&nbsp;9 | <a href="https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-Biostatistics-Interactive-Benchmarking-Platform--Cambridge-MA_R2865024"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=tiktok.com" width="20" height="20" align="absmiddle">&nbsp; **TikTok** | Research Engineer Intern 🔥 🎓 | San&nbsp;Jose,&nbsp;CA<br><sub>$60/hr</sub> | Nov&nbsp;9 | <a href="https://lifeattiktok.com/search/7704986879082907909"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=gene.com" width="20" height="20" align="absmiddle">&nbsp; **Genentech** | 2027 Summer Intern - CSI-Assay Bioinformatics | Pleasanton<br><sub>$45–&#8288;$52/hr</sub> | Nov&nbsp;9 | <a href="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Pleasanton/XMLNAME-2027-Summer-Intern---CSI-Assay-Bioinformatics_202611-128546-1"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=ucar.edu" width="20" height="20" align="absmiddle">&nbsp; **University Corporation for Atmospheric Research** | NSF NCAR Earth System Science Internship (NESSI) ✨ 🛂 | Boulder,&nbsp;CO<br><sub>$23.41/hr</sub> | Nov&nbsp;9 | <a href="https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/NSF-NCAR-Earth-System-Science-Internship--NESSI-_REQ-2026-234-1"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=samsung.com" width="20" height="20" align="absmiddle">&nbsp; **Samsung** | ePro business &amp; data analyst intern | Plano,&nbsp;TX<br><sub>-</sub> | Nov&nbsp;9 | <a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=thenewschool.org" width="20" height="20" align="absmiddle">&nbsp; **The&nbsp;New&nbsp;School** | Research Assistant - Quantitative Analysis &amp; Data Research | NYC<br><sub>$31.37/hr</sub> | Nov&nbsp;9 | <a href="https://newschool.wd1.myworkdayjobs.com/external/job/L---2-West-13th-Street/Research-Assistant---Quantitative-Analysis---Data-Research_JR110111"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -477,7 +477,7 @@
 
 ## Quant
 
-<sub>This week's 7 of 193. <a href="fields/quant.md">See all 193</a> · <a href="https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=track_quant">Get only quant internships by email, free</a></sub>
+<sub>This week's 7 of 194. <a href="fields/quant.md">See all 194</a> · <a href="https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=track_quant">Get only quant internships by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
@@ -493,10 +493,13 @@
 
 ## Hardware
 
-<sub>This week's 173 of 959. <a href="fields/hardware.md">See all 959 (2 pages)</a> · <a href="https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=track_hardware">Get only hardware internships by email, free</a></sub>
+<sub>This week's 176 of 959. <a href="fields/hardware.md">See all 959 (2 pages)</a> · <a href="https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=track_hardware">Get only hardware internships by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=src.org" width="20" height="20" align="absmiddle">&nbsp; **SRC** | Test Engineering (Intern - Summer 2027) ✨ | Syracuse,&nbsp;NY<br><sub>$22–&#8288;$26/hr</sub> | Nov&nbsp;10 | <a href="https://jobs.jobvite.com/src-inc/job/oOY2Afw8"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=gf.com" width="20" height="20" align="absmiddle">&nbsp; **GlobalFoundries** | Controls Engineering Intern (Summer 2027) ✨ | Essex Junction, VT<br><sub>$20–&#8288;$40/hr</sub> | Nov&nbsp;10 | <a href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Controls-Engineering-Intern--Summer-2027-_JR-2604647"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Silicon Photonics Process Integration Engineering Intern (Summer 2027) ✨ | Malta,&nbsp;NY<br><sub>$20–&#8288;$40/hr</sub> | Nov&nbsp;10 | <a href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Engineering-Intern--Summer-2027-_JR-2605135"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=aerospace.org" width="20" height="20" align="absmiddle">&nbsp; **The Aerospace Corporation** | 2027 Power and Analog Circuit Engineering Grad Intern ✨ 🛂 | El&nbsp;Segundo,&nbsp;CA<br><sub>$32–&#8288;$35/hr</sub> | Nov&nbsp;10 | <a href="https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Power-and-Analog-Circuit-Engineering-Intern_R016430"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=regent.edu" width="20" height="20" align="absmiddle">&nbsp; **Regent** | Systems Engineering Intern - Safety Analysis (Summer) ✨ | North Kingstown, RI<br><sub>-</sub> | Nov&nbsp;10<br><sub>⚡&nbsp;25m</sub> | <a href="https://jobs.ashbyhq.com/REGENT/9370adbc-f344-4aeb-a99d-65acaac87894"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Engineering Intern to the Chief Engineer (Summer) ✨ | North Kingstown, RI<br><sub>-</sub> | Nov&nbsp;10<br><sub>⚡&nbsp;35m</sub> | <a href="https://jobs.ashbyhq.com/REGENT/3d52867d-d340-4f45-8b35-9533ee456db8"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -564,7 +567,7 @@
 | <img src="https://boardsweep.io/api/logo?domain=gf.com" width="20" height="20" align="absmiddle">&nbsp; **GlobalFoundries** | Silicon Photonics Test Development Intern (Summer 2027) ✨ | Essex Junction, VT<br><sub>$20–&#8288;$40/hr</sub> | Nov&nbsp;6 | <a href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Silicon-Photonics-Test-Development-Intern--Summer-2027-_JR-2604260"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=draper.com" width="20" height="20" align="absmiddle">&nbsp; **Draper** | GNC Systems Engineering Intern (Summer 2027) ✨ | Cambridge,&nbsp;MA<br><sub>-</sub> | Nov&nbsp;6 | <a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/GNC-Systems-Engineering-Intern--Summer-2027-_JR003129"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | GNC Systems Engineering Co-Op (Spring 2027) ✨ | Cambridge,&nbsp;MA<br><sub>-</sub> | Nov&nbsp;6 | <a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/GNC-Systems-Engineering-Co-Op--Spring-2027-_JR003131"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=regent.edu" width="20" height="20" align="absmiddle">&nbsp; **Regent** | Energy Storage System (ESS) Intern (Summer) ✨ | North Kingstown, RI<br><sub>-</sub> | Nov&nbsp;6<br><sub>⚡&nbsp;38m</sub> | <a href="https://jobs.ashbyhq.com/regent/ddde6e0f-38ba-4e95-abff-eceb8a79a4d3"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=regent.edu" width="20" height="20" align="absmiddle">&nbsp; **Regent** | Energy Storage System (ESS) Intern (Summer) | North Kingstown, RI<br><sub>-</sub> | Nov&nbsp;6<br><sub>⚡&nbsp;38m</sub> | <a href="https://jobs.ashbyhq.com/regent/ddde6e0f-38ba-4e95-abff-eceb8a79a4d3"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Electric Propulsion Unit (EPU) Intern (Summer) ✨ | North Kingstown, RI<br><sub>-</sub> | Nov&nbsp;6<br><sub>⚡&nbsp;45m</sub> | <a href="https://jobs.ashbyhq.com/regent/eec58f59-934a-4426-95b1-312fa5d9f7c2"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=analog.com" width="20" height="20" align="absmiddle">&nbsp; **Analog&nbsp;Devices** | Wet Lab Sensor Research Co-Op ✨ | US,&nbsp;MA,&nbsp;Boston<br><sub>$22–&#8288;$41/hr</sub> | Nov&nbsp;6 | <a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Wet-Lab-Sensor-Research-Co-Op_R268534-1"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=regent.edu" width="20" height="20" align="absmiddle">&nbsp; **Regent** | Actuation Engineering Intern (Summer) ✨ | North Kingstown, RI<br><sub>-</sub> | Nov&nbsp;6<br><sub>⚡&nbsp;58m</sub> | <a href="https://jobs.ashbyhq.com/regent/1eec51d3-41c8-445f-817a-65c732a573a2"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -675,7 +678,7 @@
 
 ## Product
 
-<sub>This week's 44 of 299. <a href="fields/product.md">See all 299</a> · <a href="https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=track_product">Get only product internships by email, free</a></sub>
+<sub>This week's 43 of 302. <a href="fields/product.md">See all 302</a> · <a href="https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=track_product">Get only product internships by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
@@ -722,7 +725,6 @@
 | <img src="https://boardsweep.io/api/logo?domain=rtx.com" width="20" height="20" align="absmiddle">&nbsp; **RTX** | Digital Technologies Project Management Office Operations Intern (Summer 2027) ✨ 🛂 | Remote,&nbsp;PA<br><sub>-</sub> | Nov&nbsp;4 | <a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PA-REMOTE/Digital-Technologies-Project-Management-Office-Operations-Intern--Summer-2027-_01884834"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=zebra.com" width="20" height="20" align="absmiddle">&nbsp; **Zebra** | 2027 Summer Internship (US) - Strategy ✨ 🛂 | Lincolnshire,&nbsp;IL<br><sub>$25.50–&#8288;$33.50/hr</sub> | Nov&nbsp;4 | <a href="https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Strategy_JR103624-1"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=clasp.com" width="20" height="20" align="absmiddle">&nbsp; **CLASP** | Strategy and Operations Intern | New&nbsp;York&nbsp;Office<br><sub>-</sub> | Nov&nbsp;4 | <a href="https://jobs.ashbyhq.com/clasp/43f4eb5d-f990-43b9-959f-70e6f0158246"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=cvshealth.com" width="20" height="20" align="absmiddle">&nbsp; **CVS&nbsp;Health** | Pharmacy Growth and Innovation Corporate Internship – Summer 2027 (Graduate) ✨ 🛂 | Woonsocket,&nbsp;RI<br><sub>$55/hr</sub> | Nov&nbsp;4 | <a href="https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Pharmacy-Growth-and-Innovation-Corporate-Internship---Summer-2027--Graduate-_R1058711-1"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 <br>
 
@@ -760,7 +762,7 @@
 
 ## Security
 
-<sub>This week's 27 of 54. <a href="fields/security.md">See all 54</a> · <a href="https://boardsweep.io/internships/security?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=track_security">Get only security internships by email, free</a></sub>
+<sub>This week's 27 of 53. <a href="fields/security.md">See all 53</a> · <a href="https://boardsweep.io/internships/security?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=track_security">Get only security internships by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
@@ -802,6 +804,6 @@
 
 Also see: [New grad roles](https://github.com/Boardsweep/new-grad-2027) · [Every internship, filterable, on boardsweep.io](https://boardsweep.io/internships?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=footer)
 
-<sub>⚡ is measured from the time the company published the posting, where its job board gives one. Updated Nov 11, 2026 at 07:40 UTC. Not affiliated with any company listed.</sub>
+<sub>⚡ is measured from the time the company published the posting, where its job board gives one. Updated Nov 11, 2026 at 13:36 UTC. Not affiliated with any company listed.</sub>
 
 </div>
