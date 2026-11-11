@@ -2,12 +2,14 @@
 
 # 🎨 Design internships
 
-All 42 open design internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design), or [get them by email, free](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design).
+All 44 open design internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design), or [get them by email, free](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=regent.edu" width="20" height="20" align="absmiddle">&nbsp; **Regent** | Human Factors Intern (Summer) ✨ | North Kingstown, RI<br><sub>-</sub> | Nov&nbsp;10 | <a href="https://jobs.ashbyhq.com/REGENT/f2a3c474-c7e6-47b5-bf78-1ebbf3298526"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=firstquality.com" width="20" height="20" align="absmiddle">&nbsp; **First&nbsp;Quality** | Intern - Graphic Designer ✨ | Home&nbsp;Office,&nbsp;SC<br><sub>-</sub> | Nov&nbsp;10 | <a href="https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-SC-Home-Office/Intern---Graphic-Designer_R12368"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=pinterest.com" width="20" height="20" align="absmiddle">&nbsp; **Pinterest** | Product Design Intern (USA) 🔥 | 2&nbsp;locations<br><sub>$7,500–&#8288;$9,000/mo</sub> | Nov&nbsp;10<br><sub>⚡&nbsp;3m</sub> | <a href="https://www.pinterestcareers.com/jobs/?gh_jid=8350814"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=whoop.com" width="20" height="20" align="absmiddle">&nbsp; **Whoop** | Product Designer Co-op ✨ | Boston,&nbsp;MA<br><sub>$28–&#8288;$32/hr</sub> | Nov&nbsp;9 | <a href="https://jobs.ashbyhq.com/whoop/c01ef83a-61dc-4a66-b3d9-94cee5765065"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=duolingo.com" width="20" height="20" align="absmiddle">&nbsp; **Duolingo** | Product Designer, Thrive Intern 🔥 | Pittsburgh,&nbsp;PA<br><sub>$43–&#8288;$45/hr</sub> | Nov&nbsp;9<br><sub>⚡&nbsp;2m</sub> | <a href="https://careers.duolingo.com/jobs/8933791002?gh_jid=8933791002"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

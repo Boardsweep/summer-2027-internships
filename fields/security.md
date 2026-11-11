@@ -2,12 +2,13 @@
 
 # 🛡️ Security internships
 
-All 53 open security internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/security?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_security), or [get them by email, free](https://boardsweep.io/internships/security?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_security).
+All 54 open security internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/security?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_security), or [get them by email, free](https://boardsweep.io/internships/security?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_security).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=aerospace.org" width="20" height="20" align="absmiddle">&nbsp; **The Aerospace Corporation** | 2027 Defensive Cyber Operations Grad Intern ✨ 🛂 | El&nbsp;Segundo,&nbsp;CA<br><sub>$32–&#8288;$35/hr</sub> | Nov&nbsp;10 | <a href="https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Grad-Intern_R017106"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | **Integration Innovation** | Cybersecurity Internship ✨ 🛂 | - | Nov&nbsp;9 | <a href="https://careers-i3-corps.icims.com/jobs/5489/cybersecurity-internship/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=lila.ai" width="20" height="20" align="absmiddle">&nbsp; **Lila&nbsp;Sciences** | Co-Op, IT/OT Security Analyst ✨ | Cambridge,&nbsp;MA<br><sub>-</sub> | Nov&nbsp;9<br><sub>⚡&nbsp;31m</sub> | <a href="https://job-boards.greenhouse.io/lilasciences/jobs/4477308009"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=steeldynamics.com" width="20" height="20" align="absmiddle">&nbsp; **Steel&nbsp;Dynamics** | Information Security Internship ✨ | - | Nov&nbsp;9 | <a href="https://careers-steeldynamics.icims.com/jobs/8490/information-security-internship/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
