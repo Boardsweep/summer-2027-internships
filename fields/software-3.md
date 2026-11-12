@@ -2,7 +2,7 @@
 
 # 💻 Software engineering internships
 
-All 2,001 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
+All 2,007 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
 
 Page 3 of 3: [1](software.md) · [2](software-2.md) · **3**
 
@@ -10,6 +10,10 @@ Page 3 of 3: [1](software.md) · [2](software-2.md) · **3**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=tiktok.com" width="20" height="20" align="absmiddle">&nbsp; **TikTok** | Software Engineer Project Intern - Lead Ads 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>-</sub> | Jun&nbsp;15 | <a href="https://lifeattiktok.com/search/7584179082162653445"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Software Engineer Project Intern - Platform efficiency 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$45–&#8288;$60/hr</sub> | Jun&nbsp;15 | <a href="https://lifeattiktok.com/search/7530513185797359880"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Frontend Engineer Project Intern - Tiktok Multimedia Arch - 2026 - BS/MS 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$45/hr</sub> | Jun&nbsp;15 | <a href="https://lifeattiktok.com/search/7595733632086591797"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=psu.edu" width="20" height="20" align="absmiddle">&nbsp; **Pennsylvania State University** | Research Assistant Intern | State College, PA<br><sub>-</sub> | Jun&nbsp;13 | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistants_REQ_0000074801-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=nidec.com" width="20" height="20" align="absmiddle">&nbsp; **Nidec** | Aerospace Intern New Grad | Atlanta,&nbsp;GA<br><sub>-</sub> | Jun&nbsp;13 | <a href="https://nidec.wd1.myworkdayjobs.com/nidec/job/Atlanta-GA/Nidec-Aerospace-Internship-Opportunities_R0010414"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=mercer.edu" width="20" height="20" align="absmiddle">&nbsp; **Mercer&nbsp;University** | International Student Position | Macon,&nbsp;GA<br><sub>-</sub> | Jun&nbsp;13 | <a href="https://merceruniversity.wd1.myworkdayjobs.com/student/job/Macon-Campus/McDuffie-Center-International-Student-Position_JR102963-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=anduril.com" width="20" height="20" align="absmiddle">&nbsp; **Anduril** | Software Engineer Intern 🔥 🛂 | 6&nbsp;locations<br><sub>$40–&#8288;$55/hr</sub> | Jun&nbsp;10 | <a href="https://boards.greenhouse.io/andurilindustries/jobs/5148079007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
