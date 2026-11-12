@@ -2,7 +2,7 @@
 
 # 💻 Software engineering internships
 
-All 2,007 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
+All 2,011 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
 
 Page 2 of 3: [1](software.md) · **2** · [3](software-3.md)
 
@@ -10,6 +10,10 @@ Page 2 of 3: [1](software.md) · **2** · [3](software-3.md)
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| **Arc&nbsp;Boat&nbsp;Company** | Software Engineering Intern | Torrance,&nbsp;CA<br><sub>$42/hr</sub> | Oct&nbsp;2 | <a href="https://job-boards.greenhouse.io/arcboatcompany/jobs/5442881008"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=affirm.com" width="20" height="20" align="absmiddle">&nbsp; **Affirm** | Software Engineer (Machine Learning) Intern (Summer 2027) 🔥 | San Francisco, CA<br><sub>$60.58/hr</sub> | Oct&nbsp;2<br><sub>⚡&nbsp;3m</sub> | <a href="https://job-boards.greenhouse.io/affirm/jobs/8008645003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Software Engineer Intern (Summer 2027) 🔥 | San Francisco, CA<br><sub>$60.58/hr</sub> | Oct&nbsp;2<br><sub>⚡&nbsp;4m</sub> | <a href="https://job-boards.greenhouse.io/affirm/jobs/8011590003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=keysight.com" width="20" height="20" align="absmiddle">&nbsp; **Keysight Technologies** | R&amp;D Software Engineering, Intern 🛂 | Atlanta,&nbsp;GA<br><sub>-</sub> | Oct&nbsp;2 | <a href="https://jobs.keysight.com/jobs/54388"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=waymo.com" width="20" height="20" align="absmiddle">&nbsp; **Waymo** | 2027 Summer Intern, PhD, Research, World Action Model 🔥 🎓 | Mountain View, CA<br><sub>$85/hr</sub> | Oct&nbsp;2<br><sub>⚡&nbsp;2m</sub> | <a href="https://careers.withwaymo.com/jobs?gh_jid=8243732"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | **SpaceXAI** | Spring 2027 Software Engineering Internship/Co-op | Palo&nbsp;Alto,&nbsp;CA<br><sub>$30/hr</sub> | Oct&nbsp;2<br><sub>⚡&nbsp;4m</sub> | <a href="https://job-boards.greenhouse.io/xai/jobs/5252108007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Summer 2027 Software Engineering Internship/Co-op | Palo&nbsp;Alto,&nbsp;CA<br><sub>$30/hr</sub> | Oct&nbsp;2<br><sub>⚡&nbsp;4m</sub> | <a href="https://job-boards.greenhouse.io/xai/jobs/5255111007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -987,10 +991,6 @@ Page 2 of 3: [1](software.md) · **2** · [3](software-3.md)
 | **Muru** | Full-Stack Software Engineer Intern | New&nbsp;York,&nbsp;NY<br><sub>-</sub> | Jun&nbsp;23 | <a href="https://www.murumed.com/job-listings/web-software-engineer-intern"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Mobile Software Engineer Intern | New&nbsp;York,&nbsp;NY<br><sub>-</sub> | Jun&nbsp;23 | <a href="https://www.murumed.com/job-listings/software-engineer-intern"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=quantiq.io" width="20" height="20" align="absmiddle">&nbsp; **Quantiq** | Software Developer Intern | Austin,&nbsp;TX<br><sub>-</sub> | Jun&nbsp;17<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://job-boards.greenhouse.io/quantiq/jobs/4287936009"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=thecampbellscompany.com" width="20" height="20" align="absmiddle">&nbsp; **Campbell&#x27;s** | Agentic AI Engineer Co-op | Remote&nbsp;in<br><sub>-</sub> | Jun&nbsp;16 | <a href="https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Agentic AI Engineer Co-op | Remote&nbsp;in<br><sub>-</sub> | Jun&nbsp;16 | <a href="https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66014"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=palantir.com" width="20" height="20" align="absmiddle">&nbsp; **Palantir** | Forward Deployed Software Engineer Intern - US Government 🔥 | Washington,&nbsp;DC<br><sub>-</sub> | Jun&nbsp;16 | <a href="https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Forward Deployed Software Engineer Intern 🔥 | NYC<br><sub>-</sub> | Jun&nbsp;16 | <a href="https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 [1](software.md) · **2** · [3](software-3.md)
 

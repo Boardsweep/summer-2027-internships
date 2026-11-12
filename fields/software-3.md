@@ -2,7 +2,7 @@
 
 # 💻 Software engineering internships
 
-All 2,007 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
+All 2,011 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
 
 Page 3 of 3: [1](software.md) · [2](software-2.md) · **3**
 
@@ -10,6 +10,10 @@ Page 3 of 3: [1](software.md) · [2](software-2.md) · **3**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=thecampbellscompany.com" width="20" height="20" align="absmiddle">&nbsp; **Campbell&#x27;s** | Agentic AI Engineer Co-op | Remote&nbsp;in<br><sub>-</sub> | Jun&nbsp;16 | <a href="https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Agentic AI Engineer Co-op | Remote&nbsp;in<br><sub>-</sub> | Jun&nbsp;16 | <a href="https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66014"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=palantir.com" width="20" height="20" align="absmiddle">&nbsp; **Palantir** | Forward Deployed Software Engineer Intern - US Government 🔥 | Washington,&nbsp;DC<br><sub>-</sub> | Jun&nbsp;16 | <a href="https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Forward Deployed Software Engineer Intern 🔥 | NYC<br><sub>-</sub> | Jun&nbsp;16 | <a href="https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=tiktok.com" width="20" height="20" align="absmiddle">&nbsp; **TikTok** | Software Engineer Project Intern - Lead Ads 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>-</sub> | Jun&nbsp;15 | <a href="https://lifeattiktok.com/search/7584179082162653445"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Software Engineer Project Intern - Platform efficiency 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$45–&#8288;$60/hr</sub> | Jun&nbsp;15 | <a href="https://lifeattiktok.com/search/7530513185797359880"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Frontend Engineer Project Intern - Tiktok Multimedia Arch - 2026 - BS/MS 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$45/hr</sub> | Jun&nbsp;15 | <a href="https://lifeattiktok.com/search/7595733632086591797"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

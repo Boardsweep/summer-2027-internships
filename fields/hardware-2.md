@@ -2,7 +2,7 @@
 
 # 🔧 Hardware internships
 
-All 991 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
+All 990 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
 
 Page 2 of 2: [1](hardware.md) · **2**
 
@@ -10,7 +10,6 @@ Page 2 of 2: [1](hardware.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=reviserobotics.com" width="20" height="20" align="absmiddle">&nbsp; **Revise&nbsp;Robotics** | Engineer Intern | NYC<br><sub>-</sub> | Jul&nbsp;21<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://jobs.ashbyhq.com/reviserobotics/7b0426d4-cf8c-4fdf-98a8-5a0360706633/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=nidec.com" width="20" height="20" align="absmiddle">&nbsp; **Nidec** | Test Lab Engineer Co-op | St.&nbsp;Louis,&nbsp;MO<br><sub>-</sub> | Jul&nbsp;17 | <a href="https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Test-Lab-Engineer-Co-op_R0016732"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=kostal.com" width="20" height="20" align="absmiddle">&nbsp; **KOSTAL&nbsp;Group** | Systems Engineering Intern | Troy,&nbsp;MI<br><sub>-</sub> | Jul&nbsp;16 | <a href="https://jobs.smartrecruiters.com/KOSTALGroup/744000138137225"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=peakenergy.com" width="20" height="20" align="absmiddle">&nbsp; **Peak&nbsp;Energy** | Systems Integration and Test Engineer Intern - Winter 2027 | Burlingame,&nbsp;CA<br><sub>$35/hr</sub> | Jul&nbsp;13 | <a href="https://peakenergy.com/get-in-touch/careers/jobs?job_id=5185852007&amp;gh_jid=5185852007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
