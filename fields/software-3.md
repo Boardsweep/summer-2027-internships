@@ -2,7 +2,7 @@
 
 # 💻 Software engineering internships
 
-All 1,990 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
+All 1,996 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
 
 Page 3 of 3: [1](software.md) · [2](software-2.md) · **3**
 
@@ -10,6 +10,14 @@ Page 3 of 3: [1](software.md) · [2](software-2.md) · **3**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=tesla.com" width="20" height="20" align="absmiddle">&nbsp; **Tesla** | Physics Engine Development Intern - Physics Engine Development Engineer - Optimus 🔥 | Palo&nbsp;Alto,&nbsp;CA<br><sub>-</sub> | Jun&nbsp;7 | <a href="https://www.tesla.com/careers/search/job/257048"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=clarity-innovations.com" width="20" height="20" align="absmiddle">&nbsp; **Clarity Innovations** | Junior Software Engineer Intern 🛂 | Reston,&nbsp;VA<br><sub>-</sub> | Jun&nbsp;5 | <a href="https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=instead.com" width="20" height="20" align="absmiddle">&nbsp; **Instead** | Software Engineer Intern | SF<br><sub>-</sub> | Jun&nbsp;3 | <a href="https://job-boards.greenhouse.io/instead/jobs/7761472003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=bytedance.com" width="20" height="20" align="absmiddle">&nbsp; **ByteDance** | Research Intern - SDN Traffic Intelligence &amp; Control 🔥 | Seattle,&nbsp;WA<br><sub>$57/hr</sub> | Jun&nbsp;3 | <a href="https://jobs.bytedance.com/en/position/7537161874254776583/detail"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Research Intern - SDN Traffic Intelligence &amp; Control 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$60/hr</sub> | Jun&nbsp;3 | <a href="https://jobs.bytedance.com/en/position/7537161497627281682/detail"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Research Intern - RDMA/High Speed Network 🔥 | Seattle,&nbsp;WA<br><sub>$57/hr</sub> | Jun&nbsp;2 | <a href="https://jobs.bytedance.com/en/position/7539992615111559442/detail"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Research Intern - RDMA/High Speed Network 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$60/hr</sub> | Jun&nbsp;2 | <a href="https://jobs.bytedance.com/en/position/7540025509111990546/detail"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=meshy.ai" width="20" height="20" align="absmiddle">&nbsp; **Meshy** | Data Infra Engineer Intern | San Francisco, CA<br><sub>-</sub> | May&nbsp;27 | <a href="https://jobs.ashbyhq.com/meshy/2f33b2eb-b76d-4618-b299-497471f263b9"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=basepowercompany.com" width="20" height="20" align="absmiddle">&nbsp; **Base&nbsp;Power** | Software Engineer Intern | Austin,&nbsp;TX<br><sub>-</sub> | May&nbsp;27 | <a href="https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc/application"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=apple.com" width="20" height="20" align="absmiddle">&nbsp; **Apple** | Software Undergrad Engineer Intern 🔥 | - | May&nbsp;22 | <a href="https://jobs.apple.com/en-us/details/200664785"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Software PhD Intern 🔥 | - | May&nbsp;22 | <a href="https://jobs.apple.com/en-us/details/200664323"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
