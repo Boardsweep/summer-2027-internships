@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,595 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,597 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 2 of 2: [1](aiml.md) · **2**
 
@@ -10,6 +10,8 @@ Page 2 of 2: [1](aiml.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=epicgames.com" width="20" height="20" align="absmiddle">&nbsp; **Epic&nbsp;Games** | Data Science Intern 🔥 | Cary,&nbsp;NC<br><sub>-</sub> | Sep&nbsp;21<br><sub>⚡&nbsp;14m</sub> | <a href="https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=windstarcruises.com" width="20" height="20" align="absmiddle">&nbsp; **Windstar&nbsp;Cruises** | Revenue and Data Analytics Intern | Miami,&nbsp;FL<br><sub>-</sub> | Sep&nbsp;21 | <a href="https://xanterra.jibeapply.com/jobs/39609?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=vikingglobal.com" width="20" height="20" align="absmiddle">&nbsp; **Viking Global Investors** | Data Science Intern | New&nbsp;York,&nbsp;NY<br><sub>-</sub> | Sep&nbsp;21 | <a href="https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=windstarcruises.com" width="20" height="20" align="absmiddle">&nbsp; **Windstar&nbsp;Cruises** | Revenue &amp; Data Analytics Intern | Doral,&nbsp;FL<br><sub>-</sub> | Sep&nbsp;21 | <a href="https://www.xanterrajobs.com/jobs/39609?icims=1&amp;lang=en-us"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=amd.com" width="20" height="20" align="absmiddle">&nbsp; **AMD** | AI Research Infrastructure – Reinforcement Learning Post-Training Intern 🔥 | Santa&nbsp;Clara,&nbsp;CA<br><sub>-</sub> | Sep&nbsp;21 | <a href="https://careers.amd.com/jobs/90950?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

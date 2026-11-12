@@ -2,7 +2,7 @@
 
 # 🔧 Hardware internships
 
-All 988 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
+All 989 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
 
 Page 1 of 2: **1** · [2](hardware-2.md)
 
@@ -10,6 +10,7 @@ Page 1 of 2: **1** · [2](hardware-2.md)
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=regent.edu" width="20" height="20" align="absmiddle">&nbsp; **Regent** | Test Engineering Intern (Summer) ✨ | North Kingstown, RI<br><sub>-</sub> | Nov&nbsp;11<br><sub>⚡&nbsp;50m</sub> | <a href="https://jobs.ashbyhq.com/REGENT/9e314bda-fce1-444b-9874-bacd332880f9"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=asml.com" width="20" height="20" align="absmiddle">&nbsp; **ASML** | Internship - Electromechanical Engineer ✨ | Wilton,&nbsp;CT<br><sub>$18–&#8288;$48/hr</sub> | Nov&nbsp;11 | <a href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Electromechanical-Engineer_J-00356069"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=nvidia.com" width="20" height="20" align="absmiddle">&nbsp; **NVIDIA** | Financial Analyst Intern, Hardware FP&amp;A - Summer 2027 🔥 ✨ | US, CA, Santa Clara<br><sub>-</sub> | Nov&nbsp;10 | <a href="https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Financial-Analyst-Intern--Hardware-FP-A---Summer-2027_JR2029523-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=gdmissionsystems.com" width="20" height="20" align="absmiddle">&nbsp; **General Dynamics Mission Systems** | Systems Engineer Intern ✨ 🛂 | -<br><sub>$26–&#8288;$29.25/hr</sub> | Nov&nbsp;10 | <a href="https://careers-gdms.icims.com/jobs/75895/systems-engineer-intern/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -956,7 +957,6 @@ Page 1 of 2: **1** · [2](hardware-2.md)
 | ↳ | FPGA Engineer Intern 🔥 | Austin,&nbsp;TX<br><sub>-</sub> | Jul&nbsp;21 | <a href="https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=reviserobotics.com" width="20" height="20" align="absmiddle">&nbsp; **Revise&nbsp;Robotics** | Engineer Intern | NYC<br><sub>-</sub> | Jul&nbsp;21<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://jobs.ashbyhq.com/reviserobotics/7b0426d4-cf8c-4fdf-98a8-5a0360706633/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=nidec.com" width="20" height="20" align="absmiddle">&nbsp; **Nidec** | Test Lab Engineer Co-op | St.&nbsp;Louis,&nbsp;MO<br><sub>-</sub> | Jul&nbsp;17 | <a href="https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Test-Lab-Engineer-Co-op_R0016732"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=kostal.com" width="20" height="20" align="absmiddle">&nbsp; **KOSTAL&nbsp;Group** | Systems Engineering Intern | Troy,&nbsp;MI<br><sub>-</sub> | Jul&nbsp;16 | <a href="https://jobs.smartrecruiters.com/KOSTALGroup/744000138137225"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 **1** · [2](hardware-2.md)
 

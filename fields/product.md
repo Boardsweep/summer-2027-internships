@@ -2,12 +2,17 @@
 
 # 📱 Product internships
 
-All 311 open product internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_product), or [get them by email, free](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_product).
+All 316 open product internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_product), or [get them by email, free](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_product).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=baskhealth.com" width="20" height="20" align="absmiddle">&nbsp; **Bask&nbsp;Health** | Patient Experience Product Intern | Remote&nbsp;in<br><sub>-</sub> | Nov&nbsp;11 | <a href="https://apply.workable.com/bask-health-1/j/90535FE8AA/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Product Operations Intern | - | Nov&nbsp;11 | <a href="https://apply.workable.com/bask-health-1/j/69C7B282BF/"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Product Discovery Intern ✨ | - | Nov&nbsp;11 | <a href="https://apply.workable.com/bask-health-1/j/34C4378E0B/"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Product Management Intern | - | Nov&nbsp;11 | <a href="https://apply.workable.com/bask-health-1/j/AAE5145A49/"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Merchant Experience Product Intern | - | Nov&nbsp;11 | <a href="https://apply.workable.com/bask-health-1/j/62A0C615A5/"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=constellationbrandsinc.com" width="20" height="20" align="absmiddle">&nbsp; **Constellation Brands** | Intern, Digital Manufacturing Technology | 2&nbsp;Locations<br><sub>$19–&#8288;$32/hr</sub> | Nov&nbsp;10 | <a href="https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/San-Antonio-Texas/Intern--Digital-Manufacturing-Technology_R-41681"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=alticeusa.com" width="20" height="20" align="absmiddle">&nbsp; **Altice&nbsp;USA** | Product Management Customer Management App Intern 🛂 | Bethpage,&nbsp;NY<br><sub>$25/hr</sub> | Nov&nbsp;10 | <a href="https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-Customer-Management-App-NY-11714/1449512200/?ats=successfactors"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Product Management B2B Broadband Services Intern 🛂 | Bethpage,&nbsp;NY<br><sub>$25/hr</sub> | Nov&nbsp;10 | <a href="https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-B2B-Broadband-Services-NY-11714/1449513100/?ats=successfactors"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,595 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,597 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 1 of 2: **1** · [2](aiml-2.md)
 
@@ -10,6 +10,8 @@ Page 1 of 2: **1** · [2](aiml-2.md)
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=shopline.com" width="20" height="20" align="absmiddle">&nbsp; **Shopline** | AI Skill Developer Intern | - | Nov&nbsp;11 | <a href="https://shopline.applytojob.com/apply/Ujgi4rGMS1/AI-Skill-Agent-Skill-Builder-Intern"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=baskhealth.com" width="20" height="20" align="absmiddle">&nbsp; **Bask&nbsp;Health** | AI Product Intern | - | Nov&nbsp;11 | <a href="https://apply.workable.com/bask-health-1/j/9D7E69054E/"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=tiktok.com" width="20" height="20" align="absmiddle">&nbsp; **TikTok** | Machine Learning Engineer Intern (E-Commerce Recommendation Mall) - 2027 Start 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$45/hr</sub> | Nov&nbsp;10 | <a href="https://lifeattiktok.com/search/7706693387932633397"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=allenlund.com" width="20" height="20" align="absmiddle">&nbsp; **Allen Lund Company** | Customer Service Systems and Process Audit Intern | Orlando,&nbsp;FL<br><sub>-</sub> | Nov&nbsp;10 | <a href="https://allenlundcompany.applytojob.com/apply/At334EGZh0/Customer-Service-Systems-Intern"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=artofproblemsolving.com" width="20" height="20" align="absmiddle">&nbsp; **Art of Problem Solving** | Data Science Intern 🛂 | San&nbsp;Diego,&nbsp;CA<br><sub>$30/hr</sub> | Nov&nbsp;10<br><sub>⚡&nbsp;16m</sub> | <a href="https://artofproblemsolving.com/careers/job/8201037003?gh_jid=8201037003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -948,8 +950,6 @@ Page 1 of 2: **1** · [2](aiml-2.md)
 | <img src="https://boardsweep.io/api/logo?domain=atlassian.com" width="20" height="20" align="absmiddle">&nbsp; **Atlassian** | Machine Learning Intern 🔥 | 2&nbsp;locations<br><sub>$54–&#8288;$61/hr</sub> | Sep&nbsp;21 | <a href="https://campus-americas.icims.com/jobs/26268/machine-learning-intern%2c-2027-summer-u.s./job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=one.app" width="20" height="20" align="absmiddle">&nbsp; **ONE&nbsp;Finance** | AI Research, Intern 🛂 | - | Sep&nbsp;21 | <a href="https://jobs.ashbyhq.com/oneapp/84beb108-c04b-42d3-a9ae-9a91210201b7"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=apollo.com" width="20" height="20" align="absmiddle">&nbsp; **Apollo&nbsp;Global** | Operations Reporting &amp; Analytics Intern | West Des Moines, IA<br><sub>-</sub> | Sep&nbsp;21 | <a href="https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Operations-Reporting---Analytics-Intern_R255141"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=epicgames.com" width="20" height="20" align="absmiddle">&nbsp; **Epic&nbsp;Games** | Data Science Intern 🔥 | Cary,&nbsp;NC<br><sub>-</sub> | Sep&nbsp;21<br><sub>⚡&nbsp;14m</sub> | <a href="https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=windstarcruises.com" width="20" height="20" align="absmiddle">&nbsp; **Windstar&nbsp;Cruises** | Revenue and Data Analytics Intern | Miami,&nbsp;FL<br><sub>-</sub> | Sep&nbsp;21 | <a href="https://xanterra.jibeapply.com/jobs/39609?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 **1** · [2](aiml-2.md)
 

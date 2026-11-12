@@ -2,7 +2,7 @@
 
 # 🔧 Hardware internships
 
-All 988 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
+All 989 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
 
 Page 2 of 2: [1](hardware.md) · **2**
 
@@ -10,6 +10,7 @@ Page 2 of 2: [1](hardware.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=kostal.com" width="20" height="20" align="absmiddle">&nbsp; **KOSTAL&nbsp;Group** | Systems Engineering Intern | Troy,&nbsp;MI<br><sub>-</sub> | Jul&nbsp;16 | <a href="https://jobs.smartrecruiters.com/KOSTALGroup/744000138137225"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=peakenergy.com" width="20" height="20" align="absmiddle">&nbsp; **Peak&nbsp;Energy** | Systems Integration and Test Engineer Intern - Winter 2027 | Burlingame,&nbsp;CA<br><sub>$35/hr</sub> | Jul&nbsp;13 | <a href="https://peakenergy.com/get-in-touch/careers/jobs?job_id=5185852007&amp;gh_jid=5185852007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=janestreet.com" width="20" height="20" align="absmiddle">&nbsp; **Jane&nbsp;Street** | Hardware Engineer - FPGA/Asic 🔥 | NYC<br><sub>-</sub> | Jul&nbsp;10 | <a href="https://job-boards.greenhouse.io/janestreet/jobs/8624440002"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=peakenergy.com" width="20" height="20" align="absmiddle">&nbsp; **Peak&nbsp;Energy** | Test Engineer Intern | Burlingame,&nbsp;CA<br><sub>$35/hr</sub> | Jul&nbsp;10<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://peakenergy.com/get-in-touch/careers/jobs?job_id=5178781007&amp;gh_jid=5178781007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

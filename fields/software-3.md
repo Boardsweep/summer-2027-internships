@@ -2,7 +2,7 @@
 
 # 💻 Software engineering internships
 
-All 1,996 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
+All 2,001 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
 
 Page 3 of 3: [1](software.md) · [2](software-2.md) · **3**
 
@@ -10,6 +10,10 @@ Page 3 of 3: [1](software.md) · [2](software-2.md) · **3**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=nidec.com" width="20" height="20" align="absmiddle">&nbsp; **Nidec** | Aerospace Intern New Grad | Atlanta,&nbsp;GA<br><sub>-</sub> | Jun&nbsp;13 | <a href="https://nidec.wd1.myworkdayjobs.com/nidec/job/Atlanta-GA/Nidec-Aerospace-Internship-Opportunities_R0010414"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=mercer.edu" width="20" height="20" align="absmiddle">&nbsp; **Mercer&nbsp;University** | International Student Position | Macon,&nbsp;GA<br><sub>-</sub> | Jun&nbsp;13 | <a href="https://merceruniversity.wd1.myworkdayjobs.com/student/job/Macon-Campus/McDuffie-Center-International-Student-Position_JR102963-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=anduril.com" width="20" height="20" align="absmiddle">&nbsp; **Anduril** | Software Engineer Intern 🔥 🛂 | 6&nbsp;locations<br><sub>$40–&#8288;$55/hr</sub> | Jun&nbsp;10 | <a href="https://boards.greenhouse.io/andurilindustries/jobs/5148079007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=tiktok.com" width="20" height="20" align="absmiddle">&nbsp; **TikTok** | AI Software Engineer Intern - Transaction Platform 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$45–&#8288;$60/hr</sub> | Jun&nbsp;9 | <a href="https://lifeattiktok.com/search/7646621925436131637"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=tesla.com" width="20" height="20" align="absmiddle">&nbsp; **Tesla** | Physics Engine Development Intern - Physics Engine Development Engineer - Optimus 🔥 | Palo&nbsp;Alto,&nbsp;CA<br><sub>-</sub> | Jun&nbsp;7 | <a href="https://www.tesla.com/careers/search/job/257048"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=clarity-innovations.com" width="20" height="20" align="absmiddle">&nbsp; **Clarity Innovations** | Junior Software Engineer Intern 🛂 | Reston,&nbsp;VA<br><sub>-</sub> | Jun&nbsp;5 | <a href="https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=instead.com" width="20" height="20" align="absmiddle">&nbsp; **Instead** | Software Engineer Intern | SF<br><sub>-</sub> | Jun&nbsp;3 | <a href="https://job-boards.greenhouse.io/instead/jobs/7761472003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
