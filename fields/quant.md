@@ -2,12 +2,13 @@
 
 # 📈 Quant internships
 
-All 190 open quant internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_quant), or [get them by email, free](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_quant).
+All 191 open quant internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_quant), or [get them by email, free](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_quant).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=americancentury.com" width="20" height="20" align="absmiddle">&nbsp; **American Century Investments** | Quantitative Summer Associate 🛂 | Santa&nbsp;Clara,&nbsp;CA<br><sub>-</sub> | Nov&nbsp;11 | <a href="https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Santa-Clara-California/Quantitative-Summer-Associate_R0005746"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=tmx.com" width="20" height="20" align="absmiddle">&nbsp; **TMX&nbsp;Group** | Index Research Intern ✨ | New York - 225 Liberty Street<br><sub>$20/hr</sub> | Nov&nbsp;10 | <a href="https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/New-York---225-Liberty-Street/Index-Research-Intern_R-6708"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=nasdaq.com" width="20" height="20" align="absmiddle">&nbsp; **Nasdaq** | Technical Research Intern - 2027 Summer Internship ✨ | USA - Richmond - Virginia<br><sub>-</sub> | Nov&nbsp;9 | <a href="https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---Richmond---Virginia/Technical-Research-Intern---2027-Summer-Internship_R0027292"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=voya.com" width="20" height="20" align="absmiddle">&nbsp; **Voya&nbsp;Financial** | Summer Student Intern - Mortgage Derivatives | Atlanta,&nbsp;GA<br><sub>$23–&#8288;$27/hr</sub> | Nov&nbsp;9 | <a href="https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/Summer-Student---Mortgage-Derivatives_JR0033396"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
