@@ -2,7 +2,7 @@
 
 # 💻 Software engineering internships
 
-All 2,029 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
+All 2,031 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
 
 Page 2 of 3: [1](software.md) · **2** · [3](software-3.md)
 
@@ -10,6 +10,7 @@ Page 2 of 3: [1](software.md) · **2** · [3](software-3.md)
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=garmin.com" width="20" height="20" align="absmiddle">&nbsp; **Garmin** | Software Engineer Intern | Manhattan,&nbsp;KS<br><sub>-</sub> | Oct&nbsp;5 | <a href="https://careers.garmin.com/jobs/20177?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=waymo.com" width="20" height="20" align="absmiddle">&nbsp; **Waymo** | 2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra 🔥 🎓 | Mountain View, CA<br><sub>$70/hr</sub> | Oct&nbsp;5<br><sub>⚡&nbsp;2m</sub> | <a href="https://careers.withwaymo.com/jobs?gh_jid=8257205"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=docusign.com" width="20" height="20" align="absmiddle">&nbsp; **DocuSign** | Software Engineer Intern | Seattle,&nbsp;WA<br><sub>-</sub> | Oct&nbsp;5 | <a href="https://careers.docusign.com/careers-home/jobs/30468"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=micron.com" width="20" height="20" align="absmiddle">&nbsp; **Micron&nbsp;Technology** | Intern - SMAI TD AI Engineering Team 🔥 | Boise, ID - Main Site<br><sub>-</sub> | Oct&nbsp;5 | <a href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -989,7 +990,6 @@ Page 2 of 3: [1](software.md) · **2** · [3](software-3.md)
 | ↳ | Software Engineer Intern 🔥 | Palo&nbsp;Alto,&nbsp;CA<br><sub>-</sub> | Jun&nbsp;29 | <a href="https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Software Engineer Intern 🔥 | Washington,&nbsp;DC<br><sub>-</sub> | Jun&nbsp;29 | <a href="https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Software Engineer Intern 🔥 | NYC<br><sub>-</sub> | Jun&nbsp;29 | <a href="https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Privacy and Civil Liberties Software Engineer Intern 🔥 | NYC<br><sub>-</sub> | Jun&nbsp;29 | <a href="https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 [1](software.md) · **2** · [3](software-3.md)
 

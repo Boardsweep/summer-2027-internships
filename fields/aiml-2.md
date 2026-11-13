@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,628 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,626 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 2 of 2: [1](aiml.md) · **2**
 
@@ -10,7 +10,6 @@ Page 2 of 2: [1](aiml.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=bytedance.com" width="20" height="20" align="absmiddle">&nbsp; **ByteDance** | Student Researcher Intern - Seed Model - Seed Responsible AI 🔥 🛂 | San&nbsp;Jose,&nbsp;CA<br><sub>$85/hr</sub> | Sep&nbsp;24 | <a href="https://jobs.bytedance.com/en/position/7688841262493485365/detail"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=fieldai.com" width="20" height="20" align="absmiddle">&nbsp; **Field&nbsp;AI** | Simulation – Sim to Real Intern | Irvine,&nbsp;CA<br><sub>-</sub> | Sep&nbsp;24<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://jobs.lever.co/field-ai/cce71d31-40a0-407f-b3b9-a586976b89b8/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=doordash.com" width="20" height="20" align="absmiddle">&nbsp; **DoorDash** | Machine Learning Intern (Masters) - Summer 2027 🔥 🎓 | 4&nbsp;locations<br><sub>$130,600–&#8288;$192k/yr</sub> | Sep&nbsp;24 | <a href="https://job-boards.greenhouse.io/doordashusa/jobs/8204111"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=radiancetech.com" width="20" height="20" align="absmiddle">&nbsp; **Radiance Technologies** | 2027 Modeling, Analytics, &amp; Simulation Sciences (MASS) Engineer Intern 🛂 | Beavercreek,&nbsp;OH<br><sub>-</sub> | Sep&nbsp;24 | <a href="https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102438"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -696,8 +695,7 @@ Page 2 of 2: [1](aiml.md) · **2**
 | <img src="https://boardsweep.io/api/logo?domain=neuralink.com" width="20" height="20" align="absmiddle">&nbsp; **Neuralink** | Machine Learning Engineer Intern 🔥 | Fremont,&nbsp;CA<br><sub>$35/hr</sub> | May&nbsp;30 | <a href="https://boards.greenhouse.io/neuralink/jobs/6594261003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=dexmate.ai" width="20" height="20" align="absmiddle">&nbsp; **Dexmate** | Research Intern | Fremont,&nbsp;CA<br><sub>-</sub> | Mar&nbsp;2 | <a href="https://jobs.ashbyhq.com/dexmate/9361af41-d1e4-4b27-be37-683685bf48dc/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=point72.com" width="20" height="20" align="absmiddle">&nbsp; **Point72** | Machine Learning Researcher - Intern 🔥 | New&nbsp;York<br><sub>-</sub> | Aug&nbsp;15<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=databricks.com" width="20" height="20" align="absmiddle">&nbsp; **Databricks** | PhD GenAI Research Scientist Intern 🔥 🎓 | San Francisco, CA<br><sub>$54–&#8288;$60/hr</sub> | Nov&nbsp;7 | <a href="https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Data Science Intern (2027 Start) 🔥 | 2&nbsp;locations<br><sub>$54–&#8288;$60/hr</sub> | Aug&nbsp;17 | <a href="https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=databricks.com" width="20" height="20" align="absmiddle">&nbsp; **Databricks** | Data Science Intern (2027 Start) 🔥 | 2&nbsp;locations<br><sub>$54–&#8288;$60/hr</sub> | Aug&nbsp;17 | <a href="https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 [1](aiml.md) · **2**
 

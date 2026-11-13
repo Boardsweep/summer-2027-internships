@@ -2,12 +2,13 @@
 
 # 📱 Product internships
 
-All 317 open product internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_product), or [get them by email, free](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_product).
+All 318 open product internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_product), or [get them by email, free](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_product).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=inscipher.com" width="20" height="20" align="absmiddle">&nbsp; **InsCipher** | AI Product Intern | Pleasant Grove, UT<br><sub>$20/hr</sub> | Nov&nbsp;12 | <a href="https://ats.rippling.com/inscipher-careers/jobs/a79113bc-e11e-47a3-9d4e-8847e5ff4c9c"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=gordonfoodservice.com" width="20" height="20" align="absmiddle">&nbsp; **Gordon Food Service** | Digital Product Management Internship | Wyoming,&nbsp;MI<br><sub>-</sub> | Nov&nbsp;11 | <a href="https://gfs.wd5.myworkdayjobs.com/usprivate-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336-2"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=rubrik.com" width="20" height="20" align="absmiddle">&nbsp; **Rubrik&nbsp;Job&nbsp;Board** | Product Management Intern (MSP), Summer 2027 | Palo&nbsp;Alto,&nbsp;CA<br><sub>-</sub> | Nov&nbsp;11<br><sub>⚡&nbsp;22m</sub> | <a href="https://www.rubrik.com/company/careers/departments/job.8346967?gh_jid=8346967"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=riotgames.com" width="20" height="20" align="absmiddle">&nbsp; **Riot&nbsp;Games** | Game Producer Intern, Teamfight Tactics (Masters/PhD) - Summer 2027 ✨ 🛂 🎓 | Los&nbsp;Angeles<br><sub>$54.62/hr</sub> | Nov&nbsp;11<br><sub>⚡&nbsp;10m</sub> | <a href="https://www.riotgames.com/en/work-with-us/job/8356876?gh_jid=8356876"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

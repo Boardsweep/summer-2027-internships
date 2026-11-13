@@ -2,7 +2,7 @@
 
 # 💻 Software engineering internships
 
-All 2,029 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
+All 2,031 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
 
 Page 3 of 3: [1](software.md) · [2](software-2.md) · **3**
 
@@ -10,7 +10,8 @@ Page 3 of 3: [1](software.md) · [2](software-2.md) · **3**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=palantir.com" width="20" height="20" align="absmiddle">&nbsp; **Palantir** | Forward Deployed Software Engineer Intern - Commercial 🔥 | NYC<br><sub>-</sub> | Jun&nbsp;29 | <a href="https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=palantir.com" width="20" height="20" align="absmiddle">&nbsp; **Palantir** | Privacy and Civil Liberties Software Engineer Intern 🔥 | NYC<br><sub>-</sub> | Jun&nbsp;29 | <a href="https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Forward Deployed Software Engineer Intern - Commercial 🔥 | NYC<br><sub>-</sub> | Jun&nbsp;29 | <a href="https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=ivytech.edu" width="20" height="20" align="absmiddle">&nbsp; **Ivy Tech Community College** | Federal Work Study Website Development Intern | Anderson,&nbsp;IN<br><sub>$15/hr</sub> | Jun&nbsp;27 | <a href="https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Anderson-IN/Federal-Work-Study---Website-Development-Intern_JR0000105569"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=universityofnevadareno.com" width="20" height="20" align="absmiddle">&nbsp; **University of Nevada, Reno** | Web Development Intern - Marketing &amp; Communications | Reno,&nbsp;NV<br><sub>$12.50/hr</sub> | Jun&nbsp;27 | <a href="https://nshe.wd1.myworkdayjobs.com/UNR-external/job/University-of-Nevada-Reno---Main-Campus/Student-Worker---Web-Development-Intern--Marketing---Communications_R0152288"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=equifax.com" width="20" height="20" align="absmiddle">&nbsp; **Equifax** | Technology Intern | Alpharetta,&nbsp;GA<br><sub>-</sub> | Jun&nbsp;27 | <a href="https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Technology-Intern_J00170964"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
