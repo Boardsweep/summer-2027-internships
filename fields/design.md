@@ -2,12 +2,13 @@
 
 # 🎨 Design internships
 
-All 47 open design internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design), or [get them by email, free](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design).
+All 48 open design internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design), or [get them by email, free](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=meta.com" width="20" height="20" align="absmiddle">&nbsp; **Meta** | UX Research Scientist Intern, Contextual AI (PhD) 🔥 ✨ 🎓 | Redmond,&nbsp;WA<br><sub>-</sub> | Nov&nbsp;12 | <a href="https://www.metacareers.com/jobs/1447131743482590"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=hp-iq.com" width="20" height="20" align="absmiddle">&nbsp; **HP&nbsp;IQ** | Experience Design Intern (Summer 2027) ✨ | San Francisco, CA<br><sub>$40–&#8288;$50/hr</sub> | Nov&nbsp;12<br><sub>⚡&nbsp;15m</sub> | <a href="https://job-boards.greenhouse.io/hpiq/jobs/6230959004"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=nbcuniversal.com" width="20" height="20" align="absmiddle">&nbsp; **NBCUniversal** | Franchise, Products &amp; Partnerships: Creative and Product Design &amp; Development Internships – Summer 2027 ✨ | Universal&nbsp;City<br><sub>$19/hr</sub> | Nov&nbsp;11 | <a href="https://jobs.smartrecruiters.com/NBCUniversal3/744000161161787"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | **Global Infrastructure** | Intern Engineering Designer, Rail and Transit ✨ | 3&nbsp;locations<br><sub>$20–&#8288;$30/hr</sub> | Nov&nbsp;11 | <a href="https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--CA--San-Diego---404-Camino-del-Rio-South/Intern-Engineering-Designer--Rail-and-Transit_6686"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
