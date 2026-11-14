@@ -1,5 +1,134 @@
 [
  {
+  "company": "Samsung Semiconductor",
+  "title": "Intern, Compiler Engineer",
+  "location": "San Jose, CA",
+  "pay": "$28–$68/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202902003",
+  "date_posted": "2026-11-13T06:23:34+00:00",
+  "date_found": "2026-11-13T06:34:34.082000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "AT&T",
+  "title": "AT&T Labs Internship – Advanced Degrees",
+  "location": "Bedminster, NJ",
+  "pay": "$87,200–$130,800/yr",
+  "tracks": [
+   "software",
+   "aiml"
+  ],
+  "url": "https://att.wd1.myworkdayjobs.com/ATTCollege/job/Bedminster-New-Jersey/AT-T-Labs-Internship---Advanced-Degrees_R-127067",
+  "date_posted": "2026-11-13T05:40:53.765000+00:00",
+  "date_found": "2026-11-13T06:03:08.048000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": true
+ },
+ {
+  "company": "Hays Electrical Services",
+  "title": "Electrical Apprentice",
+  "location": "Houston, TX",
+  "pay": "$18–$37/hr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://hayselectricalservices.applytojob.com/apply/uttnKC8Iom",
+  "date_posted": "2026-11-13T05:32:08+00:00",
+  "date_found": "2026-11-13T06:03:08.048000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Hays Electrical Services",
+  "title": "Electrical Apprentice",
+  "location": "Dallas, TX",
+  "pay": "$18–$37/hr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://hayselectricalservices.applytojob.com/apply/awQ3bt5aT5",
+  "date_posted": "2026-11-13T05:27:05+00:00",
+  "date_found": "2026-11-13T06:03:08.048000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Hays Electrical Services",
+  "title": "Electrical Apprentice Prefab",
+  "location": "San Marcos, TX",
+  "pay": "$18–$48/hr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://hayselectricalservices.applytojob.com/apply/FsDgFjQmgy",
+  "date_posted": "2026-11-13T05:20:15+00:00",
+  "date_found": "2026-11-13T06:03:08.048000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Hays Electrical Services",
+  "title": "Electrical Apprentice",
+  "location": "Austin, TX",
+  "pay": "$18–$37/hr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://hayselectricalservices.applytojob.com/apply/asJSYiD3lG",
+  "date_posted": "2026-11-13T04:54:49+00:00",
+  "date_found": "2026-11-13T06:03:08.048000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Hays Electrical Services",
+  "title": "Electrical Apprentice",
+  "location": "San Antonio, TX",
+  "pay": "$18–$37/hr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://hayselectricalservices.applytojob.com/apply/YcAmcAmYSq",
+  "date_posted": "2026-11-13T04:52:58+00:00",
+  "date_found": "2026-11-13T06:03:08.048000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Intern",
+  "location": "San Jose, CA",
+  "pay": "$45/hr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://lifeattiktok.com/search/7698822572474583301",
+  "date_posted": "2026-11-13T02:35:18+00:00",
+  "date_found": "2026-11-13T04:05:15.836000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Lightmatter",
   "title": "Quality & Reliability, Intern Summer 2027",
   "location": "Mountain View, CA",
@@ -76,6 +205,22 @@
   "date_found": "2026-11-13T00:34:22.782000+00:00",
   "top_company": false,
   "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Aurora Operations",
+  "title": "Software Engineer Intern, Vehicle Platforms",
+  "location": "Mountain View, CA",
+  "pay": "$52/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef",
+  "date_posted": "2026-11-13T00:00:00+00:00",
+  "date_found": "2026-11-13T03:18:46.694000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -871,6 +1016,22 @@
   "advanced_degree": false
  },
  {
+  "company": "F7d8749a 72d6 407c Bf98 292ea630c73a",
+  "title": "2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541)",
+  "location": "San Diego, CA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.ashbyhq.com/shield/354d464d-ca91-4ce3-bd3f-d811b13755be",
+  "date_posted": "2026-11-12T21:12:49.087000+00:00",
+  "date_found": "2026-11-13T01:32:00.045000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Northrop Grumman",
   "title": "2027 Aeronautical Engineering Intern - Sunnyvale CA",
   "location": "United States-California-Sunnyvale",
@@ -1336,6 +1497,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Zoox",
+  "title": "Systems & Safety Engineering Intern [Summer 2027]",
+  "location": "Foster City, CA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.lever.co/zoox/442845d1-33b0-4801-a553-7fd9b806e46f",
+  "date_posted": "2026-11-12T19:19:06.708000+00:00",
+  "date_found": "2026-11-13T01:46:54.144000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Stratolaunch",
   "title": "Business Intelligence & Systems Analyst Intern 2027",
   "location": "Mojave, CA",
@@ -1723,6 +1900,22 @@
   "advanced_degree": false
  },
  {
+  "company": "TikTok",
+  "title": "Research Scientist Intern (TikTok - Content Ecology - Local Services) - 2027 Start (PhD)",
+  "location": "San Jose, CA",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://lifeattiktok.com/search/7707222170826623285",
+  "date_posted": "2026-11-12T09:58:18+00:00",
+  "date_found": "2026-11-13T01:52:49.201000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": true
+ },
+ {
   "company": "GDIT",
   "title": "JMSC-P Boundary Enclave Administrator Intern",
   "location": "Schofield, HI",
@@ -1999,6 +2192,38 @@
   "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721651006",
   "date_posted": "2026-11-12T00:10:08+00:00",
   "date_found": "2026-11-12T00:46:49.187000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "CoStar Group",
+  "title": "Vision & Learning Intern",
+  "location": "Sunnyvale",
+  "pay": "$40–$50/hr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Vision---Learning-Intern_R40196",
+  "date_posted": "2026-11-12T00:00:00+00:00",
+  "date_found": "2026-11-13T03:18:46.694000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "F7d8749a 72d6 407c Bf98 292ea630c73a",
+  "title": "2027 June Co-op - Hardware Test - #6426",
+  "location": "Dallas, TX",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.ashbyhq.com/shield/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d",
+  "date_posted": "2026-11-12T00:00:00+00:00",
+  "date_found": "2026-11-13T01:32:00.045000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -13534,38 +13759,6 @@
   "advanced_degree": false
  },
  {
-  "company": "ASM",
-  "title": "Intern, Electrical Engineering",
-  "location": "US > Arizona > Phoenix",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://www.asm.com/open-vacancies/?gh_jid=5029220101",
-  "date_posted": "2026-11-06T04:02:46+00:00",
-  "date_found": "2026-11-06T04:04:29.077000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "ASM",
-  "title": "Intern, Process Engineering",
-  "location": "US > Arizona > Phoenix",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://www.asm.com/open-vacancies/?gh_jid=5029209101",
-  "date_posted": "2026-11-06T03:44:30+00:00",
-  "date_found": "2026-11-06T03:49:18.132000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Match Group",
   "title": "Product Design Intern",
   "location": "Los Angeles, CA",
@@ -13624,22 +13817,6 @@
   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4645741",
   "date_posted": "2026-11-06T03:27:48+00:00",
   "date_found": "2026-11-09T14:04:23.585000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Astranis",
-  "title": "Network Planning Sales Engineer Intern (Winter 2027)",
-  "location": "San Francisco, CA",
-  "pay": "$29/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://job-boards.greenhouse.io/astranis/jobs/4704276006",
-  "date_posted": null,
-  "date_found": "2026-11-06T01:53:30.213732+00:00",
   "top_company": false,
   "no_sponsorship": true,
   "citizenship_required": false,

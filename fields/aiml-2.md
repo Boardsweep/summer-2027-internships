@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,609 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,612 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 2 of 2: [1](aiml.md) · **2**
 
@@ -10,6 +10,9 @@ Page 2 of 2: [1](aiml.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=radiancetech.com" width="20" height="20" align="absmiddle">&nbsp; **Radiance Technologies** | 2027 Modeling, Analytics, &amp; Simulation Sciences (MASS) Engineer Intern 🛂 | Beavercreek,&nbsp;OH<br><sub>-</sub> | Sep&nbsp;24 | <a href="https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102440-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | 2027 Modeling, Analytics, &amp; Simulation Sciences (MASS) Engineer Intern 🛂 | Beavercreek,&nbsp;OH<br><sub>-</sub> | Sep&nbsp;24 | <a href="https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102439"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=hayselectrical.com" width="20" height="20" align="absmiddle">&nbsp; **Hays Electrical Services** | Data Analyst Intern - IT / Accounting (Rotational) | Houston,&nbsp;TX<br><sub>-</sub> | Sep&nbsp;23 | <a href="https://hayselectricalservices.applytojob.com/apply/X0z5NLCjcR/Intern-Data-Analyst"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=klaviyo.com" width="20" height="20" align="absmiddle">&nbsp; **Klaviyo** | Machine Learning Engineer Internship-Summer 2027 | Palo&nbsp;Alto,&nbsp;CA<br><sub>$65/hr</sub> | Sep&nbsp;23 | <a href="https://job-boards.greenhouse.io/klaviyocampus/jobs/7999274003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | AI Engineer Intern | Boston,&nbsp;MA<br><sub>$60/hr</sub> | Sep&nbsp;23<br><sub>⚡&nbsp;5m</sub> | <a href="https://job-boards.greenhouse.io/klaviyocampus/jobs/8003260003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=waymo.com" width="20" height="20" align="absmiddle">&nbsp; **Waymo** | 2027 Summer Intern, MS/PhD, Road Understanding, ML Engineer 🔥 🎓 | Mountain View, CA<br><sub>$85/hr</sub> | Sep&nbsp;23 | <a href="https://careers.withwaymo.com/jobs?gh_jid=8224746"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

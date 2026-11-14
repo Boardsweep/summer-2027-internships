@@ -2,7 +2,7 @@
 
 # 💻 Software engineering internships
 
-All 2,015 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
+All 2,019 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
 
 Page 3 of 3: [1](software.md) · [2](software-2.md) · **3**
 
@@ -10,6 +10,10 @@ Page 3 of 3: [1](software.md) · [2](software-2.md) · **3**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=simoncomputing.com" width="20" height="20" align="absmiddle">&nbsp; **SimonComputing** | Software Development Internship | Alexandria,&nbsp;VA<br><sub>-</sub> | Jun&nbsp;23 | <a href="https://simoncomputing.applicantpro.com/jobs/4115690"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| **Muru** | Full-Stack Software Engineer Intern | New&nbsp;York,&nbsp;NY<br><sub>-</sub> | Jun&nbsp;23 | <a href="https://www.murumed.com/job-listings/web-software-engineer-intern"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Mobile Software Engineer Intern | New&nbsp;York,&nbsp;NY<br><sub>-</sub> | Jun&nbsp;23 | <a href="https://www.murumed.com/job-listings/software-engineer-intern"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=quantiq.io" width="20" height="20" align="absmiddle">&nbsp; **Quantiq** | Software Developer Intern | Austin,&nbsp;TX<br><sub>-</sub> | Jun&nbsp;17<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://job-boards.greenhouse.io/quantiq/jobs/4287936009"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=thecampbellscompany.com" width="20" height="20" align="absmiddle">&nbsp; **Campbell&#x27;s** | Agentic AI Engineer Co-op | Remote&nbsp;in<br><sub>-</sub> | Jun&nbsp;16 | <a href="https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Agentic AI Engineer Co-op | Remote&nbsp;in<br><sub>-</sub> | Jun&nbsp;16 | <a href="https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66014"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=palantir.com" width="20" height="20" align="absmiddle">&nbsp; **Palantir** | Forward Deployed Software Engineer Intern - US Government 🔥 | Washington,&nbsp;DC<br><sub>-</sub> | Jun&nbsp;16 | <a href="https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
