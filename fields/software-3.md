@@ -2,7 +2,7 @@
 
 # 💻 Software engineering internships
 
-All 1,999 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
+All 2,000 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
 
 Page 3 of 3: [1](software.md) · [2](software-2.md) · **3**
 
@@ -10,6 +10,7 @@ Page 3 of 3: [1](software.md) · [2](software-2.md) · **3**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=instead.com" width="20" height="20" align="absmiddle">&nbsp; **Instead** | Software Engineer Intern | SF<br><sub>-</sub> | Jun&nbsp;3 | <a href="https://job-boards.greenhouse.io/instead/jobs/7761472003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=bytedance.com" width="20" height="20" align="absmiddle">&nbsp; **ByteDance** | Research Intern - SDN Traffic Intelligence &amp; Control 🔥 | Seattle,&nbsp;WA<br><sub>$57/hr</sub> | Jun&nbsp;3 | <a href="https://jobs.bytedance.com/en/position/7537161874254776583/detail"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Research Intern - SDN Traffic Intelligence &amp; Control 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$60/hr</sub> | Jun&nbsp;3 | <a href="https://jobs.bytedance.com/en/position/7537161497627281682/detail"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Research Intern - RDMA/High Speed Network 🔥 | Seattle,&nbsp;WA<br><sub>$57/hr</sub> | Jun&nbsp;2 | <a href="https://jobs.bytedance.com/en/position/7539992615111559442/detail"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

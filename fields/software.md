@@ -2,7 +2,7 @@
 
 # 💻 Software engineering internships
 
-All 1,999 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
+All 2,000 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
 
 Page 1 of 3: **1** · [2](software-2.md) · [3](software-3.md)
 
@@ -10,6 +10,7 @@ Page 1 of 3: **1** · [2](software-2.md) · [3](software-3.md)
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=zoox.com" width="20" height="20" align="absmiddle">&nbsp; **Zoox** | Feature Integration Intern [Summer 2027] 🔥 ✨ | Foster&nbsp;City,&nbsp;CA<br><sub>-</sub> | Nov&nbsp;14 | <a href="https://jobs.lever.co/zoox/2e4e91c3-f127-4c5b-9291-b93b8a340a2f"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=amazon.com" width="20" height="20" align="absmiddle">&nbsp; **Amazon** | Data Center Infrastructure Engineer Intern, Summer 2027 - East 🔥 ✨ | Herndon,&nbsp;VA<br><sub>-</sub> | Nov&nbsp;14 | <a href="https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast 🔥 ✨ | Umatilla,&nbsp;OR<br><sub>-</sub> | Nov&nbsp;14 | <a href="https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=idemia.com" width="20" height="20" align="absmiddle">&nbsp; **Idemia** | Software Engineering Internship Enrollment And Credentialing Services ✨ | -<br><sub>$25/hr</sub> | Nov&nbsp;13 | <a href="https://uscareers-idemia.icims.com/jobs/8642/software-engineering-internship---enrollment-and-credentialing-services/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -952,7 +953,6 @@ Page 1 of 3: **1** · [2](software-2.md) · [3](software-3.md)
 | <img src="https://boardsweep.io/api/logo?domain=idemia.com" width="20" height="20" align="absmiddle">&nbsp; **IDEMIA** | Software Engineer Intern | Reston,&nbsp;VA<br><sub>$25/hr</sub> | Oct&nbsp;5 | <a href="https://uscareers-idemia.icims.com/jobs/8650/job?mobile=true&amp;needsRedirect=false"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=daytonfreight.com" width="20" height="20" align="absmiddle">&nbsp; **Dayton Freight Lines** | Business Intelligence Intern | Dayton,&nbsp;OH<br><sub>-</sub> | Oct&nbsp;5 | <a href="https://careers-daytonfreight.icims.com/jobs/18278/job?mobile=true&amp;needsRedirect=false"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=rivian.com" width="20" height="20" align="absmiddle">&nbsp; **Rivian** | Software Engineer Intern Co-op - Embedded Software | Palo&nbsp;Alto,&nbsp;CA<br><sub>$45–&#8288;$51/hr</sub> | Oct&nbsp;5 | <a href="https://careers.rivian.com/jobs/33832?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=gdmissionsystems.com" width="20" height="20" align="absmiddle">&nbsp; **General Dynamics Mission Systems** | SW Engineering Intern (Cwl Summer 2027) 🛂 | Manassas,&nbsp;VA<br><sub>$27.50/hr</sub> | Oct&nbsp;5 | <a href="https://careers-gdms.icims.com/jobs/75346/sw-engineering-intern-%28cwl-summer-2027%29/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 **1** · [2](software-2.md) · [3](software-3.md)
 

@@ -3,11 +3,11 @@
 
 <a href="https://boardsweep.io/internships?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=cta_email"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cta-email-dark.png"><img src="assets/cta-email-light.png" height="44" alt="Get the free digest"></picture></a>&nbsp;&nbsp;<a href="https://boardsweep.io/#pricing?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=cta_instant"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cta-instant-dark.png"><img src="assets/cta-instant-light.png" height="44" alt="Instant alerts, 7 days free"></picture></a>
 
-<img src="assets/stats.svg" width="100%" alt="18 new in the last 24 hours, 5240 open">
+<img src="assets/stats.svg" width="100%" alt="16 new in the last 24 hours, 5242 open">
 </div>
 
 > [!TIP]
-> **This list runs a day behind.** The 18 internships we found in the last 24 hours are already in subscribers' inboxes, and appear here tomorrow. [Get a free daily email](https://boardsweep.io/internships?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=tip_email), or [get each one the minute the company posts it](https://boardsweep.io/#pricing?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=tip_instant) with the season pass (7 days free).
+> **This list runs a day behind.** The 16 internships we found in the last 24 hours are already in subscribers' inboxes, and appear here tomorrow. [Get a free daily email](https://boardsweep.io/internships?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=tip_email), or [get each one the minute the company posts it](https://boardsweep.io/#pricing?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=tip_instant) with the season pass (7 days free).
 
 <br>
 
@@ -15,12 +15,12 @@
 
 | Field | Open now | New this week | |
 | --- | ---: | ---: | --- |
-| 💻 **[Software engineering](fields/software.md)** | 1,999 | 289 | [Email me these, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_software) |
+| 💻 **[Software engineering](fields/software.md)** | 2,000 | 290 | [Email me these, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_software) |
 | 🤖 **[AI, ML and data](fields/aiml.md)** | 1,605 | 204 | [Email me these, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_aiml) |
 | 📈 **[Quant](fields/quant.md)** | 186 | 8 | [Email me these, free](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_quant) |
 | 🔧 **[Hardware](fields/hardware.md)** | 979 | 220 | [Email me these, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_hardware) |
 | 📱 **[Product](fields/product.md)** | 322 | 61 | [Email me these, free](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_product) |
-| 🎨 **[Design](fields/design.md)** | 58 | 39 | [Email me these, free](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_design) |
+| 🎨 **[Design](fields/design.md)** | 59 | 40 | [Email me these, free](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_design) |
 | 🛡️ **[Security](fields/security.md)** | 62 | 46 | [Email me these, free](https://boardsweep.io/internships/security?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_security) |
 
 <br>
@@ -31,10 +31,11 @@
 
 ## Software engineering
 
-<sub>This week's 289 of 1,999. <a href="fields/software.md">See all 1,999 (3 pages)</a> · <a href="https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=track_software">Get only software engineering internships by email, free</a></sub>
+<sub>This week's 290 of 2,000. <a href="fields/software.md">See all 2,000 (3 pages)</a> · <a href="https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=track_software">Get only software engineering internships by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=zoox.com" width="20" height="20" align="absmiddle">&nbsp; **Zoox** | Feature Integration Intern [Summer 2027] 🔥 ✨ | Foster&nbsp;City,&nbsp;CA<br><sub>-</sub> | Nov&nbsp;14 | <a href="https://jobs.lever.co/zoox/2e4e91c3-f127-4c5b-9291-b93b8a340a2f"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=amazon.com" width="20" height="20" align="absmiddle">&nbsp; **Amazon** | Data Center Infrastructure Engineer Intern, Summer 2027 - East 🔥 ✨ | Herndon,&nbsp;VA<br><sub>-</sub> | Nov&nbsp;14 | <a href="https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast 🔥 ✨ | Umatilla,&nbsp;OR<br><sub>-</sub> | Nov&nbsp;14 | <a href="https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=idemia.com" width="20" height="20" align="absmiddle">&nbsp; **Idemia** | Software Engineering Internship Enrollment And Credentialing Services ✨ | -<br><sub>$25/hr</sub> | Nov&nbsp;13 | <a href="https://uscareers-idemia.icims.com/jobs/8642/software-engineering-internship---enrollment-and-credentialing-services/job"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -858,7 +859,7 @@
 
 ## Design
 
-<sub>This week's 39 of 58. <a href="fields/design.md">See all 58</a> · <a href="https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=track_design">Get only design internships by email, free</a></sub>
+<sub>This week's 40 of 59. <a href="fields/design.md">See all 59</a> · <a href="https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=track_design">Get only design internships by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
@@ -868,6 +869,7 @@
 | <img src="https://boardsweep.io/api/logo?domain=campingworld.com" width="20" height="20" align="absmiddle">&nbsp; **Camping&nbsp;World** | Conversational Design Intern ✨ | Chicago,&nbsp;IL<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Chicago-IL/Conversational-Design-Intern_26_09081"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=iff.com" width="20" height="20" align="absmiddle">&nbsp; **IFF** | Intern, Beverage Design ✨ | Tastepoint South, PA<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://iff.wd5.myworkdayjobs.com/IFF_Careers/job/Tastepoint-South-PA-USA/Intern--Beverage-Design_R23234"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=pacvue.com" width="20" height="20" align="absmiddle">&nbsp; **Pacvue** | Graphic Design Intern ✨ | US&nbsp;Remote<br><sub>$20/hr</sub> | Nov&nbsp;13<br><sub>⚡&nbsp;8m</sub> | <a href="https://job-boards.greenhouse.io/pacvue/jobs/6261128004"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=zoox.com" width="20" height="20" align="absmiddle">&nbsp; **Zoox** | Industrial Design Intern [Summer 2027] 🔥 ✨ | Foster&nbsp;City,&nbsp;CA<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://jobs.lever.co/zoox/23867c45-d2df-4f87-86ff-244c864614cd"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | **Global Infrastructure** | Intern Engineering Designer, Water ✨ | 3&nbsp;locations<br><sub>-</sub> | Nov&nbsp;12 | <a href="https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--NY--New-York---32-Old-Slip/Intern-Engineering-Designer--Water_6740"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Intern Engineering Designer, Water ✨ | 3&nbsp;locations<br><sub>-</sub> | Nov&nbsp;12 | <a href="https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--VA--Alexandria---5301-Shawnee-Road/Intern-Engineering-Designer--Water_6732"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Intern Engineering Designer, Water ✨ | 3&nbsp;locations<br><sub>-</sub> | Nov&nbsp;12 | <a href="https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--WA--Bellevue---12011-Bel-Red-Road/Intern-Engineering-Designer--Water_6737"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -967,6 +969,6 @@
 
 Also see: [New grad roles](https://github.com/Boardsweep/new-grad-2027) · [Every internship, filterable, on boardsweep.io](https://boardsweep.io/internships?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=footer)
 
-<sub>⚡ is measured from the time the company published the posting, where its job board gives one. Updated Nov 15, 2026 at 01:32 UTC. Not affiliated with any company listed.</sub>
+<sub>⚡ is measured from the time the company published the posting, where its job board gives one. Updated Nov 15, 2026 at 07:30 UTC. Not affiliated with any company listed.</sub>
 
 </div>

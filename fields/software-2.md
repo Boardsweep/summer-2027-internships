@@ -2,7 +2,7 @@
 
 # 💻 Software engineering internships
 
-All 1,999 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
+All 2,000 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
 
 Page 2 of 3: [1](software.md) · **2** · [3](software-3.md)
 
@@ -10,6 +10,7 @@ Page 2 of 3: [1](software.md) · **2** · [3](software-3.md)
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=gdmissionsystems.com" width="20" height="20" align="absmiddle">&nbsp; **General Dynamics Mission Systems** | SW Engineering Intern (Cwl Summer 2027) 🛂 | Manassas,&nbsp;VA<br><sub>$27.50/hr</sub> | Oct&nbsp;5 | <a href="https://careers-gdms.icims.com/jobs/75346/sw-engineering-intern-%28cwl-summer-2027%29/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=tesla.com" width="20" height="20" align="absmiddle">&nbsp; **Tesla** | Embedded Software Engineer Intern - Thermal Systems 🔥 | Palo&nbsp;Alto,&nbsp;CA<br><sub>-</sub> | Oct&nbsp;5 | <a href="https://www.tesla.com/careers/search/job/285797"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=found-industries.com" width="20" height="20" align="absmiddle">&nbsp; **Found&nbsp;Industries** | Data Engineer Co-op | Cambridge,&nbsp;MA<br><sub>-</sub> | Oct&nbsp;5<br><sub>⚡&nbsp;37m</sub> | <a href="https://job-boards.greenhouse.io/foundenergy/jobs/4719227006"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=garmin.com" width="20" height="20" align="absmiddle">&nbsp; **Garmin** | Software Engineer Intern | Manhattan,&nbsp;KS<br><sub>-</sub> | Oct&nbsp;5 | <a href="https://careers.garmin.com/jobs/20177?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -989,7 +990,6 @@ Page 2 of 3: [1](software.md) · **2** · [3](software-3.md)
 | <img src="https://boardsweep.io/api/logo?domain=tiktok.com" width="20" height="20" align="absmiddle">&nbsp; **TikTok** | AI Software Engineer Intern - Transaction Platform 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$45–&#8288;$60/hr</sub> | Jun&nbsp;9 | <a href="https://lifeattiktok.com/search/7646621925436131637"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=tesla.com" width="20" height="20" align="absmiddle">&nbsp; **Tesla** | Physics Engine Development Intern - Physics Engine Development Engineer - Optimus 🔥 | Palo&nbsp;Alto,&nbsp;CA<br><sub>-</sub> | Jun&nbsp;7 | <a href="https://www.tesla.com/careers/search/job/257048"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=clarity-innovations.com" width="20" height="20" align="absmiddle">&nbsp; **Clarity Innovations** | Junior Software Engineer Intern 🛂 | Reston,&nbsp;VA<br><sub>-</sub> | Jun&nbsp;5 | <a href="https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=instead.com" width="20" height="20" align="absmiddle">&nbsp; **Instead** | Software Engineer Intern | SF<br><sub>-</sub> | Jun&nbsp;3 | <a href="https://job-boards.greenhouse.io/instead/jobs/7761472003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 [1](software.md) · **2** · [3](software-3.md)
 

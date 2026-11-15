@@ -1,5 +1,21 @@
 [
  {
+  "company": "Zoox",
+  "title": "Feature Integration Intern [Summer 2027]",
+  "location": "Foster City, CA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.lever.co/zoox/2e4e91c3-f127-4c5b-9291-b93b8a340a2f",
+  "date_posted": "2026-11-14T01:16:04.474000+00:00",
+  "date_found": "2026-11-14T02:40:23.695000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Bloom Energy",
   "title": "Engineering Intern",
   "location": "San Jose, CA",
@@ -1967,6 +1983,22 @@
   "date_found": "2026-11-13T00:34:22.782000+00:00",
   "top_company": false,
   "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Zoox",
+  "title": "Industrial Design Intern [Summer 2027]",
+  "location": "Foster City, CA",
+  "pay": null,
+  "tracks": [
+   "design"
+  ],
+  "url": "https://jobs.lever.co/zoox/23867c45-d2df-4f87-86ff-244c864614cd",
+  "date_posted": "2026-11-13T00:09:39.265000+00:00",
+  "date_found": "2026-11-14T02:52:21.848000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
