@@ -2,12 +2,13 @@
 
 # 📱 Product internships
 
-All 321 open product internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_product), or [get them by email, free](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_product).
+All 322 open product internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_product), or [get them by email, free](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_product).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=sas.com" width="20" height="20" align="absmiddle">&nbsp; **SAS** | Summer 2027 IOT Product Strategy Intern | Cary,&nbsp;NC<br><sub>$15–&#8288;$30/hr</sub> | Nov&nbsp;14 | <a href="https://careers-sas.icims.com/jobs/43309/summer-2027---iot-product-strategy-intern/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=kochind.com" width="20" height="20" align="absmiddle">&nbsp; **Koch&nbsp;Industries** | Product Management Intern - Aerospace &amp; Defense Solutions | Georgetown,&nbsp;TX<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://koch.avature.net/en_US/careers/JobDetail/197821"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=fieldpulse.com" width="20" height="20" align="absmiddle">&nbsp; **FieldPulse** | Product Intern | Dallas,&nbsp;TX<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://ats.rippling.com/fieldpulse/jobs/c62a858b-8eea-47e8-b481-07b9363d509f"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=servicenow.com" width="20" height="20" align="absmiddle">&nbsp; **ServiceNow** | Sr Outbound Product Manager Intern (MBA Summer 2027) 🔥 | San&nbsp;Diego<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://jobs.smartrecruiters.com/ServiceNow/744000161590090"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

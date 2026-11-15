@@ -2,12 +2,13 @@
 
 # 📈 Quant internships
 
-All 183 open quant internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_quant), or [get them by email, free](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_quant).
+All 184 open quant internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_quant), or [get them by email, free](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_quant).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=rocketmortgage.com" width="20" height="20" align="absmiddle">&nbsp; **Rocket&nbsp;Mortgage** | Trade Desk Intern - Summer 2027 ✨ | Detroit,&nbsp;MI<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Trade-Desk-Intern---Summer-2027_R-084782"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=astrazeneca.com" width="20" height="20" align="absmiddle">&nbsp; **AstraZeneca** | Summer 2027 Quantitative Intern PhD ✨ 🎓 | US - Boston -, MA<br><sub>$48/hr</sub> | Nov&nbsp;12 | <a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Boston---MA/Summer-2027-Quantitative-Intern-PhD_R-264278"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Summer 2027 Quantitative Intern PhD ✨ 🎓 | US - Boston -, MA<br><sub>$48/hr</sub> | Nov&nbsp;12 | <a href="https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/US---Boston---MA/Summer-2027-Quantitative-Intern-PhD_R-264278-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | **Castleton Commodities International** | Commodities Trading Summer Analyst Intern | 2&nbsp;locations<br><sub>-</sub> | Nov&nbsp;12 | <a href="https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford/Commodities-Trading-Summer-Analyst-Internship-Program--Summer-2028-Internship-_R1417"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

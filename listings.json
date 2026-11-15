@@ -64,6 +64,38 @@
   "advanced_degree": false
  },
  {
+  "company": "SAS",
+  "title": "Summer 2027 IOT Product Strategy Intern",
+  "location": "Cary, NC",
+  "pay": "$15–$30/hr",
+  "tracks": [
+   "product"
+  ],
+  "url": "https://careers-sas.icims.com/jobs/43309/summer-2027---iot-product-strategy-intern/job",
+  "date_posted": "2026-11-14T00:00:00+00:00",
+  "date_found": "2026-11-14T17:56:49.368000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "SAS",
+  "title": "Summer 2027 Software Developer Intern (Go Golang Experience)",
+  "location": "Cary, NC",
+  "pay": "$15–$30/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://careers-sas.icims.com/jobs/42797/summer-2027---software-developer-intern-%28go-golang-experience%29/job",
+  "date_posted": "2026-11-14T00:00:00+00:00",
+  "date_found": "2026-11-14T13:49:19.682000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Amazon",
   "title": "Data Center Infrastructure Engineer Intern, Summer 2027 - East",
   "location": "Herndon, VA",
@@ -609,23 +641,6 @@
   "date_found": "2026-11-13T22:58:44.959000+00:00",
   "top_company": false,
   "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Carnegie Mellon University",
-  "title": "Cyber AI Engineering Intern (Spring 2027)",
-  "location": "Pittsburgh, PA",
-  "pay": null,
-  "tracks": [
-   "security",
-   "aiml"
-  ],
-  "url": "https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-1",
-  "date_posted": "2026-11-13T22:50:50.773000+00:00",
-  "date_found": "2026-11-13T22:58:44.959000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -1566,6 +1581,102 @@
   "advanced_degree": false
  },
  {
+  "company": "Rocket Mortgage",
+  "title": "Financial Systems Intern - Summer 2027",
+  "location": "Detroit, MI",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Financial-Systems-Intern---Summer-2027_R-084978",
+  "date_posted": "2026-11-13T16:52:03.162000+00:00",
+  "date_found": "2026-11-14T16:54:45.675000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Rocket Mortgage",
+  "title": "Technology Risk Assurance Intern - Summer 2027",
+  "location": "Detroit, MI",
+  "pay": null,
+  "tracks": [
+   "security"
+  ],
+  "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Technology-Risk-Assurance-Intern---Summer-2027_R-084815",
+  "date_posted": "2026-11-13T16:52:03.161000+00:00",
+  "date_found": "2026-11-14T16:54:45.675000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Rocket Mortgage",
+  "title": "Digital Strategy & Creator Intern - Summer 2027",
+  "location": "Detroit, MI",
+  "pay": null,
+  "tracks": [
+   "design"
+  ],
+  "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Digital-Strategy---Creator-Intern---Summer-2027_R-085131",
+  "date_posted": "2026-11-13T16:52:03.161000+00:00",
+  "date_found": "2026-11-14T16:54:45.675000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Rocket Mortgage",
+  "title": "Graphic Design Intern - 3 Consecutive Terms (Winter, Summer and Fall 2027)",
+  "location": "Detroit, MI",
+  "pay": null,
+  "tracks": [
+   "design"
+  ],
+  "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Graphic-Design-Intern---3-Consecutive-Terms--Winter--Summer-and-Fall-2027-_R-085249-1",
+  "date_posted": "2026-11-13T16:52:00.465000+00:00",
+  "date_found": "2026-11-14T16:54:45.675000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Rocket Mortgage",
+  "title": "Trade Desk Intern - Summer 2027",
+  "location": "Detroit, MI",
+  "pay": null,
+  "tracks": [
+   "quant"
+  ],
+  "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Trade-Desk-Intern---Summer-2027_R-084782",
+  "date_posted": "2026-11-13T16:52:00.465000+00:00",
+  "date_found": "2026-11-14T16:54:45.675000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Rocket Mortgage",
+  "title": "Instructional Design Intern - Summer 2027",
+  "location": "Detroit, MI",
+  "pay": null,
+  "tracks": [
+   "design"
+  ],
+  "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Instructional-Design-Intern---Summer-2027_R-084817",
+  "date_posted": "2026-11-13T16:52:00.465000+00:00",
+  "date_found": "2026-11-14T16:54:45.675000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Leidos",
   "title": "Chief Engineer Intern",
   "location": "6314 Remote/Teleworker US",
@@ -2257,6 +2368,23 @@
   "date_found": "2026-11-13T22:58:44.959000+00:00",
   "top_company": false,
   "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Carnegie Mellon University",
+  "title": "Cyber AI Engineering Intern (Spring 2027)",
+  "location": "Pittsburgh, PA",
+  "pay": null,
+  "tracks": [
+   "security",
+   "aiml"
+  ],
+  "url": "https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-1",
+  "date_posted": "2026-11-13T00:00:00+00:00",
+  "date_found": "2026-11-13T22:58:44.959000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -4599,7 +4727,7 @@
    "aiml"
   ],
   "url": "https://jobs.lever.co/zoox/79cd1de5-c540-4917-8820-960f65fb8f9e",
-  "date_posted": "2026-11-12T00:07:08.573000+00:00",
+  "date_posted": "2026-11-12T00:00:00+00:00",
   "date_found": "2026-11-13T17:50:05.593063+00:00",
   "top_company": true,
   "no_sponsorship": false,
@@ -11535,23 +11663,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Carnegie Mellon University",
-  "title": "Advanced Computing Lab Intern  (Summer 2027)",
-  "location": "Pittsburgh, PA",
-  "pay": null,
-  "tracks": [
-   "aiml",
-   "hardware"
-  ],
-  "url": "https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Advanced-Computing-Lab-Intern---Summer-2027-_2025336",
-  "date_posted": "2026-11-09T20:54:27.578000+00:00",
-  "date_found": "2026-11-09T21:04:45.936000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "AECOM",
   "title": "Engineering Intern",
   "location": "New York",
@@ -13717,6 +13828,23 @@
   "advanced_degree": false
  },
  {
+  "company": "Carnegie Mellon University",
+  "title": "Advanced Computing Lab Intern  (Summer 2027)",
+  "location": "Pittsburgh, PA",
+  "pay": null,
+  "tracks": [
+   "aiml",
+   "hardware"
+  ],
+  "url": "https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Advanced-Computing-Lab-Intern---Summer-2027-_2025336",
+  "date_posted": "2026-11-09T00:00:00+00:00",
+  "date_found": "2026-11-09T21:04:45.936000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "CWILL",
   "title": "Order Tracking R&D Trainee - Backend Engineer (Go / PHP) - Bilingual Mandarin",
   "location": "cary, NC",
@@ -14127,70 +14255,6 @@
   "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Summer-Intern---DA-eCommerce--B2B---Parts-Strategy-_R121992",
   "date_posted": "2026-11-08T00:00:00+00:00",
   "date_found": "2026-11-09T04:59:31.090000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Shure",
-  "title": "Electrical Engineering Intern (RF Circuitry)",
-  "location": "",
-  "pay": "$23–$43/hr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://careersus-shure.icims.com/jobs/4984/electrical-engineering-intern-%28rf-circuitry%29/job",
-  "date_posted": null,
-  "date_found": "2026-11-07T15:59:22.400000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Shure",
-  "title": "Cloud Devops Engineer Intern",
-  "location": "",
-  "pay": "$23–$43/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://careersus-shure.icims.com/jobs/4975/cloud-devops-engineer-intern/job",
-  "date_posted": null,
-  "date_found": "2026-11-07T15:59:22.400000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Shure",
-  "title": "Corporate Quality Engineering Intern",
-  "location": "",
-  "pay": "$23–$43/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://careersus-shure.icims.com/jobs/4978/corporate-quality-engineering-intern/job",
-  "date_posted": null,
-  "date_found": "2026-11-07T15:59:22.400000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "SAS",
-  "title": "Summer 2027 Technical Support Intern",
-  "location": "",
-  "pay": "$15–$30/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://careers-sas.icims.com/jobs/46696/summer-2027---technical-support-intern/job",
-  "date_posted": null,
-  "date_found": "2026-11-07T13:59:39.048000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -43409,23 +43473,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Waymo",
-  "title": "2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern",
-  "location": "Mountain View, CA",
-  "pay": "$70/hr",
-  "tracks": [
-   "aiml",
-   "software"
-  ],
-  "url": "https://careers.withwaymo.com/jobs?gh_jid=8248060",
-  "date_posted": "2026-10-01T22:30:20+00:00",
-  "date_found": "2026-10-01T22:34:09.691000+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": true
- },
- {
   "company": "Intuit",
   "title": "Summer 2027: Business Data Analyst Intern, Strategy &amp; Planning",
   "location": "Mountain View, CA",
@@ -62033,22 +62080,6 @@
   "url": "https://www.tesla.com/careers/search/job/282342",
   "date_posted": null,
   "date_found": "2026-09-03T22:11:14+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Waymo",
-  "title": "Software Engineering Intern - Behavior Test - MS",
-  "location": "SF",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504",
-  "date_posted": null,
-  "date_found": "2026-09-03T22:04:27+00:00",
   "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -82426,22 +82457,6 @@
   "date_posted": "2025-09-30T19:43:48+00:00",
   "date_found": "2026-09-27T13:50:10.730974+00:00",
   "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Vatic Labs",
-  "title": "AI Research Internship (Summer 2027)",
-  "location": "New York",
-  "pay": "$3,000–$4,500/wk",
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://job-boards.greenhouse.io/vaticlabs/jobs/7205954",
-  "date_posted": "2025-09-04T14:48:42+00:00",
-  "date_found": "2026-11-03T19:43:49.253000+00:00",
-  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false

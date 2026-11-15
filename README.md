@@ -3,11 +3,11 @@
 
 <a href="https://boardsweep.io/internships?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=cta_email"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cta-email-dark.png"><img src="assets/cta-email-light.png" height="44" alt="Get the free digest"></picture></a>&nbsp;&nbsp;<a href="https://boardsweep.io/#pricing?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=cta_instant"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cta-instant-dark.png"><img src="assets/cta-instant-light.png" height="44" alt="Instant alerts, 7 days free"></picture></a>
 
-<img src="assets/stats.svg" width="100%" alt="15 new in the last 24 hours, 5165 open">
+<img src="assets/stats.svg" width="100%" alt="16 new in the last 24 hours, 5166 open">
 </div>
 
 > [!TIP]
-> **This list runs a day behind.** The 15 internships we found in the last 24 hours are already in subscribers' inboxes, and appear here tomorrow. [Get a free daily email](https://boardsweep.io/internships?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=tip_email), or [get each one the minute the company posts it](https://boardsweep.io/#pricing?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=tip_instant) with the season pass (7 days free).
+> **This list runs a day behind.** The 16 internships we found in the last 24 hours are already in subscribers' inboxes, and appear here tomorrow. [Get a free daily email](https://boardsweep.io/internships?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=tip_email), or [get each one the minute the company posts it](https://boardsweep.io/#pricing?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=tip_instant) with the season pass (7 days free).
 
 <br>
 
@@ -15,13 +15,13 @@
 
 | Field | Open now | New this week | |
 | --- | ---: | ---: | --- |
-| 💻 **[Software engineering](fields/software.md)** | 1,979 | 292 | [Email me these, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_software) |
-| 🤖 **[AI, ML and data](fields/aiml.md)** | 1,580 | 205 | [Email me these, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_aiml) |
-| 📈 **[Quant](fields/quant.md)** | 183 | 8 | [Email me these, free](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_quant) |
-| 🔧 **[Hardware](fields/hardware.md)** | 953 | 220 | [Email me these, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_hardware) |
-| 📱 **[Product](fields/product.md)** | 321 | 61 | [Email me these, free](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_product) |
-| 🎨 **[Design](fields/design.md)** | 59 | 40 | [Email me these, free](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_design) |
-| 🛡️ **[Security](fields/security.md)** | 62 | 46 | [Email me these, free](https://boardsweep.io/internships/security?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_security) |
+| 💻 **[Software engineering](fields/software.md)** | 1,977 | 294 | [Email me these, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_software) |
+| 🤖 **[AI, ML and data](fields/aiml.md)** | 1,578 | 205 | [Email me these, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_aiml) |
+| 📈 **[Quant](fields/quant.md)** | 184 | 9 | [Email me these, free](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_quant) |
+| 🔧 **[Hardware](fields/hardware.md)** | 952 | 220 | [Email me these, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_hardware) |
+| 📱 **[Product](fields/product.md)** | 322 | 62 | [Email me these, free](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_product) |
+| 🎨 **[Design](fields/design.md)** | 62 | 43 | [Email me these, free](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_design) |
+| 🛡️ **[Security](fields/security.md)** | 63 | 47 | [Email me these, free](https://boardsweep.io/internships/security?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=browse_security) |
 
 <br>
 
@@ -31,11 +31,12 @@
 
 ## Software engineering
 
-<sub>This week's 292 of 1,979. <a href="fields/software.md">See all 1,979 (3 pages)</a> · <a href="https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=track_software">Get only software engineering internships by email, free</a></sub>
+<sub>This week's 294 of 1,977. <a href="fields/software.md">See all 1,977 (3 pages)</a> · <a href="https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=track_software">Get only software engineering internships by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
 | <img src="https://boardsweep.io/api/logo?domain=zoox.com" width="20" height="20" align="absmiddle">&nbsp; **Zoox** | Feature Integration Intern [Summer 2027] 🔥 ✨ | Foster&nbsp;City,&nbsp;CA<br><sub>-</sub> | Nov&nbsp;14 | <a href="https://jobs.lever.co/zoox/2e4e91c3-f127-4c5b-9291-b93b8a340a2f"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=sas.com" width="20" height="20" align="absmiddle">&nbsp; **SAS** | Summer 2027 Software Developer Intern (Go Golang Experience) | Cary,&nbsp;NC<br><sub>$15–&#8288;$30/hr</sub> | Nov&nbsp;14 | <a href="https://careers-sas.icims.com/jobs/42797/summer-2027---software-developer-intern-%28go-golang-experience%29/job"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=amazon.com" width="20" height="20" align="absmiddle">&nbsp; **Amazon** | Data Center Infrastructure Engineer Intern, Summer 2027 - East 🔥 ✨ | Herndon,&nbsp;VA<br><sub>-</sub> | Nov&nbsp;14 | <a href="https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast 🔥 ✨ | Umatilla,&nbsp;OR<br><sub>-</sub> | Nov&nbsp;14 | <a href="https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=idemia.com" width="20" height="20" align="absmiddle">&nbsp; **Idemia** | Software Engineering Internship Enrollment And Credentialing Services ✨ | -<br><sub>$25/hr</sub> | Nov&nbsp;13 | <a href="https://uscareers-idemia.icims.com/jobs/8642/software-engineering-internship---enrollment-and-credentialing-services/job"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -62,6 +63,7 @@
 | ↳ | Flight Guidance Intern (Summer 2027) ✨ | Mountain View, CA<br><sub>$128k/yr</sub> | Nov&nbsp;13 | <a href="https://jobs.ashbyhq.com/reliable-robotics/3df94176-256f-49be-af9a-c9a8d1d1f5e4"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Flight Navigation Intern (Summer 2027) ✨ | Mountain View, CA<br><sub>$128k/yr</sub> | Nov&nbsp;13 | <a href="https://jobs.ashbyhq.com/reliable-robotics/abe9c754-1559-471f-b472-4c1be9ba6c2f"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=trccompanies.com" width="20" height="20" align="absmiddle">&nbsp; **TRC&nbsp;Companies** | Substation Engineering Intern ✨ | Irvine,&nbsp;CA<br><sub>$20–&#8288;$28/hr</sub> | Nov&nbsp;13 | <a href="https://careers.trccompanies.com/jobs/28962"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=rocketmortgage.com" width="20" height="20" align="absmiddle">&nbsp; **Rocket&nbsp;Mortgage** | Financial Systems Intern - Summer 2027 ✨ | Detroit,&nbsp;MI<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Financial-Systems-Intern---Summer-2027_R-084978"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=leidos.com" width="20" height="20" align="absmiddle">&nbsp; **Leidos** | Chief Engineer Intern ✨ 🛂 | 6314 Remote/Teleworker<br><sub>$48,100–&#8288;$86,950/yr</sub> | Nov&nbsp;13 | <a href="https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Chief-Engineer-Intern_R-00196859"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=olsson.com" width="20" height="20" align="absmiddle">&nbsp; **Olsson** | Engineering Internship - Building Automation Systems ✨ | Omaha,&nbsp;NE<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://job-boards.greenhouse.io/olsson/jobs/5399497008"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=shield.ai" width="20" height="20" align="absmiddle">&nbsp; **Shield&nbsp;AI** | 2027 Summer Intern - Future Concepts - 6539 🔥 ✨ | Washington,&nbsp;D.C.<br><sub>$35–&#8288;$97/hr</sub> | Nov&nbsp;13<br><sub>⚡&nbsp;4m</sub> | <a href="https://jobs.lever.co/shieldai/cf89556f-a5ea-4a3a-81c7-944890f76ade"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -332,7 +334,7 @@
 
 ## AI, ML and data
 
-<sub>This week's 205 of 1,580. <a href="fields/aiml.md">See all 1,580 (2 pages)</a> · <a href="https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=track_aiml">Get only ai, ml and data internships by email, free</a></sub>
+<sub>This week's 205 of 1,578. <a href="fields/aiml.md">See all 1,578 (2 pages)</a> · <a href="https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=track_aiml">Get only ai, ml and data internships by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
@@ -498,7 +500,6 @@
 | <img src="https://boardsweep.io/api/logo?domain=dow.com" width="20" height="20" align="absmiddle">&nbsp; **Dow Chemical Company** | Local College Co-op: Analytical Science Lab Assistant ✨ | Midland<br><sub>-</sub> | Nov&nbsp;9 | <a href="https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/Local-College-Co-op--Analytical-Science-Lab-Assistant_R2069648"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=maxinsights.ai" width="20" height="20" align="absmiddle">&nbsp; **Maxinsights** | Machine Learning Engineer Intern - Video Foundation Models &amp; Agentic AI | Santa&nbsp;Clara<br><sub>-</sub> | Nov&nbsp;9<br><sub>⚡&nbsp;43m</sub> | <a href="https://jobs.ashbyhq.com/maxinsights/5c921b00-e1eb-47d1-8a1b-ca50e5ac926d"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=microsoft.com" width="20" height="20" align="absmiddle">&nbsp; **Microsoft** | Research Intern - Next-Generation AI Agents 🔥 | Redmond,&nbsp;WA<br><sub>-</sub> | Nov&nbsp;9 | <a href="https://apply.careers.microsoft.com/careers/job/1970393557070079"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=cmu.edu" width="20" height="20" align="absmiddle">&nbsp; **Carnegie Mellon University** | Advanced Computing Lab Intern  (Summer 2027) ✨ 🛂 | Pittsburgh,&nbsp;PA<br><sub>-</sub> | Nov&nbsp;9 | <a href="https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Advanced-Computing-Lab-Intern---Summer-2027-_2025336"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=meta.com" width="20" height="20" align="absmiddle">&nbsp; **Meta** | Research Scientist Intern, Computational Photography &amp; Computer Vision (PhD) 🔥 🎓 | Redmond,&nbsp;WA<br><sub>-</sub> | Nov&nbsp;9 | <a href="https://www.metacareers.com/jobs/1670489511324528"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=kla.com" width="20" height="20" align="absmiddle">&nbsp; **KLA** | Advanced Algorithm Intern | Milpitas,&nbsp;CA<br><sub>$58/hr</sub> | Nov&nbsp;9 | <a href="https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Advanced-Algorithm-Intern_2641569"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Advanced Algorithm Intern | Milpitas,&nbsp;CA<br><sub>$58/hr</sub> | Nov&nbsp;9 | <a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Advanced-Algorithm-Intern_2641569-1"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -532,6 +533,7 @@
 | <img src="https://boardsweep.io/api/logo?domain=greatamericaninsurancegroup.com" width="20" height="20" align="absmiddle">&nbsp; **Great American Insurance Company** | Telematics Intern / Predictive Analytics Intern - Summer 2027 🛂 | Cincinnati,&nbsp;OH<br><sub>-</sub> | Nov&nbsp;9 | <a href="https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Telematics-Intern---Predictive-Analytics-Intern---Summer-2027_R9868"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=federalreserve.gov" width="20" height="20" align="absmiddle">&nbsp; **Federal Reserve System** | Summer 2027 Graduate Internship – Data Science 🎓 | 2&nbsp;Locations<br><sub>$27/hr</sub> | Nov&nbsp;9 | <a href="https://rb.wd5.myworkdayjobs.com/FRS/job/Minneapolis-MN/Summer-2027-Graduate-Internship---Data-Science_R-0000034056-1"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=cmu.edu" width="20" height="20" align="absmiddle">&nbsp; **Carnegie Mellon University** | Advanced Computing Lab Intern  (Summer 2027) 🛂 | Pittsburgh,&nbsp;PA<br><sub>-</sub> | Nov&nbsp;9 | <a href="https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Advanced-Computing-Lab-Intern---Summer-2027-_2025336-1"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Advanced Computing Lab Intern  (Summer 2027) ✨ 🛂 | Pittsburgh,&nbsp;PA<br><sub>-</sub> | Nov&nbsp;9 | <a href="https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Advanced-Computing-Lab-Intern---Summer-2027-_2025336"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=astrazeneca.com" width="20" height="20" align="absmiddle">&nbsp; **AstraZeneca** | Network Planning &amp; Data Analytics Intern 🎓 | US – Tarzana – CA<br><sub>$41.50–&#8288;$50/hr</sub> | Nov&nbsp;9 | <a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US--Tarzana--CA/Network-Planning---Data-Analytics-Intern_R-263845"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | **CSAA Insurance Group** | Advanced Analysis Intern 🛂 | Arizona - Home Teleworkers<br><sub>$29.50/hr</sub> | Nov&nbsp;9 | <a href="https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/Advanced-Analysis-Intern_R8005-1"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=fortrea.com" width="20" height="20" align="absmiddle">&nbsp; **Fortrea** | AIML Rapid Development Studio Internship | Durham<br><sub>$21/hr</sub> | Nov&nbsp;9 | <a href="https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Durham/AIML-Rapid-Development-Studio-Internship_266655"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -546,10 +548,11 @@
 
 ## Quant
 
-<sub>This week's 8 of 183. <a href="fields/quant.md">See all 183</a> · <a href="https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=track_quant">Get only quant internships by email, free</a></sub>
+<sub>This week's 9 of 184. <a href="fields/quant.md">See all 184</a> · <a href="https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=track_quant">Get only quant internships by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=rocketmortgage.com" width="20" height="20" align="absmiddle">&nbsp; **Rocket&nbsp;Mortgage** | Trade Desk Intern - Summer 2027 ✨ | Detroit,&nbsp;MI<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Trade-Desk-Intern---Summer-2027_R-084782"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=astrazeneca.com" width="20" height="20" align="absmiddle">&nbsp; **AstraZeneca** | Summer 2027 Quantitative Intern PhD ✨ 🎓 | US - Boston -, MA<br><sub>$48/hr</sub> | Nov&nbsp;12 | <a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Boston---MA/Summer-2027-Quantitative-Intern-PhD_R-264278"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Summer 2027 Quantitative Intern PhD ✨ 🎓 | US - Boston -, MA<br><sub>$48/hr</sub> | Nov&nbsp;12 | <a href="https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/US---Boston---MA/Summer-2027-Quantitative-Intern-PhD_R-264278-1"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | **Castleton Commodities International** | Commodities Trading Summer Analyst Intern | 2&nbsp;locations<br><sub>-</sub> | Nov&nbsp;12 | <a href="https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford/Commodities-Trading-Summer-Analyst-Internship-Program--Summer-2028-Internship-_R1417"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -563,7 +566,7 @@
 
 ## Hardware
 
-<sub>This week's 220 of 953. <a href="fields/hardware.md">See all 953 (2 pages)</a> · <a href="https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=track_hardware">Get only hardware internships by email, free</a></sub>
+<sub>This week's 220 of 952. <a href="fields/hardware.md">See all 952 (2 pages)</a> · <a href="https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=track_hardware">Get only hardware internships by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
@@ -792,10 +795,11 @@
 
 ## Product
 
-<sub>This week's 61 of 321. <a href="fields/product.md">See all 321</a> · <a href="https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=track_product">Get only product internships by email, free</a></sub>
+<sub>This week's 62 of 322. <a href="fields/product.md">See all 322</a> · <a href="https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=track_product">Get only product internships by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=sas.com" width="20" height="20" align="absmiddle">&nbsp; **SAS** | Summer 2027 IOT Product Strategy Intern | Cary,&nbsp;NC<br><sub>$15–&#8288;$30/hr</sub> | Nov&nbsp;14 | <a href="https://careers-sas.icims.com/jobs/43309/summer-2027---iot-product-strategy-intern/job"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=kochind.com" width="20" height="20" align="absmiddle">&nbsp; **Koch&nbsp;Industries** | Product Management Intern - Aerospace &amp; Defense Solutions | Georgetown,&nbsp;TX<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://koch.avature.net/en_US/careers/JobDetail/197821"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=fieldpulse.com" width="20" height="20" align="absmiddle">&nbsp; **FieldPulse** | Product Intern | Dallas,&nbsp;TX<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://ats.rippling.com/fieldpulse/jobs/c62a858b-8eea-47e8-b481-07b9363d509f"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=servicenow.com" width="20" height="20" align="absmiddle">&nbsp; **ServiceNow** | Sr Outbound Product Manager Intern (MBA Summer 2027) 🔥 | San&nbsp;Diego<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://jobs.smartrecruiters.com/ServiceNow/744000161590090"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -862,7 +866,7 @@
 
 ## Design
 
-<sub>This week's 40 of 59. <a href="fields/design.md">See all 59</a> · <a href="https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=track_design">Get only design internships by email, free</a></sub>
+<sub>This week's 43 of 62. <a href="fields/design.md">See all 62</a> · <a href="https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=track_design">Get only design internships by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
@@ -871,6 +875,9 @@
 | ↳ | NIKE, Inc. Footwear Design Internship ✨ | Beaverton,&nbsp;OR<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Footwear-Design-Internship_R-97436"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=campingworld.com" width="20" height="20" align="absmiddle">&nbsp; **Camping&nbsp;World** | Conversational Design Intern ✨ | Chicago,&nbsp;IL<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Chicago-IL/Conversational-Design-Intern_26_09081"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=iff.com" width="20" height="20" align="absmiddle">&nbsp; **IFF** | Intern, Beverage Design ✨ | Tastepoint South, PA<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://iff.wd5.myworkdayjobs.com/IFF_Careers/job/Tastepoint-South-PA-USA/Intern--Beverage-Design_R23234"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=rocketmortgage.com" width="20" height="20" align="absmiddle">&nbsp; **Rocket&nbsp;Mortgage** | Digital Strategy &amp; Creator Intern - Summer 2027 ✨ | Detroit,&nbsp;MI<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Digital-Strategy---Creator-Intern---Summer-2027_R-085131"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Graphic Design Intern - 3 Consecutive Terms (Winter, Summer and Fall 2027) ✨ | Detroit,&nbsp;MI<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Graphic-Design-Intern---3-Consecutive-Terms--Winter--Summer-and-Fall-2027-_R-085249-1"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Instructional Design Intern - Summer 2027 ✨ | Detroit,&nbsp;MI<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Instructional-Design-Intern---Summer-2027_R-084817"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=pacvue.com" width="20" height="20" align="absmiddle">&nbsp; **Pacvue** | Graphic Design Intern ✨ | US&nbsp;Remote<br><sub>$20/hr</sub> | Nov&nbsp;13<br><sub>⚡&nbsp;8m</sub> | <a href="https://job-boards.greenhouse.io/pacvue/jobs/6261128004"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=zoox.com" width="20" height="20" align="absmiddle">&nbsp; **Zoox** | Industrial Design Intern [Summer 2027] 🔥 ✨ | Foster&nbsp;City,&nbsp;CA<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://jobs.lever.co/zoox/23867c45-d2df-4f87-86ff-244c864614cd"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | **Global Infrastructure** | Intern Engineering Designer, Water ✨ | 3&nbsp;locations<br><sub>-</sub> | Nov&nbsp;12 | <a href="https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--NY--New-York---32-Old-Slip/Intern-Engineering-Designer--Water_6740"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -911,14 +918,13 @@
 
 ## Security
 
-<sub>This week's 46 of 62. <a href="fields/security.md">See all 62</a> · <a href="https://boardsweep.io/internships/security?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=track_security">Get only security internships by email, free</a></sub>
+<sub>This week's 47 of 63. <a href="fields/security.md">See all 63</a> · <a href="https://boardsweep.io/internships/security?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=track_security">Get only security internships by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
 | <img src="https://boardsweep.io/api/logo?domain=servicenow.com" width="20" height="20" align="absmiddle">&nbsp; **ServiceNow** | Security Engineer Intern 🔥 ✨ | Kirkland<br><sub>$58.96/hr</sub> | Nov&nbsp;13 | <a href="https://jobs.smartrecruiters.com/ServiceNow/744000161592679"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=uhy-us.com" width="20" height="20" align="absmiddle">&nbsp; **UHY** | 2027 TRC Fall Internship ✨ | 3&nbsp;Locations<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://uhyus.wd12.myworkdayjobs.com/uhy/job/St-Louis-MO/XMLNAME-2027-TRC-Fall-Internship---St-Louis_JR102117-1"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=cmu.edu" width="20" height="20" align="absmiddle">&nbsp; **Carnegie Mellon University** | Cybersecurity Engineer Intern (Spring 2027) ✨ | Pittsburgh,&nbsp;PA<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Cybersecurity-Engineer-Intern--Spring-2027-_2025347-1"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Cyber AI Engineering Intern (Spring 2027) ✨ 🛂 | Pittsburgh,&nbsp;PA<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-1"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Cybersecurity Engineer Intern (Spring 2027) ✨ | Pittsburgh,&nbsp;PA<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Cybersecurity-Engineer-Intern--Spring-2027-_2025347"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=tapestry.com" width="20" height="20" align="absmiddle">&nbsp; **Tapestry** | Summer IT, Digital &amp; Data Analytics Internship 🛂 | New York, New York<br><sub>$20/hr</sub> | Nov&nbsp;13 | <a href="https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/Summer-IT--Digital---Data-Analytics-Internship_JR20965"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=campingworld.com" width="20" height="20" align="absmiddle">&nbsp; **Camping&nbsp;World** | AI Security Intern ✨ | Chicago,&nbsp;IL<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Chicago-IL/AI-Security-Intern_26_09083"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -927,10 +933,12 @@
 | <img src="https://boardsweep.io/api/logo?domain=servicenow.com" width="20" height="20" align="absmiddle">&nbsp; **ServiceNow** | Information Security Analyst Intern 🔥 ✨ | San&nbsp;Diego<br><sub>$45.79/hr</sub> | Nov&nbsp;13 | <a href="https://jobs.smartrecruiters.com/ServiceNow/744000161550869"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Security Engineering &amp; Automation Intern 🔥 ✨ | Kirkland<br><sub>$58.96/hr</sub> | Nov&nbsp;13 | <a href="https://jobs.smartrecruiters.com/ServiceNow/744000161548528"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | AI Security Engineer Intern 🔥 ✨ | San&nbsp;Diego<br><sub>$62.89/hr</sub> | Nov&nbsp;13 | <a href="https://jobs.smartrecruiters.com/ServiceNow/744000161548289"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=rocketmortgage.com" width="20" height="20" align="absmiddle">&nbsp; **Rocket&nbsp;Mortgage** | Technology Risk Assurance Intern - Summer 2027 ✨ | Detroit,&nbsp;MI<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Technology-Risk-Assurance-Intern---Summer-2027_R-084815"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=trace3.com" width="20" height="20" align="absmiddle">&nbsp; **Trace3** | Security Intern ✨ | Irvine,&nbsp;CA<br><sub>$18–&#8288;$28/hr</sub> | Nov&nbsp;13<br><sub>⚡&nbsp;10m</sub> | <a href="https://job-boards.greenhouse.io/trace3/jobs/8274792"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=statestreet.com" width="20" height="20" align="absmiddle">&nbsp; **State&nbsp;Street** | Cyber Security Operations Center Analyst, Full-time Internship (Jan - June 2027) ✨ | Quincy,&nbsp;MA<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Cyber-Security-Operations-Center-Analyst--Full-time-Internship--Jan---June-2027-_R-801091"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=horizon3.ai" width="20" height="20" align="absmiddle">&nbsp; **Horizon3&nbsp;AI** | Research Intern, Adversarial Intelligence | Chicago,&nbsp;IL<br><sub>$40–&#8288;$50/hr</sub> | Nov&nbsp;13 | <a href="https://jobs.ashbyhq.com/horizon3ai/818f854b-f212-4817-8227-3b9e654d39a2"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=cmu.edu" width="20" height="20" align="absmiddle">&nbsp; **Carnegie Mellon University** | Cyber AI Engineering Intern (Spring 2027) 🛂 | Pittsburgh,&nbsp;PA<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=cmu.edu" width="20" height="20" align="absmiddle">&nbsp; **Carnegie Mellon University** | Cyber AI Engineering Intern (Spring 2027) ✨ 🛂 | Pittsburgh,&nbsp;PA<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-1"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Cyber AI Engineering Intern (Spring 2027) 🛂 | Pittsburgh,&nbsp;PA<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=muonspace.com" width="20" height="20" align="absmiddle">&nbsp; **Muon&nbsp;Space** | Security Engineering Intern (Summer 2027) ✨ | Mountain View, CA<br><sub>$40/hr</sub> | Nov&nbsp;12<br><sub>⚡&nbsp;7m</sub> | <a href="https://job-boards.greenhouse.io/muonspace/jobs/5294028007"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=servicenow.com" width="20" height="20" align="absmiddle">&nbsp; **ServiceNow** | Product Security Intern 🔥 ✨ | San&nbsp;Diego<br><sub>$62.89/hr</sub> | Nov&nbsp;12 | <a href="https://jobs.smartrecruiters.com/ServiceNow/744000161385779"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=massgeneralbrigham.org" width="20" height="20" align="absmiddle">&nbsp; **Mass General Brigham** | Security Co-op ✨ | Boston-MA<br><sub>$17.71–&#8288;$24.28/hr</sub> | Nov&nbsp;12 | <a href="https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Security-Co-op_RQ4086284"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -972,6 +980,6 @@
 
 Also see: [New grad roles](https://github.com/Boardsweep/new-grad-2027) · [Every internship, filterable, on boardsweep.io](https://boardsweep.io/internships?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=footer)
 
-<sub>⚡ is measured from the time the company published the posting, where its job board gives one. Updated Nov 15, 2026 at 13:18 UTC. Not affiliated with any company listed.</sub>
+<sub>⚡ is measured from the time the company published the posting, where its job board gives one. Updated Nov 15, 2026 at 19:09 UTC. Not affiliated with any company listed.</sub>
 
 </div>

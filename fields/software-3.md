@@ -2,7 +2,7 @@
 
 # 💻 Software engineering internships
 
-All 1,979 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
+All 1,977 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
 
 Page 3 of 3: [1](software.md) · [2](software-2.md) · **3**
 
@@ -10,8 +10,6 @@ Page 3 of 3: [1](software.md) · [2](software-2.md) · **3**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=atomicsemi.com" width="20" height="20" align="absmiddle">&nbsp; **Atomic&nbsp;Semi** | Infrastructure Software Engineering Intern 🇺🇸 | 2&nbsp;locations<br><sub>-</sub> | May&nbsp;1 | <a href="https://jobs.ashbyhq.com/atomicsemi/867c67f7-20b5-4726-b9da-85a760d3851e"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=rainmaker.com" width="20" height="20" align="absmiddle">&nbsp; **Make&nbsp;Rain** | Software Engineering Intern | El&nbsp;Segundo,&nbsp;CA<br><sub>-</sub> | May&nbsp;1 | <a href="https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=axiomatic-ai.com" width="20" height="20" align="absmiddle">&nbsp; **Axiomatic&nbsp;AI** | Software Engineering Internship – Platform/DevOps | Boston,&nbsp;MA<br><sub>-</sub> | May&nbsp;1 | <a href="https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4848128101"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Software Engineering Internship – AI/Agentic Systems | Boston,&nbsp;MA<br><sub>-</sub> | May&nbsp;1 | <a href="https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4848121101"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=tencent.com" width="20" height="20" align="absmiddle">&nbsp; **Tencent** | Game Research &amp; Development Intern - Engine Research | Bellevue,&nbsp;WA<br><sub>$28.27–&#8288;$60/hr</sub> | Apr&nbsp;23 | <a href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
