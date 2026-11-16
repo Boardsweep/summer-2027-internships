@@ -2,7 +2,7 @@
 
 # 🔧 Hardware internships
 
-All 952 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
+All 953 open hardware internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware), or [get them by email, free](https://boardsweep.io/internships/hardware?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_hardware).
 
 Page 1 of 2: **1** · [2](hardware-2.md)
 
@@ -10,6 +10,7 @@ Page 1 of 2: **1** · [2](hardware-2.md)
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=eightsleep.com" width="20" height="20" align="absmiddle">&nbsp; **Eight&nbsp;Sleep** | Short-Term Firmware Intern | San&nbsp;Francisco<br><sub>$30–&#8288;$35/hr</sub> | Nov&nbsp;14<br><sub>⚡&nbsp;22m</sub> | <a href="https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=tesla.com" width="20" height="20" align="absmiddle">&nbsp; **Tesla** | Electrical Engineer Intern - High Speed Hardware Design 🔥 | Palo&nbsp;Alto,&nbsp;CA<br><sub>-</sub> | Nov&nbsp;14 | <a href="https://www.tesla.com/careers/search/job/289951"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=bloomenergy.com" width="20" height="20" align="absmiddle">&nbsp; **Bloom&nbsp;Energy** | Engineering Intern ✨ | San&nbsp;Jose,&nbsp;CA<br><sub>-</sub> | Nov&nbsp;14 | <a href="https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Engineering-Intern_JR-25266"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=asml.com" width="20" height="20" align="absmiddle">&nbsp; **ASML** | Internship - Engineer (Defectivity, Materials &amp; Contamination Analysis) ✨ | Wilton,&nbsp;CT<br><sub>$18–&#8288;$48/hr</sub> | Nov&nbsp;14 | <a href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Engineer--Defectivity--Materials---Contamination-Analysis-_J-00357005"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -954,7 +955,6 @@ Page 1 of 2: **1** · [2](hardware-2.md)
 | <img src="https://boardsweep.io/api/logo?domain=microchip.com" width="20" height="20" align="absmiddle">&nbsp; **Microchip Technology** | Intern Technician - Electronics | Carlisle,&nbsp;PA<br><sub>$17–&#8288;$22/hr</sub> | Mar&nbsp;11 | <a href="https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/PA---Mount-Holly-Springs/Intern-Technician--Electronics-_R847-26"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=bio-techne.com" width="20" height="20" align="absmiddle">&nbsp; **Bio-Techne** | Hardware Engineering Intern | San&nbsp;Jose,&nbsp;CA<br><sub>$19.20–&#8288;$26.40/hr</sub> | Feb&nbsp;19 | <a href="https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/San-Jose-CA/Hardware-Engineering-Intern_JR101533"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=neuralink.com" width="20" height="20" align="absmiddle">&nbsp; **Neuralink** | Analog and Mixed-Signal IC Design Engineer Intern 🔥 | South&nbsp;SF<br><sub>$35/hr</sub> | Feb&nbsp;18 | <a href="https://boards.greenhouse.io/neuralink/jobs/7565469003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=etched.com" width="20" height="20" align="absmiddle">&nbsp; **Etched** | Chipsim Intern 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>-</sub> | Feb&nbsp;7 | <a href="https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8/application"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 **1** · [2](hardware-2.md)
 
