@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,579 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,580 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 1 of 2: **1** · [2](aiml-2.md)
 
@@ -10,6 +10,7 @@ Page 1 of 2: **1** · [2](aiml-2.md)
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=northwell.edu" width="20" height="20" align="absmiddle">&nbsp; **Northwell&nbsp;Health** | Emerging Technology &amp; AI Internship ✨ | New Hyde Park, Nassau<br><sub>-</sub> | Nov&nbsp;15 | <a href="https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/203746"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=microsoft.com" width="20" height="20" align="absmiddle">&nbsp; **Microsoft** | Research Intern - Microsoft Research Software-Hardware Co-design 🔥 | Redmond,&nbsp;WA<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://apply.careers.microsoft.com/careers/job/1970393557073455"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Research Intern - AI Coding Agents 🔥 | Redmond,&nbsp;WA<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://apply.careers.microsoft.com/careers/job/1970393557073416"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=gene.com" width="20" height="20" align="absmiddle">&nbsp; **Genentech** | 2027 Summer Intern - Translational Pharmacokinetics &amp; Pharmacodynamics (tPKPD): QSP Modeling in Cardiovascular, Renal and Metabolic Diseases ✨ 🎓 | South San Francisco<br><sub>$52/hr</sub> | Nov&nbsp;13 | <a href="https://roche.wd3.myworkdayjobs.com/rog-a2o-gene/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Translational-Pharmacokinetics---Pharmacodynamics--tPKPD---QSP-Modeling-in-Cardiovascular--Renal-and-Metabolic-Diseases_202611-129010"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -948,7 +949,6 @@ Page 1 of 2: **1** · [2](aiml-2.md)
 | ↳ | 2027 Modeling, Analytics, &amp; Simulation Sciences (MASS) Engineer Intern 🛂 | Beavercreek,&nbsp;OH<br><sub>-</sub> | Sep&nbsp;24 | <a href="https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102440-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | 2027 Modeling, Analytics, &amp; Simulation Sciences (MASS) Engineer Intern 🛂 | Beavercreek,&nbsp;OH<br><sub>-</sub> | Sep&nbsp;24 | <a href="https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102439"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=hayselectrical.com" width="20" height="20" align="absmiddle">&nbsp; **Hays Electrical Services** | Data Analyst Intern - IT / Accounting (Rotational) | Houston,&nbsp;TX<br><sub>-</sub> | Sep&nbsp;23 | <a href="https://hayselectricalservices.applytojob.com/apply/X0z5NLCjcR/Intern-Data-Analyst"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=waymo.com" width="20" height="20" align="absmiddle">&nbsp; **Waymo** | 2027 Summer Intern, MS/PhD, Road Understanding, ML Engineer 🔥 🎓 | Mountain View, CA<br><sub>$85/hr</sub> | Sep&nbsp;23 | <a href="https://careers.withwaymo.com/jobs?gh_jid=8224746"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 **1** · [2](aiml-2.md)
 

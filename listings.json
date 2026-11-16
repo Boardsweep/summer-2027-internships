@@ -1,5 +1,21 @@
 [
  {
+  "company": "Northwell Health",
+  "title": "Emerging Technology & AI Internship",
+  "location": "New Hyde Park, Nassau",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/203746",
+  "date_posted": "2026-11-15T00:00:00+00:00",
+  "date_found": "2026-11-15T05:56:48.720000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Eight Sleep",
   "title": "Short-Term Firmware Intern",
   "location": "San Francisco",
@@ -19638,22 +19654,6 @@
   "url": "https://www.weareroku.com/jobs/8258241?gh_jid=8258241",
   "date_posted": "2026-11-02T06:36:03+00:00",
   "date_found": "2026-11-02T07:04:47.198000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Selective Insurance",
-  "title": "IT Information Management Intern",
-  "location": "Charlotte, NC",
-  "pay": "$25–$28/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jobs.selective.com/jobs/5689?icims=1&lang=en-us",
-  "date_posted": "2026-11-02T05:00:00+00:00",
-  "date_found": "2026-11-10T10:57:58.321000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -44779,22 +44779,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Astranis",
-  "title": "RF Hardware Intern (Summer 2027)",
-  "location": "San Francisco",
-  "pay": "$29/hr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://job-boards.greenhouse.io/astranis/jobs/4708436006",
-  "date_posted": "2026-09-30T22:35:59+00:00",
-  "date_found": "2026-09-30T22:49:34.171000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Base Power",
   "title": "Hardware Reliability & Test Engineering Intern",
   "location": "Austin, TX",
@@ -49640,22 +49624,6 @@
   "date_found": "2026-09-23T17:51:17.864641+00:00",
   "top_company": true,
   "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Astranis",
-  "title": "Electrical Reliability Intern (Winter 2027)",
-  "location": "San Francisco",
-  "pay": "$29/hr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://job-boards.greenhouse.io/astranis/jobs/4704782006",
-  "date_posted": "2026-09-23T06:17:04+00:00",
-  "date_found": "2026-09-23T04:10:52.660000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },

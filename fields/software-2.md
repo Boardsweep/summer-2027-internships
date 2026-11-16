@@ -2,7 +2,7 @@
 
 # 💻 Software engineering internships
 
-All 1,977 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
+All 1,976 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
 
 Page 2 of 3: [1](software.md) · **2** · [3](software-3.md)
 
@@ -10,7 +10,6 @@ Page 2 of 3: [1](software.md) · **2** · [3](software-3.md)
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=expediagroup.com" width="20" height="20" align="absmiddle">&nbsp; **Expedia&nbsp;Group** | Mobile Engineering Intern - 2027 - Austin, San Jose, Seattle | 3&nbsp;Locations<br><sub>$45/hr</sub> | Oct&nbsp;5 | <a href="https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Mobile-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110306"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=gm.com" width="20" height="20" align="absmiddle">&nbsp; **General&nbsp;Motors** | 2027 Summer Intern- ADAS Software Engineer, ADPT 🛂 | 2&nbsp;Locations<br><sub>$8,100–&#8288;$8,700/mo</sub> | Oct&nbsp;5 | <a href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=jainglobal.com" width="20" height="20" align="absmiddle">&nbsp; **Jain&nbsp;Global** | Data Engineer Intern | New&nbsp;York,&nbsp;NY<br><sub>$182k/yr</sub> | Oct&nbsp;5 | <a href="https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=oregonstate.edu" width="20" height="20" align="absmiddle">&nbsp; **Oregon State University** | Student Developer Intern - CASS Software Development Group | 2&nbsp;locations<br><sub>-</sub> | Oct&nbsp;5 | <a href="https://oregonstate.wd501.myworkdayjobs.com/OSU_Careers_Site/job/Corvallis-Main-Campus/Student-Developer---CASS-Software-Development-Group_JR0001296"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -990,6 +989,7 @@ Page 2 of 3: [1](software.md) · **2** · [3](software-3.md)
 | <img src="https://boardsweep.io/api/logo?domain=mechanize.work" width="20" height="20" align="absmiddle">&nbsp; **Mechanize** | Software Engineer Intern | SF<br><sub>-</sub> | May&nbsp;4 | <a href="https://www.mechanize.work/apply/software-engineer/?role=intern"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=atomicsemi.com" width="20" height="20" align="absmiddle">&nbsp; **Atomic&nbsp;Semi** | Infrastructure Software Engineering Intern 🇺🇸 | 2&nbsp;locations<br><sub>-</sub> | May&nbsp;1 | <a href="https://jobs.ashbyhq.com/atomicsemi/867c67f7-20b5-4726-b9da-85a760d3851e"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=rainmaker.com" width="20" height="20" align="absmiddle">&nbsp; **Make&nbsp;Rain** | Software Engineering Intern | El&nbsp;Segundo,&nbsp;CA<br><sub>-</sub> | May&nbsp;1 | <a href="https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=axiomatic-ai.com" width="20" height="20" align="absmiddle">&nbsp; **Axiomatic&nbsp;AI** | Software Engineering Internship – Platform/DevOps | Boston,&nbsp;MA<br><sub>-</sub> | May&nbsp;1 | <a href="https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4848128101"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 [1](software.md) · **2** · [3](software-3.md)
 

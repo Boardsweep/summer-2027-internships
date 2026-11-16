@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,579 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,580 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 2 of 2: [1](aiml.md) · **2**
 
@@ -10,6 +10,7 @@ Page 2 of 2: [1](aiml.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=waymo.com" width="20" height="20" align="absmiddle">&nbsp; **Waymo** | 2027 Summer Intern, MS/PhD, Road Understanding, ML Engineer 🔥 🎓 | Mountain View, CA<br><sub>$85/hr</sub> | Sep&nbsp;23 | <a href="https://careers.withwaymo.com/jobs?gh_jid=8224746"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=clearwateranalytics.com" width="20" height="20" align="absmiddle">&nbsp; **Clearwater Analytics** | Data Management &amp; Reporting Intern | Office - New York<br><sub>-</sub> | Sep&nbsp;23 | <a href="https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Data-Management---Reporting-Intern_R12095"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=brunswick.com" width="20" height="20" align="absmiddle">&nbsp; **Brunswick** | Mercury Marine: Data Analytics Internship | Fond&nbsp;Du&nbsp;Lac,&nbsp;WI<br><sub>$18–&#8288;$27.50/hr</sub> | Sep&nbsp;23 | <a href="https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Data-Analytics-Co-Op_JR-051119"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=se.com" width="20" height="20" align="absmiddle">&nbsp; **Schneider Electric** | Continuous Improvement Intern | Franklin,&nbsp;TN<br><sub>-</sub> | Sep&nbsp;23 | <a href="https://se.jibeapply.com/jobs/135532?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
