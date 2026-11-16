@@ -2,12 +2,14 @@
 
 # 🎨 Design internships
 
-All 62 open design internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design), or [get them by email, free](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design).
+All 64 open design internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design), or [get them by email, free](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=samsara.com" width="20" height="20" align="absmiddle">&nbsp; **Samsara** | Product Design (Mechanical Engineering) Co-Op 🔥 | San Francisco - SF9<br><sub>$35–&#8288;$58/hr</sub> | Nov&nbsp;15<br><sub>⚡&nbsp;3m</sub> | <a href="https://www.samsara.com/company/careers/roles/8214590?gh_jid=8214590"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| **Fanatics Collectibles** | Summer 2027 Internship - Creative &amp; Illustration Intern ✨ | Seattle,&nbsp;WA<br><sub>$27/hr</sub> | Nov&nbsp;15 | <a href="https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507814009"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=nike.com" width="20" height="20" align="absmiddle">&nbsp; **Nike** | NIKE, Inc. Apparel Design Internship ✨ | Beaverton,&nbsp;OR<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Apparel-Design-Internship_R-97433"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | NIKE, Inc. Product Graphics Design Internship ✨ | Beaverton,&nbsp;OR<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Product-Graphics-Design-Internship_R-97437"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | NIKE, Inc. Footwear Design Internship ✨ | Beaverton,&nbsp;OR<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Footwear-Design-Internship_R-97436"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

@@ -1,5 +1,149 @@
 [
  {
+  "company": "Samsara",
+  "title": "Product Design (Mechanical Engineering) Co-Op",
+  "location": "San Francisco - SF9",
+  "pay": "$35–$58/hr",
+  "tracks": [
+   "design"
+  ],
+  "url": "https://www.samsara.com/company/careers/roles/8214590?gh_jid=8214590",
+  "date_posted": "2026-11-15T18:48:56+00:00",
+  "date_found": "2026-11-15T18:52:02.423000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Fanatics Collectibles",
+  "title": "Summer 2027 Internship - Product Management Intern",
+  "location": "Seattle, WA",
+  "pay": "$27/hr",
+  "tracks": [
+   "product"
+  ],
+  "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009",
+  "date_posted": "2026-11-15T13:05:31+00:00",
+  "date_found": "2026-11-15T16:58:09.082000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Fanatics Collectibles",
+  "title": "Summer 2027 Internship - Product Intern",
+  "location": "Coppell, TX",
+  "pay": null,
+  "tracks": [
+   "product"
+  ],
+  "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507757009",
+  "date_posted": "2026-11-15T13:05:18+00:00",
+  "date_found": "2026-11-15T16:58:09.082000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Fanatics Collectibles",
+  "title": "Summer 2027 Internship - Product Intern",
+  "location": "New York, NY",
+  "pay": "$27/hr",
+  "tracks": [
+   "product"
+  ],
+  "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507676009",
+  "date_posted": "2026-11-15T13:05:09+00:00",
+  "date_found": "2026-11-15T16:58:09.082000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Fanatics Collectibles",
+  "title": "Summer 2027 Internship - Manufacturing Planning & Analytics Intern",
+  "location": "Sunnyvale, TX",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507789009",
+  "date_posted": "2026-11-15T13:03:34+00:00",
+  "date_found": "2026-11-15T16:58:09.082000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Fanatics Collectibles",
+  "title": "Summer 2027 Internship - Manufacturing Automation & Controls Intern",
+  "location": "Sunnyvale, TX",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507793009",
+  "date_posted": "2026-11-15T13:03:07+00:00",
+  "date_found": "2026-11-15T16:58:09.082000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Fanatics Collectibles",
+  "title": "Summer 2027 Internship - Creative & Illustration Intern",
+  "location": "Seattle, WA",
+  "pay": "$27/hr",
+  "tracks": [
+   "design"
+  ],
+  "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507814009",
+  "date_posted": "2026-11-15T12:59:12+00:00",
+  "date_found": "2026-11-15T16:58:09.082000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Eight Sleep",
+  "title": "Field Service Engineer (Contract or Intern)",
+  "location": "San Francisco",
+  "pay": "$25–$30/hr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.ashbyhq.com/eightsleep/aeff9ae3-ce36-49ba-916d-d8f07c75997f",
+  "date_posted": "2026-11-15T07:55:57.179000+00:00",
+  "date_found": "2026-11-15T17:56:56.665000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Philips",
+  "title": "Intern – Upstream Product Management (MBA / PhD) – Bedford, MA – Summer 2027",
+  "location": "Bedford, MA",
+  "pay": "$33–$41/hr",
+  "tracks": [
+   "product"
+  ],
+  "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Intern---Upstream-Product-Management--MBA---PhD----Bedford--MA---Summer-2027_593145",
+  "date_posted": "2026-11-15T00:00:00+00:00",
+  "date_found": "2026-11-15T17:56:56.665000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": true
+ },
+ {
   "company": "Northwell Health",
   "title": "Emerging Technology & AI Internship",
   "location": "New Hyde Park, Nassau",
@@ -203,24 +347,6 @@
   "date_posted": null,
   "date_found": "2026-11-13T23:57:12.742000+00:00",
   "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Microsoft",
-  "title": "Research Intern - Microsoft Research Software-Hardware Co-design",
-  "location": "Redmond, WA",
-  "pay": null,
-  "tracks": [
-   "aiml",
-   "software",
-   "hardware"
-  ],
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
-  "date_posted": "2026-11-13T23:47:37+00:00",
-  "date_found": "2026-11-13T23:47:37+00:00",
-  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -1043,6 +1169,24 @@
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": true
+ },
+ {
+  "company": "Microsoft",
+  "title": "Research Intern - Microsoft Research Software-Hardware Co-design",
+  "location": "Redmond, WA",
+  "pay": null,
+  "tracks": [
+   "aiml",
+   "software",
+   "hardware"
+  ],
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
+  "date_posted": "2026-11-13T21:47:16+00:00",
+  "date_found": "2026-11-13T23:47:37+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
  },
  {
   "company": "Lightmatter",
@@ -3953,22 +4097,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Zoox",
-  "title": "Data Scientist Intern [Summer 2027]",
-  "location": "Foster City, CA",
-  "pay": null,
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db",
-  "date_posted": "2026-11-12T20:45:48.041000+00:00",
-  "date_found": "2026-11-13T00:10:49.373000+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "The Aerospace Corporation",
   "title": "2027 Guidance, Navigation, and Control Graduate Intern",
   "location": "El Segundo, CA",
@@ -4904,6 +5032,22 @@
    "security"
   ],
   "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Launch-Intern_R30570",
+  "date_posted": "2026-11-12T00:00:00+00:00",
+  "date_found": "2026-11-13T00:10:49.373000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Zoox",
+  "title": "Data Scientist Intern [Summer 2027]",
+  "location": "Foster City, CA",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db",
   "date_posted": "2026-11-12T00:00:00+00:00",
   "date_found": "2026-11-13T00:10:49.373000+00:00",
   "top_company": true,
@@ -18356,6 +18500,22 @@
   "date_posted": "2026-11-03T01:21:02.667000+00:00",
   "date_found": "2026-11-03T01:22:37.989000+00:00",
   "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Carnegie Mellon University",
+  "title": "Research Assistant - Kenneth C. Griffin School of Computer Science - S3D",
+  "location": "Pittsburgh, PA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---Kenneth-C-Griffin-School-of-Computer-Science---S3D_2025318",
+  "date_posted": "2026-11-03T00:00:00+00:00",
+  "date_found": "2026-11-15T16:58:09.082000+00:00",
+  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -58064,22 +58224,6 @@
   "advanced_degree": false
  },
  {
-  "company": "K2 Space",
-  "title": "Simulation Software Engineering Intern",
-  "location": "LA",
-  "pay": "$30–$40/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008",
-  "date_posted": null,
-  "date_found": "2026-09-09T06:36:50+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "TikTok",
   "title": "Global Customer Experience Business Analytics Intern",
   "location": "San Jose, CA",
@@ -60550,6 +60694,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Schonfeld",
+  "title": "2027 Cybersecurity Operations Intern",
+  "location": "New York, NY",
+  "pay": null,
+  "tracks": [
+   "security"
+  ],
+  "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171696",
+  "date_posted": "2026-09-04T16:42:38+00:00",
+  "date_found": "2026-09-04T16:42:38+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Booz Allen Hamilton",
   "title": "University - 2027 Summer Games Data Scientist Intern - Ft. Walton Beach, FL",
   "location": "Fort Walton Beach, FL",
@@ -62172,22 +62332,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Apex",
-  "title": "Avionics Internship (Spring or Summer 2027)",
-  "location": "Los Angeles",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://jobs.ashbyhq.com/apex-technology-inc/115c16ac-bc17-49f5-ad00-f5a7e6dea07f",
-  "date_posted": "2026-09-02T17:00:42.323000+00:00",
-  "date_found": "2026-09-02T17:00:42.323000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Universal Health Services",
   "title": "Software Engineer Intern - Data Analytics",
   "location": "King of Prussia, PA",
@@ -63121,38 +63265,6 @@
   "advanced_degree": false
  },
  {
-  "company": "K2 Space",
-  "title": "Software Engineer Intern - Summer 2027",
-  "location": "LA",
-  "pay": "$30–$40/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008",
-  "date_posted": null,
-  "date_found": "2026-09-01T06:04:54+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "K2 Space",
-  "title": "Electrical Engineer Intern - Summer 2027",
-  "location": "LA",
-  "pay": "$30–$40/hr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411918008",
-  "date_posted": null,
-  "date_found": "2026-09-01T06:04:43+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Tesla",
   "title": "Software Engineer Intern - Core AI Compiler & Runtime",
   "location": "Palo Alto, CA",
@@ -63180,39 +63292,6 @@
   "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7982398003",
   "date_posted": null,
   "date_found": "2026-09-01T05:09:46+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "K2 Space",
-  "title": "Avionics Systems/Test Engineering Intern – Summer 2027",
-  "location": "Los Angeles, CA",
-  "pay": null,
-  "tracks": [
-   "hardware",
-   "software"
-  ],
-  "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411921008",
-  "date_posted": "2026-09-01T05:08:38+00:00",
-  "date_found": "2026-09-01T05:08:38+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "K2 Space",
-  "title": "GNC Engineering Intern – Summer 2027",
-  "location": "Los Angeles, CA",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411917008",
-  "date_posted": "2026-09-01T05:02:44+00:00",
-  "date_found": "2026-09-01T05:02:44+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -75675,38 +75754,6 @@
   "date_posted": "2026-07-10T22:49:44.530000+00:00",
   "date_found": "2026-07-09T22:11:04+00:00",
   "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Palantir",
-  "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
-  "location": "Palo Alto, CA",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69",
-  "date_posted": "2026-07-10T22:43:13.762000+00:00",
-  "date_found": "2026-07-10T22:43:13.762000+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Palantir",
-  "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
-  "location": "Washington, D.C.",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9",
-  "date_posted": "2026-07-10T22:42:13.024000+00:00",
-  "date_found": "2026-07-10T22:42:13.024000+00:00",
-  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
