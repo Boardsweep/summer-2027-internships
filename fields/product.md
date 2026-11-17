@@ -2,12 +2,13 @@
 
 # 📱 Product internships
 
-All 321 open product internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_product), or [get them by email, free](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_product).
+All 322 open product internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_product), or [get them by email, free](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_product).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=tesla.com" width="20" height="20" align="absmiddle">&nbsp; **Tesla** | Internship, Program Manager, Lifecycle Communications (Winter/Spring 2027) 🔥 | Fremont,&nbsp;CA<br><sub>-</sub> | Nov&nbsp;16 | <a href="https://www.linkedin.com/jobs/view/4491265928"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | **Fanatics Collectibles** | Summer 2027 Internship - Product Management Intern | Seattle,&nbsp;WA<br><sub>$27/hr</sub> | Nov&nbsp;15 | <a href="https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Summer 2027 Internship - Product Intern | Coppell,&nbsp;TX<br><sub>-</sub> | Nov&nbsp;15 | <a href="https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507757009"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Summer 2027 Internship - Product Intern | New&nbsp;York,&nbsp;NY<br><sub>$27/hr</sub> | Nov&nbsp;15 | <a href="https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507676009"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

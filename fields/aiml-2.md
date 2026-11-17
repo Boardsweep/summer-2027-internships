@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,549 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,548 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 2 of 2: [1](aiml.md) · **2**
 
@@ -10,7 +10,6 @@ Page 2 of 2: [1](aiml.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=psu.edu" width="20" height="20" align="absmiddle">&nbsp; **Pennsylvania State University** | Artificial Intelligence &amp; Image Processing Research Assistant Intern | York,&nbsp;PA<br><sub>-</sub> | Sep&nbsp;21 | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-York/Part-Time---Student--Work-Study--Undergraduate----Artificial-Intelligence---Image-Processing-Research-Assistant_REQ_0000082742-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=rivian.com" width="20" height="20" align="absmiddle">&nbsp; **Rivian** | Supply Chain Data, AI and Business Intelligence Co-op Intern | Normal,&nbsp;IL<br><sub>-</sub> | Sep&nbsp;18 | <a href="https://careers.rivian.com/jobs/33800?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=cotiviti.com" width="20" height="20" align="absmiddle">&nbsp; **Cotiviti** | Generative AI Research Engineer Intern | Remote&nbsp;in<br><sub>$32–&#8288;$40/hr</sub> | Sep&nbsp;18 | <a href="https://careers-cotiviti.icims.com/jobs/20183/job?mobile=true&amp;needsRedirect=false"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=waymo.com" width="20" height="20" align="absmiddle">&nbsp; **Waymo** | Product Data Science Intern 🔥 | SF<br><sub>$70/hr</sub> | Sep&nbsp;18 | <a href="https://careers.withwaymo.com/jobs?gh_jid=8199365"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

@@ -2,7 +2,7 @@
 
 # 💻 Software engineering internships
 
-All 1,941 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
+All 1,942 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
 
 Page 2 of 3: [1](software.md) · **2** · [3](software-3.md)
 
@@ -10,6 +10,7 @@ Page 2 of 3: [1](software.md) · **2** · [3](software-3.md)
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=shopback.com" width="20" height="20" align="absmiddle">&nbsp; **ShopBack** | Software Engineer Intern | San Francisco, CA<br><sub>-</sub> | Oct&nbsp;2 | <a href="https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=l3harris.com" width="20" height="20" align="absmiddle">&nbsp; **L3Harris** | Image Processing Engineer Intern | Tulsa, OK, US, 74115<br><sub>-</sub> | Oct&nbsp;2 | <a href="https://jobs.l3harris.com/job/Tulsa-Image-Processing-Engineer-Intern-OK-74115/1412926700/"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=profluent.bio" width="20" height="20" align="absmiddle">&nbsp; **Profluent** | Intern, Software Engineering | Emeryville,&nbsp;CA<br><sub>-</sub> | Oct&nbsp;2<br><sub>⚡&nbsp;9m</sub> | <a href="https://job-boards.greenhouse.io/profluent/jobs/5441955008"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=nelnet.com" width="20" height="20" align="absmiddle">&nbsp; **Nelnet** | Intern - IT Software Engineer .NET (Summer 2027) | Lincoln,&nbsp;NE<br><sub>$21/hr</sub> | Oct&nbsp;2 | <a href="https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -988,7 +989,6 @@ Page 2 of 3: [1](software.md) · **2** · [3](software-3.md)
 | <img src="https://boardsweep.io/api/logo?domain=multiplylabs.com" width="20" height="20" align="absmiddle">&nbsp; **Multiply&nbsp;Labs** | Software Intern | San Francisco, CA<br><sub>-</sub> | Feb&nbsp;24 | <a href="https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Robotics Software Intern | San Francisco, CA<br><sub>-</sub> | Feb&nbsp;24 | <a href="https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=northropgrumman.com" width="20" height="20" align="absmiddle">&nbsp; **Northrop&nbsp;Grumman** | Software Engineer - Cloudworks - Skillbridge 🛂 | Wright-Patterson Afb, OH<br><sub>$79,300–&#8288;$118,900/yr</sub> | Feb&nbsp;17 | <a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Software-Engineer---CLOUDworks--SkillBridge-_R10211395"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=mercor.com" width="20" height="20" align="absmiddle">&nbsp; **Mercor** | Software Engineer Intern | SF<br><sub>-</sub> | Feb&nbsp;13 | <a href="https://jobs.ashbyhq.com/mercor/de3025e5-10ca-4d55-b688-eff0e647ac8d/application"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 [1](software.md) · **2** · [3](software-3.md)
 

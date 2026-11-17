@@ -2,7 +2,7 @@
 
 # 💻 Software engineering internships
 
-All 1,941 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
+All 1,942 open software engineering internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software), or [get them by email, free](https://boardsweep.io/internships/software?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_software).
 
 Page 1 of 3: **1** · [2](software-2.md) · [3](software-3.md)
 
@@ -10,6 +10,7 @@ Page 1 of 3: **1** · [2](software-2.md) · [3](software-3.md)
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=tesla.com" width="20" height="20" align="absmiddle">&nbsp; **Tesla** | Internship, Software Engineer, Build &amp; Simulation Platform (Winter/Spring 2027) 🔥 | Palo&nbsp;Alto,&nbsp;CA<br><sub>-</sub> | Nov&nbsp;16 | <a href="https://www.linkedin.com/jobs/view/4491269711"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=viavisolutions.com" width="20" height="20" align="absmiddle">&nbsp; **Viavi&nbsp;Solutions** | Software Engineering Co-op | Germantown,&nbsp;MD<br><sub>-</sub> | Nov&nbsp;15 | <a href="https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-op_260005308-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=zoox.com" width="20" height="20" align="absmiddle">&nbsp; **Zoox** | Feature Integration Intern [Summer 2027] 🔥 ✨ | Foster&nbsp;City,&nbsp;CA<br><sub>-</sub> | Nov&nbsp;14 | <a href="https://jobs.lever.co/zoox/2e4e91c3-f127-4c5b-9291-b93b8a340a2f"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=sas.com" width="20" height="20" align="absmiddle">&nbsp; **SAS** | Summer 2027 Software Developer Intern (Go Golang Experience) | Cary,&nbsp;NC<br><sub>$15–&#8288;$30/hr</sub> | Nov&nbsp;14 | <a href="https://careers-sas.icims.com/jobs/42797/summer-2027---software-developer-intern-%28go-golang-experience%29/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -954,7 +955,6 @@ Page 1 of 3: **1** · [2](software-2.md) · [3](software-3.md)
 | <img src="https://boardsweep.io/api/logo?domain=ideas.com" width="20" height="20" align="absmiddle">&nbsp; **IDeaS** | Software Developer In Test Intern | - | Oct&nbsp;2 | <a href="https://ideas-sas.icims.com/jobs/42665/software-developer-in-test-intern/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=copart.com" width="20" height="20" align="absmiddle">&nbsp; **Copart** | Software Engineer Intern | Dallas,&nbsp;TX<br><sub>-</sub> | Oct&nbsp;2 | <a href="https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=shopback.com" width="20" height="20" align="absmiddle">&nbsp; **ShopBack** | Software Engineer Intern | New York City, NY<br><sub>-</sub> | Oct&nbsp;2 | <a href="https://jobs.lever.co/shopback-2/e5f5e276-e7f7-43e0-a224-5259d242fe98"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Software Engineer Intern | San Francisco, CA<br><sub>-</sub> | Oct&nbsp;2 | <a href="https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 **1** · [2](software-2.md) · [3](software-3.md)
 

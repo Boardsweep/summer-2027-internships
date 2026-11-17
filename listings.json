@@ -1,5 +1,85 @@
 [
  {
+  "company": "D. E. Shaw",
+  "title": "Quantitative Researcher, Ph.D. Intern (New York) – Summer 2027",
+  "location": "New York",
+  "pay": null,
+  "tracks": [
+   "quant"
+  ],
+  "url": "https://www.deshaw.com/careers/Quantitative-Researcher-Ph-D-Intern-New-York-Summer-2027-5891",
+  "date_posted": null,
+  "date_found": "2026-11-16T05:34:38.272000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": true
+ },
+ {
+  "company": "D. E. Shaw",
+  "title": "Quantitative Researcher Intern (New York) – Summer 2027",
+  "location": "New York",
+  "pay": null,
+  "tracks": [
+   "quant"
+  ],
+  "url": "https://www.deshaw.com/careers/Quantitative-Researcher-Intern-New-York-Summer-2027-5890",
+  "date_posted": null,
+  "date_found": "2026-11-16T05:28:50.055000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Susquehanna",
+  "title": "Quantitative Trader Internship: November 2027",
+  "location": "",
+  "pay": null,
+  "tracks": [
+   "quant"
+  ],
+  "url": "https://careers-sig.icims.com/jobs/11194/quantitative-trader-internship%3a-november-2027/job",
+  "date_posted": null,
+  "date_found": "2026-11-16T05:01:22.749000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Tesla",
+  "title": "Internship, Software Engineer, Build & Simulation Platform (Winter/Spring 2027)",
+  "location": "Palo Alto, CA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://www.linkedin.com/jobs/view/4491269711",
+  "date_posted": "2026-11-16T00:00:00+00:00",
+  "date_found": "2026-11-16T01:50:07.410716+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Tesla",
+  "title": "Internship, Program Manager, Lifecycle Communications (Winter/Spring 2027)",
+  "location": "Fremont, CA",
+  "pay": null,
+  "tracks": [
+   "product"
+  ],
+  "url": "https://www.linkedin.com/jobs/view/4491265928",
+  "date_posted": "2026-11-16T00:00:00+00:00",
+  "date_found": "2026-11-16T01:50:07.410716+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Vertiv",
   "title": "Innovation/ATLAS Lab Spring 2027 Intern",
   "location": "Delaware, OH",
@@ -14529,22 +14609,6 @@
   "date_found": "2026-11-11T04:01:13.824000+00:00",
   "top_company": false,
   "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Samsung",
-  "title": "Summer Intern - DA eCommerce (B2B & Parts Strategy)",
-  "location": "Plano, TX",
-  "pay": null,
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Summer-Intern---DA-eCommerce--B2B---Parts-Strategy-_R121992",
-  "date_posted": "2026-11-08T00:00:00+00:00",
-  "date_found": "2026-11-09T04:59:31.090000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -63081,6 +63145,23 @@
   "date_posted": null,
   "date_found": "2026-09-01T16:43:22+00:00",
   "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Hermeus",
+  "title": "Subsystem Test Engineering Intern - Spring/Summer 2027",
+  "location": "Atlanta, GA",
+  "pay": "$25–$33/hr",
+  "tracks": [
+   "hardware",
+   "software"
+  ],
+  "url": "https://jobs.lever.co/hermeus/643fd7b7-9015-43a1-aa2b-a54f117b403c",
+  "date_posted": "2026-09-01T15:46:08.009000+00:00",
+  "date_found": "2026-11-09T05:50:16.482454+00:00",
+  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
