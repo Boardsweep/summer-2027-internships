@@ -1,5 +1,101 @@
 [
  {
+  "company": "Vertiv",
+  "title": "Innovation/ATLAS Lab Spring 2027 Intern",
+  "location": "Delaware, OH",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280112",
+  "date_posted": "2026-11-16T00:00:00+00:00",
+  "date_found": "2026-08-27T14:33:20+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Viavi Solutions",
+  "title": "Software Engineering Co-op",
+  "location": "Germantown, MD USA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-op_260005308-1",
+  "date_posted": "2026-11-15T23:53:19.006000+00:00",
+  "date_found": "2026-11-16T00:01:13.345000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Southern States",
+  "title": "Electrical Engineer Intern",
+  "location": "Hampton, GA",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://southernstatesllc.applytojob.com/apply/NL0wxVo8tr/Summer-2027-Electrical-Engineering-Intern-SATD1",
+  "date_posted": "2026-11-15T23:45:03+00:00",
+  "date_found": "2026-11-16T01:01:21.095000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Southernstatesllc",
+  "title": "Summer 2027 Electrical Engineering Intern - SATD/2",
+  "location": "Hampton, GA",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://southernstatesllc.applytojob.com/apply/z1rnz6IAjB",
+  "date_posted": "2026-11-15T21:16:10+00:00",
+  "date_found": "2026-11-16T01:01:21.095000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Southernstatesllc",
+  "title": "Summer 2027 Electrical Engineering Intern - SATD/1",
+  "location": "Hampton, GA",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://southernstatesllc.applytojob.com/apply/NL0wxVo8tr",
+  "date_posted": "2026-11-15T21:10:40+00:00",
+  "date_found": "2026-11-16T01:01:21.095000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Southernstatesllc",
+  "title": "Summer and Fall 2027 Electrical/Mechanical Engineering Intern /Coop",
+  "location": "Hampton, GA",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://southernstatesllc.applytojob.com/apply/LTp42nh0Xb",
+  "date_posted": "2026-11-15T20:50:19+00:00",
+  "date_found": "2026-11-16T01:01:21.095000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Samsara",
   "title": "Product Design (Mechanical Engineering) Co-Op",
   "location": "San Francisco - SF9",
@@ -14389,22 +14485,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Zoetis Services",
-  "title": "Data and Analytics Product Operations Intern",
-  "location": "Parsippany-Troy Hills, NJ",
-  "pay": "$16/hr",
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Parsippany/Data---Analytics-Product-Operations-Intern_JR00022022-1",
-  "date_posted": "2026-11-09T00:00:00+00:00",
-  "date_found": "2026-11-09T00:00:00+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Philadelphia Gas Works",
   "title": "Data and Analytics Intern",
   "location": "Philadelphia, PA",
@@ -18500,39 +18580,6 @@
   "date_posted": "2026-11-03T01:21:02.667000+00:00",
   "date_found": "2026-11-03T01:22:37.989000+00:00",
   "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Carnegie Mellon University",
-  "title": "Research Assistant - Kenneth C. Griffin School of Computer Science - S3D",
-  "location": "Pittsburgh, PA",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---Kenneth-C-Griffin-School-of-Computer-Science---S3D_2025318",
-  "date_posted": "2026-11-03T00:00:00+00:00",
-  "date_found": "2026-11-15T16:58:09.082000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Martin Marietta",
-  "title": "Telematics Intern",
-  "location": "Dallas, TX",
-  "pay": null,
-  "tracks": [
-   "software",
-   "aiml"
-  ],
-  "url": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Dallas-TX/Intern--Telematics--Summer-2027-_JR024021-1",
-  "date_posted": "2026-11-03T00:00:00+00:00",
-  "date_found": "2026-11-12T21:36:48.906000+00:00",
-  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -42272,23 +42319,6 @@
  },
  {
   "company": "Affirm",
-  "title": "Software Engineer (Machine Learning) Intern (Summer 2027)",
-  "location": "San Francisco, CA",
-  "pay": "$60.58/hr",
-  "tracks": [
-   "software",
-   "aiml"
-  ],
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
-  "date_posted": "2026-10-02T21:55:47+00:00",
-  "date_found": "2026-10-02T21:58:19.796000+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Affirm",
   "title": "Software Engineer Intern (Summer 2027)",
   "location": "San Francisco, CA",
   "pay": "$60.58/hr",
@@ -56963,6 +56993,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Schonfeld",
+  "title": "2027 Platform Engineering Intern",
+  "location": "New York, NY",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171699",
+  "date_posted": "2026-09-10T16:09:58+00:00",
+  "date_found": "2026-09-10T16:09:58+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Zipline",
   "title": "Data Analytics Intern - Spring 2027",
   "location": "South SF",
@@ -65982,22 +66028,6 @@
  },
  {
   "company": "Vertiv",
-  "title": "Innovation Lab Engineer Intern 1",
-  "location": "Delaware, OH",
-  "pay": null,
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280112",
-  "date_posted": null,
-  "date_found": "2026-08-27T14:33:20+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Vertiv",
   "title": "Power Management Intern - Summer 2027",
   "location": "Delaware, OH",
   "pay": null,
@@ -68077,22 +68107,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Zipline",
-  "title": "Maintenance Tool Engineering Intern (Summer 2027)",
-  "location": "Esparto, CA",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://www.zipline.com/open-roles/7918888003?gh_jid=7918888003",
-  "date_posted": "2026-08-20T22:59:40+00:00",
-  "date_found": "2026-08-20T22:59:40+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Tesla",
   "title": "Internship - Fullstack Engineer - Applications Engineering - Winter/Spring 2027",
   "location": "Fremont, CA",
@@ -68599,22 +68613,6 @@
   "url": "https://www.zipline.com/open-roles/7903711003?gh_jid=7903711003",
   "date_posted": "2026-08-19T16:30:18+00:00",
   "date_found": "2026-08-19T22:17:09+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Zipline",
-  "title": "Electrical Engineer Intern - Electrical Engineering Team",
-  "location": "South SF",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://www.zipline.com/open-roles/7903708003?gh_jid=7903708003",
-  "date_posted": "2026-08-19T16:30:05+00:00",
-  "date_found": "2026-08-19T22:17:05+00:00",
   "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,

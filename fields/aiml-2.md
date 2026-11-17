@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,550 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,549 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 2 of 2: [1](aiml.md) · **2**
 
@@ -279,7 +279,6 @@ Page 2 of 2: [1](aiml.md) · **2**
 | ↳ | Platform Services Intern | Orem,&nbsp;UT<br><sub>-</sub> | Aug&nbsp;27 | <a href="https://careers.clydeinc.com/jobs/35829?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=chartahealth.com" width="20" height="20" align="absmiddle">&nbsp; **Charta&nbsp;Health** | Forward Deployed AI Engineer Intern | 2&nbsp;locations<br><sub>$40–&#8288;$60/hr</sub> | Aug&nbsp;27 | <a href="https://jobs.ashbyhq.com/chartahealth/0c76d54d-0ca8-4ab6-b360-c2dbae7b17cf/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=vertiv.com" width="20" height="20" align="absmiddle">&nbsp; **Vertiv** | Innovation Lab Engineering Intern 2 | Delaware,&nbsp;OH<br><sub>-</sub> | Aug&nbsp;27 | <a href="https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280113"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Innovation Lab Engineer Intern 1 | Delaware,&nbsp;OH<br><sub>-</sub> | Aug&nbsp;27 | <a href="https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280112"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Business Analytics Intern - Summer 2027 | Westerville,&nbsp;OH<br><sub>-</sub> | Aug&nbsp;27 | <a href="https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278794"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=dimensionalfundadvisors.com" width="20" height="20" align="absmiddle">&nbsp; **Dimensional Fund Advisors** | Investment Solutions Intern - Undergraduate &amp; Master&#x27;s | Austin,&nbsp;TX<br><sub>-</sub> | Aug&nbsp;27 | <a href="https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Investment-Solutions--Undergraduate---Master-s-_2026-9041"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Investment Engineering Intern - Undergraduate &amp; Master&#x27;s | 2&nbsp;locations<br><sub>-</sub> | Aug&nbsp;27 | <a href="https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Investment-Engineering--Undergraduate---Master-s-_2026-9025"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
