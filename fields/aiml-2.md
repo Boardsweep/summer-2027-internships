@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,536 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,538 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 2 of 2: [1](aiml.md) · **2**
 
@@ -10,6 +10,7 @@ Page 2 of 2: [1](aiml.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=joincambridge.com" width="20" height="20" align="absmiddle">&nbsp; **Cambridge Investment Research** | Data Engineer Intern - Business Intelligence and Insights | 2&nbsp;locations<br><sub>$17–&#8288;$26/hr</sub> | Sep&nbsp;18 | <a href="https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Phoenix-AZ/Data-Engineering-Intern_R-2025-221"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=centene.com" width="20" height="20" align="absmiddle">&nbsp; **Centene** | Analytics Intern | Florida<br><sub>-</sub> | Sep&nbsp;18 | <a href="https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=altardstate.com" width="20" height="20" align="absmiddle">&nbsp; **Altar&#x27;d State** | IT Analytics Intern | Knoxville,&nbsp;TN<br><sub>-</sub> | Sep&nbsp;18 | <a href="https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Analytics-Intern_SOSJ12499"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=flex.com" width="20" height="20" align="absmiddle">&nbsp; **Flex** | Manufacturing Data &amp; Analytics Co-op | Libertyville,&nbsp;IL<br><sub>$20–&#8288;$34/hr</sub> | Sep&nbsp;18 | <a href="https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-IL-Libertyville/Manufacturing-Data---Analytics-Co-Op---Spring-2027_WD229700"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

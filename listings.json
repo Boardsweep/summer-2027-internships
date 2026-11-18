@@ -1,5 +1,214 @@
 [
  {
+  "company": "TikTok",
+  "title": "Research Scientist Intern - Privacy Innovation Lab",
+  "location": "San Jose, CA",
+  "pay": "$60/hr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://lifeattiktok.com/search/7703923326767483141",
+  "date_posted": "2026-11-17T07:29:27+00:00",
+  "date_found": "2026-11-17T07:29:27+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "ECM Tek",
+  "title": "Developer Intern - Python Development",
+  "location": "Nashville, TN",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://ecmtek.bamboohr.com/careers/51/",
+  "date_posted": "2026-11-17T07:19:14+00:00",
+  "date_found": "2026-11-17T07:19:14+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Birdseye Security Solutions",
+  "title": "Computer Vision Intern",
+  "location": "Dallas, TX",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://birdseyeaccount.bamboohr.com/careers/290/",
+  "date_posted": "2026-11-17T07:13:54+00:00",
+  "date_found": "2026-11-17T07:13:54+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Birdseye Security Solutions",
+  "title": "AI Systems Intern",
+  "location": "Dallas, TX",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://birdseyeaccount.bamboohr.com/careers/288/",
+  "date_posted": "2026-11-17T07:13:54+00:00",
+  "date_found": "2026-11-17T07:13:54+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "IPConfigure",
+  "title": "Software Development for Video Surveillance Software Intern",
+  "location": "Norfolk, VA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://ipconfigure.bamboohr.com/careers/71/",
+  "date_posted": "2026-11-17T07:13:21+00:00",
+  "date_found": "2026-11-17T07:13:21+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "SecurityMetrics",
+  "title": "Software Engineer Intern",
+  "location": "Orem, UT",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://securitymetrics.bamboohr.com/careers/215/",
+  "date_posted": "2026-11-17T07:04:03+00:00",
+  "date_found": "2026-11-17T07:04:03+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "The New School",
+  "title": "Front End Developer & UI/UX Designer - Student Assistant Specialist",
+  "location": "2 Locations",
+  "pay": null,
+  "tracks": [
+   "software",
+   "design"
+  ],
+  "url": "https://newschool.wd1.myworkdayjobs.com/external/job/N---66-Fifth-Avenue/Front-End-Developer---UI-UX-Designer---Student-Assistant-Specialist_JR109390-1",
+  "date_posted": "2026-11-17T02:48:46.333000+00:00",
+  "date_found": "2026-11-17T02:55:07.761000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Apple",
+  "title": "Cellular RF Receiver Silicon Validation Engineering Intern",
+  "location": "Linz",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.apple.com/en-us/details/200688714/cellular-rf-receiver-silicon-validation-engineering-intern",
+  "date_posted": "2026-11-17T02:48:21.601000+00:00",
+  "date_found": "2026-11-17T02:48:55.285000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Apple",
+  "title": "Cellular RF Receiver System Engineer Intern",
+  "location": "Linz",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.apple.com/en-us/details/200695289/cellular-rf-receiver-system-engineer-intern",
+  "date_posted": "2026-11-17T02:47:47.129000+00:00",
+  "date_found": "2026-11-17T02:48:55.285000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Punchcut",
+  "title": "Design Engineer Intern",
+  "location": "SF",
+  "pay": null,
+  "tracks": [
+   "design"
+  ],
+  "url": "https://punchcut.bamboohr.com/careers/65/",
+  "date_posted": "2026-11-17T02:37:30+00:00",
+  "date_found": "2026-11-17T02:37:30+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Zoox",
+  "title": "UX Designer Intern [Summer 2027]",
+  "location": "Foster City, CA",
+  "pay": null,
+  "tracks": [
+   "design"
+  ],
+  "url": "https://jobs.lever.co/zoox/6a2a0d85-f466-4177-8236-eac6e2df2e93",
+  "date_posted": "2026-11-17T01:59:51.036000+00:00",
+  "date_found": "2026-11-17T02:16:15.800000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Federal Ammunition",
+  "title": "Quality Engineering Internship - Remington Ammunition",
+  "location": "Lonoke, AR",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://thekineticgroup.wd1.myworkdayjobs.com/EXTERNAL_TKG/job/Lonoke-AR/Quality-Engineering-Internship---Remington-Ammunition_R0012985",
+  "date_posted": "2026-11-17T01:54:37.788000+00:00",
+  "date_found": "2026-11-17T01:58:23.324000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Clera",
+  "title": "Full-Stack Software Engineering Intern",
+  "location": "New York",
+  "pay": "$50/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.ashbyhq.com/Clera/42992916-9ca1-48ca-9378-f4a13ea3733d",
+  "date_posted": "2026-11-17T01:02:47.315000+00:00",
+  "date_found": "2026-11-17T01:58:23.324000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Lawrence Livermore National Laboratory",
   "title": "Atmospheric, Earth & Energy Undergraduate Intern - Summer 2027",
   "location": "Livermore",
@@ -42,6 +251,22 @@
   "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Technology-Intern-2027_R26_0000037382",
   "date_posted": "2026-11-17T00:46:32.964000+00:00",
   "date_found": "2026-11-17T00:56:38.114000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Regent",
+  "title": "Guidance, Navigation and Control (GNC) Intern",
+  "location": "North Kingstown, RI",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.ashbyhq.com/REGENT/6b044f00-b7e8-4141-8cd8-2d77fa40eea0",
+  "date_posted": "2026-11-17T00:45:09.762000+00:00",
+  "date_found": "2026-11-17T01:58:23.324000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -3535,6 +3760,23 @@
   "advanced_degree": false
  },
  {
+  "company": "Soros Fund Management",
+  "title": "Trading Intern - Middle and Back Office Dev",
+  "location": "NYC",
+  "pay": "$45/hr",
+  "tracks": [
+   "quant",
+   "software"
+  ],
+  "url": "https://job-boards.greenhouse.io/familyoffice/jobs/8202862003",
+  "date_posted": "2026-11-13T14:46:52+00:00",
+  "date_found": "2026-11-17T03:42:51.789000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Minitab",
   "title": "Research & Design Intern",
   "location": "State College, PA",
@@ -6578,7 +6820,7 @@
  },
  {
   "company": "T-Mobile",
-  "title": "Data Product Intern",
+  "title": "Summer 2027 Data Product Internship",
   "location": "Bellevue, WA",
   "pay": "$27–$50/hr",
   "tracks": [
@@ -11662,216 +11904,6 @@
   "advanced_degree": false
  },
  {
-  "company": "The Aerospace Corporation",
-  "title": "2027 Defensive Cyber Operations Grad Intern",
-  "location": "El Segundo, CA",
-  "pay": "$32–$35/hr",
-  "tracks": [
-   "security"
-  ],
-  "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Grad-Intern_R017106",
-  "date_posted": "2026-11-10T03:06:34.127000+00:00",
-  "date_found": "2026-11-10T03:07:29.484000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "The Aerospace Corporation",
-  "title": "2027 Power and Analog Circuit Engineering Grad Intern",
-  "location": "El Segundo, CA",
-  "pay": "$32–$35/hr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Power-and-Analog-Circuit-Engineering-Intern_R016430",
-  "date_posted": "2026-11-10T02:57:27.532000+00:00",
-  "date_found": "2026-11-10T02:58:16.787000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Regent",
-  "title": "Systems Engineering Intern - Safety Analysis (Summer)",
-  "location": "North Kingstown, RI",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://jobs.ashbyhq.com/REGENT/9370adbc-f344-4aeb-a99d-65acaac87894",
-  "date_posted": "2026-11-10T02:32:33.137000+00:00",
-  "date_found": "2026-11-10T02:57:48.131000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Regent",
-  "title": "Engineering Intern to the Chief Engineer (Summer)",
-  "location": "North Kingstown, RI",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://jobs.ashbyhq.com/REGENT/3d52867d-d340-4f45-8b35-9533ee456db8",
-  "date_posted": "2026-11-10T02:22:47.717000+00:00",
-  "date_found": "2026-11-10T02:57:48.131000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Regent",
-  "title": "Mass Properties Intern (Summer)",
-  "location": "North Kingstown, RI",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://jobs.ashbyhq.com/REGENT/7c8fd767-dbac-41d8-a9f8-a364741d6c2a",
-  "date_posted": "2026-11-10T02:09:04.285000+00:00",
-  "date_found": "2026-11-10T02:57:48.131000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Rambus",
-  "title": "Intern",
-  "location": "",
-  "pay": "$25.80–$47.80/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://careers-rambus.icims.com/jobs/23132/intern/job",
-  "date_posted": null,
-  "date_found": "2026-11-10T01:58:04.688000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Regent",
-  "title": "Human Factors Intern (Summer)",
-  "location": "North Kingstown, RI",
-  "pay": null,
-  "tracks": [
-   "design"
-  ],
-  "url": "https://jobs.ashbyhq.com/REGENT/f2a3c474-c7e6-47b5-bf78-1ebbf3298526",
-  "date_posted": "2026-11-10T01:54:34.214000+00:00",
-  "date_found": "2026-11-10T02:57:48.131000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Hewlett Packard Enterprise",
-  "title": "Strategic Sourcing AI & Automation Intern",
-  "location": "Spring, TX",
-  "pay": null,
-  "tracks": [
-   "software",
-   "aiml"
-  ],
-  "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Strategic-Sourcing-AI---Automation-Intern_1213039",
-  "date_posted": "2026-11-10T01:43:41.605000+00:00",
-  "date_found": "2026-11-10T01:58:04.688000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Regent",
-  "title": "Modeling & Simulation Intern (Summer)",
-  "location": "North Kingstown, RI",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jobs.ashbyhq.com/REGENT/bca4be90-229d-49c4-8424-44a15dd72b1c",
-  "date_posted": "2026-11-10T01:43:30.817000+00:00",
-  "date_found": "2026-11-10T01:58:04.688000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "First Quality",
-  "title": "Intern - Graphic Designer",
-  "location": "Home Office, SC",
-  "pay": null,
-  "tracks": [
-   "design"
-  ],
-  "url": "https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-SC-Home-Office/Intern---Graphic-Designer_R12368",
-  "date_posted": "2026-11-10T01:42:55.511000+00:00",
-  "date_found": "2026-11-10T01:58:04.688000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Applied Materials",
-  "title": "2027 Spring Quality Engineering Co-op (Billerica, MA)",
-  "location": "Billerica, MA",
-  "pay": "$31–$33/hr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Quality-Engineering-Co-op--Billerica--MA-_R2633077",
-  "date_posted": "2026-11-10T01:40:51.037000+00:00",
-  "date_found": "2026-11-10T01:58:04.688000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Regent",
-  "title": "Performance Intern (Summer)",
-  "location": "North Kingstown, RI",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jobs.ashbyhq.com/REGENT/9cdc5628-fa73-4c8a-9aac-7a7399153a5b",
-  "date_posted": "2026-11-10T01:19:08.254000+00:00",
-  "date_found": "2026-11-10T01:58:04.688000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Regent",
-  "title": "Systems Engineering Intern (Summer)",
-  "location": "North Kingstown, RI",
-  "pay": null,
-  "tracks": [
-   "software",
-   "hardware"
-  ],
-  "url": "https://jobs.ashbyhq.com/REGENT/2b47c43c-79ad-499f-8570-61f9107ff32c",
-  "date_posted": "2026-11-10T01:00:31.054000+00:00",
-  "date_found": "2026-11-10T01:58:04.688000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Pinterest",
   "title": "Product Design Intern (USA)",
   "location": "2 locations",
@@ -11883,22 +11915,6 @@
   "date_posted": "2026-11-10T00:58:51+00:00",
   "date_found": "2026-11-10T01:01:39.170000+00:00",
   "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "CTGT",
-  "title": "AI Evaluation Research Intern",
-  "location": "San Francisco",
-  "pay": null,
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://jobs.ashbyhq.com/ctgt/36ec2e84-8b55-4c8a-b7ee-5dadecd4c01e",
-  "date_posted": "2026-11-10T00:57:51.126000+00:00",
-  "date_found": "2026-11-10T01:58:04.688000+00:00",
-  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -16370,13 +16386,13 @@
  },
  {
   "company": "Peraton",
-  "title": "Electrical Engineer Intern",
+  "title": "Summer 2027 Electrical Engineering Intern Topeka, Ks",
   "location": "Topeka, KS",
   "pay": "$24.50/hr",
   "tracks": [
    "hardware"
   ],
-  "url": "https://careers-peraton.icims.com/jobs/172055/job?mobile=true&needsRedirect=false",
+  "url": "https://careers-peraton.icims.com/jobs/172055/summer-2027-electrical-engineering-intern--topeka%2c-ks/job",
   "date_posted": "2026-11-05T07:08:57+00:00",
   "date_found": "2026-11-05T07:58:14.405000+00:00",
   "top_company": false,
@@ -33419,13 +33435,13 @@
  },
  {
   "company": "Peraton",
-  "title": "Mission Systems Software and Edge Computing Intern",
+  "title": "Mission Systems Software & Edge Computing Intern – Norman, Ok",
   "location": "Oklahoma",
   "pay": null,
   "tracks": [
    "software"
   ],
-  "url": "https://careers-peraton.icims.com/jobs/172378/job?mobile=true&needsRedirect=false",
+  "url": "https://careers-peraton.icims.com/jobs/172378/mission-systems-software-%26-edge-computing-intern-%e2%80%93-norman%2c-ok/job",
   "date_posted": "2026-10-14T00:00:00+00:00",
   "date_found": "2026-10-14T00:00:00+00:00",
   "top_company": false,
@@ -36849,13 +36865,13 @@
  },
  {
   "company": "Peraton",
-  "title": "Software Development Intern",
+  "title": "Summer 2027 Software Development Intern Topeka, Ks",
   "location": "Topeka, KS",
   "pay": "$24.50/hr",
   "tracks": [
    "software"
   ],
-  "url": "https://careers-peraton.icims.com/jobs/172061/job?mobile=true&needsRedirect=false",
+  "url": "https://careers-peraton.icims.com/jobs/172061/summer-2027-software-development-intern--topeka%2c-ks/job",
   "date_posted": "2026-10-08T22:25:49+00:00",
   "date_found": "2026-10-08T23:53:26.958000+00:00",
   "top_company": false,
@@ -53589,6 +53605,22 @@
   "date_posted": "2026-09-14T22:04:31+00:00",
   "date_found": "2026-09-14T22:04:31+00:00",
   "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Waymo",
+  "title": "Software Engineering Intern - Commercialization",
+  "location": "2 locations",
+  "pay": "$60/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
+  "date_posted": "2026-09-14T21:19:15+00:00",
+  "date_found": "2026-09-14T22:38:06+00:00",
+  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
