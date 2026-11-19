@@ -1,5 +1,184 @@
 [
  {
+  "company": "Invitation Homes",
+  "title": "Intern. Software Engineering",
+  "location": "Dallas, TX- HQ",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://invitationhomes.wd503.myworkdayjobs.com/INVH/job/Dallas-TX--HQ/Intern-Software-Engineering_R5984",
+  "date_posted": "2026-11-18T05:41:03.200000+00:00",
+  "date_found": "2026-11-18T05:43:25.142000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Airbnb",
+  "title": "Software Engineering Intern (BS/MS)",
+  "location": "San Francisco, CA",
+  "pay": "$7,900/mo",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
+  "date_posted": "2026-11-18T05:00:14+00:00",
+  "date_found": "2026-11-18T05:01:16.601000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Peraton",
+  "title": "IT Cybersecurity Intern Fort Huachuca, Az",
+  "location": "",
+  "pay": "$24/hr",
+  "tracks": [
+   "security"
+  ],
+  "url": "https://careers-peraton.icims.com/jobs/171602/it-cybersecurity-intern---fort-huachuca%2c-az/job",
+  "date_posted": null,
+  "date_found": "2026-11-18T02:43:53.628000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Peraton",
+  "title": "Summer 2027 Solution Architect Intern",
+  "location": "",
+  "pay": "$28–$38/hr",
+  "tracks": [
+   "software",
+   "aiml"
+  ],
+  "url": "https://careers-peraton.icims.com/jobs/171543/summer-2027-solution-architect-intern/job",
+  "date_posted": null,
+  "date_found": "2026-11-18T02:43:53.628000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "United Wholesale Mortgage",
+  "title": "2027 Technology Summer Internship Program",
+  "location": "",
+  "pay": null,
+  "tracks": [
+   "software",
+   "security"
+  ],
+  "url": "https://careers-uwmcareers.icims.com/jobs/15881/2027-technology-summer-internship-program/job",
+  "date_posted": null,
+  "date_found": "2026-11-18T02:43:53.628000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Peraton",
+  "title": "Summer 2027 Business Analyst Intern",
+  "location": "",
+  "pay": "$25–$30/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://careers-peraton.icims.com/jobs/171542/summer-2027-business-analyst-intern/job",
+  "date_posted": null,
+  "date_found": "2026-11-18T02:43:53.628000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Peraton",
+  "title": "Summer 2027 Cybersecurity Engineering Intern",
+  "location": "",
+  "pay": "$24/hr",
+  "tracks": [
+   "security"
+  ],
+  "url": "https://careers-peraton.icims.com/jobs/171326/summer-2027-cybersecurity-engineering-intern/job",
+  "date_posted": null,
+  "date_found": "2026-11-18T02:43:53.628000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Peraton",
+  "title": "Summer 2027 Production Support Analyst Intern",
+  "location": "",
+  "pay": "$25–$30/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://careers-peraton.icims.com/jobs/171540/summer-2027-production-support-analyst-intern/job",
+  "date_posted": null,
+  "date_found": "2026-11-18T02:43:53.628000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Ecliptic Enterprises",
+  "title": "Engineering Intern",
+  "location": "San Luis Obispo, CA",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://apply.workable.com/ecliptic-enterprises-corporation/j/45447E539A/apply",
+  "date_posted": "2026-11-18T02:32:10+00:00",
+  "date_found": "2026-11-18T02:32:10+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Smarty",
+  "title": "Product Management Intern",
+  "location": "Orem, UT",
+  "pay": null,
+  "tracks": [
+   "product"
+  ],
+  "url": "https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749",
+  "date_posted": "2026-11-18T02:29:56+00:00",
+  "date_found": "2026-11-18T03:44:20.619000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Robert Bosch Venture Capital",
+  "title": "Robot Learning Research Intern",
+  "location": "Pittsburgh",
+  "pay": null,
+  "tracks": [
+   "aiml",
+   "software"
+  ],
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162212029",
+  "date_posted": "2026-11-18T01:47:31.939000+00:00",
+  "date_found": "2026-11-18T01:57:52.058000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Veolia",
   "title": "EI&C Co-op",
   "location": "Bellevue",
@@ -955,6 +1134,104 @@
   "advanced_degree": false
  },
  {
+  "company": "T-Mobile",
+  "title": "Summer 2027 Software Engineering Intern",
+  "location": "Overland Park, KS",
+  "pay": "$27–$50/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Intern_REQ381315",
+  "date_posted": "2026-11-17T04:42:03.505000+00:00",
+  "date_found": "2026-11-18T04:43:42.070000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "T-Mobile",
+  "title": "Summer 2027 Software Engineering Intern",
+  "location": "2 Locations",
+  "pay": "$27–$50/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Intern_REQ381368",
+  "date_posted": "2026-11-17T04:42:03.505000+00:00",
+  "date_found": "2026-11-18T04:43:42.070000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "T-Mobile",
+  "title": "Summer 2027 Assoc Program Manager Internship",
+  "location": "Overland Park, KS",
+  "pay": "$27–$50/hr",
+  "tracks": [
+   "product"
+  ],
+  "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-Program-Manager-Internship_REQ381566",
+  "date_posted": "2026-11-17T04:42:03.505000+00:00",
+  "date_found": "2026-11-18T04:43:42.070000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "T-Mobile",
+  "title": "Summer 2027 AI Engineering Internship",
+  "location": "Bellevue, WA",
+  "pay": "$27–$50/hr",
+  "tracks": [
+   "aiml",
+   "software"
+  ],
+  "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ382110",
+  "date_posted": "2026-11-17T04:42:03.505000+00:00",
+  "date_found": "2026-11-18T04:43:42.070000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "T-Mobile",
+  "title": "Summer 2027 Software Engineering AI Intern",
+  "location": "Atlanta, GA",
+  "pay": "$27–$50/hr",
+  "tracks": [
+   "software",
+   "aiml"
+  ],
+  "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-AI-Intern_REQ381273",
+  "date_posted": "2026-11-17T04:42:03.505000+00:00",
+  "date_found": "2026-11-18T04:43:42.070000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "T-Mobile",
+  "title": "Summer 2027 Software Engineer Internship",
+  "location": "Overland Park, KS",
+  "pay": "$27–$50/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineer-Internship_REQ381357",
+  "date_posted": "2026-11-17T04:42:03.505000+00:00",
+  "date_found": "2026-11-18T04:43:42.070000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "The New School",
   "title": "Front End Developer & UI/UX Designer - Student Assistant Specialist",
   "location": "2 Locations",
@@ -999,6 +1276,22 @@
   "date_posted": "2026-11-17T02:47:47.129000+00:00",
   "date_found": "2026-11-17T02:48:55.285000+00:00",
   "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "RGA Reinsurance",
+  "title": "Summer Intern - Global Technology",
+  "location": "United States, Creve Coeur, MO, CityPlace",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://rgare.wd1.myworkdayjobs.com/Careers/job/United-States-Creve-Coeur-MO-CityPlace/Summer-Intern---Global-Technology_J28414-1",
+  "date_posted": "2026-11-17T02:42:57.996000+00:00",
+  "date_found": "2026-11-18T02:43:53.628000+00:00",
+  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -2794,6 +3087,22 @@
   "url": "https://careers-sig.icims.com/jobs/11194/quantitative-trader-internship%3a-november-2027/job",
   "date_posted": null,
   "date_found": "2026-11-16T05:01:22.749000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "NVIDIA",
+  "title": "Applied Research Scientist Intern, Agentic Biology - Summer 2027",
+  "location": "US, CA, Santa Clara",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Scientist-Intern--Agentic-Biology---Summer-2027_JR2029307",
+  "date_posted": "2026-11-16T00:00:00+00:00",
+  "date_found": "2026-11-18T01:50:07.171041+00:00",
   "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -10404,23 +10713,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Keysight Technologies",
-  "title": "AI & DfX Digitalization intern",
-  "location": "Penang",
-  "pay": null,
-  "tracks": [
-   "software",
-   "aiml"
-  ],
-  "url": "https://jobs.keysight.com/jobs/56676",
-  "date_posted": "2026-11-11T07:31:01+00:00",
-  "date_found": "2026-11-11T07:34:56.475000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Shopline",
   "title": "AI Skill 開發實習生 (Agent Skill Builder Intern)",
   "location": "United States",
@@ -10437,34 +10729,17 @@
   "advanced_degree": false
  },
  {
-  "company": "Daimler Truck",
-  "title": "Cybersecurity Intern: Governance, Risk, and Compliance (GRC) Analyst",
-  "location": "Detroit, MI US",
-  "pay": "$21–$29/hr",
-  "tracks": [
-   "security"
-  ],
-  "url": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Detroit-MI-US/Cybersecurity-Intern--Governance--Risk--and-Compliance--GRC--Analyst_DT-20656",
-  "date_posted": "2026-11-11T05:43:45.651000+00:00",
-  "date_found": "2026-11-11T06:04:43.015000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Elire",
-  "title": "Summer 2027 AI Full Stack Developer Consulting Intern",
+  "company": "Salesforce",
+  "title": "Summer 2027 Intern - AI Research Incubator",
   "location": "2 Locations",
-  "pay": null,
+  "pay": "$54–$70/hr",
   "tracks": [
-   "software",
    "aiml"
   ],
-  "url": "https://jobs.jobvite.com/elire/job/oM5LAfwW",
-  "date_posted": null,
-  "date_found": "2026-11-11T04:59:44.528000+00:00",
-  "top_company": false,
+  "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---AI-Foundry-Incubation_JR366655-3",
+  "date_posted": "2026-11-11T05:42:16.460000+00:00",
+  "date_found": "2026-11-18T05:43:25.142000+00:00",
+  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -10480,38 +10755,6 @@
   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704569006",
   "date_posted": "2026-11-11T04:14:19+00:00",
   "date_found": "2026-11-11T04:16:45.799000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Regent",
-  "title": "Cybersecurity & IT Operations Intern (Summer)",
-  "location": "North Kingstown, RI",
-  "pay": null,
-  "tracks": [
-   "security"
-  ],
-  "url": "https://jobs.ashbyhq.com/REGENT/dfdbb28f-f289-45b9-a2e5-158d81b93524",
-  "date_posted": "2026-11-11T03:14:58.727000+00:00",
-  "date_found": "2026-11-11T04:01:13.824000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Regent",
-  "title": "Test Engineering Intern (Summer)",
-  "location": "North Kingstown, RI",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://jobs.ashbyhq.com/REGENT/9e314bda-fce1-444b-9874-bacd332880f9",
-  "date_posted": "2026-11-11T03:10:49.200000+00:00",
-  "date_found": "2026-11-11T04:01:13.824000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -10535,23 +10778,6 @@
  },
  {
   "company": "Regent",
-  "title": "Radar Signal Processing Intern",
-  "location": "North Kingstown, RI",
-  "pay": null,
-  "tracks": [
-   "software",
-   "hardware"
-  ],
-  "url": "https://jobs.ashbyhq.com/REGENT/2b98602b-2060-45c7-a916-ae7ca9656fd3",
-  "date_posted": "2026-11-11T02:54:44.892000+00:00",
-  "date_found": "2026-11-11T03:04:19.901000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Regent",
   "title": "State Estimation Intern (Summer)",
   "location": "North Kingstown, RI",
   "pay": null,
@@ -10563,22 +10789,6 @@
   "date_posted": "2026-11-11T02:47:11.095000+00:00",
   "date_found": "2026-11-11T03:04:19.901000+00:00",
   "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Tesla",
-  "title": "Software Developer Intern - IT Apps",
-  "location": "Fremont, CA",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://www.tesla.com/careers/search/job/289683",
-  "date_posted": "2026-11-11T02:26:14+00:00",
-  "date_found": "2026-11-11T03:04:19.901000+00:00",
-  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -11045,22 +11255,6 @@
    "product"
   ],
   "url": "https://apply.workable.com/bask-health-1/j/69C7B282BF/",
-  "date_posted": "2026-11-11T00:00:00+00:00",
-  "date_found": "2026-11-11T03:04:19.901000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Bask Health",
-  "title": "Product Discovery Intern",
-  "location": "United States",
-  "pay": null,
-  "tracks": [
-   "product"
-  ],
-  "url": "https://apply.workable.com/bask-health-1/j/34C4378E0B/",
   "date_posted": "2026-11-11T00:00:00+00:00",
   "date_found": "2026-11-11T03:04:19.901000+00:00",
   "top_company": false,
