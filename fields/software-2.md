@@ -10,7 +10,6 @@ Page 2 of 2: [1](software.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=stripe.com" width="20" height="20" align="absmiddle">&nbsp; **Stripe** | High School Internship, Software Engineering (Summer 2027) 🔥 | Seattle, San Francisco<br><sub>$60/hr</sub> | Sep&nbsp;30 | <a href="https://stripe.com/jobs/search?gh_jid=8241260"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=kla.com" width="20" height="20" align="absmiddle">&nbsp; **KLA** | Product Development Engineer Intern | 2&nbsp;Locations<br><sub>$56/hr</sub> | Sep&nbsp;30 | <a href="https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Product-Development-Engineer-Intern_2641521"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Software Engineering Intern | Milpitas,&nbsp;CA<br><sub>$37–&#8288;$49/hr</sub> | Sep&nbsp;30 | <a href="https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern_2641572"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Product Development Engineer Intern | Milpitas,&nbsp;CA<br><sub>$56/hr</sub> | Sep&nbsp;30 | <a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineer-Intern_2641772-2"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
