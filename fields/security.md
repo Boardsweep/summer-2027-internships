@@ -2,12 +2,13 @@
 
 # 🛡️ Security internships
 
-All 49 open security internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/security?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_security), or [get them by email, free](https://boardsweep.io/internships/security?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_security).
+All 50 open security internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/security?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_security), or [get them by email, free](https://boardsweep.io/internships/security?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_security).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=lightmatter.co" width="20" height="20" align="absmiddle">&nbsp; **Lightmatter** | IT and Security Intern – Summer 2027 ✨ | Boston,&nbsp;MA<br><sub>$40–&#8288;$45/hr</sub> | Nov&nbsp;19 | <a href="https://boards.greenhouse.io/lightmatter/jobs/5473539008?gh_jid=5473539008"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=peraton.com" width="20" height="20" align="absmiddle">&nbsp; **Peraton** | IT Cybersecurity Intern Fort Huachuca, Az ✨ | -<br><sub>$24/hr</sub> | Nov&nbsp;18 | <a href="https://careers-peraton.icims.com/jobs/171602/it-cybersecurity-intern---fort-huachuca%2c-az/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Summer 2027 Cybersecurity Engineering Intern ✨ | -<br><sub>$24/hr</sub> | Nov&nbsp;18 | <a href="https://careers-peraton.icims.com/jobs/171326/summer-2027-cybersecurity-engineering-intern/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=microsoft.com" width="20" height="20" align="absmiddle">&nbsp; **Microsoft** | Research Intern - Firmware Security 🔥 | Redmond,&nbsp;WA<br><sub>-</sub> | Nov&nbsp;17 | <a href="https://apply.careers.microsoft.com/careers/job/1970393557075140"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
