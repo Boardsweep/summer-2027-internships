@@ -1,5 +1,21 @@
 [
  {
+  "company": "Valeris",
+  "title": "Software Engineer Intern",
+  "location": "Louisville, KY",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://valeris.wd108.myworkdayjobs.com/Valeris/job/Louisville-KY/Software-Engineer-Intern_JR1044",
+  "date_posted": "2026-11-19T04:41:31.650000+00:00",
+  "date_found": "2026-11-19T04:44:09.901000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Sigma Computing",
   "title": "Product Design Graduate Intern (Summer 2027)",
   "location": "San Francisco, CA",
@@ -865,6 +881,23 @@
   "url": "https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8",
   "date_posted": "2026-11-18T13:09:26.199000+00:00",
   "date_found": "2026-11-18T13:15:48.180000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Odin Dynamics",
+  "title": "Engineering Intern, Spring and Summer 2027",
+  "location": "Long Beach",
+  "pay": "$30–$50/hr",
+  "tracks": [
+   "software",
+   "hardware"
+  ],
+  "url": "https://jobs.lever.co/odin-dynamics/b04c4e9f-9f9f-46cb-adc6-8f5f44a263ab",
+  "date_posted": "2026-11-18T09:29:55.679000+00:00",
+  "date_found": "2026-11-19T01:50:13.327418+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -9301,22 +9334,6 @@
   "advanced_degree": false
  },
  {
-  "company": "RTX",
-  "title": "Systems Engineering Intern (2027)- Tac Comm (Onsite)",
-  "location": "Cedar Rapids, IA",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern--2027---Tac-Comm--Onsite-_01888309",
-  "date_posted": "2026-11-12T03:51:01.166000+00:00",
-  "date_found": "2026-11-12T04:04:28.789000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Hewlett Packard Enterprise",
   "title": "HPE Labs - Systems Architecture Lab Research Associate Intern",
   "location": "Milpitas, CA",
@@ -9366,22 +9383,6 @@
   "advanced_degree": false
  },
  {
-  "company": "HP IQ",
-  "title": "Experience Design Intern (Summer 2027)",
-  "location": "San Francisco, CA",
-  "pay": "$40–$50/hr",
-  "tracks": [
-   "design"
-  ],
-  "url": "https://job-boards.greenhouse.io/hpiq/jobs/6230959004",
-  "date_posted": "2026-11-12T03:22:40+00:00",
-  "date_found": "2026-11-12T03:37:38.023000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "InsCipher",
   "title": "AI Product Intern",
   "location": "Pleasant Grove, UT",
@@ -9394,73 +9395,6 @@
   "date_posted": "2026-11-12T02:51:52+00:00",
   "date_found": "2026-11-12T02:51:52+00:00",
   "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "ServiceNow",
-  "title": "Assoc Detection Engineering Intern",
-  "location": "Kirkland",
-  "pay": null,
-  "tracks": [
-   "security"
-  ],
-  "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161210069",
-  "date_posted": "2026-11-12T02:04:04.244000+00:00",
-  "date_found": "2026-11-12T02:07:46.873000+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "ServiceNow",
-  "title": "Assoc Security Engineering & Automation Intern",
-  "location": "Santa Clara",
-  "pay": "$50.12/hr",
-  "tracks": [
-   "security",
-   "software"
-  ],
-  "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161209810",
-  "date_posted": "2026-11-12T01:59:40.032000+00:00",
-  "date_found": "2026-11-12T02:01:46.077000+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "ServiceNow",
-  "title": "Assoc AI Engineering (Cloud Security Automation) Intern",
-  "location": "Santa Clara",
-  "pay": null,
-  "tracks": [
-   "aiml",
-   "software",
-   "security"
-  ],
-  "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161209600",
-  "date_posted": "2026-11-12T01:55:01.865000+00:00",
-  "date_found": "2026-11-12T01:58:46.360000+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "ServiceNow",
-  "title": "Assoc Information Security Engineer Intern",
-  "location": "San Diego",
-  "pay": null,
-  "tracks": [
-   "security"
-  ],
-  "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161204235",
-  "date_posted": "2026-11-12T01:54:25.682000+00:00",
-  "date_found": "2026-11-12T01:55:46.065000+00:00",
-  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -9976,22 +9910,6 @@
    "software"
   ],
   "url": "https://apply.workable.com/bask-health-1/j/9C2964C7CD/",
-  "date_posted": "2026-11-12T00:00:00+00:00",
-  "date_found": "2026-11-12T04:04:28.789000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Kulicke & Soffa",
-  "title": "Intern, WB Process Engineering",
-  "location": "Santa Ana, CA",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11816",
   "date_posted": "2026-11-12T00:00:00+00:00",
   "date_found": "2026-11-12T04:04:28.789000+00:00",
   "top_company": false,
@@ -79296,6 +79214,23 @@
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
+ },
+ {
+  "company": "Databricks",
+  "title": "PhD GenAI Research Scientist Intern",
+  "location": "San Francisco, CA",
+  "pay": "$54–$60/hr",
+  "tracks": [
+   "aiml",
+   "software"
+  ],
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002",
+  "date_posted": "2023-11-07T21:36:32+00:00",
+  "date_found": "2026-10-04T11:50:17.363558+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": true
  },
  {
   "company": "Perpay",

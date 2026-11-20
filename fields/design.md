@@ -2,7 +2,7 @@
 
 # 🎨 Design internships
 
-All 54 open design internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design), or [get them by email, free](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design).
+All 53 open design internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design), or [get them by email, free](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
@@ -36,7 +36,6 @@ All 54 open design internships, newest first, every link the company's own posti
 | ↳ | Intern Engineering Designer, Water ✨ | 3&nbsp;locations<br><sub>-</sub> | Nov&nbsp;12 | <a href="https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--VA--Alexandria---5301-Shawnee-Road/Intern-Engineering-Designer--Water_6732"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Intern Engineering Designer, Water ✨ | 3&nbsp;locations<br><sub>-</sub> | Nov&nbsp;12 | <a href="https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--WA--Bellevue---12011-Bel-Red-Road/Intern-Engineering-Designer--Water_6737"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=meta.com" width="20" height="20" align="absmiddle">&nbsp; **Meta** | UX Research Scientist Intern, Contextual AI (PhD) 🔥 ✨ 🎓 | Redmond,&nbsp;WA<br><sub>-</sub> | Nov&nbsp;12 | <a href="https://www.metacareers.com/jobs/1447131743482590"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=hp-iq.com" width="20" height="20" align="absmiddle">&nbsp; **HP&nbsp;IQ** | Experience Design Intern (Summer 2027) ✨ | San Francisco, CA<br><sub>$40–&#8288;$50/hr</sub> | Nov&nbsp;12<br><sub>⚡&nbsp;15m</sub> | <a href="https://job-boards.greenhouse.io/hpiq/jobs/6230959004"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=baskhealth.com" width="20" height="20" align="absmiddle">&nbsp; **Bask&nbsp;Health** | UX Research Intern ✨ | - | Nov&nbsp;12 | <a href="https://apply.workable.com/bask-health-1/j/1F58DD2D0A/"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | UX Writing Intern ✨ | - | Nov&nbsp;12 | <a href="https://apply.workable.com/bask-health-1/j/E35FFA0BD1/"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Product Design Intern ✨ | - | Nov&nbsp;12 | <a href="https://apply.workable.com/bask-health-1/j/3505AD4868/"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
