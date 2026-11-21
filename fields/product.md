@@ -2,12 +2,13 @@
 
 # 📱 Product internships
 
-All 297 open product internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_product), or [get them by email, free](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_product).
+All 298 open product internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_product), or [get them by email, free](https://boardsweep.io/internships/product?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_product).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=icapital.com" width="20" height="20" align="absmiddle">&nbsp; **iCapital** | Product Management - Summer 2027 Intern 🛂 | New&nbsp;York,&nbsp;NY<br><sub>$55/hr</sub> | Nov&nbsp;20<br><sub>⚡&nbsp;1m</sub> | <a href="https://job-boards.greenhouse.io/icapitalnetwork/jobs/8944694002"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | **CAS** | Product Management Intern | Columbus,&nbsp;OH<br><sub>-</sub> | Nov&nbsp;20 | <a href="https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=446d0048-3a4f-48d6-afd7-7cc59e589336"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=nvidia.com" width="20" height="20" align="absmiddle">&nbsp; **NVIDIA** | Product Management MBA Intern, GenAI Data Strategy - Summer 2027 🔥 ✨ | Santa&nbsp;Clara,&nbsp;CA<br><sub>-</sub> | Nov&nbsp;19 | <a href="https://nvidia.eightfold.ai/careers/job/893398826603"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=lucid.co" width="20" height="20" align="absmiddle">&nbsp; **Lucid&nbsp;Software** | Product Management Internship - Summer 2027 | Salt Lake City, UT<br><sub>-</sub> | Nov&nbsp;18<br><sub>⚡&nbsp;6m</sub> | <a href="https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
