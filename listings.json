@@ -1,5 +1,134 @@
 [
  {
+  "company": "Marias Technology",
+  "title": "Software Developer Intern",
+  "location": "Covington, OH",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://mariastechnology.bamboohr.com/careers/27/",
+  "date_posted": "2026-11-20T07:31:03+00:00",
+  "date_found": "2026-11-20T07:31:03+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Scheels",
+  "title": "Data Analyst Intern",
+  "location": "Fargo, ND",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://recruiting2.ultipro.com/sch1015sals/JobBoard/c9383a65-0ac1-43cb-93e6-1b4baa2974be/OpportunityDetail?opportunityId=0d48376c-2cb6-416b-afa7-bcb5a0d04c24",
+  "date_posted": "2026-11-20T07:25:41+00:00",
+  "date_found": "2026-11-20T07:25:41+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "OpusClip",
+  "title": "AI Research Intern",
+  "location": "Mountain View",
+  "pay": "$25–$28/hr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://jobs.ashbyhq.com/opusclip/1966160d-8b4a-40f8-96c5-39a6d81122c2",
+  "date_posted": "2026-11-20T03:11:59.822000+00:00",
+  "date_found": "2026-11-20T03:44:27.952000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "GE Vernova",
+  "title": "GE Vernova Systems Architecture Intern – 2027",
+  "location": "2 Locations",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-Systems-Architecture-Intern---2027_R5051269-3",
+  "date_posted": "2026-11-20T02:43:28.192000+00:00",
+  "date_found": "2026-11-20T02:44:33.694000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Home Depot",
+  "title": "Product & Engineering Co-Op",
+  "location": "STORE SUPPORT CENTER, ATLANTA - 9090",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Product---Engineering-Co-Op_Req199630",
+  "date_posted": "2026-11-20T02:43:27.938000+00:00",
+  "date_found": "2026-11-20T02:44:33.694000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Southern Mississippi Trading",
+  "title": "AI and Business Analytics Intern",
+  "location": "Waynesboro, MS",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://southernmississippitradingllc.applytojob.com/apply/jIkpJ1ZhDo/AI-Business-Analytics-Intern",
+  "date_posted": "2026-11-20T02:39:11+00:00",
+  "date_found": "2026-11-20T02:39:11+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Path Labs",
+  "title": "Software and AI Engineer Intern",
+  "location": "Missoula, MT",
+  "pay": null,
+  "tracks": [
+   "software",
+   "aiml"
+  ],
+  "url": "https://pathlabs.applytojob.com/apply/qW73dwA0iS/Software-And-AI-Engineering-Intern",
+  "date_posted": "2026-11-20T02:22:15+00:00",
+  "date_found": "2026-11-20T02:22:15+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Tarana Wireless",
+  "title": "Hardware Test Engineer Intern",
+  "location": "Milpitas, CA",
+  "pay": "$35–$45/hr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://taranawireless.applytojob.com/apply/qLnpfwLHew/Hardware-Test-Engineer-Intern",
+  "date_posted": "2026-11-20T02:21:57+00:00",
+  "date_found": "2026-11-20T02:21:57+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Lucid Motors",
   "title": "Intern, Infotainment Software, Summer 2027",
   "location": "Newark, CA",
@@ -355,6 +484,22 @@
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": true
+ },
+ {
+  "company": "Standard Aero",
+  "title": "Engineering Intern – Summer",
+  "location": "Stockton, CA",
+  "pay": "$20–$30/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10823",
+  "date_posted": "2026-11-20T00:00:00+00:00",
+  "date_found": "2026-11-20T01:45:34.524000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
  },
  {
   "company": "ManTech",
@@ -1285,6 +1430,39 @@
   "advanced_degree": false
  },
  {
+  "company": "Leidos",
+  "title": "FPGA Engineer Intern",
+  "location": "Arlington, VA",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/FPGA-Engineer-Intern_R-00197304",
+  "date_posted": "2026-11-19T03:42:06.599000+00:00",
+  "date_found": "2026-11-20T03:44:27.952000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Leidos",
+  "title": "Software Developer (AI Project) Intern",
+  "location": "Colorado Springs, CO",
+  "pay": null,
+  "tracks": [
+   "software",
+   "aiml"
+  ],
+  "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Colorado-Springs-CO/Software-Developer--AI-Project--Intern_R-00197294",
+  "date_posted": "2026-11-19T03:42:06.599000+00:00",
+  "date_found": "2026-11-20T03:44:27.952000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "MakerMaker",
   "title": "Research intern",
   "location": "San Francisco",
@@ -1332,6 +1510,22 @@
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": true
+ },
+ {
+  "company": "Piper Sandler",
+  "title": "2027 Summer Internship Program – AI & Data Engineering",
+  "location": "Minneapolis, MN",
+  "pay": "$21/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Minneapolis-MN---HQ/XMLNAME-2027-Summer-Internship-Program---Data-Engineering_R-100805",
+  "date_posted": "2026-11-19T00:00:00+00:00",
+  "date_found": "2026-11-20T03:44:27.952000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
  },
  {
   "company": "NVIDIA",
@@ -2528,6 +2722,22 @@
   "date_found": "2026-11-19T08:44:48.302000+00:00",
   "top_company": false,
   "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Nightwing Intelligence Solutions",
+  "title": "Vulnerability Researcher Intern – 2027",
+  "location": "Palm Bay, FL",
+  "pay": null,
+  "tracks": [
+   "security"
+  ],
+  "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Palm-Bay-FL/Vulnerability-Researcher-Intern---2027_JR102271",
+  "date_posted": "2026-11-18T06:42:33.839000+00:00",
+  "date_found": "2026-11-20T06:44:29.237000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -3983,6 +4193,38 @@
   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineer-Internship_REQ381357",
   "date_posted": "2026-11-17T04:42:03.505000+00:00",
   "date_found": "2026-11-18T04:43:42.070000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Federal Reserve System",
+  "title": "2027 Summer Internship Program - User Experience Intern",
+  "location": "Atlanta, GA",
+  "pay": null,
+  "tracks": [
+   "design"
+  ],
+  "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---User-Experience-Intern_R-0000034084",
+  "date_posted": "2026-11-17T04:42:00.938000+00:00",
+  "date_found": "2026-11-20T04:43:56.258000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Leidos",
+  "title": "Integration and Test Engineer Intern",
+  "location": "Atlantic City, NJ",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Atlantic-City-NJ/Integration-and-Test-Engineer-Intern_R-00196657",
+  "date_posted": "2026-11-17T03:42:06.599000+00:00",
+  "date_found": "2026-11-20T03:44:27.952000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -8478,103 +8720,6 @@
   "advanced_degree": false
  },
  {
-  "company": "AT&T",
-  "title": "AT&T Labs Internship – Advanced Degrees",
-  "location": "Bedminster, NJ",
-  "pay": "$87,200–$130,800/yr",
-  "tracks": [
-   "software",
-   "aiml"
-  ],
-  "url": "https://att.wd1.myworkdayjobs.com/ATTCollege/job/Bedminster-New-Jersey/AT-T-Labs-Internship---Advanced-Degrees_R-127067",
-  "date_posted": "2026-11-13T05:40:53.765000+00:00",
-  "date_found": "2026-11-13T06:03:08.048000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": true
- },
- {
-  "company": "Hays Electrical Services",
-  "title": "Electrical Apprentice",
-  "location": "Houston, TX",
-  "pay": "$18–$37/hr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://hayselectricalservices.applytojob.com/apply/uttnKC8Iom",
-  "date_posted": "2026-11-13T05:32:08+00:00",
-  "date_found": "2026-11-13T06:03:08.048000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Hays Electrical Services",
-  "title": "Electrical Apprentice",
-  "location": "Dallas, TX",
-  "pay": "$18–$37/hr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://hayselectricalservices.applytojob.com/apply/awQ3bt5aT5",
-  "date_posted": "2026-11-13T05:27:05+00:00",
-  "date_found": "2026-11-13T06:03:08.048000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Hays Electrical Services",
-  "title": "Electrical Apprentice Prefab",
-  "location": "San Marcos, TX",
-  "pay": "$18–$48/hr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://hayselectricalservices.applytojob.com/apply/FsDgFjQmgy",
-  "date_posted": "2026-11-13T05:20:15+00:00",
-  "date_found": "2026-11-13T06:03:08.048000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Hays Electrical Services",
-  "title": "Electrical Apprentice",
-  "location": "Austin, TX",
-  "pay": "$18–$37/hr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://hayselectricalservices.applytojob.com/apply/asJSYiD3lG",
-  "date_posted": "2026-11-13T04:54:49+00:00",
-  "date_found": "2026-11-13T06:03:08.048000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Hays Electrical Services",
-  "title": "Electrical Apprentice",
-  "location": "San Antonio, TX",
-  "pay": "$18–$37/hr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://hayselectricalservices.applytojob.com/apply/YcAmcAmYSq",
-  "date_posted": "2026-11-13T04:52:58+00:00",
-  "date_found": "2026-11-13T06:03:08.048000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "TikTok",
   "title": "Machine Learning Engineer Intern",
   "location": "San Jose, CA",
@@ -9201,22 +9346,6 @@
   "url": "https://jobs.paccar.com/job/Columbus-Manufacturing-Engineering-Data-Analytics-Intern-Summer-2027-MS-39701/1457286233/",
   "date_posted": "2026-11-13T00:00:00+00:00",
   "date_found": "2026-11-13T15:43:48.909000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Aurora Operations",
-  "title": "Software Engineer Intern, Vehicle Platforms",
-  "location": "Mountain View, CA",
-  "pay": "$52/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef",
-  "date_posted": "2026-11-13T00:00:00+00:00",
-  "date_found": "2026-11-13T03:18:46.694000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,

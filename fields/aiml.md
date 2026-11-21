@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,514 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,517 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 1 of 2: **1** · [2](aiml-2.md)
 
@@ -10,6 +10,9 @@ Page 1 of 2: **1** · [2](aiml-2.md)
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=scheels.com" width="20" height="20" align="absmiddle">&nbsp; **Scheels** | Data Analyst Intern | Fargo,&nbsp;ND<br><sub>-</sub> | Nov&nbsp;20 | <a href="https://recruiting2.ultipro.com/sch1015sals/JobBoard/c9383a65-0ac1-43cb-93e6-1b4baa2974be/OpportunityDetail?opportunityId=0d48376c-2cb6-416b-afa7-bcb5a0d04c24"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| **OpusClip** | AI Research Intern | Mountain&nbsp;View<br><sub>$25–&#8288;$28/hr</sub> | Nov&nbsp;20<br><sub>⚡&nbsp;32m</sub> | <a href="https://jobs.ashbyhq.com/opusclip/1966160d-8b4a-40f8-96c5-39a6d81122c2"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| **Southern Mississippi Trading** | AI and Business Analytics Intern | Waynesboro,&nbsp;MS<br><sub>-</sub> | Nov&nbsp;20 | <a href="https://southernmississippitradingllc.applytojob.com/apply/jIkpJ1ZhDo/AI-Business-Analytics-Intern"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=linkedin.com" width="20" height="20" align="absmiddle">&nbsp; **LinkedIn** | AI/ML Engineer Intern, Master&#x27;s - Summer 2027 (Mountain View, CA) 🔥 🎓 | Mountain&nbsp;View<br><sub>$57–&#8288;$70/hr</sub> | Nov&nbsp;20 | <a href="https://jobs.smartrecruiters.com/LinkedIn3/744000162628808"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | AI/ML Engineer Intern – Generative AI, PhD – Summer 2027 (Mountain View, CA) 🔥 🎓 | Mountain&nbsp;View<br><sub>$62–&#8288;$75/hr</sub> | Nov&nbsp;20 | <a href="https://jobs.smartrecruiters.com/LinkedIn3/744000162623639"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | AI/ML Engineer Intern – Search and Recommender Systems, PhD – Summer 2027 (Mountain View, CA) 🔥 🎓 | Mountain&nbsp;View<br><sub>$62–&#8288;$75/hr</sub> | Nov&nbsp;20 | <a href="https://jobs.smartrecruiters.com/LinkedIn3/744000162623368"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -957,9 +960,6 @@ Page 1 of 2: **1** · [2](aiml-2.md)
 | <img src="https://boardsweep.io/api/logo?domain=eqt.com" width="20" height="20" align="absmiddle">&nbsp; **EQT&nbsp;Corporation** | Data Engineering Intern - Completions Services | Canonsburg,&nbsp;PA<br><sub>-</sub> | Sep&nbsp;16 | <a href="https://job-boards.greenhouse.io/eqtcorporation/jobs/5422414008"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=mercor.com" width="20" height="20" align="absmiddle">&nbsp; **Mercor** | Data Science Intern | SF<br><sub>-</sub> | Sep&nbsp;16 | <a href="https://jobs.ashbyhq.com/mercor/11516609-e54b-4087-87c2-e84a8bafbb5a/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=gmfinancial.com" width="20" height="20" align="absmiddle">&nbsp; **GM&nbsp;Financial** | Data Science Intern 🛂 | Fort&nbsp;Worth,&nbsp;TX<br><sub>-</sub> | Sep&nbsp;16 | <a href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260839"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=kitware.com" width="20" height="20" align="absmiddle">&nbsp; **Kitware** | AI Research Intern | Clifton&nbsp;Park,&nbsp;NY<br><sub>$40–&#8288;$60/hr</sub> | Sep&nbsp;16 | <a href="https://jobs.lever.co/kitware/ff25a349-a362-45d2-b1e4-2487c1df4f75/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| **CoVar** | Machine Learning Intern | Durham,&nbsp;NC<br><sub>-</sub> | Sep&nbsp;16 | <a href="https://job-boards.greenhouse.io/covar/jobs/5240360007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=microsoft.com" width="20" height="20" align="absmiddle">&nbsp; **Microsoft** | Data Scientist Intern 🔥 | Redmond,&nbsp;WA<br><sub>-</sub> | Sep&nbsp;16 | <a href="https://apply.careers.microsoft.com/careers/job/1970393556982928"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 **1** · [2](aiml-2.md)
 

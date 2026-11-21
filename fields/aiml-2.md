@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,514 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,517 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 2 of 2: [1](aiml.md) · **2**
 
@@ -10,7 +10,10 @@ Page 2 of 2: [1](aiml.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=microsoft.com" width="20" height="20" align="absmiddle">&nbsp; **Microsoft** | Applied Science: PhD Internship Opportunities - Multiple Locations 🔥 🎓 | 2&nbsp;locations<br><sub>-</sub> | Sep&nbsp;16 | <a href="https://apply.careers.microsoft.com/careers/job/1970393556986140"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=kitware.com" width="20" height="20" align="absmiddle">&nbsp; **Kitware** | AI Research Intern | Clifton&nbsp;Park,&nbsp;NY<br><sub>$40–&#8288;$60/hr</sub> | Sep&nbsp;16 | <a href="https://jobs.lever.co/kitware/ff25a349-a362-45d2-b1e4-2487c1df4f75/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| **CoVar** | Machine Learning Intern | Durham,&nbsp;NC<br><sub>-</sub> | Sep&nbsp;16 | <a href="https://job-boards.greenhouse.io/covar/jobs/5240360007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=microsoft.com" width="20" height="20" align="absmiddle">&nbsp; **Microsoft** | Data Scientist Intern 🔥 | Redmond,&nbsp;WA<br><sub>-</sub> | Sep&nbsp;16 | <a href="https://apply.careers.microsoft.com/careers/job/1970393556982928"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Applied Science: PhD Internship Opportunities - Multiple Locations 🔥 🎓 | 2&nbsp;locations<br><sub>-</sub> | Sep&nbsp;16 | <a href="https://apply.careers.microsoft.com/careers/job/1970393556986140"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=cartesian.systems" width="20" height="20" align="absmiddle">&nbsp; **Cartesian&nbsp;Systems** | Research Assistant Micro-Intern - IAP - Alumni Host | Cambridge,&nbsp;MA<br><sub>-</sub> | Sep&nbsp;16<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://job-boards.greenhouse.io/cartesiansystems/jobs/4408725009"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=ancestry.com" width="20" height="20" align="absmiddle">&nbsp; **Ancestry** | Data Science Co-op - AI Document Understanding | Remote&nbsp;in<br><sub>-</sub> | Sep&nbsp;16 | <a href="https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=analog.com" width="20" height="20" align="absmiddle">&nbsp; **Analog&nbsp;Devices** | Algorithm Development Engineer Intern | Wilmington,&nbsp;MA<br><sub>$22–&#8288;$41/hr</sub> | Sep&nbsp;16 | <a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Algorithm-Development-Engineer-Intern_R265306-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
