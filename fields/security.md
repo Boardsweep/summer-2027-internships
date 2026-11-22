@@ -2,12 +2,13 @@
 
 # 🛡️ Security internships
 
-All 40 open security internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/security?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_security), or [get them by email, free](https://boardsweep.io/internships/security?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_security).
+All 41 open security internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/security?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_security), or [get them by email, free](https://boardsweep.io/internships/security?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_security).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=firstpremier.com" width="20" height="20" align="absmiddle">&nbsp; **Firstpremier** | PREMIER Information Security Intern ✨ | Sioux&nbsp;Falls,&nbsp;SD<br><sub>-</sub> | Nov&nbsp;21 | <a href="https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Information-Security-Intern_R-549-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=rockwellautomation.com" width="20" height="20" align="absmiddle">&nbsp; **Rockwell Automation** | Intern - ISM, Cyber Security and AI ✨ | Mayfield Heights, OH<br><sub>-</sub> | Nov&nbsp;20 | <a href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern---ISM--Cyber-Security-and-AI_R26-5040-2"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=meta.com" width="20" height="20" align="absmiddle">&nbsp; **Meta** | Research Scientist Intern, Security &amp; Integrity (PhD) 🔥 ✨ 🎓 | 2&nbsp;locations<br><sub>-</sub> | Nov&nbsp;20 | <a href="https://www.metacareers.com/jobs/4110138665949300"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=lucidmotors.com" width="20" height="20" align="absmiddle">&nbsp; **Lucid&nbsp;Motors** | Product Security Engineering Intern, Summer 2027 ✨ | Newark,&nbsp;CA<br><sub>$53–&#8288;$72/hr</sub> | Nov&nbsp;20<br><sub>⚡&nbsp;7m</sub> | <a href="https://lucidmotors.com/careers/search/5290941007?gh_jid=5290941007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
