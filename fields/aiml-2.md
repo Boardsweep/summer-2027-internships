@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,538 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,542 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 2 of 2: [1](aiml.md) · **2**
 
@@ -10,6 +10,11 @@ Page 2 of 2: [1](aiml.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=epicgames.com" width="20" height="20" align="absmiddle">&nbsp; **Epic&nbsp;Games** | Data Science Intern 🔥 | Cary,&nbsp;NC<br><sub>-</sub> | Sep&nbsp;21<br><sub>⚡&nbsp;14m</sub> | <a href="https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=windstarcruises.com" width="20" height="20" align="absmiddle">&nbsp; **Windstar&nbsp;Cruises** | Revenue and Data Analytics Intern | Miami,&nbsp;FL<br><sub>-</sub> | Sep&nbsp;21 | <a href="https://xanterra.jibeapply.com/jobs/39609?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Revenue &amp; Data Analytics Intern | Doral,&nbsp;FL<br><sub>-</sub> | Sep&nbsp;21 | <a href="https://www.xanterrajobs.com/jobs/39609?icims=1&amp;lang=en-us"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=figma.com" width="20" height="20" align="absmiddle">&nbsp; **Figma** | Data Science Intern 🔥 | 2&nbsp;locations<br><sub>$68/hr</sub> | Sep&nbsp;21 | <a href="https://boards.greenhouse.io/figma/jobs/6200626004"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=marzetticompany.com" width="20" height="20" align="absmiddle">&nbsp; **Marzetti** | IT Analytics Intern | Columbus,&nbsp;OH<br><sub>-</sub> | Sep&nbsp;21 | <a href="https://careers.marzetticompany.com/jobs/8067?icims=1&amp;lang=en-us"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=autozone.com" width="20" height="20" align="absmiddle">&nbsp; **AutoZone** | Data Science Intern | Memphis,&nbsp;TN<br><sub>-</sub> | Sep&nbsp;21 | <a href="https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=symbotic.com" width="20" height="20" align="absmiddle">&nbsp; **Symbotic** | Applied Scientist - Routing | Wilmington,&nbsp;MA<br><sub>$52–&#8288;$54/hr</sub> | Sep&nbsp;21 | <a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/PhD-Applied-Scientist--Routing_R7966"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=psu.edu" width="20" height="20" align="absmiddle">&nbsp; **Pennsylvania State University** | Artificial Intelligence &amp; Image Processing Research Assistant Intern | York,&nbsp;PA<br><sub>-</sub> | Sep&nbsp;21 | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-York/Part-Time---Student--Work-Study--Undergraduate----Artificial-Intelligence---Image-Processing-Research-Assistant_REQ_0000082742-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

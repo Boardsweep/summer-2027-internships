@@ -1,5 +1,87 @@
 [
  {
+  "company": "Intel",
+  "title": "Semiconductor Device Modeling PhD Intern",
+  "location": "US, Oregon, Hillsboro",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Semiconductor-Device-Modeling-Intern_JR0289406",
+  "date_posted": null,
+  "date_found": "2026-11-22T06:44:44.490000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": true
+ },
+ {
+  "company": "Intel",
+  "title": "Signal Integrity Engineering Intern",
+  "location": "US, Arizona, Phoenix",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Signal-Integrity-Engineering-Intern_JR0289449",
+  "date_posted": null,
+  "date_found": "2026-11-22T06:44:44.490000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Neros Technologies",
+  "title": "Firmware/Embedded Software Engineer Intern - Summer 2027",
+  "location": "Torrance, CA",
+  "pay": "$55/hr",
+  "tracks": [
+   "software",
+   "hardware"
+  ],
+  "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007",
+  "date_posted": "2026-11-22T01:46:05+00:00",
+  "date_found": "2026-11-22T02:00:33.326000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Neros Technologies",
+  "title": "Electrical Engineering Intern - Summer 2027",
+  "location": "Torrance, CA",
+  "pay": "$55/hr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5273149007",
+  "date_posted": "2026-11-21T22:38:17+00:00",
+  "date_found": "2026-11-21T23:45:39.835000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Neros Technologies",
+  "title": "Autonomy Intern - Summer 2027",
+  "location": "Torrance, CA",
+  "pay": "$55/hr",
+  "tracks": [
+   "software",
+   "hardware"
+  ],
+  "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5273167007",
+  "date_posted": "2026-11-21T22:38:00+00:00",
+  "date_found": "2026-11-21T23:45:39.835000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "SAS",
   "title": "Summer 2027 AI Governance & Policy Intern",
   "location": "",
@@ -76,6 +158,39 @@
   "date_found": "2026-11-21T04:45:41.596000+00:00",
   "top_company": false,
   "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Bristol-Myers Squibb",
+  "title": "Technology Rotational Development Program Intern-Summer 2027",
+  "location": "Princeton - NJ - US",
+  "pay": "$37–$55/hr",
+  "tracks": [
+   "software",
+   "aiml"
+  ],
+  "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Technology-Rotational-Development-Program-Intern-Summer-2027_R1608752",
+  "date_posted": "2026-11-21T04:43:14.635000+00:00",
+  "date_found": "2026-11-22T04:44:33.508000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": true
+ },
+ {
+  "company": "Bristol-Myers Squibb",
+  "title": "Data Science Intern (Undergrad)-Summer 2027",
+  "location": "Remote - United States - US",
+  "pay": "$24–$30/hr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Remote---United-States---US/Data-Science-Intern--Undergrad--Summer-2027_R1608665",
+  "date_posted": "2026-11-21T04:42:58.868000+00:00",
+  "date_found": "2026-11-22T04:44:33.508000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -2504,6 +2619,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Global Infrastructure",
+  "title": "Transportation/Traffic Engineering Intern",
+  "location": "3 locations",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--IL--Chicago---200-South-Wacker-Drive/Transportation-Traffic-Engineering-Intern_6766",
+  "date_posted": "2026-11-20T06:43:54.601000+00:00",
+  "date_found": "2026-11-22T06:44:44.490000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Sanofi",
   "title": "2027 Summer Intern Biostatistics Bayesian borrowing Cambridge MA",
   "location": "Cambridge, MA",
@@ -4355,6 +4486,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Bristol-Myers Squibb",
+  "title": "Data Science Intern (MS/PhD)-Summer 2027",
+  "location": "Remote - United States - US",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Remote---United-States---US/Data-Science-Intern--MS-PhD--Summer-2027_R1608664",
+  "date_posted": "2026-11-19T04:42:58.868000+00:00",
+  "date_found": "2026-11-22T04:44:33.508000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": true
+ },
+ {
   "company": "Valeris",
   "title": "Software Engineer Intern",
   "location": "Louisville, KY",
@@ -4451,6 +4598,22 @@
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": true
+ },
+ {
+  "company": "TransUnion",
+  "title": "Data Science & Analytics Internship - Summer 2027",
+  "location": "Chicago, IL",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2027_19043450",
+  "date_posted": "2026-11-19T00:00:00+00:00",
+  "date_found": "2026-11-21T21:43:59.435000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
  },
  {
   "company": "Compassion International",
@@ -5893,6 +6056,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Clarios",
+  "title": "Engineering Intern - Florence, KY (Summer 2027)",
+  "location": "United States, Kentucky, Florence",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Kentucky-Florence/Engineering-Intern---Florence--KY--Summer-2027-_WD51291-1",
+  "date_posted": "2026-11-18T04:43:35.404000+00:00",
+  "date_found": "2026-11-22T04:44:33.508000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Peraton",
   "title": "IT Cybersecurity Intern Fort Huachuca, Az",
   "location": "",
@@ -7268,6 +7447,54 @@
   "advanced_degree": false
  },
  {
+  "company": "Clarios",
+  "title": "Engineering Intern - Toledo, OH (Summer 2027)",
+  "location": "United States, Ohio, Holland",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Ohio-Holland/Engineering-Intern---Toledo--OH--Summer-2027-_WD51203",
+  "date_posted": "2026-11-17T04:43:23.777000+00:00",
+  "date_found": "2026-11-22T04:44:33.508000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Clarios",
+  "title": "Engineering Intern, Pasting Process - Toledo, OH (Summer 2027)",
+  "location": "United States, Ohio, Holland",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Ohio-Holland/Engineering-Intern---Toledo--OH--Summer-2027-_WD51206",
+  "date_posted": "2026-11-17T04:43:23.777000+00:00",
+  "date_found": "2026-11-22T04:44:33.508000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Constellation Brands",
+  "title": "Intern, Data Science",
+  "location": "Rochester, NY",
+  "pay": "$19–$32/hr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Rochester-New-York/Intern--Data-Science_R-41527",
+  "date_posted": "2026-11-17T04:42:52.819000+00:00",
+  "date_found": "2026-11-22T04:44:33.508000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "T-Mobile",
   "title": "Summer 2027 Software Engineering Intern",
   "location": "Overland Park, KS",
@@ -8538,6 +8765,22 @@
   "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/XMLNAME-2027-Summer-Intern-Project-Management-Function-Swiftwater-PA_R2864990",
   "date_posted": "2026-11-16T21:54:28.483000+00:00",
   "date_found": "2026-11-16T21:59:55.722000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "TransUnion",
+  "title": "Data Analysis Internship - Summer 2027",
+  "location": "Chicago, IL",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Data-Analysis-Internship---Summer-2027_19042654",
+  "date_posted": "2026-11-16T21:42:20.226000+00:00",
+  "date_found": "2026-11-21T21:43:59.435000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -10011,38 +10254,6 @@
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": true
- },
- {
-  "company": "Northwell Health",
-  "title": "Emerging Technology & AI Internship",
-  "location": "New Hyde Park, Nassau",
-  "pay": null,
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/203746",
-  "date_posted": "2026-11-15T00:00:00+00:00",
-  "date_found": "2026-11-15T05:56:48.720000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Eight Sleep",
-  "title": "Short-Term Firmware Intern",
-  "location": "San Francisco",
-  "pay": "$30–$35/hr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b",
-  "date_posted": "2026-11-14T23:35:30.058000+00:00",
-  "date_found": "2026-11-14T23:57:03.010000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
  },
  {
   "company": "Tesla",
@@ -31399,38 +31610,6 @@
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
- },
- {
-  "company": "Duolingo",
-  "title": "Product Manager, MBA Intern",
-  "location": "Pittsburgh, PA",
-  "pay": "$63–$65/hr",
-  "tracks": [
-   "product"
-  ],
-  "url": "https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002",
-  "date_posted": "2026-10-15T19:00:01+00:00",
-  "date_found": "2026-10-15T19:02:02.282000+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": true
- },
- {
-  "company": "Duolingo University Recruitment",
-  "title": "Product Manager, MBA Intern",
-  "location": "Pittsburgh, PA",
-  "pay": "$63–$65/hr",
-  "tracks": [
-   "product"
-  ],
-  "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8888266002",
-  "date_posted": "2026-10-15T19:00:01+00:00",
-  "date_found": "2026-10-15T19:02:02.282000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": true
  },
  {
   "company": "Rockwool",
