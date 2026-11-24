@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,509 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,514 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 2 of 2: [1](aiml.md) · **2**
 
@@ -10,6 +10,9 @@ Page 2 of 2: [1](aiml.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=xpeng.com" width="20" height="20" align="absmiddle">&nbsp; **XPENG** | AI Research Intern - Predictive World Model | Santa&nbsp;Clara,&nbsp;CA<br><sub>-</sub> | Sep&nbsp;18 | <a href="https://job-boards.greenhouse.io/xpengmotors/jobs/8819001002"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=risepoint.com" width="20" height="20" align="absmiddle">&nbsp; **Risepoint** | Marketing &amp; Operations Analytics Co-op - Strategy &amp; Analytics | Remote&nbsp;in<br><sub>-</sub> | Sep&nbsp;18 | <a href="https://risepoint.wd503.myworkdayjobs.com/Risepoint/job/US---Remote/Marketing---Ops-Analytics-Co-Op_JR101345"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=ntst.com" width="20" height="20" align="absmiddle">&nbsp; **Netsmart** | Revenue Cycle Management Operations Analyst Intern - Revenue Cycle Management | Overland Park, KS<br><sub>-</sub> | Sep&nbsp;18 | <a href="https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Revenue-Cycle-Management--RCM--Operations-Analyst-Intern-Summer-2027-Internship-_R015757"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=joincambridge.com" width="20" height="20" align="absmiddle">&nbsp; **Cambridge Investment Research** | Data Engineer Intern - Business Intelligence and Insights | 2&nbsp;locations<br><sub>$17–&#8288;$26/hr</sub> | Sep&nbsp;18 | <a href="https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Phoenix-AZ/Data-Engineering-Intern_R-2025-221"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=altardstate.com" width="20" height="20" align="absmiddle">&nbsp; **Altar&#x27;d State** | IT Analytics Intern | Knoxville,&nbsp;TN<br><sub>-</sub> | Sep&nbsp;18 | <a href="https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Analytics-Intern_SOSJ12499"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=lennox.com" width="20" height="20" align="absmiddle">&nbsp; **Lennox International** | AI &amp; Analytics Intern | Richardson,&nbsp;TX<br><sub>-</sub> | Sep&nbsp;17 | <a href="https://uscareers-lennox.icims.com/jobs/54804/job?mobile=true&amp;needsRedirect=false"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
