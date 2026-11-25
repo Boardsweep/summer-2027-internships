@@ -2,12 +2,13 @@
 
 # 🎨 Design internships
 
-All 40 open design internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design), or [get them by email, free](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design).
+All 41 open design internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design), or [get them by email, free](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=illumio.com" width="20" height="20" align="absmiddle">&nbsp; **Illumio** | Product Design Intern ✨ | Sunnyvale, California - HQ<br><sub>$37/hr</sub> | Nov&nbsp;23<br><sub>⚡&nbsp;9m</sub> | <a href="https://jobs.ashbyhq.com/illumio/a047eb49-ac58-46f7-9043-b226f74a5605"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=lifeway.com" width="20" height="20" align="absmiddle">&nbsp; **LifeWay** | Summer Internship &#124; Graphic Designer Lifeway Kids ✨ | - | Nov&nbsp;23 | <a href="https://hq-lifeway.icims.com/jobs/27225/summer-internship-%7c-graphic-designer---lifeway-kids/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=redbull.com" width="20" height="20" align="absmiddle">&nbsp; **Red&nbsp;Bull** | 2027 Internship, Spring - Graphic Design ✨ | Harrison<br><sub>-</sub> | Nov&nbsp;23 | <a href="https://jobs.smartrecruiters.com/RedBull/744000163296309"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=lucidmotors.com" width="20" height="20" align="absmiddle">&nbsp; **Lucid&nbsp;Motors** | Intern, Exterior Design, Sumer 2027 ✨ | Newark,&nbsp;CA<br><sub>$35–&#8288;$51/hr</sub> | Nov&nbsp;21<br><sub>⚡&nbsp;5m</sub> | <a href="https://lucidmotors.com/careers/search/5290848007?gh_jid=5290848007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

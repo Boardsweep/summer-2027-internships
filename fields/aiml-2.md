@@ -2,7 +2,7 @@
 
 # 🤖 AI, ML and data internships
 
-All 1,514 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
+All 1,516 open ai, ml and data internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/internships/aiml?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_aiml).
 
 Page 2 of 2: [1](aiml.md) · **2**
 
@@ -10,6 +10,8 @@ Page 2 of 2: [1](aiml.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=upstart.com" width="20" height="20" align="absmiddle">&nbsp; **Upstart** | Applied Scientist Intern | Remote&nbsp;in<br><sub>$141k–&#8288;$150k/yr</sub> | Sep&nbsp;18<br><sub>⚡&nbsp;15m</sub> | <a href="https://careers.upstart.com/jobs?gh_jid=8213476"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=tiktok.com" width="20" height="20" align="absmiddle">&nbsp; **TikTok** | Machine Learning Engineer Intern - E-Commerce Recommendation Mall 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$60/hr</sub> | Sep&nbsp;18 | <a href="https://lifeattiktok.com/search/7686283601340369205"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=xpeng.com" width="20" height="20" align="absmiddle">&nbsp; **XPENG** | AI Research Intern - Predictive World Model | Santa&nbsp;Clara,&nbsp;CA<br><sub>-</sub> | Sep&nbsp;18 | <a href="https://job-boards.greenhouse.io/xpengmotors/jobs/8819001002"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=risepoint.com" width="20" height="20" align="absmiddle">&nbsp; **Risepoint** | Marketing &amp; Operations Analytics Co-op - Strategy &amp; Analytics | Remote&nbsp;in<br><sub>-</sub> | Sep&nbsp;18 | <a href="https://risepoint.wd503.myworkdayjobs.com/Risepoint/job/US---Remote/Marketing---Ops-Analytics-Co-Op_JR101345"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=ntst.com" width="20" height="20" align="absmiddle">&nbsp; **Netsmart** | Revenue Cycle Management Operations Analyst Intern - Revenue Cycle Management | Overland Park, KS<br><sub>-</sub> | Sep&nbsp;18 | <a href="https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Revenue-Cycle-Management--RCM--Operations-Analyst-Intern-Summer-2027-Internship-_R015757"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
