@@ -2,12 +2,13 @@
 
 # 📈 Quant internships
 
-All 170 open quant internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_quant), or [get them by email, free](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_quant).
+All 171 open quant internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_quant), or [get them by email, free](https://boardsweep.io/internships/quant?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_quant).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=firstpremierbank.com" width="20" height="20" align="absmiddle">&nbsp; **First Premier Bank** | PREMIER Customer Care Intern | Sioux&nbsp;Falls,&nbsp;SD<br><sub>-</sub> | Nov&nbsp;24 | <a href="https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/Customer-Care-Intern_R-514-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=barclays.com" width="20" height="20" align="absmiddle">&nbsp; **Barclays** | Markets Quantitative Analyst Summer Internship Program 2028 New York | New York, 745 7th Avenue<br><sub>$110k/yr</sub> | Nov&nbsp;23 | <a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Markets-Quantitative-Analyst-Summer-Internship-Program-2028-New-York_JR-0000139049"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=newmarkgroup.com" width="20" height="20" align="absmiddle">&nbsp; **Newmark&nbsp;Group** | 2028 Internship Program: Equity Capital Markets ✨ | New&nbsp;York,&nbsp;NY<br><sub>-</sub> | Nov&nbsp;23 | <a href="https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250609"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=microsoft.com" width="20" height="20" align="absmiddle">&nbsp; **Microsoft** | Research Intern - Quantum Applications 🔥 🎓 | Redmond,&nbsp;WA<br><sub>-</sub> | Nov&nbsp;20 | <a href="https://apply.careers.microsoft.com/careers/job/1970393557076525"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
