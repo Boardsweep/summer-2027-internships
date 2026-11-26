@@ -2,12 +2,14 @@
 
 # 🎨 Design internships
 
-All 41 open design internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design), or [get them by email, free](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design).
+All 43 open design internships, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design), or [get them by email, free](https://boardsweep.io/internships/design?utm_source=github&utm_medium=readme&utm_campaign=internships&utm_content=field_design).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=nbcuniversal.com" width="20" height="20" align="absmiddle">&nbsp; **NBCUniversal** | Universal Studios Hollywood, Entertainment Creative Development, Audio &amp; Video Design Internship – Summer 2027 ✨ | Universal&nbsp;City<br><sub>$22–&#8288;$25/hr</sub> | Nov&nbsp;25 | <a href="https://jobs.smartrecruiters.com/NBCUniversal3/744000163605409"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=regent.edu" width="20" height="20" align="absmiddle">&nbsp; **Regent** | Design Co-Op (Spring) ✨ | North Kingstown, RI<br><sub>-</sub> | Nov&nbsp;24<br><sub>⚡&nbsp;57m</sub> | <a href="https://jobs.ashbyhq.com/REGENT/08ac6d73-7187-425d-b204-f2f62f60c0c6"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=mcdonalds.com" width="20" height="20" align="absmiddle">&nbsp; **McDonald&#x27;s** | Chicago UX Intern Il | -<br><sub>$32/hr</sub> | Nov&nbsp;24 | <a href="https://jobs.mcdonalds.com/job/Chicago-UX-Intern-IL-60607/1453120800/"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=illumio.com" width="20" height="20" align="absmiddle">&nbsp; **Illumio** | Product Design Intern ✨ | Sunnyvale, California - HQ<br><sub>$37/hr</sub> | Nov&nbsp;23<br><sub>⚡&nbsp;9m</sub> | <a href="https://jobs.ashbyhq.com/illumio/a047eb49-ac58-46f7-9043-b226f74a5605"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=lifeway.com" width="20" height="20" align="absmiddle">&nbsp; **LifeWay** | Summer Internship &#124; Graphic Designer Lifeway Kids ✨ | - | Nov&nbsp;23 | <a href="https://hq-lifeway.icims.com/jobs/27225/summer-internship-%7c-graphic-designer---lifeway-kids/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
